@@ -1,0 +1,7 @@
+,Artist(s),Title,Release,acousticness,analysis_url,danceability,duration_ms,energy,id,instrumentalness,key,liveness,loudness,mode,speechiness,tempo,time_signature,track_href,type,uri,valence
+0,Future Sound Of Egypt,Intro,Original Mix,,,,,,,,,,,,,,,,,,
+1,Den Rize Mark Andréz,Flames,Original Mix,,,,,,,,,,,,,,,,,,
+2,Steve Allen sunset,So Far From Me,Sunset Remix,,,,,,,,,,,,,,,,,,
+3,Activa Chris & Matt Kidd Stoneface & Terminal,U.R.,Stoneface & Terminal Remix,0.000305,https://api.spotify.com/v1/audio-analysis/0yjGIObkCxWq6TySlAqSdU,0.485,282040.0,0.954,0yjGIObkCxWq6TySlAqSdU,0.772,11.0,0.103,-7.812,1.0,0.0392,136.365,4.0,https://api.spotify.com/v1/tracks/0yjGIObkCxWq6TySlAqSdU,audio_features,spotify:track:0yjGIObkCxWq6TySlAqSdU,0.209
+4,Aly & Fila,Khepera,Original Mix,0.0113,https://api.spotify.com/v1/audio-analysis/6MjoQG0rDQum7v5xQXxtDW,0.544,298286.0,0.99,6MjoQG0rDQum7v5xQXxtDW,0.505,10.0,0.138,-6.507,0.0,0.0584,140.002,4.0,https://api.spotify.com/v1/tracks/6MjoQG0rDQum7v5xQXxtDW,audio_features,spotify:track:6MjoQG0rDQum7v5xQXxtDW,0.482
+5,Ian Betts,False Gods,Original Mix,7.59e-05,https://api.spotify.com/v1/audio-analysis/2P27ULVCGGyYMdYyIRsz0j,0.517,224280.0,0.994,2P27ULVCGGyYMdYyIRsz0j,0.852,6.0,0.0622,-7.538,0.0,0.0523,136.999,4.0,https://api.spotify.com/v1/tracks/2P27ULVCGGyYMdYyIRsz0j,audio_features,spotify:track:2P27ULVCGGyYMdYyIRsz0j,0.221

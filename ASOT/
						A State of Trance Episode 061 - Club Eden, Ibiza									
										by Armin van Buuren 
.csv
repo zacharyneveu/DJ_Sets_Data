@@ -1,0 +1,19 @@
+,Artist(s),Title,Release,acousticness,analysis_url,danceability,duration_ms,energy,id,instrumentalness,key,liveness,loudness,mode,speechiness,tempo,time_signature,track_href,type,uri,valence
+0,Sasha,Bloodlock,Original Mix,,,,,,,,,,,,,,,,,,
+1,Cape Town,"Touch The Skies, Talk To The Stars",Original Mix,0.000184,https://api.spotify.com/v1/audio-analysis/0GRzMGcLp1lu2haUuseBLo,0.561,667520.0,0.699,0GRzMGcLp1lu2haUuseBLo,0.751,2.0,0.359,-10.96,1.0,0.0431,134.977,4.0,https://api.spotify.com/v1/tracks/0GRzMGcLp1lu2haUuseBLo,audio_features,spotify:track:0GRzMGcLp1lu2haUuseBLo,0.0927
+2,Vac-Scene,Out Of Sight,Original Mix,9.42e-05,https://api.spotify.com/v1/audio-analysis/65T7ob2ebQ3h8KRqjCQBJ8,0.505,238469.0,0.962,65T7ob2ebQ3h8KRqjCQBJ8,0.933,9.0,0.217,-12.162,0.0,0.043,138.842,4.0,https://api.spotify.com/v1/tracks/65T7ob2ebQ3h8KRqjCQBJ8,audio_features,spotify:track:65T7ob2ebQ3h8KRqjCQBJ8,0.831
+3,Signum,3rd Dimension,Original Mix,,,,,,,,,,,,,,,,,,
+4,Above & Beyond San Francisco,Far From In Love,San Francisco Mix,,,,,,,,,,,,,,,,,,
+5,DT8 Project Woody van Eyden,Destination,Woody Van Eyden Remix,,,,,,,,,,,,,,,,,,
+6,Miika Kuisma,Altered Mind,Original Mix,,,,,,,,,,,,,,,,,,
+7,Pulser Beat Pusher,Cloudwalking,Beat Pusher Remix,,,,,,,,,,,,,,,,,,
+8,Euphonic,Sahara,Original Mix,,,,,,,,,,,,,,,,,,
+9,Sholan,Can You Feel,Original Mix,0.00352,https://api.spotify.com/v1/audio-analysis/0umRZ8j7v8H6rIdEGf4sBu,0.661,442933.0,0.558,0umRZ8j7v8H6rIdEGf4sBu,0.314,0.0,0.0556,-11.949,1.0,0.0448,137.986,4.0,https://api.spotify.com/v1/tracks/0umRZ8j7v8H6rIdEGf4sBu,audio_features,spotify:track:0umRZ8j7v8H6rIdEGf4sBu,0.621
+10,DJ Albert Katana,Say Yes,Katana Remix,,,,,,,,,,,,,,,,,,
+11,Energy 52 John '00' Fleming,Café Del Mar,John '00' Fleming Remix,0.000383,https://api.spotify.com/v1/audio-analysis/39DUvsWOaaa4FG082DdrKx,0.589,605000.0,0.899,39DUvsWOaaa4FG082DdrKx,0.856,4.0,0.0971,-5.759,0.0,0.0592,135.019,4.0,https://api.spotify.com/v1/tracks/39DUvsWOaaa4FG082DdrKx,audio_features,spotify:track:39DUvsWOaaa4FG082DdrKx,0.258
+12,Exposure,Magic Impuls,Original Mix,0.00251,https://api.spotify.com/v1/audio-analysis/4kTfq4M1S9BjLrSrSbYELU,0.65,587813.0,0.779,4kTfq4M1S9BjLrSrSbYELU,0.931,10.0,0.0884,-9.76,0.0,0.0493,138.018,4.0,https://api.spotify.com/v1/tracks/4kTfq4M1S9BjLrSrSbYELU,audio_features,spotify:track:4kTfq4M1S9BjLrSrSbYELU,0.46
+13,Fingers Burnt,For A Devil,Original Mix,,,,,,,,,,,,,,,,,,
+14,Riva Armin van Buuren,Time Is The Healer,Armin Van Buuren Remix,0.000353,https://api.spotify.com/v1/audio-analysis/5niIzXgOVaMlEmATaKiDtA,0.453,200618.0,0.848,5niIzXgOVaMlEmATaKiDtA,0.769,5.0,0.212,-9.523,0.0,0.0374,137.992,4.0,https://api.spotify.com/v1/tracks/5niIzXgOVaMlEmATaKiDtA,audio_features,spotify:track:5niIzXgOVaMlEmATaKiDtA,0.567
+15,Cosmic Gate,Raging (Storm),Original Mix,0.11,https://api.spotify.com/v1/audio-analysis/22AkJncamU9ekUEl5504bJ,0.361,419000.0,0.802,22AkJncamU9ekUEl5504bJ,0.394,7.0,0.0824,-8.05,1.0,0.0405,135.972,4.0,https://api.spotify.com/v1/tracks/22AkJncamU9ekUEl5504bJ,audio_features,spotify:track:22AkJncamU9ekUEl5504bJ,0.402
+16,Prime Mover,The Weapon,Original Mix,,,,,,,,,,,,,,,,,,
+17,Frank T.R.A.X.,Nebuchan,Original Mix,,,,,,,,,,,,,,,,,,

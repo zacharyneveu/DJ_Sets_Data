@@ -1,0 +1,23 @@
+,Artist(s),Title,Release,acousticness,analysis_url,danceability,duration_ms,energy,id,instrumentalness,key,liveness,loudness,mode,speechiness,tempo,time_signature,track_href,type,uri,valence
+0,Anjunabeats Worldwide,Intro,Original Mix,,,,,,,,,,,,,,,,,,
+1,Knee Deep,All About Love,Original Mix,0.00513,https://api.spotify.com/v1/audio-analysis/2JQvIURl3sTgPZOcIPPz2M,0.799,384566.0,0.737,2JQvIURl3sTgPZOcIPPz2M,0.909,0.0,0.026,-7.166,0.0,0.0485,124.006,4.0,https://api.spotify.com/v1/tracks/2JQvIURl3sTgPZOcIPPz2M,audio_features,spotify:track:2JQvIURl3sTgPZOcIPPz2M,0.593
+2,Somnus Corp,Boogie Nights,Original Mix,,,,,,,,,,,,,,,,,,
+3,Jim Rivers,Empathy,Original Mix,0.00232,https://api.spotify.com/v1/audio-analysis/7nkNxhYkjokIHtlzBKysVV,0.796,478150.0,0.604,7nkNxhYkjokIHtlzBKysVV,0.86,8.0,0.11,-9.081,1.0,0.0657,126.01,3.0,https://api.spotify.com/v1/tracks/7nkNxhYkjokIHtlzBKysVV,audio_features,spotify:track:7nkNxhYkjokIHtlzBKysVV,0.334
+4,16 Bit Lolita's Jennifer Horne,Nobody Seems To Care,Original Mix,,,,,,,,,,,,,,,,,,
+5,Interplay Shik Stylko,Closer,Shik Stylko Remix,0.000134,https://api.spotify.com/v1/audio-analysis/07wBCAhR6Hms36K9ByybAO,0.795,430279.0,0.745,07wBCAhR6Hms36K9ByybAO,0.859,6.0,0.0918,-7.58,1.0,0.0535,125.507,4.0,https://api.spotify.com/v1/tracks/07wBCAhR6Hms36K9ByybAO,audio_features,spotify:track:07wBCAhR6Hms36K9ByybAO,0.592
+6,Spirit Catcher Ilija Rudman,No Way Out,Original Mix,0.00075,https://api.spotify.com/v1/audio-analysis/6sOG6AFdl1ZyW7zz9o89vC,0.751,352307.0,0.875,6sOG6AFdl1ZyW7zz9o89vC,0.82,6.0,0.0653,-7.848,1.0,0.0815,126.007,4.0,https://api.spotify.com/v1/tracks/6sOG6AFdl1ZyW7zz9o89vC,audio_features,spotify:track:6sOG6AFdl1ZyW7zz9o89vC,0.372
+7,Liluca,Future Generation,Original Mix,,,,,,,,,,,,,,,,,,
+8,Electroaspect,Unknown Track,Re-Edit,,,,,,,,,,,,,,,,,,
+9,Liluca Urban Breathe,Clear Senses,Urban Breathe Remix,0.014,https://api.spotify.com/v1/audio-analysis/3z3r3XVjJrj6HhXginVeGa,0.674,441173.0,0.946,3z3r3XVjJrj6HhXginVeGa,0.854,11.0,0.39,-6.895,0.0,0.041,124.999,4.0,https://api.spotify.com/v1/tracks/3z3r3XVjJrj6HhXginVeGa,audio_features,spotify:track:3z3r3XVjJrj6HhXginVeGa,0.432
+10,16 Bit Lolita's,Murder Weapon,Original Mix,,,,,,,,,,,,,,,,,,
+11,Marek Hemmann,Junoka,Original Mix,0.0776,https://api.spotify.com/v1/audio-analysis/54C2iu4Z3H9Pz9PMyJGQnM,0.971,392707.0,0.334,54C2iu4Z3H9Pz9PMyJGQnM,0.888,11.0,0.111,-12.72,0.0,0.47,128.044,5.0,https://api.spotify.com/v1/tracks/54C2iu4Z3H9Pz9PMyJGQnM,audio_features,spotify:track:54C2iu4Z3H9Pz9PMyJGQnM,0.302
+12,Chopstick Johnjon,Birds,Original Mix,0.00255,https://api.spotify.com/v1/audio-analysis/0PlXMBcdZzEyzX3PzHgQVQ,0.814,530398.0,0.656,0PlXMBcdZzEyzX3PzHgQVQ,0.729,9.0,0.178,-10.836,0.0,0.0573,126.009,4.0,https://api.spotify.com/v1/tracks/0PlXMBcdZzEyzX3PzHgQVQ,audio_features,spotify:track:0PlXMBcdZzEyzX3PzHgQVQ,0.175
+13,Astrid Suryanto Gutterstylz,Distant Bar,Gutterstylz Mix,0.000266,https://api.spotify.com/v1/audio-analysis/2ObFVZpH1PCkIVjTiqoGW9,0.754,591977.0,0.832,2ObFVZpH1PCkIVjTiqoGW9,0.817,4.0,0.0283,-7.23,0.0,0.0526,125.002,4.0,https://api.spotify.com/v1/tracks/2ObFVZpH1PCkIVjTiqoGW9,audio_features,spotify:track:2ObFVZpH1PCkIVjTiqoGW9,0.381
+14,Sucker DJs,Killer,Original Mix,0.000405,https://api.spotify.com/v1/audio-analysis/7njmdE6o6zM1Y9mltLI0tk,0.619,327691.0,0.917,7njmdE6o6zM1Y9mltLI0tk,0.843,2.0,0.1,-5.723,0.0,0.0369,128.904,4.0,https://api.spotify.com/v1/tracks/7njmdE6o6zM1Y9mltLI0tk,audio_features,spotify:track:7njmdE6o6zM1Y9mltLI0tk,0.271
+15,16 Bit Lolita's,The Heartbreak Files,Original Mix,,,,,,,,,,,,,,,,,,
+16,Interplay,Blue,Original Mix,,,,,,,,,,,,,,,,,,
+17,JdotP,Someday Afternoon,Original Mix,,,,,,,,,,,,,,,,,,
+18,Santogold Tom Neville,Say AH-HA,Tom Neville Mix,,,,,,,,,,,,,,,,,,
+19,Jaunt,Lipstick,Original Mix,0.0158,https://api.spotify.com/v1/audio-analysis/2Ca4DpjBRo2ugbx76lxI3E,0.737,383094.0,0.725,2Ca4DpjBRo2ugbx76lxI3E,0.743,1.0,0.0897,-9.101,1.0,0.105,127.967,4.0,https://api.spotify.com/v1/tracks/2Ca4DpjBRo2ugbx76lxI3E,audio_features,spotify:track:2Ca4DpjBRo2ugbx76lxI3E,0.436
+20,Envotion,12 Hours Straight,Original Mix,0.021,https://api.spotify.com/v1/audio-analysis/1lefZ1DnHBFE857cwp3kUU,0.795,458230.0,0.616,1lefZ1DnHBFE857cwp3kUU,0.858,10.0,0.0675,-10.348,0.0,0.0603,125.996,4.0,https://api.spotify.com/v1/tracks/1lefZ1DnHBFE857cwp3kUU,audio_features,spotify:track:1lefZ1DnHBFE857cwp3kUU,0.329
+21,Groove D'vision,La Playa,Original Mix,7.54e-05,https://api.spotify.com/v1/audio-analysis/4Lv7s379t3HbaMep9qrBtM,0.52,532507.0,0.878,4Lv7s379t3HbaMep9qrBtM,0.844,1.0,0.171,-7.348,1.0,0.0337,128.023,4.0,https://api.spotify.com/v1/tracks/4Lv7s379t3HbaMep9qrBtM,audio_features,spotify:track:4Lv7s379t3HbaMep9qrBtM,0.685

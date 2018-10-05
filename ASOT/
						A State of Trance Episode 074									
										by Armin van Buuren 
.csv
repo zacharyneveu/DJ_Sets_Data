@@ -1,0 +1,20 @@
+,Artist(s),Title,Release,acousticness,analysis_url,danceability,duration_ms,energy,id,instrumentalness,key,liveness,loudness,mode,speechiness,tempo,time_signature,track_href,type,uri,valence
+0,Conjure One Sinead O'Connor Hybrid,Tears From The Moon,Hybrid Twisted On The Terrace Remix,0.00675,https://api.spotify.com/v1/audio-analysis/57xgI4Ws8opy4LSemqs3gv,0.561,402133.0,0.813,57xgI4Ws8opy4LSemqs3gv,0.119,1.0,0.214,-13.794,1.0,0.0406,137.889,4.0,https://api.spotify.com/v1/tracks/57xgI4Ws8opy4LSemqs3gv,audio_features,spotify:track:57xgI4Ws8opy4LSemqs3gv,0.3
+1,Underworld Sharpside,Dinosaur Adventures 3D,Sharpside Remix,,,,,,,,,,,,,,,,,,
+2,Junkie XL Sasha,Beauty Never Fades,Original Mix,0.00333,https://api.spotify.com/v1/audio-analysis/0uqcvSDWHRekIdZK4SqGsL,0.548,228147.0,0.857,0uqcvSDWHRekIdZK4SqGsL,0.463,6.0,0.669,-6.231,0.0,0.0311,130.979,4.0,https://api.spotify.com/v1/tracks/0uqcvSDWHRekIdZK4SqGsL,audio_features,spotify:track:0uqcvSDWHRekIdZK4SqGsL,0.0929
+3,OceanLab Justine Suissa Signum,Beautiful Together,Signum Remix,,,,,,,,,,,,,,,,,,
+4,Altitude,Tears In The Rain,Original Mix,0.0399,https://api.spotify.com/v1/audio-analysis/7Aro5T4QiUQkFtAdkNamng,0.576,515669.0,0.819,7Aro5T4QiUQkFtAdkNamng,0.833,5.0,0.0888,-11.729,1.0,0.0386,134.0,4.0,https://api.spotify.com/v1/tracks/7Aro5T4QiUQkFtAdkNamng,audio_features,spotify:track:7Aro5T4QiUQkFtAdkNamng,0.553
+5,Ayumi Hamasaki Ferry Corsten,Connected,Ferry Corsten Instrumental Remix,,,,,,,,,,,,,,,,,,
+6,System F,Soltice,Original Mix,,,,,,,,,,,,,,,,,,
+7,Kid Vicious,Proceed,Original Mix,9.62e-05,https://api.spotify.com/v1/audio-analysis/2k0ycgZZdwFsv0n8xii9fo,0.537,509375.0,0.924,2k0ycgZZdwFsv0n8xii9fo,0.0129,7.0,0.67,-11.788,1.0,0.106,140.333,4.0,https://api.spotify.com/v1/tracks/2k0ycgZZdwFsv0n8xii9fo,audio_features,spotify:track:2k0ycgZZdwFsv0n8xii9fo,0.114
+8,Human Evolution,Project Magneta,One Small Step For Man Mix,2.54e-05,https://api.spotify.com/v1/audio-analysis/69sKHAAFKLRD0DnW0YMTiE,0.52,408600.0,0.947,69sKHAAFKLRD0DnW0YMTiE,0.769,1.0,0.252,-8.922,1.0,0.0383,145.005,4.0,https://api.spotify.com/v1/tracks/69sKHAAFKLRD0DnW0YMTiE,audio_features,spotify:track:69sKHAAFKLRD0DnW0YMTiE,0.159
+9,Mystrë Steve Baltes,Light Of A 1000 Angels,Steve Baltes Remix,,,,,,,,,,,,,,,,,,
+10,Oliver Lieb Snakemen,Afrika,Original Mix,,,,,,,,,,,,,,,,,,
+11,John '00' Fleming M.I.K.E. M.I.K.E.,Ice Cream,M.I.K.E. Remix,,,,,,,,,,,,,,,,,,
+12,Rollerball Super8,Albinoni,Super8 Remix,9.09e-05,https://api.spotify.com/v1/audio-analysis/3scVHNHyH1loMfhRPYmXU2,0.548,372133.0,0.958,3scVHNHyH1loMfhRPYmXU2,0.953,2.0,0.38,-7.001,1.0,0.0531,140.025,4.0,https://api.spotify.com/v1/tracks/3scVHNHyH1loMfhRPYmXU2,audio_features,spotify:track:3scVHNHyH1loMfhRPYmXU2,0.328
+13,Darren Tate Jono Grant,Let The Light Shine In,Original Mix,0.00392,https://api.spotify.com/v1/audio-analysis/1lUTpyQPk5p14cu3MCZ1Lv,0.418,198285.0,0.854,1lUTpyQPk5p14cu3MCZ1Lv,0.00192,5.0,0.36,-3.999,1.0,0.0485,140.017,4.0,https://api.spotify.com/v1/tracks/1lUTpyQPk5p14cu3MCZ1Lv,audio_features,spotify:track:1lUTpyQPk5p14cu3MCZ1Lv,0.212
+14,Fred Numf Marc O'Tool,Universal Language,Marc O'tool Remix,0.000365,https://api.spotify.com/v1/audio-analysis/6ZyV8PtE44TIuG45oElR9P,0.791,501200.0,0.856,6ZyV8PtE44TIuG45oElR9P,0.879,6.0,0.0213,-9.2,0.0,0.0894,132.006,4.0,https://api.spotify.com/v1/tracks/6ZyV8PtE44TIuG45oElR9P,audio_features,spotify:track:6ZyV8PtE44TIuG45oElR9P,0.427
+15,GTR,Mistral,Original Mix,0.0032,https://api.spotify.com/v1/audio-analysis/4Ed1h7bloXgEWRvleXnAEQ,0.504,559670.0,0.905,4Ed1h7bloXgEWRvleXnAEQ,0.855,11.0,0.311,-9.028,1.0,0.0284,139.988,4.0,https://api.spotify.com/v1/tracks/4Ed1h7bloXgEWRvleXnAEQ,audio_features,spotify:track:4Ed1h7bloXgEWRvleXnAEQ,0.153
+16,Syntax,Pray,Instrumental Mix,,,,,,,,,,,,,,,,,,
+17,State One,Forever And A Day,Vox Off,,,,,,,,,,,,,,,,,,
+18,Quentin Vincent G&M Project,Joyride,G&M Project Remix,0.000113,https://api.spotify.com/v1/audio-analysis/5tuKZexTh6Fo9UnFV151Le,0.5,401844.0,0.941,5tuKZexTh6Fo9UnFV151Le,0.88,8.0,0.111,-11.983,1.0,0.0446,138.559,4.0,https://api.spotify.com/v1/tracks/5tuKZexTh6Fo9UnFV151Le,audio_features,spotify:track:5tuKZexTh6Fo9UnFV151Le,0.657

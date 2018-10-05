@@ -1,0 +1,20 @@
+,Artist(s),Title,Release,acousticness,analysis_url,danceability,duration_ms,energy,id,instrumentalness,key,liveness,loudness,mode,speechiness,tempo,time_signature,track_href,type,uri,valence
+0,F-Sonik Masque,Mad House,Masque Remix,,,,,,,,,,,,,,,,,,
+1,Julian Jeweil Umek,Air Conditionné,Umek Remix,0.000259,https://api.spotify.com/v1/audio-analysis/7lslkMnBEULptfbNbhSfzx,0.731,460062.0,0.859,7lslkMnBEULptfbNbhSfzx,0.873,7.0,0.112,-7.893,1.0,0.0757,130.037,4.0,https://api.spotify.com/v1/tracks/7lslkMnBEULptfbNbhSfzx,audio_features,spotify:track:7lslkMnBEULptfbNbhSfzx,0.175
+2,Maher Daniel,Erk,Original Mix,,,,,,,,,,,,,,,,,,
+3,Lucjan Thomas Langner,Manggha,Original Mix,,,,,,,,,,,,,,,,,,
+4,Andrew K Leoni Johan Vermeulen,Next To Me,Johan Vermeulen Dub Mix,0.000594,https://api.spotify.com/v1/audio-analysis/5GjmpifhBsm4VFF7Zg2kBy,0.773,423933.0,0.444,5GjmpifhBsm4VFF7Zg2kBy,0.944,11.0,0.0511,-8.252,0.0,0.0531,128.018,4.0,https://api.spotify.com/v1/tracks/5GjmpifhBsm4VFF7Zg2kBy,audio_features,spotify:track:5GjmpifhBsm4VFF7Zg2kBy,0.257
+5,Hernan Gutmer,Magic Hole,Original Mix,,,,,,,,,,,,,,,,,,
+6,Claudio Bonaldi Leonardo Roa Thomas Langner,Global Warming,Thomas Langner Remix,,,,,,,,,,,,,,,,,,
+7,Jose Acosta,Unconditional Thoughts,Original Mix,1.3e-05,https://api.spotify.com/v1/audio-analysis/19KEBeDd8gwHIPwtrUpJeg,0.736,556600.0,0.878,19KEBeDd8gwHIPwtrUpJeg,0.854,11.0,0.0924,-6.854,1.0,0.0715,125.993,4.0,https://api.spotify.com/v1/tracks/19KEBeDd8gwHIPwtrUpJeg,audio_features,spotify:track:19KEBeDd8gwHIPwtrUpJeg,0.266
+8,Simon Firth DC Project,Unbeatable,DC Project Defeated Remix,,,,,,,,,,,,,,,,,,
+9,Michael Cassette,Fox And A Shooting Star,Original Mix,2.13e-05,https://api.spotify.com/v1/audio-analysis/3uJmopfJ8xTs0S7neK1p3m,0.492,409947.0,0.849,3uJmopfJ8xTs0S7neK1p3m,0.377,6.0,0.203,-9.013,0.0,0.0389,124.0,4.0,https://api.spotify.com/v1/tracks/3uJmopfJ8xTs0S7neK1p3m,audio_features,spotify:track:3uJmopfJ8xTs0S7neK1p3m,0.242
+10,Gudowski Xplore,Late Night Trip,Xplore's Full On Remix,,,,,,,,,,,,,,,,,,
+11,Eelke Kleijn Bart van Wissen,Monsters Of The Deep,Bart Van Wissen Remix,0.00183,https://api.spotify.com/v1/audio-analysis/2ekBmWx8Vmy68dCP7YqZro,0.767,476220.0,0.933,2ekBmWx8Vmy68dCP7YqZro,0.897,0.0,0.0374,-7.617,0.0,0.0431,127.008,3.0,https://api.spotify.com/v1/tracks/2ekBmWx8Vmy68dCP7YqZro,audio_features,spotify:track:2ekBmWx8Vmy68dCP7YqZro,0.519
+12,Python Xplore,Expectation,Xplore Remix,,,,,,,,,,,,,,,,,,
+13,Fusion F Mikobene,Rotary,Original Mix,,,,,,,,,,,,,,,,,,
+14,Johan Gielen Andy Duguid,Okinawa Sunset,Andy Duguid Remix,0.00986,https://api.spotify.com/v1/audio-analysis/23jVvt0drRGSiqcls7p2Vh,0.673,310016.0,0.483,23jVvt0drRGSiqcls7p2Vh,0.864,4.0,0.547,-11.365,0.0,0.0479,130.009,4.0,https://api.spotify.com/v1/tracks/23jVvt0drRGSiqcls7p2Vh,audio_features,spotify:track:23jVvt0drRGSiqcls7p2Vh,0.401
+15,Maor Levi,Shapes,Original Mix,0.00881,https://api.spotify.com/v1/audio-analysis/2jGqwV6VgP0ZBS0ERebpST,0.563,374307.0,0.931,2jGqwV6VgP0ZBS0ERebpST,0.615,8.0,0.369,-9.444,1.0,0.0802,135.157,4.0,https://api.spotify.com/v1/tracks/2jGqwV6VgP0ZBS0ERebpST,audio_features,spotify:track:2jGqwV6VgP0ZBS0ERebpST,0.53
+16,DC Project,Sacala A Bailar,Original Mix,,,,,,,,,,,,,,,,,,
+17,Glenn Morrison,No Suden Moves,Original Mix,,,,,,,,,,,,,,,,,,
+18,Genix Marcus Schössow,Phused,Marcus Schossow Remix,,,,,,,,,,,,,,,,,,

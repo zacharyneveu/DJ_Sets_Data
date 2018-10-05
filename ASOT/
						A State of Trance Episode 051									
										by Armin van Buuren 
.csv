@@ -1,0 +1,20 @@
+,Artist(s),Title,Release,acousticness,analysis_url,danceability,duration_ms,energy,id,instrumentalness,key,liveness,loudness,mode,speechiness,tempo,time_signature,track_href,type,uri,valence
+0,Velvet Girl,Promise U Heaven,Original Mix,0.0102,https://api.spotify.com/v1/audio-analysis/0QMRTLRmGAhHcKWzbeKGrZ,0.727,598813.0,0.474,0QMRTLRmGAhHcKWzbeKGrZ,0.894,10.0,0.0788,-13.27,0.0,0.0589,130.002,4.0,https://api.spotify.com/v1/tracks/0QMRTLRmGAhHcKWzbeKGrZ,audio_features,spotify:track:0QMRTLRmGAhHcKWzbeKGrZ,0.391
+1,Plaything Snap Push,Do You See The Light,Push Vocal Remix,,,,,,,,,,,,,,,,,,
+2,Mesh,Persuasion,Original Mix,0.0146,https://api.spotify.com/v1/audio-analysis/2YGl1DODoygIpAWU7x5QP0,0.635,585253.0,0.924,2YGl1DODoygIpAWU7x5QP0,0.915,1.0,0.271,-8.637,0.0,0.0483,138.007,4.0,https://api.spotify.com/v1/tracks/2YGl1DODoygIpAWU7x5QP0,audio_features,spotify:track:2YGl1DODoygIpAWU7x5QP0,0.438
+3,Sholan The Thrillseekers,Can U Feel,The Thrillseekers Remix,,,,,,,,,,,,,,,,,,
+4,The Thrillseekers Gielen Svenson,Dreaming Of You,Svenson & Gielen Remix,0.000223,https://api.spotify.com/v1/audio-analysis/4RT9agL6rwDHuZuM9OsNtg,0.592,491907.0,0.915,4RT9agL6rwDHuZuM9OsNtg,0.65,7.0,0.0628,-9.024,1.0,0.0385,137.983,4.0,https://api.spotify.com/v1/tracks/4RT9agL6rwDHuZuM9OsNtg,audio_features,spotify:track:4RT9agL6rwDHuZuM9OsNtg,0.353
+5,Riva Armin van Buuren,Time Is The Healer,Armin Van Buuren Vocal Remix,,,,,,,,,,,,,,,,,,
+6,The Rapid Eye Pedro del Mar Roger Shah,Circa-Forever,Pedro Del Mar Vs DJ Shah Remix,,,,,,,,,,,,,,,,,,
+7,Perpetuous Dreamer Dark matter,The Sound Of Goodbye,Dark Matter Remix,,,,,,,,,,,,,,,,,,
+8,Signum,Cura Me,Original Mix,0.00324,https://api.spotify.com/v1/audio-analysis/3NWC4GuRPCAOv5teTw2aGK,0.593,504520.0,0.866,3NWC4GuRPCAOv5teTw2aGK,0.839,6.0,0.13,-9.554,1.0,0.0738,140.039,4.0,https://api.spotify.com/v1/tracks/3NWC4GuRPCAOv5teTw2aGK,audio_features,spotify:track:3NWC4GuRPCAOv5teTw2aGK,0.716
+9,Energy 52 Marco V,Café Del Mar,Marco V Remix,2.67e-05,https://api.spotify.com/v1/audio-analysis/2vqTJEVsRr6zE15LmmfTsQ,0.633,514320.0,0.99,2vqTJEVsRr6zE15LmmfTsQ,0.918,5.0,0.697,-6.206,1.0,0.04,140.015,4.0,https://api.spotify.com/v1/tracks/2vqTJEVsRr6zE15LmmfTsQ,audio_features,spotify:track:2vqTJEVsRr6zE15LmmfTsQ,0.076
+10,Alma Matris Tania Segura Peter Rauhofer,Rumore Chimico,Peter Rauhofer's NY Club Edit,,,,,,,,,,,,,,,,,,
+11,Hyperon,Train Insane,Original Mix,,,,,,,,,,,,,,,,,,
+12,the Digital Blonde,Legato 2002,Original Mix,,,,,,,,,,,,,,,,,,
+13,Mauro Picotto Push,Back To Cali,Push Remix,0.000548,https://api.spotify.com/v1/audio-analysis/1kPMDzX6S2RxWaVKJn4Zr9,0.571,513707.0,0.788,1kPMDzX6S2RxWaVKJn4Zr9,0.863,2.0,0.0922,-9.403,1.0,0.0414,137.992,4.0,https://api.spotify.com/v1/tracks/1kPMDzX6S2RxWaVKJn4Zr9,audio_features,spotify:track:1kPMDzX6S2RxWaVKJn4Zr9,0.745
+14,Sunset Drive,Does It Matter,Dub Mix,0.000312,https://api.spotify.com/v1/audio-analysis/6M9xMWYsSKHKc9CoHCMvqs,0.567,334500.0,0.96,6M9xMWYsSKHKc9CoHCMvqs,0.833,1.0,0.13,-12.903,1.0,0.051,137.743,4.0,https://api.spotify.com/v1/tracks/6M9xMWYsSKHKc9CoHCMvqs,audio_features,spotify:track:6M9xMWYsSKHKc9CoHCMvqs,0.625
+15,A-Force Eyal Barkan,Revolution,Original Mix,,,,,,,,,,,,,,,,,,
+16,Mesh,Trancefixion,B1,,,,,,,,,,,,,,,,,,
+17,DJ Tiësto Airwave,In My Memory,Airwave Remix,,,,,,,,,,,,,,,,,,
+18,Vnv Nation Hiver & Hammer,Beloved,Hiver & Hammer Remix,,,,,,,,,,,,,,,,,,

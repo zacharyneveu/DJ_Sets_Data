@@ -1,0 +1,20 @@
+,Artist(s),Title,Release,acousticness,analysis_url,danceability,duration_ms,energy,id,instrumentalness,key,liveness,loudness,mode,speechiness,tempo,time_signature,track_href,type,uri,valence
+0,4 Strings Shlomi Aber Resistance D,Take Me Away (Into The Night),Resistance D Remix,0.000164,https://api.spotify.com/v1/audio-analysis/2AFWZDJNraTM5hRKHwukYJ,0.682,432560.0,0.678,2AFWZDJNraTM5hRKHwukYJ,0.617,1.0,0.0814,-9.41,1.0,0.0558,138.016,4.0,https://api.spotify.com/v1/tracks/2AFWZDJNraTM5hRKHwukYJ,audio_features,spotify:track:2AFWZDJNraTM5hRKHwukYJ,0.603
+1,Nature The Mystery,Free Your Mind,The Mystery Remix,0.991,https://api.spotify.com/v1/audio-analysis/14FUUulWY49fSkhIIrfeCl,0.453,203049.0,0.0483,14FUUulWY49fSkhIIrfeCl,0.893,2.0,0.0982,-25.245,1.0,0.0309,81.987,4.0,https://api.spotify.com/v1/tracks/14FUUulWY49fSkhIIrfeCl,audio_features,spotify:track:14FUUulWY49fSkhIIrfeCl,0.0547
+2,Riva,2,Original Mix,0.0157,https://api.spotify.com/v1/audio-analysis/24kmswUCKIrfdOqewcjigi,0.544,196380.0,0.855,24kmswUCKIrfdOqewcjigi,0.0,5.0,0.162,-4.658,1.0,0.0758,125.023,4.0,https://api.spotify.com/v1/tracks/24kmswUCKIrfdOqewcjigi,audio_features,spotify:track:24kmswUCKIrfdOqewcjigi,0.486
+3,Cass Slide,Glad I Ate Her,Original Mix,,,,,,,,,,,,,,,,,,
+4,Taste Experience Ralphie B,Highlander,Ralphie B's Massive Mix,,,,,,,,,,,,,,,,,,
+5,Coast 2 Coast,Be With Me,Original Mix,0.00623,https://api.spotify.com/v1/audio-analysis/0gXXBxUjElbcs4udXSwOEv,0.59,641340.0,0.922,0gXXBxUjElbcs4udXSwOEv,0.797,8.0,0.0889,-5.772,1.0,0.0598,136.985,4.0,https://api.spotify.com/v1/tracks/0gXXBxUjElbcs4udXSwOEv,audio_features,spotify:track:0gXXBxUjElbcs4udXSwOEv,0.387
+6,Perpetuous Dreamer,Dust.Wav,Original Mix,0.00867,https://api.spotify.com/v1/audio-analysis/6DAD5tdGHauBH2zfx0oCMB,0.569,599640.0,0.902,6DAD5tdGHauBH2zfx0oCMB,0.252,2.0,0.17,-8.352,1.0,0.0297,134.986,4.0,https://api.spotify.com/v1/tracks/6DAD5tdGHauBH2zfx0oCMB,audio_features,spotify:track:6DAD5tdGHauBH2zfx0oCMB,0.312
+7,Voidcom Mateo Murphy,Crockett's Theme,Mateo Murphy Remix,,,,,,,,,,,,,,,,,,
+8,The Green Martian,End Of The Earth,Original Mix,0.00301,https://api.spotify.com/v1/audio-analysis/4OfVbUUWt1z0D1I493bsNZ,0.649,396400.0,0.848,4OfVbUUWt1z0D1I493bsNZ,0.826,10.0,0.103,-11.739,0.0,0.0641,137.077,4.0,https://api.spotify.com/v1/tracks/4OfVbUUWt1z0D1I493bsNZ,audio_features,spotify:track:4OfVbUUWt1z0D1I493bsNZ,0.0642
+9,Hemstock Jennings,East & Central,Original Mix,,,,,,,,,,,,,,,,,,
+10,Urban Dwellers,Loverman,Original Mix,,,,,,,,,,,,,,,,,,
+11,S.K.F. Phreaq,Ultraviolence,Phreaq Remix,,,,,,,,,,,,,,,,,,
+12,Viridian Classified Project,Sunhump,Classified Project Remix,0.000529,https://api.spotify.com/v1/audio-analysis/5QbF45egAQHF4afO78kM9q,0.598,550794.0,0.866,5QbF45egAQHF4afO78kM9q,0.908,7.0,0.403,-13.616,1.0,0.0514,134.797,4.0,https://api.spotify.com/v1/tracks/5QbF45egAQHF4afO78kM9q,audio_features,spotify:track:5QbF45egAQHF4afO78kM9q,0.39
+13,Rhythm Reigns Chab,Fuel,Chab Remix,,,,,,,,,,,,,,,,,,
+14,Futura Legend Signum,Restless Nature,Signum Remix,,,,,,,,,,,,,,,,,,
+15,Tonuri Coming soon,Take Me,Coming Soon Remix,,,,,,,,,,,,,,,,,,
+16,Leama,Melodica,Original Mix,0.00119,https://api.spotify.com/v1/audio-analysis/0oyxqLdbNl4jxYZpFQ4YC5,0.621,774293.0,0.713,0oyxqLdbNl4jxYZpFQ4YC5,0.851,10.0,0.0584,-9.217,0.0,0.0538,132.997,4.0,https://api.spotify.com/v1/tracks/0oyxqLdbNl4jxYZpFQ4YC5,audio_features,spotify:track:0oyxqLdbNl4jxYZpFQ4YC5,0.609
+17,Ca-Lo,What's Wrong?,Original Mix,,,,,,,,,,,,,,,,,,
+18,Dave Matthews Band DJ Tiësto,Space Between,DJ Tiesto Remix,0.0471,https://api.spotify.com/v1/audio-analysis/65KzDXZm9aQt8sA1k0ZVG3,0.406,242000.0,0.73,65KzDXZm9aQt8sA1k0ZVG3,0.0,9.0,0.229,-6.278,1.0,0.0315,170.032,4.0,https://api.spotify.com/v1/tracks/65KzDXZm9aQt8sA1k0ZVG3,audio_features,spotify:track:65KzDXZm9aQt8sA1k0ZVG3,0.207

@@ -1,0 +1,31 @@
+,Artist(s),Title,Release,acousticness,analysis_url,danceability,duration_ms,energy,id,instrumentalness,key,liveness,loudness,mode,speechiness,tempo,time_signature,track_href,type,uri,valence
+0,Anjunabeats Worldwide,Intro,Original Mix,,,,,,,,,,,,,,,,,,
+1,Echoplex,Etude In E Major,Original Mix,,,,,,,,,,,,,,,,,,
+2,Stephen J. Kroos,Phrack,Original Mix,,,,,,,,,,,,,,,,,,
+3,Len Faki,My Black Sheep,Original Mix,0.000221,https://api.spotify.com/v1/audio-analysis/6KQaXMunGFdFF0XwODvoKp,0.784,367204.0,0.705,6KQaXMunGFdFF0XwODvoKp,0.871,7.0,0.111,-10.212,1.0,0.0597,131.013,4.0,https://api.spotify.com/v1/tracks/6KQaXMunGFdFF0XwODvoKp,audio_features,spotify:track:6KQaXMunGFdFF0XwODvoKp,0.259
+4,Mark Henning,Ring Of Fire,Original Mix,0.00123,https://api.spotify.com/v1/audio-analysis/4B4qndkJXzML7jszsl5tkc,0.803,492253.0,0.641,4B4qndkJXzML7jszsl5tkc,0.796,1.0,0.104,-9.654,1.0,0.0747,126.014,4.0,https://api.spotify.com/v1/tracks/4B4qndkJXzML7jszsl5tkc,audio_features,spotify:track:4B4qndkJXzML7jszsl5tkc,0.206
+5,Uto Karem,Different Shapes,Original Mix,,,,,,,,,,,,,,,,,,
+6,Len Faki,Die Rumpelkammer,Original Mix,,,,,,,,,,,,,,,,,,
+7,Rino Cerrone Gaetano Pariso,Rilis 06 B2,Gaetano Pariso Remix,0.00281,https://api.spotify.com/v1/audio-analysis/5NEMLZOwmFtvJvvl4nCPQq,0.794,390483.0,0.982,5NEMLZOwmFtvJvvl4nCPQq,0.951,11.0,0.101,-8.264,0.0,0.0551,132.992,4.0,https://api.spotify.com/v1/tracks/5NEMLZOwmFtvJvvl4nCPQq,audio_features,spotify:track:5NEMLZOwmFtvJvvl4nCPQq,0.503
+8,Rino Cerrone,Burnt It,Original Mix,0.031,https://api.spotify.com/v1/audio-analysis/3i1bmvpOM4uGHSnH04B4m2,0.806,441905.0,0.805,3i1bmvpOM4uGHSnH04B4m2,0.87,7.0,0.074,-10.384,1.0,0.0705,126.012,4.0,https://api.spotify.com/v1/tracks/3i1bmvpOM4uGHSnH04B4m2,audio_features,spotify:track:3i1bmvpOM4uGHSnH04B4m2,0.0926
+9,Dave Ellismere Microfunk a.k.a. 2000 One,Pecan,Original Mix,,,,,,,,,,,,,,,,,,
+10,Gabriel Ananda,Bambus,Original Mix,0.000436,https://api.spotify.com/v1/audio-analysis/2jJJ12XIt9SIwWdPGJaD5z,0.801,436693.0,0.763,2jJJ12XIt9SIwWdPGJaD5z,0.883,5.0,0.0973,-10.958,0.0,0.0825,127.0,4.0,https://api.spotify.com/v1/tracks/2jJJ12XIt9SIwWdPGJaD5z,audio_features,spotify:track:2jJJ12XIt9SIwWdPGJaD5z,0.0744
+11,Valentino Kanzyani,Summer In Slovenija,Original Mix,,,,,,,,,,,,,,,,,,
+12,Umek,Carbon Occasions,Original Mix,0.00123,https://api.spotify.com/v1/audio-analysis/1hsBTnlNO9aG5sELSeZVlc,0.746,426973.0,0.747,1hsBTnlNO9aG5sELSeZVlc,0.841,2.0,0.0448,-8.837,1.0,0.0848,128.987,4.0,https://api.spotify.com/v1/tracks/1hsBTnlNO9aG5sELSeZVlc,audio_features,spotify:track:1hsBTnlNO9aG5sELSeZVlc,0.187
+13,Duoteque,Adyra,Original Mix,0.000267,https://api.spotify.com/v1/audio-analysis/43bkuxZBUP72bKOELMfR6k,0.802,557627.0,0.509,43bkuxZBUP72bKOELMfR6k,0.907,11.0,0.0539,-10.465,0.0,0.0512,128.011,4.0,https://api.spotify.com/v1/tracks/43bkuxZBUP72bKOELMfR6k,audio_features,spotify:track:43bkuxZBUP72bKOELMfR6k,0.0727
+14,Andrea Doria Ramon Zenker,Yao0!,Ramon Zenker Remix,,,,,,,,,,,,,,,,,,
+15,Stephen J. Kroos,Lekker,Original Mix,,,,,,,,,,,,,,,,,,
+16,Deadmau5 Melleefresh,Afterhours,Original Mix,7.64e-05,https://api.spotify.com/v1/audio-analysis/2AWxWshcV03YxvkohpY00f,0.715,367505.0,0.941,2AWxWshcV03YxvkohpY00f,0.605,9.0,0.66,-5.488,0.0,0.0502,127.996,4.0,https://api.spotify.com/v1/tracks/2AWxWshcV03YxvkohpY00f,audio_features,spotify:track:2AWxWshcV03YxvkohpY00f,0.137
+17,Valentino Kanzyani,Homo Moralis,Original Mix,1.94e-05,https://api.spotify.com/v1/audio-analysis/0R1UEcMfsThl8G76mLtvfJ,0.615,504263.0,0.968,0R1UEcMfsThl8G76mLtvfJ,0.843,6.0,0.0776,-6.578,0.0,0.0435,133.96,4.0,https://api.spotify.com/v1/tracks/0R1UEcMfsThl8G76mLtvfJ,audio_features,spotify:track:0R1UEcMfsThl8G76mLtvfJ,0.501
+18,Daan Duurkoop,Aestas,Original Mix,4.29e-05,https://api.spotify.com/v1/audio-analysis/3kUPsFsfqAWS8piXtD2f2k,0.713,426853.0,0.722,3kUPsFsfqAWS8piXtD2f2k,0.924,7.0,0.11,-10.626,1.0,0.0526,135.0,4.0,https://api.spotify.com/v1/tracks/3kUPsFsfqAWS8piXtD2f2k,audio_features,spotify:track:3kUPsFsfqAWS8piXtD2f2k,0.345
+19,Tim J Joff Roach,Understand Me,Joff Roach Remix,,,,,,,,,,,,,,,,,,
+20,Hardcell Pär Grindvik Adam Beyer,Rattler,Adam Beyer Remix,,,,,,,,,,,,,,,,,,
+21,Cave,Unknown Track,Original Mix,,,,,,,,,,,,,,,,,,
+22,Cave,Onsdags Klubben,Original Mix,,,,,,,,,,,,,,,,,,
+23,Valentino Kanzyani,Paradox,Original Mix,0.00016,https://api.spotify.com/v1/audio-analysis/6cTd8Tn7cgQYEHmI6pV3aw,0.666,435296.0,0.925,6cTd8Tn7cgQYEHmI6pV3aw,0.877,1.0,0.107,-5.809,1.0,0.0449,134.002,4.0,https://api.spotify.com/v1/tracks/6cTd8Tn7cgQYEHmI6pV3aw,audio_features,spotify:track:6cTd8Tn7cgQYEHmI6pV3aw,0.657
+24,Stephen J. Kroos,Formalistick,Unknown Mix,0.000149,https://api.spotify.com/v1/audio-analysis/4Wfxp1MHZNRtxL23dRzVCP,0.54,250067.0,0.977,4Wfxp1MHZNRtxL23dRzVCP,0.833,5.0,0.108,-9.043,0.0,0.0668,134.359,4.0,https://api.spotify.com/v1/tracks/4Wfxp1MHZNRtxL23dRzVCP,audio_features,spotify:track:4Wfxp1MHZNRtxL23dRzVCP,0.197
+25,Kyau & Albert Stephen J. Kroos,Made Of Sun,Stephen J. Kroos Remix,0.000619,https://api.spotify.com/v1/audio-analysis/5OPLqNOuWFLYTHE6KVf0Xy,0.575,217500.0,0.911,5OPLqNOuWFLYTHE6KVf0Xy,0.042,4.0,0.208,-4.479,0.0,0.0454,127.983,4.0,https://api.spotify.com/v1/tracks/5OPLqNOuWFLYTHE6KVf0Xy,audio_features,spotify:track:5OPLqNOuWFLYTHE6KVf0Xy,0.221
+26,Sonicvibe Vardran,Lightform,Vardran's Chunky Funky Mix,0.000451,https://api.spotify.com/v1/audio-analysis/6xYAOEW9T3zqiGyCuilql6,0.548,533653.0,0.895,6xYAOEW9T3zqiGyCuilql6,0.803,6.0,0.594,-9.241,0.0,0.0584,133.979,4.0,https://api.spotify.com/v1/tracks/6xYAOEW9T3zqiGyCuilql6,audio_features,spotify:track:6xYAOEW9T3zqiGyCuilql6,0.159
+27,Stephen J. Kroos,Thasjzmz,Original Mix,,,,,,,,,,,,,,,,,,
+28,Stephen J. Kroos,Strak,Original Mix,,,,,,,,,,,,,,,,,,
+29,Stephen J. Kroos,Klots,Original Mix,0.898,https://api.spotify.com/v1/audio-analysis/1Y71G2A3F2bnOpb7vSrGIA,0.497,34240.0,0.157,1Y71G2A3F2bnOpb7vSrGIA,0.892,5.0,0.0949,-24.983,0.0,0.0455,116.255,4.0,https://api.spotify.com/v1/tracks/1Y71G2A3F2bnOpb7vSrGIA,audio_features,spotify:track:1Y71G2A3F2bnOpb7vSrGIA,0.126

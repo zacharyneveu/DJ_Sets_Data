@@ -1,0 +1,23 @@
+,Artist(s),Title,Release,acousticness,analysis_url,danceability,duration_ms,energy,id,instrumentalness,key,liveness,loudness,mode,speechiness,tempo,time_signature,track_href,type,uri,valence
+0,Anjunabeats Worldwide,Intro,Original Mix,,,,,,,,,,,,,,,,,,
+1,Florian Kruse Elmar Schubert Vincenzo,Thrill,Vincenzo & Elmar Schubert's Satinsoul Remix,0.00106,https://api.spotify.com/v1/audio-analysis/2bI8cJQ3q6OOGwj2gZ0sVY,0.779,420072.0,0.471,2bI8cJQ3q6OOGwj2gZ0sVY,0.866,10.0,0.0631,-8.506,0.0,0.0701,124.997,4.0,https://api.spotify.com/v1/tracks/2bI8cJQ3q6OOGwj2gZ0sVY,audio_features,spotify:track:2bI8cJQ3q6OOGwj2gZ0sVY,0.753
+2,Aleksey Beloozerov,Love,Original Mix,0.000273,https://api.spotify.com/v1/audio-analysis/6y68GHrlXXrGAV7THeDihz,0.803,408960.0,0.734,6y68GHrlXXrGAV7THeDihz,0.884,8.0,0.0947,-6.348,0.0,0.0937,124.989,4.0,https://api.spotify.com/v1/tracks/6y68GHrlXXrGAV7THeDihz,audio_features,spotify:track:6y68GHrlXXrGAV7THeDihz,0.799
+3,Dynamic Illusion Mango Adam Byrd,I Need It,Adam Byrd Remix,,,,,,,,,,,,,,,,,,
+4,Espen,SmallTalk,Original Mix,,,,,,,,,,,,,,,,,,
+5,Fine Taste,Routine Maintenance,Original Mix,,,,,,,,,,,,,,,,,,
+6,Dosem,Beach Kisses,Original Mix,0.068,https://api.spotify.com/v1/audio-analysis/0xj43pGvtNlCTy8PehkHxf,0.922,483780.0,0.388,0xj43pGvtNlCTy8PehkHxf,0.864,1.0,0.253,-9.926,1.0,0.0534,126.985,3.0,https://api.spotify.com/v1/tracks/0xj43pGvtNlCTy8PehkHxf,audio_features,spotify:track:0xj43pGvtNlCTy8PehkHxf,0.166
+7,Danny Oliveira Danny Loko,Somos Nozes,Original Mix,,,,,,,,,,,,,,,,,,
+8,Cephalonya,Opus Dei,Original Mix,,,,,,,,,,,,,,,,,,
+9,Urban Breathe,Night Travel,Original Mix,8.12e-05,https://api.spotify.com/v1/audio-analysis/4nMA4tQ5S6ntNfRK1cpqO0,0.73,401542.0,0.739,4nMA4tQ5S6ntNfRK1cpqO0,0.767,10.0,0.0972,-7.974,0.0,0.0584,127.01,4.0,https://api.spotify.com/v1/tracks/4nMA4tQ5S6ntNfRK1cpqO0,audio_features,spotify:track:4nMA4tQ5S6ntNfRK1cpqO0,0.289
+10,Bart van Wissen,Make No Mistake,Original Mix,0.00505,https://api.spotify.com/v1/audio-analysis/64Z10wP0g9f5yLU4Lc8RRf,0.796,373404.0,0.866,64Z10wP0g9f5yLU4Lc8RRf,0.848,11.0,0.0588,-9.307,1.0,0.0592,124.998,4.0,https://api.spotify.com/v1/tracks/64Z10wP0g9f5yLU4Lc8RRf,audio_features,spotify:track:64Z10wP0g9f5yLU4Lc8RRf,0.808
+11,Vadim Yershov,Nightflight,Original Mix,,,,,,,,,,,,,,,,,,
+12,Claes Rosen Ross Couch,I Want,Ross Couch Remix,2.06e-05,https://api.spotify.com/v1/audio-analysis/2DWPzySn4AwLSZIv4cIh5S,0.806,413333.0,0.761,2DWPzySn4AwLSZIv4cIh5S,0.897,11.0,0.0376,-7.336,0.0,0.0472,126.005,4.0,https://api.spotify.com/v1/tracks/2DWPzySn4AwLSZIv4cIh5S,audio_features,spotify:track:2DWPzySn4AwLSZIv4cIh5S,0.747
+13,Arthur Deep,Burning Memories,Original Mix,0.00191,https://api.spotify.com/v1/audio-analysis/5Ya3y5acLmTfQIXjG9madA,0.801,426645.0,0.851,5Ya3y5acLmTfQIXjG9madA,0.842,11.0,0.0598,-8.041,0.0,0.0703,126.013,4.0,https://api.spotify.com/v1/tracks/5Ya3y5acLmTfQIXjG9madA,audio_features,spotify:track:5Ya3y5acLmTfQIXjG9madA,0.334
+14,Jay Lumen,12 Hours From Paris,Original Mix,0.0204,https://api.spotify.com/v1/audio-analysis/4PNmumPuJWyPh2UMQjHOvs,0.773,494947.0,0.751,4PNmumPuJWyPh2UMQjHOvs,0.82,9.0,0.0964,-7.363,0.0,0.0543,126.021,4.0,https://api.spotify.com/v1/tracks/4PNmumPuJWyPh2UMQjHOvs,audio_features,spotify:track:4PNmumPuJWyPh2UMQjHOvs,0.15
+15,Michael Cassette,Magenta Sunset,Original Mix,0.00778,https://api.spotify.com/v1/audio-analysis/2LmBsewWLSAY8hJ80HDQNE,0.42,309677.0,0.743,2LmBsewWLSAY8hJ80HDQNE,0.799,8.0,0.426,-8.215,0.0,0.0547,124.026,3.0,https://api.spotify.com/v1/tracks/2LmBsewWLSAY8hJ80HDQNE,audio_features,spotify:track:2LmBsewWLSAY8hJ80HDQNE,0.42
+16,Espen,Wet Sequence,Original Mix,,,,,,,,,,,,,,,,,,
+17,Kris Menace,Metropolis,Original Mix,0.0246,https://api.spotify.com/v1/audio-analysis/6dlyDNkWr852uWeDIvPF0g,0.803,336362.0,0.894,6dlyDNkWr852uWeDIvPF0g,0.876,11.0,0.105,-6.698,0.0,0.0446,119.984,4.0,https://api.spotify.com/v1/tracks/6dlyDNkWr852uWeDIvPF0g,audio_features,spotify:track:6dlyDNkWr852uWeDIvPF0g,0.175
+18,Desyfer Fletch Sundogs PROFF,Primary Key,Proff Remix,,,,,,,,,,,,,,,,,,
+19,PROFF,Glittering Puzzle,Original Mix,0.00508,https://api.spotify.com/v1/audio-analysis/17lMH9UBCRtlAOzczqU09G,0.607,291255.0,0.982,17lMH9UBCRtlAOzczqU09G,0.844,11.0,0.391,-7.111,0.0,0.0446,128.523,4.0,https://api.spotify.com/v1/tracks/17lMH9UBCRtlAOzczqU09G,audio_features,spotify:track:17lMH9UBCRtlAOzczqU09G,0.104
+20,Redesine,Cosmology,Original Mix,,,,,,,,,,,,,,,,,,
+21,Ee-Sma,Speak,Original Mix,0.00288,https://api.spotify.com/v1/audio-analysis/7knDZKQL0NsoFVqibPrEal,0.784,367587.0,0.874,7knDZKQL0NsoFVqibPrEal,0.846,11.0,0.0612,-6.315,1.0,0.0498,128.014,4.0,https://api.spotify.com/v1/tracks/7knDZKQL0NsoFVqibPrEal,audio_features,spotify:track:7knDZKQL0NsoFVqibPrEal,0.518

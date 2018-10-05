@@ -1,0 +1,10 @@
+,Artist(s),Title,Release,acousticness,analysis_url,danceability,duration_ms,energy,id,instrumentalness,key,liveness,loudness,mode,speechiness,tempo,time_signature,track_href,type,uri,valence
+0,Hamel Snell Swain,Future,Original Mix,,,,,,,,,,,,,,,,,,
+1,Perpetuous Dreamer Robbie Rivera,The Sound Of Goodbye,Robbie Rivera Remix,,,,,,,,,,,,,,,,,,
+2,The Thrillseeker,Dreaming Of You,Dub Mix,,,,,,,,,,,,,,,,,,
+3,Shane 54 Stargaze,Souvenir Of Ultra,Stargaze Remix,3.39e-05,https://api.spotify.com/v1/audio-analysis/5SPsLVLIJl9G0aVlxwDSz2,0.422,297984.0,0.965,5SPsLVLIJl9G0aVlxwDSz2,0.824,1.0,0.0768,-10.868,1.0,0.0515,135.367,4.0,https://api.spotify.com/v1/tracks/5SPsLVLIJl9G0aVlxwDSz2,audio_features,spotify:track:5SPsLVLIJl9G0aVlxwDSz2,0.218
+4,Pepper Sweeney,H4U,Original Mix,0.000799,https://api.spotify.com/v1/audio-analysis/33UjEV5eU09GCePnj4Q6MS,0.65,472173.0,0.573,33UjEV5eU09GCePnj4Q6MS,0.91,1.0,0.0949,-13.058,1.0,0.0389,140.005,4.0,https://api.spotify.com/v1/tracks/33UjEV5eU09GCePnj4Q6MS,audio_features,spotify:track:33UjEV5eU09GCePnj4Q6MS,0.23
+5,Alex M.O.R.P.H. Benicio,Consequence,Benicio Remix,,,,,,,,,,,,,,,,,,
+6,Riva Armin van Buuren,Time Is The Healer,Armin Van Buuren Remix,0.000353,https://api.spotify.com/v1/audio-analysis/5niIzXgOVaMlEmATaKiDtA,0.453,200618.0,0.848,5niIzXgOVaMlEmATaKiDtA,0.769,5.0,0.212,-9.523,0.0,0.0374,137.992,4.0,https://api.spotify.com/v1/tracks/5niIzXgOVaMlEmATaKiDtA,audio_features,spotify:track:5niIzXgOVaMlEmATaKiDtA,0.567
+7,Yves DeRuyter,Back To Earth 2002,Original Mix,,,,,,,,,,,,,,,,,,
+8,Armin van Buuren,Sunburn,Original Mix,0.00488,https://api.spotify.com/v1/audio-analysis/4gqdJRyr7LztIuFOoEOP1B,0.593,376813.0,0.799,4gqdJRyr7LztIuFOoEOP1B,0.91,2.0,0.143,-12.446,1.0,0.0362,134.975,4.0,https://api.spotify.com/v1/tracks/4gqdJRyr7LztIuFOoEOP1B,audio_features,spotify:track:4gqdJRyr7LztIuFOoEOP1B,0.184

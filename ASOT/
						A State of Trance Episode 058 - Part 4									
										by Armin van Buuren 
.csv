@@ -1,0 +1,11 @@
+,Artist(s),Title,Release,acousticness,analysis_url,danceability,duration_ms,energy,id,instrumentalness,key,liveness,loudness,mode,speechiness,tempo,time_signature,track_href,type,uri,valence
+0,Jussi-Pekka Parikka,Tekha,Original Mix,,,,,,,,,,,,,,,,,,
+1,Force Mass Motion,Release Me,Original Mix,,,,,,,,,,,,,,,,,,
+2,GTR,Flood Control,Original Mix,,,,,,,,,,,,,,,,,,
+3,Pulser Beat Pusher,Cloudwalking,Beat Pusher Remix,,,,,,,,,,,,,,,,,,
+4,Fingers Burnt,For A Devil,Original Mix,,,,,,,,,,,,,,,,,,
+5,Matanka Push,Lost In A Dream,Push Transcendental Mix,,,,,,,,,,,,,,,,,,
+6,Kansai,Rococco,Original Mix,0.000492,https://api.spotify.com/v1/audio-analysis/4ABkZIZRdqDfPTsG622YJo,0.442,295320.0,0.937,4ABkZIZRdqDfPTsG622YJo,0.633,5.0,0.25,-9.699,1.0,0.0501,136.534,4.0,https://api.spotify.com/v1/tracks/4ABkZIZRdqDfPTsG622YJo,audio_features,spotify:track:4ABkZIZRdqDfPTsG622YJo,0.0359
+7,Ca-Lo,What's Wrong,Original Mix,,,,,,,,,,,,,,,,,,
+8,Warrior,If You Want Me,Original Mix,3.12e-05,https://api.spotify.com/v1/audio-analysis/0hBZp64H1JtFgtuPFGjAH2,0.4,186053.0,0.825,0hBZp64H1JtFgtuPFGjAH2,0.929,2.0,0.822,-12.333,1.0,0.049,134.145,4.0,https://api.spotify.com/v1/tracks/0hBZp64H1JtFgtuPFGjAH2,audio_features,spotify:track:0hBZp64H1JtFgtuPFGjAH2,0.0658
+9,Energy 52 John '00' Fleming,Café Del Mar,John '00' Fleming Remix,0.000383,https://api.spotify.com/v1/audio-analysis/39DUvsWOaaa4FG082DdrKx,0.589,605000.0,0.899,39DUvsWOaaa4FG082DdrKx,0.856,4.0,0.0971,-5.759,0.0,0.0592,135.019,4.0,https://api.spotify.com/v1/tracks/39DUvsWOaaa4FG082DdrKx,audio_features,spotify:track:39DUvsWOaaa4FG082DdrKx,0.258

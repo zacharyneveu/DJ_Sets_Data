@@ -1,0 +1,21 @@
+,Artist(s),Title,Release,acousticness,analysis_url,danceability,duration_ms,energy,id,instrumentalness,key,liveness,loudness,mode,speechiness,tempo,time_signature,track_href,type,uri,valence
+0,Cyn,Fantasy Reality,Original Mix,0.00211,https://api.spotify.com/v1/audio-analysis/0akZkLtxxDfUSFwnJwSlO9,0.721,320013.0,0.969,0akZkLtxxDfUSFwnJwSlO9,0.628,9.0,0.0677,-10.483,1.0,0.0626,128.974,4.0,https://api.spotify.com/v1/tracks/0akZkLtxxDfUSFwnJwSlO9,audio_features,spotify:track:0akZkLtxxDfUSFwnJwSlO9,0.0791
+1,Solarstone Midway,Solar Coaster,Midway Remix,,,,,,,,,,,,,,,,,,
+2,GTR,Mistral,Original Mix,0.0032,https://api.spotify.com/v1/audio-analysis/4Ed1h7bloXgEWRvleXnAEQ,0.504,559670.0,0.905,4Ed1h7bloXgEWRvleXnAEQ,0.855,11.0,0.311,-9.028,1.0,0.0284,139.988,4.0,https://api.spotify.com/v1/tracks/4Ed1h7bloXgEWRvleXnAEQ,audio_features,spotify:track:4Ed1h7bloXgEWRvleXnAEQ,0.153
+3,Funktion Kelly,Seduction,Original Mix,,,,,,,,,,,,,,,,,,
+4,DJ Tomcraft Klub,Loneliness,Klub Cut,,,,,,,,,,,,,,,,,,
+5,Cape Town,Pitstop,Original Mix,0.000788,https://api.spotify.com/v1/audio-analysis/6HW3vWKuB2xbZAubOwR4Dv,0.593,583427.0,0.888,6HW3vWKuB2xbZAubOwR4Dv,0.921,11.0,0.0892,-11.896,1.0,0.0537,138.005,4.0,https://api.spotify.com/v1/tracks/6HW3vWKuB2xbZAubOwR4Dv,audio_features,spotify:track:6HW3vWKuB2xbZAubOwR4Dv,0.75
+6,Viframa DJ Precision Katana,Cristalle,Katana Feat. DJ Precision Remix,0.000212,https://api.spotify.com/v1/audio-analysis/6HWxSnbnGPQ9PUJg4KFIbd,0.712,481180.0,0.633,6HWxSnbnGPQ9PUJg4KFIbd,0.925,6.0,0.132,-8.59,0.0,0.0692,137.026,4.0,https://api.spotify.com/v1/tracks/6HWxSnbnGPQ9PUJg4KFIbd,audio_features,spotify:track:6HWxSnbnGPQ9PUJg4KFIbd,0.244
+7,Age Of Love Mr. Sam,The Age Of Love,Mr. Sam Remix,,,,,,,,,,,,,,,,,,
+8,Yves DeRuyter,Y.D.O.T.,Original Mix,,,,,,,,,,,,,,,,,,
+9,Accadia Accadia,Blind Visions,Accadia Club Mix,0.00012,https://api.spotify.com/v1/audio-analysis/3h0BWQvrhv97dmFGYyFtIL,0.488,416287.0,0.929,3h0BWQvrhv97dmFGYyFtIL,0.648,4.0,0.35,-7.086,0.0,0.0436,137.807,4.0,https://api.spotify.com/v1/tracks/3h0BWQvrhv97dmFGYyFtIL,audio_features,spotify:track:3h0BWQvrhv97dmFGYyFtIL,0.272
+10,Ferry Corsten,Indigo,Original Mix,0.000211,https://api.spotify.com/v1/audio-analysis/2KMCKK4ce6sA9euVKv6xa9,0.47,567037.0,0.582,2KMCKK4ce6sA9euVKv6xa9,0.824,7.0,0.594,-13.057,1.0,0.0347,137.998,4.0,https://api.spotify.com/v1/tracks/2KMCKK4ce6sA9euVKv6xa9,audio_features,spotify:track:2KMCKK4ce6sA9euVKv6xa9,0.153
+11,Solar Factor,No Return,Original Mix,9.29e-06,https://api.spotify.com/v1/audio-analysis/3iRmWZ1gshPS8VkXLakiVQ,0.608,439347.0,0.699,3iRmWZ1gshPS8VkXLakiVQ,0.815,1.0,0.0979,-12.024,1.0,0.0493,137.021,4.0,https://api.spotify.com/v1/tracks/3iRmWZ1gshPS8VkXLakiVQ,audio_features,spotify:track:3iRmWZ1gshPS8VkXLakiVQ,0.346
+12,Nightvision,Believin',Original Mix,,,,,,,,,,,,,,,,,,
+13,U2 Ferry Corsten,New Year's Day,Ferry Corsten Remix,1.29e-05,https://api.spotify.com/v1/audio-analysis/5sURmCWFQHwieQgN20oN4r,0.554,581707.0,0.789,5sURmCWFQHwieQgN20oN4r,0.805,3.0,0.0892,-10.446,0.0,0.0334,133.99,4.0,https://api.spotify.com/v1/tracks/5sURmCWFQHwieQgN20oN4r,audio_features,spotify:track:5sURmCWFQHwieQgN20oN4r,0.347
+14,Airwave Rising Star DCML,Sunspot,DCML Remix,0.00116,https://api.spotify.com/v1/audio-analysis/6wt3rQsCiMAFaSecmdd7QU,0.529,355523.0,0.622,6wt3rQsCiMAFaSecmdd7QU,0.96,3.0,0.18,-15.186,0.0,0.034,140.183,4.0,https://api.spotify.com/v1/tracks/6wt3rQsCiMAFaSecmdd7QU,audio_features,spotify:track:6wt3rQsCiMAFaSecmdd7QU,0.581
+15,Plastic Boy,Silver Bath,Original Mix,0.00758,https://api.spotify.com/v1/audio-analysis/594GxAJXqgQC38BRZu8RG4,0.636,467827.0,0.596,594GxAJXqgQC38BRZu8RG4,0.901,1.0,0.111,-11.729,1.0,0.0559,137.995,4.0,https://api.spotify.com/v1/tracks/594GxAJXqgQC38BRZu8RG4,audio_features,spotify:track:594GxAJXqgQC38BRZu8RG4,0.603
+16,Jan Johnston The Thrillseekers,Calling Your Name,Thrillseekers Dub,0.00049,https://api.spotify.com/v1/audio-analysis/269QODCL6Is2Yr9HGTiCqj,0.617,425467.0,0.887,269QODCL6Is2Yr9HGTiCqj,0.563,2.0,0.268,-8.237,1.0,0.0363,138.009,4.0,https://api.spotify.com/v1/tracks/269QODCL6Is2Yr9HGTiCqj,audio_features,spotify:track:269QODCL6Is2Yr9HGTiCqj,0.345
+17,Katana Mac & Mac,Fancy Fair,Mac & Mac Remix,,,,,,,,,,,,,,,,,,
+18,Speedy J Umek,Gatex,Original Mix,,,,,,,,,,,,,,,,,,
+19,The Green Martian,Wizardry,Original Mix,,,,,,,,,,,,,,,,,,

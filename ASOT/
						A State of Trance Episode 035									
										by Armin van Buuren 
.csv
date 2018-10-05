@@ -1,0 +1,21 @@
+,Artist(s),Title,Release,acousticness,analysis_url,danceability,duration_ms,energy,id,instrumentalness,key,liveness,loudness,mode,speechiness,tempo,time_signature,track_href,type,uri,valence
+0,Cass Slide,Glad I Ate Her,Original Mix,,,,,,,,,,,,,,,,,,
+1,Intrique Motivation,Latino Nights,Motivation Remix,0.00089,https://api.spotify.com/v1/audio-analysis/4XkGrXQgGG3TlotrG2Uhxu,0.506,307000.0,0.921,4XkGrXQgGG3TlotrG2Uhxu,0.884,10.0,0.0895,-10.788,0.0,0.0476,131.344,4.0,https://api.spotify.com/v1/tracks/4XkGrXQgGG3TlotrG2Uhxu,audio_features,spotify:track:4XkGrXQgGG3TlotrG2Uhxu,0.434
+2,Push,Tranzy State Of Mind,Original Mix,0.000396,https://api.spotify.com/v1/audio-analysis/4JEOAy6hHDFWGIB3B4vIhI,0.655,414440.0,0.714,4JEOAy6hHDFWGIB3B4vIhI,0.82,11.0,0.1,-11.239,0.0,0.052,138.052,4.0,https://api.spotify.com/v1/tracks/4JEOAy6hHDFWGIB3B4vIhI,audio_features,spotify:track:4JEOAy6hHDFWGIB3B4vIhI,0.392
+3,Futura Legend Signum,Restless Nature,Signum Remix,,,,,,,,,,,,,,,,,,
+4,Signum,Global Mayhem,Original Mix,,,,,,,,,,,,,,,,,,
+5,Taste Experience Ralphie B,Highlander,Ralphie B Remix,,,,,,,,,,,,,,,,,,
+6,Agnelli & Nelson Alex Gold,Everyday 2002,Alex Gold Remix,0.00122,https://api.spotify.com/v1/audio-analysis/3WTv4I0KwgYp6bX5JoQgvC,0.526,398813.0,0.921,3WTv4I0KwgYp6bX5JoQgvC,0.258,7.0,0.759,-10.612,1.0,0.0965,138.15,4.0,https://api.spotify.com/v1/tracks/3WTv4I0KwgYp6bX5JoQgvC,audio_features,spotify:track:3WTv4I0KwgYp6bX5JoQgvC,0.0372
+7,2 Players Plastic Angel,Signet,Plastic Angel Remix,0.00364,https://api.spotify.com/v1/audio-analysis/4rgqofY1AwHzw9CMkcGvjb,0.519,369500.0,0.965,4rgqofY1AwHzw9CMkcGvjb,0.751,0.0,0.335,-9.977,1.0,0.0578,141.262,4.0,https://api.spotify.com/v1/tracks/4rgqofY1AwHzw9CMkcGvjb,audio_features,spotify:track:4rgqofY1AwHzw9CMkcGvjb,0.751
+8,Solar Factor,Deep Sonar,Original Mix,0.000162,https://api.spotify.com/v1/audio-analysis/3orKZ5d0fKsmiVzB184308,0.78,405973.0,0.633,3orKZ5d0fKsmiVzB184308,0.86,11.0,0.0892,-12.086,0.0,0.0551,137.02,4.0,https://api.spotify.com/v1/tracks/3orKZ5d0fKsmiVzB184308,audio_features,spotify:track:3orKZ5d0fKsmiVzB184308,0.164
+9,Bluephaze Ocean Wave,The Bell,Ocean Wave Remix,,,,,,,,,,,,,,,,,,
+10,Cape Town,Xtension,Original Mix,,,,,,,,,,,,,,,,,,
+11,Phools Inc The Ambush Phools Inc,Asymmetric,Phools Inc Remix,,,,,,,,,,,,,,,,,,
+12,Art Of Trance M. Adamson,Love Washes Over,Dub Mix,7.5e-05,https://api.spotify.com/v1/audio-analysis/3cVxNipQW9Yl9VOXaS4GyS,0.411,365760.0,0.916,3cVxNipQW9Yl9VOXaS4GyS,0.805,5.0,0.0863,-9.56,0.0,0.0384,136.501,4.0,https://api.spotify.com/v1/tracks/3cVxNipQW9Yl9VOXaS4GyS,audio_features,spotify:track:3cVxNipQW9Yl9VOXaS4GyS,0.414
+13,Bas RAM,Protocol,Original Mix,,,,,,,,,,,,,,,,,,
+14,Riva,2,Original Mix,0.0157,https://api.spotify.com/v1/audio-analysis/24kmswUCKIrfdOqewcjigi,0.544,196380.0,0.855,24kmswUCKIrfdOqewcjigi,0.0,5.0,0.162,-4.658,1.0,0.0758,125.023,4.0,https://api.spotify.com/v1/tracks/24kmswUCKIrfdOqewcjigi,audio_features,spotify:track:24kmswUCKIrfdOqewcjigi,0.486
+15,Led Zeppelin Quivver,Babe I'm Gonna Leave You,The Quivver Mix,0.246,https://api.spotify.com/v1/audio-analysis/4OMu5a8sFpcRCPCcsoEaov,0.404,401067.0,0.435,4OMu5a8sFpcRCPCcsoEaov,0.00074,4.0,0.156,-12.045,0.0,0.0323,136.058,4.0,https://api.spotify.com/v1/tracks/4OMu5a8sFpcRCPCcsoEaov,audio_features,spotify:track:4OMu5a8sFpcRCPCcsoEaov,0.156
+16,Nature The Mystery,Free Your Mind,The Mystery Remix,0.991,https://api.spotify.com/v1/audio-analysis/14FUUulWY49fSkhIIrfeCl,0.453,203049.0,0.0483,14FUUulWY49fSkhIIrfeCl,0.893,2.0,0.0982,-25.245,1.0,0.0309,81.987,4.0,https://api.spotify.com/v1/tracks/14FUUulWY49fSkhIIrfeCl,audio_features,spotify:track:14FUUulWY49fSkhIIrfeCl,0.0547
+17,M-Diva,Reachin' Out,Original Mix,,,,,,,,,,,,,,,,,,
+18,Gielen Svenson,We Know What You Did,Original Mix,0.000143,https://api.spotify.com/v1/audio-analysis/6DUFS1aeiRzidIiJP1ZMfp,0.536,218907.0,0.979,6DUFS1aeiRzidIiJP1ZMfp,0.926,3.0,0.0863,-6.584,0.0,0.0483,139.973,4.0,https://api.spotify.com/v1/tracks/6DUFS1aeiRzidIiJP1ZMfp,audio_features,spotify:track:6DUFS1aeiRzidIiJP1ZMfp,0.9
+19,Arcane,Somewhere,Original Mix,,,,,,,,,,,,,,,,,,

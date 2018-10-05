@@ -1,0 +1,21 @@
+,Artist(s),Title,Release,acousticness,analysis_url,danceability,duration_ms,energy,id,instrumentalness,key,liveness,loudness,mode,speechiness,tempo,time_signature,track_href,type,uri,valence
+0,Beber Tamra Gabriel & Dresden,Travelling On,Gabriel & Dresden Campfire Mix,0.00188,https://api.spotify.com/v1/audio-analysis/57GsmhjWWcAmYXHvOmKOd1,0.736,348627.0,0.556,57GsmhjWWcAmYXHvOmKOd1,0.109,1.0,0.051,-13.368,1.0,0.0652,132.002,4.0,https://api.spotify.com/v1/tracks/57GsmhjWWcAmYXHvOmKOd1,audio_features,spotify:track:57GsmhjWWcAmYXHvOmKOd1,0.712
+1,Rank 1 Ferry Corsten,Awakening,Ferry Corsten Remix,5.18e-06,https://api.spotify.com/v1/audio-analysis/3hQ6WpMbVeROswnCa1cTSO,0.539,424933.0,0.904,3hQ6WpMbVeROswnCa1cTSO,0.852,4.0,0.0482,-8.583,1.0,0.0402,138.011,4.0,https://api.spotify.com/v1/tracks/3hQ6WpMbVeROswnCa1cTSO,audio_features,spotify:track:3hQ6WpMbVeROswnCa1cTSO,0.719
+2,The Rapid Eye,Circa-Forever,Original Mix,,,,,,,,,,,,,,,,,,
+3,Paul Oakenfold DJ Tiësto,Southern Sun,DJ Tiesto Remix,0.0183,https://api.spotify.com/v1/audio-analysis/1bAHNj6NQQqbRmnlWyOQvC,0.631,584586.0,0.784,1bAHNj6NQQqbRmnlWyOQvC,0.479,4.0,0.603,-9.279,0.0,0.0405,137.029,4.0,https://api.spotify.com/v1/tracks/1bAHNj6NQQqbRmnlWyOQvC,audio_features,spotify:track:1bAHNj6NQQqbRmnlWyOQvC,0.572
+4,Misja Helsloot Ralphie B,First Second,Ralphie B Remix,0.0262,https://api.spotify.com/v1/audio-analysis/7mj681WKIEPDrQSSunwbnw,0.545,172500.0,0.472,7mj681WKIEPDrQSSunwbnw,0.919,10.0,0.076,-15.43,0.0,0.0482,128.013,4.0,https://api.spotify.com/v1/tracks/7mj681WKIEPDrQSSunwbnw,audio_features,spotify:track:7mj681WKIEPDrQSSunwbnw,0.147
+5,Antillas Clannad,No Frontiers,Original Mix,,,,,,,,,,,,,,,,,,
+6,Three Drives,Carrera 2,Original Mix,0.000168,https://api.spotify.com/v1/audio-analysis/1tCgeP7NgbKs2uhGW8piNf,0.667,532000.0,0.893,1tCgeP7NgbKs2uhGW8piNf,0.788,0.0,0.0846,-8.903,1.0,0.0352,136.003,4.0,https://api.spotify.com/v1/tracks/1tCgeP7NgbKs2uhGW8piNf,audio_features,spotify:track:1tCgeP7NgbKs2uhGW8piNf,0.232
+7,Chris Rea Delirious,Josephine 2002,Delirious Vocal Mix,,,,,,,,,,,,,,,,,,
+8,Jonathan Peters,Goin Thru It,Original Mix,,,,,,,,,,,,,,,,,,
+9,Shane Armin van Buuren,Too Late To Turn,Armin Van Buuren Vocal Remix,0.0158,https://api.spotify.com/v1/audio-analysis/5XhseRH9xyjMAzsAQctNtC,0.451,256531.0,0.985,5XhseRH9xyjMAzsAQctNtC,0.838,1.0,0.315,-8.855,0.0,0.0785,140.357,4.0,https://api.spotify.com/v1/tracks/5XhseRH9xyjMAzsAQctNtC,audio_features,spotify:track:5XhseRH9xyjMAzsAQctNtC,0.0388
+10,Greed,Strange World,Original Mix,0.00995,https://api.spotify.com/v1/audio-analysis/3E4iU1puegZlgy9Cqo789S,0.66,581547.0,0.673,3E4iU1puegZlgy9Cqo789S,0.778,5.0,0.123,-13.223,1.0,0.0345,134.969,4.0,https://api.spotify.com/v1/tracks/3E4iU1puegZlgy9Cqo789S,audio_features,spotify:track:3E4iU1puegZlgy9Cqo789S,0.155
+11,Ralphie B D. Ramirez,Massive,D. Ramirez Mix,0.0028,https://api.spotify.com/v1/audio-analysis/6ef5SpG1KkRgzWXSNSQXwR,0.592,223375.0,0.997,6ef5SpG1KkRgzWXSNSQXwR,0.671,11.0,0.216,-8.193,0.0,0.0673,137.513,4.0,https://api.spotify.com/v1/tracks/6ef5SpG1KkRgzWXSNSQXwR,audio_features,spotify:track:6ef5SpG1KkRgzWXSNSQXwR,0.587
+12,Lyric Natali Spoiled,Over Emotion,Spoiled Remix,0.00298,https://api.spotify.com/v1/audio-analysis/0oSILGEpT5Ti6NWrqcZCsT,0.574,513025.0,0.794,0oSILGEpT5Ti6NWrqcZCsT,0.865,2.0,0.109,-10.198,1.0,0.0305,131.998,4.0,https://api.spotify.com/v1/tracks/0oSILGEpT5Ti6NWrqcZCsT,audio_features,spotify:track:0oSILGEpT5Ti6NWrqcZCsT,0.213
+13,Kelli Ali Riva,Inferno High,Riva Dub,,,,,,,,,,,,,,,,,,
+14,En-motion,Getting Away With It,Original Mix,,,,,,,,,,,,,,,,,,
+15,DJ Albert DJ Precision Katana,Say Yes,Katana Remix,,,,,,,,,,,,,,,,,,
+16,A.L.F.,Constelation Argo,Original Mix,,,,,,,,,,,,,,,,,,
+17,The Mystery,All I Ever Wanted (Devotion),Unknown Mix,,,,,,,,,,,,,,,,,,
+18,Frank T.R.A.X.,Nebuchan,Original Mix,,,,,,,,,,,,,,,,,,
+19,Armin van Buuren,Sunburn,Original Mix,0.000226,https://api.spotify.com/v1/audio-analysis/2aJZYb3yxUaDCtOesGRlDs,0.604,486187.0,0.746,2aJZYb3yxUaDCtOesGRlDs,0.0279,0.0,0.405,-11.24,0.0,0.0672,138.003,4.0,https://api.spotify.com/v1/tracks/2aJZYb3yxUaDCtOesGRlDs,audio_features,spotify:track:2aJZYb3yxUaDCtOesGRlDs,0.224

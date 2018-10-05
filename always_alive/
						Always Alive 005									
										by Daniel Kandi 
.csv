@@ -1,0 +1,12 @@
+,Artist(s),Title,Release,acousticness,analysis_url,danceability,duration_ms,energy,id,instrumentalness,key,liveness,loudness,mode,speechiness,tempo,time_signature,track_href,type,uri,valence
+0,Always Alive,Intro,Original Mix,,,,,,,,,,,,,,,,,,
+1,Above & Beyond Tranquility Base Above & Beyond,Razorfish,Above & Beyond Re-Kicked DK Edit,0.000324,https://api.spotify.com/v1/audio-analysis/66n60wa0hTY4aQk5nL1DYY,0.548,417400.0,0.974,66n60wa0hTY4aQk5nL1DYY,0.883,9.0,0.135,-8.019,0.0,0.0491,138.015,4.0,https://api.spotify.com/v1/tracks/66n60wa0hTY4aQk5nL1DYY,audio_features,spotify:track:66n60wa0hTY4aQk5nL1DYY,0.471
+2,Ferry Corsten Ferry Corsten,Fire,Ferry's Flashover Mix,5.68e-05,https://api.spotify.com/v1/audio-analysis/0AndrnUDdjjTXY2kIBxv4Q,0.61,441827.0,0.679,0AndrnUDdjjTXY2kIBxv4Q,0.765,0.0,0.0722,-9.829,0.0,0.0409,135.001,4.0,https://api.spotify.com/v1/tracks/0AndrnUDdjjTXY2kIBxv4Q,audio_features,spotify:track:0AndrnUDdjjTXY2kIBxv4Q,0.539
+3,Daniel Kandi,Unknown Track,Original Mix,,,,,,,,,,,,,,,,,,
+4,Daniel Duvall,Unknown Track,Original Mix,,,,,,,,,,,,,,,,,,
+5,Pax Royale The Signalrunners,There's Always Music,Signalrunners Remix,,,,,,,,,,,,,,,,,,
+6,Vision84 Nitrous Oxide,Highway Central,Nitrous Oxide Remix,3.25e-05,https://api.spotify.com/v1/audio-analysis/05hhkOR77WwtN90sangI2T,0.492,480005.0,0.815,05hhkOR77WwtN90sangI2T,0.843,10.0,0.0517,-7.564,0.0,0.0426,138.008,4.0,https://api.spotify.com/v1/tracks/05hhkOR77WwtN90sangI2T,audio_features,spotify:track:05hhkOR77WwtN90sangI2T,0.289
+7,Expanded Vision DK,Voyage,DK Fixed Mix,,,,,,,,,,,,,,,,,,
+8,Amphiby Sequentia,Kaleidoscope,Original Mix,,,,,,,,,,,,,,,,,,
+9,Nic Chagall,What You Need,Original Extended Mix,0.000407,https://api.spotify.com/v1/audio-analysis/0woOlow7wOl5kw1W4KAyl3,0.574,356400.0,0.79,0woOlow7wOl5kw1W4KAyl3,0.827,11.0,0.389,-9.227,0.0,0.0449,131.989,4.0,https://api.spotify.com/v1/tracks/0woOlow7wOl5kw1W4KAyl3,audio_features,spotify:track:0woOlow7wOl5kw1W4KAyl3,0.0599
+10,Armin van Buuren Rank 1 Kush,This World Is Watching Me,Original Mix,9.76e-05,https://api.spotify.com/v1/audio-analysis/2jOPmnFgueII8c6StKgcNi,0.588,478413.0,0.882,2jOPmnFgueII8c6StKgcNi,0.655,1.0,0.333,-10.781,0.0,0.0464,134.019,4.0,https://api.spotify.com/v1/tracks/2jOPmnFgueII8c6StKgcNi,audio_features,spotify:track:2jOPmnFgueII8c6StKgcNi,0.558

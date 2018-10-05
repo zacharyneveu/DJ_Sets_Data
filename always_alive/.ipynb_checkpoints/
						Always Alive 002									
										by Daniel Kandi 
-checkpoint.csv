@@ -1,0 +1,11 @@
+,Artist(s),Title,Release,acousticness,analysis_url,danceability,duration_ms,energy,id,instrumentalness,key,liveness,loudness,mode,speechiness,tempo,time_signature,track_href,type,uri,valence
+0,Always Alive,Intro,Original Mix,,,,,,,,,,,,,,,,,,
+1,Young Parisians Ben Lost Solarstone,Jump The Next Train,Solarstone Remix,0.000217,https://api.spotify.com/v1/audio-analysis/3As70p9BVFahMjprEWVvwU,0.52,247914.0,0.81,3As70p9BVFahMjprEWVvwU,0.0159,5.0,0.62,-8.49,0.0,0.034,135.974,4.0,https://api.spotify.com/v1/tracks/3As70p9BVFahMjprEWVvwU,audio_features,spotify:track:3As70p9BVFahMjprEWVvwU,0.111
+2,Orkidea Alt+F4,Beautiful,Alt + F4 Remix,0.353,https://api.spotify.com/v1/audio-analysis/0NFuHkZBLF4vBuAGLLT7OT,0.247,295227.0,0.258,0NFuHkZBLF4vBuAGLLT7OT,0.8,11.0,0.105,-21.375,1.0,0.0478,195.943,4.0,https://api.spotify.com/v1/tracks/0NFuHkZBLF4vBuAGLLT7OT,audio_features,spotify:track:0NFuHkZBLF4vBuAGLLT7OT,0.0375
+3,Daniel Kandi,Nova,Original Mix,6.79e-05,https://api.spotify.com/v1/audio-analysis/6yJUjhzDSONLpnTQD7q43X,0.578,464733.0,0.958,6yJUjhzDSONLpnTQD7q43X,0.908,6.0,0.114,-7.205,0.0,0.0395,137.027,4.0,https://api.spotify.com/v1/tracks/6yJUjhzDSONLpnTQD7q43X,audio_features,spotify:track:6yJUjhzDSONLpnTQD7q43X,0.654
+4,Super8 & Tab Ben Lost,Need To Feel,Original Mix,,,,,,,,,,,,,,,,,,
+5,Sonicvibe Vardran,Lightform,Original Mix,0.00015,https://api.spotify.com/v1/audio-analysis/5v3GWNQmOqGxYOa6u6c4gb,0.244,323760.0,0.974,5v3GWNQmOqGxYOa6u6c4gb,0.791,7.0,0.355,-10.037,1.0,0.101,139.387,4.0,https://api.spotify.com/v1/tracks/5v3GWNQmOqGxYOa6u6c4gb,audio_features,spotify:track:5v3GWNQmOqGxYOa6u6c4gb,0.0389
+6,Peter Dubs Tranzident,Drift,Original Mix,,,,,,,,,,,,,,,,,,
+7,Daniel Kandi,Unknown Track,Original Mix,,,,,,,,,,,,,,,,,,
+8,Daniel Kandi,Fragile Heart,Early Version,,,,,,,,,,,,,,,,,,
+9,Duderstadt Anita Kelsey,Smile,Original Mix,0.0305,https://api.spotify.com/v1/audio-analysis/2kvKe5kZZeKgeWNnYzxk6E,0.527,263246.0,0.903,2kvKe5kZZeKgeWNnYzxk6E,0.111,7.0,0.447,-8.632,0.0,0.0613,136.979,4.0,https://api.spotify.com/v1/tracks/2kvKe5kZZeKgeWNnYzxk6E,audio_features,spotify:track:2kvKe5kZZeKgeWNnYzxk6E,0.0764

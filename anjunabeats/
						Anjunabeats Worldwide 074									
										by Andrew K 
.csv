@@ -1,0 +1,21 @@
+,Artist(s),Title,Release,acousticness,analysis_url,danceability,duration_ms,energy,id,instrumentalness,key,liveness,loudness,mode,speechiness,tempo,time_signature,track_href,type,uri,valence
+0,Anjunabeats Worldwide,Intro,Original Mix,,,,,,,,,,,,,,,,,,
+1,Alex Capelli Butch,Bloody Notes,Butch Remix,,,,,,,,,,,,,,,,,,
+2,Audioknob Maslow,Place,Maslow Remix,,,,,,,,,,,,,,,,,,
+3,George Delkos,Deftoner,Original Mix,4.18e-05,https://api.spotify.com/v1/audio-analysis/4qvkpb4PvjX3ctmkDbAPiQ,0.802,408963.0,0.764,4qvkpb4PvjX3ctmkDbAPiQ,0.852,7.0,0.632,-5.737,1.0,0.142,124.99,4.0,https://api.spotify.com/v1/tracks/4qvkpb4PvjX3ctmkDbAPiQ,audio_features,spotify:track:4qvkpb4PvjX3ctmkDbAPiQ,0.273
+4,Futureshock,Tiger Dust,Original Mix,,,,,,,,,,,,,,,,,,
+5,Noir Moonbeam,Jackass,Moonbeam Remix,0.00577,https://api.spotify.com/v1/audio-analysis/1s0mPKk0TsLQlEVlFEXbFG,0.895,417692.0,0.709,1s0mPKk0TsLQlEVlFEXbFG,0.667,4.0,0.537,-8.738,0.0,0.255,124.997,4.0,https://api.spotify.com/v1/tracks/1s0mPKk0TsLQlEVlFEXbFG,audio_features,spotify:track:1s0mPKk0TsLQlEVlFEXbFG,0.559
+6,Butch Zoo Brazil,1000 Lords,Zoo Brazil Remix,0.001,https://api.spotify.com/v1/audio-analysis/5ObjvGnmreYu37xMn2gSBJ,0.613,429375.0,0.704,5ObjvGnmreYu37xMn2gSBJ,0.948,7.0,0.0806,-9.058,1.0,0.0518,127.987,4.0,https://api.spotify.com/v1/tracks/5ObjvGnmreYu37xMn2gSBJ,audio_features,spotify:track:5ObjvGnmreYu37xMn2gSBJ,0.298
+7,John Digweed Henry Saiz,Gridlock,Henry Saiz Remix,0.164,https://api.spotify.com/v1/audio-analysis/7g5OibKy083eS5VhHD3vFO,0.598,534853.0,0.742,7g5OibKy083eS5VhHD3vFO,0.885,2.0,0.0718,-9.206,0.0,0.0388,127.037,3.0,https://api.spotify.com/v1/tracks/7g5OibKy083eS5VhHD3vFO,audio_features,spotify:track:7g5OibKy083eS5VhHD3vFO,0.278
+8,F-Sonik Masque,Madhouse,Masque Remix,,,,,,,,,,,,,,,,,,
+9,Soliquid,Magnolia,Original Mix,0.00298,https://api.spotify.com/v1/audio-analysis/2uyQB0wvfidSu9XhKf3C5g,0.763,566933.0,0.599,2uyQB0wvfidSu9XhKf3C5g,0.87,11.0,0.361,-8.121,1.0,0.0616,126.979,4.0,https://api.spotify.com/v1/tracks/2uyQB0wvfidSu9XhKf3C5g,audio_features,spotify:track:2uyQB0wvfidSu9XhKf3C5g,0.167
+10,Groove Garcia Simon & Shaker,Soultech,Original Mix,0.0856,https://api.spotify.com/v1/audio-analysis/1LFNEENb9C0mYKIRu1N6hX,0.818,455970.0,0.989,1LFNEENb9C0mYKIRu1N6hX,0.856,1.0,0.143,-10.853,1.0,0.0756,127.024,4.0,https://api.spotify.com/v1/tracks/1LFNEENb9C0mYKIRu1N6hX,audio_features,spotify:track:1LFNEENb9C0mYKIRu1N6hX,0.326
+11,Thomas Langner,Blue Tracer,Original Mix,,,,,,,,,,,,,,,,,,
+12,Martie Orli Jerome Isma-Ae,White Flower,Jerome Isma-Ae Remix,3.94e-05,https://api.spotify.com/v1/audio-analysis/1Af6XdF14Nu7dZnk1sw1ZI,0.665,488737.0,0.726,1Af6XdF14Nu7dZnk1sw1ZI,0.88,9.0,0.0623,-9.371,1.0,0.0573,125.993,4.0,https://api.spotify.com/v1/tracks/1Af6XdF14Nu7dZnk1sw1ZI,audio_features,spotify:track:1Af6XdF14Nu7dZnk1sw1ZI,0.117
+13,Glenn Morrison,Gravity Falling,Original Mix,2.79e-05,https://api.spotify.com/v1/audio-analysis/4TbXeZ4zHYUp6qYCLMwWkx,0.772,416249.0,0.848,4TbXeZ4zHYUp6qYCLMwWkx,0.751,0.0,0.0316,-7.994,1.0,0.117,128.009,4.0,https://api.spotify.com/v1/tracks/4TbXeZ4zHYUp6qYCLMwWkx,audio_features,spotify:track:4TbXeZ4zHYUp6qYCLMwWkx,0.285
+14,Sambor Thomas Langner,Soca,Thomas Langner Remix,,,,,,,,,,,,,,,,,,
+15,Jaytech,Deadlock,Original Mix,0.00063,https://api.spotify.com/v1/audio-analysis/7lXJ3LGQrtzbSWyvKXZC1R,0.655,437520.0,0.937,7lXJ3LGQrtzbSWyvKXZC1R,0.822,9.0,0.0764,-5.688,0.0,0.0453,128.005,4.0,https://api.spotify.com/v1/tracks/7lXJ3LGQrtzbSWyvKXZC1R,audio_features,spotify:track:7lXJ3LGQrtzbSWyvKXZC1R,0.272
+16,Maher Daniel,Erk,Original Mix,,,,,,,,,,,,,,,,,,
+17,Domased Electronica,Naiad,Original Mix,0.000146,https://api.spotify.com/v1/audio-analysis/19HhPbGuzaKvEVbIYIHT7K,0.591,500088.0,0.985,19HhPbGuzaKvEVbIYIHT7K,0.872,10.0,0.108,-5.288,0.0,0.0536,141.998,4.0,https://api.spotify.com/v1/tracks/19HhPbGuzaKvEVbIYIHT7K,audio_features,spotify:track:19HhPbGuzaKvEVbIYIHT7K,0.833
+18,Andrew K Simon Firth,The Coriolis Effect,Simon Firth Remix,,,,,,,,,,,,,,,,,,
+19,Virus J Kafka Ntrg8,Falling Down,Ntrg8 Remix,,,,,,,,,,,,,,,,,,

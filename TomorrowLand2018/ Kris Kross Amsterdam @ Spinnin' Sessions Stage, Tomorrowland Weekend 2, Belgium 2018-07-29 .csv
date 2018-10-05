@@ -1,0 +1,9 @@
+,Artist(s),Title,Release,acousticness,analysis_url,danceability,duration_ms,energy,id,instrumentalness,key,liveness,loudness,mode,speechiness,tempo,time_signature,track_href,type,uri,valence
+0,Macklemore   Ryan Lewis ft. Ray Dalton, Can't Hold Us  ,Original Mix,,,,,,,,,,,,,,,,,,
+1,Pitbull ft. Lil Jon   Will.I.Am   JD, Put Your Fuckin Hands Up  ,Acappella,,,,,,,,,,,,,,,,,,
+2,Macklemore   Ryan Lewis ft. Ray Dalton, Can't Hold Us  ,ID Remix,,,,,,,,,,,,,,,,,,
+3,ID, ID  ,Original Mix,0.000513,https://api.spotify.com/v1/audio-analysis/2ogPvngymAi2Aa0K20yBmn,0.803,379843.0,0.765,2ogPvngymAi2Aa0K20yBmn,0.893,10.0,0.0715,-5.84,0.0,0.0536,126.978,4.0,https://api.spotify.com/v1/tracks/2ogPvngymAi2Aa0K20yBmn,audio_features,spotify:track:2ogPvngymAi2Aa0K20yBmn,0.305
+4,Wiwek   Gregor Salto, Intimi ,Retrohandz Remix,,,,,,,,,,,,,,,,,,
+5,Dr. Dre ft. Snoop Dogg   Kurupt   Nate Dogg, The Next Episode  ,INTERSCOPE,0.0279,https://api.spotify.com/v1/audio-analysis/4LwU4Vp6od3Sb08CsP99GC,0.916,161507.0,0.906,4LwU4Vp6od3Sb08CsP99GC,0.0,3.0,0.0803,-2.494,0.0,0.195,95.3,4.0,https://api.spotify.com/v1/tracks/4LwU4Vp6od3Sb08CsP99GC,audio_features,spotify:track:4LwU4Vp6od3Sb08CsP99GC,0.291
+6,DJ Snake ft. Lil Jon, Turn Down For What?!  ,SONY,0.00107,https://api.spotify.com/v1/audio-analysis/67awxiNHNyjMXhVgsHuIrs,0.818,213733.0,0.799,67awxiNHNyjMXhVgsHuIrs,0.128,1.0,0.057,-4.1,0.0,0.156,100.014,4.0,https://api.spotify.com/v1/tracks/67awxiNHNyjMXhVgsHuIrs,audio_features,spotify:track:67awxiNHNyjMXhVgsHuIrs,0.0815
+7,Whitney Houston, I Will Always Love You  ,Original Mix,0.844,https://api.spotify.com/v1/audio-analysis/4eHbdreAnSOrDDsFfc4Fpm,0.306,271093.0,0.214,4eHbdreAnSOrDDsFfc4Fpm,5.3e-06,4.0,0.0839,-12.518,1.0,0.0356,66.98,4.0,https://api.spotify.com/v1/tracks/4eHbdreAnSOrDDsFfc4Fpm,audio_features,spotify:track:4eHbdreAnSOrDDsFfc4Fpm,0.108

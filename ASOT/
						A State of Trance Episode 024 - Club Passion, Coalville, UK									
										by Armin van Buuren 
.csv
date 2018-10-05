@@ -1,0 +1,9 @@
+,Artist(s),Title,Release,acousticness,analysis_url,danceability,duration_ms,energy,id,instrumentalness,key,liveness,loudness,mode,speechiness,tempo,time_signature,track_href,type,uri,valence
+0,Sasha Hybrid,Xpander,Hybrid Mix,0.00142,https://api.spotify.com/v1/audio-analysis/70L0yX5JMm6gZOocNaGYNj,0.576,656729.0,0.686,70L0yX5JMm6gZOocNaGYNj,0.818,7.0,0.704,-10.673,0.0,0.0316,112.008,4.0,https://api.spotify.com/v1/tracks/70L0yX5JMm6gZOocNaGYNj,audio_features,spotify:track:70L0yX5JMm6gZOocNaGYNj,0.106
+1,Carissa Mondavi Markus Schulz,Solid Ground,Markus Schulz Mix,,,,,,,,,,,,,,,,,,
+2,Sleepfreaks,P.H.B.,Director's Cut Mix,0.000366,https://api.spotify.com/v1/audio-analysis/2gGN3cR33pBOB8H1w26Kdw,0.7,380320.0,0.68,2gGN3cR33pBOB8H1w26Kdw,0.86,2.0,0.126,-14.881,1.0,0.0535,129.997,4.0,https://api.spotify.com/v1/tracks/2gGN3cR33pBOB8H1w26Kdw,audio_features,spotify:track:2gGN3cR33pBOB8H1w26Kdw,0.12
+3,Mike Vandenberg,Spooky,Original Mix,,,,,,,,,,,,,,,,,,
+4,Halogen,Charged,Original Mix,,,,,,,,,,,,,,,,,,
+5,Brother Brown Sander Kleinenberg,Star Catching Girl,Sander Kleinenberg Mix,,,,,,,,,,,,,,,,,,
+6,Paul Gaarn,Inhale,Original Mix,,,,,,,,,,,,,,,,,,
+7,Oliver Klein Lazlo Panaflex,Timeloop Remixes,Lazlo Panaflex Mix,,,,,,,,,,,,,,,,,,

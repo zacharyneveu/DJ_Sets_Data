@@ -1,0 +1,22 @@
+,Artist(s),Title,Release,acousticness,analysis_url,danceability,duration_ms,energy,id,instrumentalness,key,liveness,loudness,mode,speechiness,tempo,time_signature,track_href,type,uri,valence
+0,Trancesetters,The Saga,Original Mix,8.95e-06,https://api.spotify.com/v1/audio-analysis/0hllUXn0RmPZfoqQDEEq9t,0.644,500179.0,0.888,0hllUXn0RmPZfoqQDEEq9t,0.66,1.0,0.0327,-9.705,1.0,0.0503,132.001,4.0,https://api.spotify.com/v1/tracks/0hllUXn0RmPZfoqQDEEq9t,audio_features,spotify:track:0hllUXn0RmPZfoqQDEEq9t,0.448
+1,Satoshi Tomiie Chara,Atari,Original Mix,,,,,,,,,,,,,,,,,,
+2,3rd degree M. Shimmon,Ark Feelin',Original Mix,,,,,,,,,,,,,,,,,,
+3,Marco V,Simulated,Original Mix,0.000624,https://api.spotify.com/v1/audio-analysis/77d2Hrr6wDJ82Vfnq36ijE,0.67,469787.0,0.977,77d2Hrr6wDJ82Vfnq36ijE,0.662,6.0,0.107,-6.416,1.0,0.0869,135.001,4.0,https://api.spotify.com/v1/tracks/77d2Hrr6wDJ82Vfnq36ijE,audio_features,spotify:track:77d2Hrr6wDJ82Vfnq36ijE,0.7
+4,Roger Goode Ferry Corsten,In The Beginning,Ferry Corsten Remix,6.59e-06,https://api.spotify.com/v1/audio-analysis/7two9xQe0efu9fv4ZuWaOb,0.497,230680.0,0.698,7two9xQe0efu9fv4ZuWaOb,0.836,11.0,0.0749,-8.349,0.0,0.0278,135.036,4.0,https://api.spotify.com/v1/tracks/7two9xQe0efu9fv4ZuWaOb,audio_features,spotify:track:7two9xQe0efu9fv4ZuWaOb,0.5
+5,Salt Tank DJ Remy,The Energy,DJ Remy Remix,0.00349,https://api.spotify.com/v1/audio-analysis/6Urs4j5pfNnxxGHTkgpb8W,0.754,595458.0,0.727,6Urs4j5pfNnxxGHTkgpb8W,0.941,10.0,0.0965,-11.632,0.0,0.0461,144.985,4.0,https://api.spotify.com/v1/tracks/6Urs4j5pfNnxxGHTkgpb8W,audio_features,spotify:track:6Urs4j5pfNnxxGHTkgpb8W,0.075
+6,D. Ramirez Push,Hablando,Push Remix,,,,,,,,,,,,,,,,,,
+7,Above & Beyond Tranquility Base Above & Beyond,Razorfish,Above & Beyond Progressive Mix,0.000324,https://api.spotify.com/v1/audio-analysis/66n60wa0hTY4aQk5nL1DYY,0.548,417400.0,0.974,66n60wa0hTY4aQk5nL1DYY,0.883,9.0,0.135,-8.019,0.0,0.0491,138.015,4.0,https://api.spotify.com/v1/tracks/66n60wa0hTY4aQk5nL1DYY,audio_features,spotify:track:66n60wa0hTY4aQk5nL1DYY,0.471
+8,Point Blank,Meng's Theme,Original Mix,,,,,,,,,,,,,,,,,,
+9,Joost van der Vleuten,Variations On A Love Theme,Original Mix,,,,,,,,,,,,,,,,,,
+10,Quasistereo ACL,Addictions,Original Mix,,,,,,,,,,,,,,,,,,
+11,Face Energy,Face Strength,Original Mix,,,,,,,,,,,,,,,,,,
+12,Lovesky,Drums 4 Better Daze,Original Mix,3.16e-05,https://api.spotify.com/v1/audio-analysis/1uwY6V6EkHfZslbj4a2BMe,0.625,525640.0,0.938,1uwY6V6EkHfZslbj4a2BMe,0.674,7.0,0.0856,-6.723,1.0,0.0405,131.995,4.0,https://api.spotify.com/v1/tracks/1uwY6V6EkHfZslbj4a2BMe,audio_features,spotify:track:1uwY6V6EkHfZslbj4a2BMe,0.253
+13,Jan Johnston highland,As The Cracks Appear,Highland Remix,,,,,,,,,,,,,,,,,,
+14,Plastic Angel Corvin Dalek,Sweet Sixteen,Corvin Dalek Remix,,,,,,,,,,,,,,,,,,
+15,Nilo Davoli Propane,A Summer Song (Be My Friend),Davoli's Propane Mix,0.0573,https://api.spotify.com/v1/audio-analysis/1G2ipEYTr29VI3oinfyHCf,0.662,271794.0,0.819,1G2ipEYTr29VI3oinfyHCf,0.0138,9.0,0.428,-5.036,1.0,0.0286,126.183,4.0,https://api.spotify.com/v1/tracks/1G2ipEYTr29VI3oinfyHCf,audio_features,spotify:track:1G2ipEYTr29VI3oinfyHCf,0.711
+16,Ayumi Hamasaki Armin van Buuren,Appears,Armin Van Buuren's Sunset Dub,0.00411,https://api.spotify.com/v1/audio-analysis/6aP4vqMrza1CsnB3STEvg5,0.569,330800.0,0.993,6aP4vqMrza1CsnB3STEvg5,0.0101,7.0,0.0579,-7.102,0.0,0.0833,140.014,4.0,https://api.spotify.com/v1/tracks/6aP4vqMrza1CsnB3STEvg5,audio_features,spotify:track:6aP4vqMrza1CsnB3STEvg5,0.116
+17,AMbassador Oliver Lieb,The Fade,Oliver Lieb Remix,0.000548,https://api.spotify.com/v1/audio-analysis/1z39xukmNw8OwfHTqIvofy,0.699,425522.0,0.629,1z39xukmNw8OwfHTqIvofy,0.92,2.0,0.105,-10.651,1.0,0.0476,134.145,4.0,https://api.spotify.com/v1/tracks/1z39xukmNw8OwfHTqIvofy,audio_features,spotify:track:1z39xukmNw8OwfHTqIvofy,0.226
+18,Blank & Jones Airwave,Sweet Revenge,Airwave Remix,0.000295,https://api.spotify.com/v1/audio-analysis/1B923BlgLiSLv2ibv1to78,0.692,440609.0,0.869,1B923BlgLiSLv2ibv1to78,0.708,1.0,0.767,-7.704,1.0,0.0337,131.98,4.0,https://api.spotify.com/v1/tracks/1B923BlgLiSLv2ibv1to78,audio_features,spotify:track:1B923BlgLiSLv2ibv1to78,0.0979
+19,Sandy Sinesweeper Filterheadz,Shake It,Filterheadz Remix,,,,,,,,,,,,,,,,,,
+20,Jeffed,Mask,Original Mix,0.00867,https://api.spotify.com/v1/audio-analysis/2Vcs5p4LgRWodpHPPGAqvm,0.614,203250.0,0.966,2Vcs5p4LgRWodpHPPGAqvm,0.766,4.0,0.649,-8.829,0.0,0.409,137.037,4.0,https://api.spotify.com/v1/tracks/2Vcs5p4LgRWodpHPPGAqvm,audio_features,spotify:track:2Vcs5p4LgRWodpHPPGAqvm,0.121

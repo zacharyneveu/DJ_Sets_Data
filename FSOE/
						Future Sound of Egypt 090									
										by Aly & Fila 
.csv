@@ -1,0 +1,8 @@
+,Artist(s),Title,Release,acousticness,analysis_url,danceability,duration_ms,energy,id,instrumentalness,key,liveness,loudness,mode,speechiness,tempo,time_signature,track_href,type,uri,valence
+0,Future Sound Of Egypt,Intro,Original Mix,,,,,,,,,,,,,,,,,,
+1,Estigma Paul Miller Ferry Tayle Stephan R.,Afterlife,Ferry Tayle & Stephan R. Universal Language Remix,,,,,,,,,,,,,,,,,,
+2,Den Rize Mark Andréz Mohamed Ragab,Distance,Mohamed Ragab Remix,,,,,,,,,,,,,,,,,,
+3,Den Rize Mark Andréz Philippe El Sisi,Flames,Philippe El Sisi Remix,,,,,,,,,,,,,,,,,,
+4,Jorn van Deynhoven,Fastlane,Original Mix,0.000102,https://api.spotify.com/v1/audio-analysis/0BwBFbaLBLPAySEmaHCjns,0.577,449896.0,0.954,0BwBFbaLBLPAySEmaHCjns,0.805,3.0,0.0925,-7.683,0.0,0.0415,137.991,4.0,https://api.spotify.com/v1/tracks/0BwBFbaLBLPAySEmaHCjns,audio_features,spotify:track:0BwBFbaLBLPAySEmaHCjns,0.293
+5,Majai Nitrous Oxide,Strange,Nitrous Oxide Remix,0.000202,https://api.spotify.com/v1/audio-analysis/1XNQyfylhOOEaPJvTFL7DB,0.567,459973.0,0.783,1XNQyfylhOOEaPJvTFL7DB,0.49,2.0,0.204,-10.42,0.0,0.0329,135.99,4.0,https://api.spotify.com/v1/tracks/1XNQyfylhOOEaPJvTFL7DB,audio_features,spotify:track:1XNQyfylhOOEaPJvTFL7DB,0.675
+6,Mark Andréz,Another Angel,Original Mix,0.000112,https://api.spotify.com/v1/audio-analysis/6IfMcvbv0u9Pa7jakwjS4Q,0.233,504160.0,0.927,6IfMcvbv0u9Pa7jakwjS4Q,0.956,6.0,0.813,-6.608,1.0,0.0489,139.009,4.0,https://api.spotify.com/v1/tracks/6IfMcvbv0u9Pa7jakwjS4Q,audio_features,spotify:track:6IfMcvbv0u9Pa7jakwjS4Q,0.322

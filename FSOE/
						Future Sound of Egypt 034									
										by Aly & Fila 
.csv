@@ -1,0 +1,9 @@
+,Artist(s),Title,Release,acousticness,analysis_url,danceability,duration_ms,energy,id,instrumentalness,key,liveness,loudness,mode,speechiness,tempo,time_signature,track_href,type,uri,valence
+0,Future Sound Of Egypt,Intro,Original Mix,,,,,,,,,,,,,,,,,,
+1,Aimee B Philippe El Sisi,Polka Dots,Philippe El Sisi Remix,,,,,,,,,,,,,,,,,,
+2,Aly & Fila,Dynasty,Original Mix,0.000256,https://api.spotify.com/v1/audio-analysis/1hXbG5rBK4lqTiKbVDFckg,0.523,461143.0,0.973,1hXbG5rBK4lqTiKbVDFckg,0.687,9.0,0.185,-4.557,0.0,0.0364,139.984,4.0,https://api.spotify.com/v1/tracks/1hXbG5rBK4lqTiKbVDFckg,audio_features,spotify:track:1hXbG5rBK4lqTiKbVDFckg,0.347
+3,Mike Emery John Askew,Falling Into The Sun,John Askew Remix,,,,,,,,,,,,,,,,,,
+4,Kiholm Daniel Kandi,Fragile,Daniel Kandi's Fragile Mix,5.36e-05,https://api.spotify.com/v1/audio-analysis/1dI7Q3yvyRsJSQmElVwMcU,0.465,308313.0,0.983,1dI7Q3yvyRsJSQmElVwMcU,0.596,1.0,0.464,-11.697,1.0,0.0557,137.011,4.0,https://api.spotify.com/v1/tracks/1dI7Q3yvyRsJSQmElVwMcU,audio_features,spotify:track:1dI7Q3yvyRsJSQmElVwMcU,0.144
+5,Akesson Solar Movement,Perfect Blue,Solar Movement Bangin Mix,0.000255,https://api.spotify.com/v1/audio-analysis/0bYK1SbVYB4Y6s0ssBr5FT,0.662,421500.0,0.972,0bYK1SbVYB4Y6s0ssBr5FT,0.786,5.0,0.105,-6.885,0.0,0.0589,140.003,4.0,https://api.spotify.com/v1/tracks/0bYK1SbVYB4Y6s0ssBr5FT,audio_features,spotify:track:0bYK1SbVYB4Y6s0ssBr5FT,0.233
+6,DNS Project Aly & Fila,Airbourne,Aly & Fila Remix,0.000119,https://api.spotify.com/v1/audio-analysis/2FE8WZ9iLjIyudn7dSxmLR,0.49,562286.0,0.987,2FE8WZ9iLjIyudn7dSxmLR,0.81,6.0,0.422,-6.359,1.0,0.0446,139.997,4.0,https://api.spotify.com/v1/tracks/2FE8WZ9iLjIyudn7dSxmLR,audio_features,spotify:track:2FE8WZ9iLjIyudn7dSxmLR,0.661
+7,Jon O'Bir Oliver Smith,Bazarus,Original Mix,,,,,,,,,,,,,,,,,,

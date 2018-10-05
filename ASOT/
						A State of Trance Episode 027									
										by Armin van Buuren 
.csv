@@ -1,0 +1,21 @@
+,Artist(s),Title,Release,acousticness,analysis_url,danceability,duration_ms,energy,id,instrumentalness,key,liveness,loudness,mode,speechiness,tempo,time_signature,track_href,type,uri,valence
+0,Jakatta,Ever So Lonely,Original Mix,,,,,,,,,,,,,,,,,,
+1,Memnon Julie Mays,Eclipse,Original Mix,,,,,,,,,,,,,,,,,,
+2,Huntemann,Phreaks 2.1,Original Mix,,,,,,,,,,,,,,,,,,
+3,T-factory Hiver & Hammer,Message In A Bottle,Hiver & Hammer Remix,,,,,,,,,,,,,,,,,,
+4,Rene Ablaze Troxa,Autumn,Original Mix,0.000104,https://api.spotify.com/v1/audio-analysis/485SkZSw3MFddjALsB3zZl,0.617,502227.0,0.801,485SkZSw3MFddjALsB3zZl,0.861,9.0,0.0801,-9.073,1.0,0.0418,139.989,4.0,https://api.spotify.com/v1/tracks/485SkZSw3MFddjALsB3zZl,audio_features,spotify:track:485SkZSw3MFddjALsB3zZl,0.322
+5,Rank 1,Awakening,Original Mix,0.000313,https://api.spotify.com/v1/audio-analysis/3d4FOqsHoJIxJepIKVFfV3,0.525,243453.0,0.927,3d4FOqsHoJIxJepIKVFfV3,0.878,1.0,0.0813,-7.032,1.0,0.0459,138.022,4.0,https://api.spotify.com/v1/tracks/3d4FOqsHoJIxJepIKVFfV3,audio_features,spotify:track:3d4FOqsHoJIxJepIKVFfV3,0.406
+6,Lost Witness DJ Tiësto,Did I Dream (Song Of The Siren),DJ Tiesto Vocal Remix,0.0202,https://api.spotify.com/v1/audio-analysis/030HyYxnjJ6xr2yWyghuPd,0.577,514827.0,0.749,030HyYxnjJ6xr2yWyghuPd,0.542,7.0,0.186,-9.197,0.0,0.0354,135.011,4.0,https://api.spotify.com/v1/tracks/030HyYxnjJ6xr2yWyghuPd,audio_features,spotify:track:030HyYxnjJ6xr2yWyghuPd,0.481
+7,Moon Project,Moments Are Forever,Original Mix,8.73e-06,https://api.spotify.com/v1/audio-analysis/2UKv5NTH39Qyfs11jAsaSM,0.71,523507.0,0.712,2UKv5NTH39Qyfs11jAsaSM,0.858,9.0,0.0655,-14.198,0.0,0.061,137.118,4.0,https://api.spotify.com/v1/tracks/2UKv5NTH39Qyfs11jAsaSM,audio_features,spotify:track:2UKv5NTH39Qyfs11jAsaSM,0.446
+8,Armin van Buuren,Clear Blue Moon,Original Mix,0.000696,https://api.spotify.com/v1/audio-analysis/71RH5bI7XGwfielLG6JIxN,0.519,252263.0,0.917,71RH5bI7XGwfielLG6JIxN,0.777,10.0,0.0694,-9.093,0.0,0.0516,136.972,4.0,https://api.spotify.com/v1/tracks/71RH5bI7XGwfielLG6JIxN,audio_features,spotify:track:71RH5bI7XGwfielLG6JIxN,0.0631
+9,J.C.,Redsky,Original Mix,,,,,,,,,,,,,,,,,,
+10,Minimalistix,A Forest,Unknown Mix,,,,,,,,,,,,,,,,,,
+11,Shibuya Divide Rule,Naked & Beautiful,Divide & Rule Dub,,,,,,,,,,,,,,,,,,
+12,Ascension,For A Lifetime,Original Mix,0.000132,https://api.spotify.com/v1/audio-analysis/0OAiduUHdLEGuKR6Gu3ves,0.687,518400.0,0.951,0OAiduUHdLEGuKR6Gu3ves,0.698,0.0,0.534,-9.765,0.0,0.0545,134.645,4.0,https://api.spotify.com/v1/tracks/0OAiduUHdLEGuKR6Gu3ves,audio_features,spotify:track:0OAiduUHdLEGuKR6Gu3ves,0.542
+13,No-One Driving Novacane Jon The Denist,Playa Sol,Jon The Denist Push Harder Remix,,,,,,,,,,,,,,,,,,
+14,The Ambush Phools Inc,Asymmetric,Phools Inc Mix,5.7e-05,https://api.spotify.com/v1/audio-analysis/6iOMTu90LsxjG7pbKpZuY6,0.684,490106.0,0.794,6iOMTu90LsxjG7pbKpZuY6,0.84,11.0,0.0851,-7.221,0.0,0.0662,137.166,4.0,https://api.spotify.com/v1/tracks/6iOMTu90LsxjG7pbKpZuY6,audio_features,spotify:track:6iOMTu90LsxjG7pbKpZuY6,0.663
+15,Marco V Darren Christian,Certainly,Darren Christian Remix,3.01e-05,https://api.spotify.com/v1/audio-analysis/5wypW8HvTXHNvZfqLhvPpj,0.699,447625.0,0.977,5wypW8HvTXHNvZfqLhvPpj,0.863,11.0,0.29,-7.386,0.0,0.0867,138.006,4.0,https://api.spotify.com/v1/tracks/5wypW8HvTXHNvZfqLhvPpj,audio_features,spotify:track:5wypW8HvTXHNvZfqLhvPpj,0.454
+16,The Mystery,Mystery,Original Mix,0.003,https://api.spotify.com/v1/audio-analysis/7agr1LPaw6saAWVLaTZrUF,0.518,159507.0,0.978,7agr1LPaw6saAWVLaTZrUF,0.473,11.0,0.0867,-9.775,0.0,0.151,113.416,4.0,https://api.spotify.com/v1/tracks/7agr1LPaw6saAWVLaTZrUF,audio_features,spotify:track:7agr1LPaw6saAWVLaTZrUF,0.23
+17,The Green Martian X-Press 2,Green Smoke,Original Mix,,,,,,,,,,,,,,,,,,
+18,E'voke,Arms Of Loren,Original Mix,,,,,,,,,,,,,,,,,,
+19,Taiko The Joker,Silence,The Joker Remix,7.72e-06,https://api.spotify.com/v1/audio-analysis/6WUg2n4WEn7X7SRt6XDA6S,0.64,107594.0,0.943,6WUg2n4WEn7X7SRt6XDA6S,0.794,8.0,0.361,-9.34,1.0,0.0706,135.679,4.0,https://api.spotify.com/v1/tracks/6WUg2n4WEn7X7SRt6XDA6S,audio_features,spotify:track:6WUg2n4WEn7X7SRt6XDA6S,0.426

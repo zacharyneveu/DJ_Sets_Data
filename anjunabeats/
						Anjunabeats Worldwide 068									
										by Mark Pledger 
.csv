@@ -1,0 +1,23 @@
+,Artist(s),Title,Release,acousticness,analysis_url,danceability,duration_ms,energy,id,instrumentalness,key,liveness,loudness,mode,speechiness,tempo,time_signature,track_href,type,uri,valence
+0,Anjunabeats Worldwide,Intro,Original Mix,,,,,,,,,,,,,,,,,,
+1,Airwave,Punjabi Child,Original Mix,0.00175,https://api.spotify.com/v1/audio-analysis/1wJ59wsns6ngOL9yF79kvY,0.59,605547.0,0.788,1wJ59wsns6ngOL9yF79kvY,0.278,6.0,0.124,-9.81,1.0,0.0527,129.994,4.0,https://api.spotify.com/v1/tracks/1wJ59wsns6ngOL9yF79kvY,audio_features,spotify:track:1wJ59wsns6ngOL9yF79kvY,0.192
+2,Airwave,Candy Of Life,Original Mix,0.0364,https://api.spotify.com/v1/audio-analysis/5LUMz9iYCkfjz8Ittq5iVb,0.61,540000.0,0.902,5LUMz9iYCkfjz8Ittq5iVb,0.817,0.0,0.263,-10.61,1.0,0.0557,131.995,4.0,https://api.spotify.com/v1/tracks/5LUMz9iYCkfjz8Ittq5iVb,audio_features,spotify:track:5LUMz9iYCkfjz8Ittq5iVb,0.339
+3,LTN,Empty Streets,Original Mix,,,,,,,,,,,,,,,,,,
+4,De-Relict,Rescue Me,Original Mix,,,,,,,,,,,,,,,,,,
+5,Andrew Bennett M.I.K.E.,A Better World,Club Mix,0.000126,https://api.spotify.com/v1/audio-analysis/0iqxmodsgtVpIjzjoQ6Sbc,0.516,523543.0,0.743,0iqxmodsgtVpIjzjoQ6Sbc,0.93,4.0,0.115,-7.891,0.0,0.0391,131.986,4.0,https://api.spotify.com/v1/tracks/0iqxmodsgtVpIjzjoQ6Sbc,audio_features,spotify:track:0iqxmodsgtVpIjzjoQ6Sbc,0.414
+6,Gate 42,Pink Violet,Original Mix,0.000595,https://api.spotify.com/v1/audio-analysis/4lcKs3p8dif8AMMfjTctwX,0.629,402733.0,0.846,4lcKs3p8dif8AMMfjTctwX,0.917,7.0,0.127,-5.88,1.0,0.186,139.008,4.0,https://api.spotify.com/v1/tracks/4lcKs3p8dif8AMMfjTctwX,audio_features,spotify:track:4lcKs3p8dif8AMMfjTctwX,0.578
+7,Carl Barrdahl,Deliverance,Original Mix,,,,,,,,,,,,,,,,,,
+8,Absolute,Dolphin's Cry,Original Mix,,,,,,,,,,,,,,,,,,
+9,Airwave,Urban Touareg,Vocal Mix,0.000494,https://api.spotify.com/v1/audio-analysis/7HuW85Xo8sQEhkGYtsuPqW,0.502,499707.0,0.958,7HuW85Xo8sQEhkGYtsuPqW,0.884,10.0,0.0607,-7.982,0.0,0.0641,134.037,4.0,https://api.spotify.com/v1/tracks/7HuW85Xo8sQEhkGYtsuPqW,audio_features,spotify:track:7HuW85Xo8sQEhkGYtsuPqW,0.202
+10,Singularity,Epica,Original Mix,,,,,,,,,,,,,,,,,,
+11,Michael Mystica Paul Miller,Turn On,Original Mix,,,,,,,,,,,,,,,,,,
+12,Sebastian Brandt Cold Blue,So Cold,Cold Blue Remix,7.64e-05,https://api.spotify.com/v1/audio-analysis/7fpdZJvHqS5Pd9qjrOtVda,0.438,431821.0,0.938,7fpdZJvHqS5Pd9qjrOtVda,0.922,8.0,0.0614,-7.064,1.0,0.0556,138.009,4.0,https://api.spotify.com/v1/tracks/7fpdZJvHqS5Pd9qjrOtVda,audio_features,spotify:track:7fpdZJvHqS5Pd9qjrOtVda,0.376
+13,InDreams,SMrmx,Original Mix,,,,,,,,,,,,,,,,,,
+14,Andy Hunter Giuseppe Ottaviani,Stars,Giuseppe Ottaviani Dub,7.14e-05,https://api.spotify.com/v1/audio-analysis/4OtnxXwGs4ywGy88Ud6L1i,0.416,341333.0,0.708,4OtnxXwGs4ywGy88Ud6L1i,0.678,9.0,0.237,-14.47,0.0,0.0456,135.006,4.0,https://api.spotify.com/v1/tracks/4OtnxXwGs4ywGy88Ud6L1i,audio_features,spotify:track:4OtnxXwGs4ywGy88Ud6L1i,0.0353
+15,Re:Locate Menno de Jong Paul Miller,Spirit,Paul Miller 2008 Rework,,,,,,,,,,,,,,,,,,
+16,Paul Miller,Call Me Miller,Original Mix,1.36e-05,https://api.spotify.com/v1/audio-analysis/6J4uqpynCiafIKPinNavUK,0.295,475000.0,0.985,6J4uqpynCiafIKPinNavUK,0.874,6.0,0.378,-6.713,0.0,0.0491,140.978,4.0,https://api.spotify.com/v1/tracks/6J4uqpynCiafIKPinNavUK,audio_features,spotify:track:6J4uqpynCiafIKPinNavUK,0.649
+17,Cartel,Moments,Original Mix,2.71e-05,https://api.spotify.com/v1/audio-analysis/05QhFdrrZOjRDT9vyrkO6E,0.466,465649.0,0.989,05QhFdrrZOjRDT9vyrkO6E,0.87,10.0,0.357,-5.201,0.0,0.115,141.976,4.0,https://api.spotify.com/v1/tracks/05QhFdrrZOjRDT9vyrkO6E,audio_features,spotify:track:05QhFdrrZOjRDT9vyrkO6E,0.455
+18,Airwave,Sunshine In Your Heart,Original Mix,0.0395,https://api.spotify.com/v1/audio-analysis/5GQDnAu8HFIwYyFWMD2Q58,0.528,497920.0,0.828,5GQDnAu8HFIwYyFWMD2Q58,0.595,11.0,0.0769,-11.238,0.0,0.062,133.988,4.0,https://api.spotify.com/v1/tracks/5GQDnAu8HFIwYyFWMD2Q58,audio_features,spotify:track:5GQDnAu8HFIwYyFWMD2Q58,0.0909
+19,Evol Waves,Too Far Away,Original Mix,0.000248,https://api.spotify.com/v1/audio-analysis/3osY6pHedHuSaRA7gpq4nj,0.597,467368.0,0.602,3osY6pHedHuSaRA7gpq4nj,0.882,7.0,0.0843,-6.934,1.0,0.0414,133.019,4.0,https://api.spotify.com/v1/tracks/3osY6pHedHuSaRA7gpq4nj,audio_features,spotify:track:3osY6pHedHuSaRA7gpq4nj,0.134
+20,Sander van Doorn,Pura Vida,Original Mix,0.00667,https://api.spotify.com/v1/audio-analysis/1e9DtMe0KhqXJnm9BhFkos,0.681,318733.0,0.808,1e9DtMe0KhqXJnm9BhFkos,0.925,6.0,0.0845,-10.383,0.0,0.0711,134.977,4.0,https://api.spotify.com/v1/tracks/1e9DtMe0KhqXJnm9BhFkos,audio_features,spotify:track:1e9DtMe0KhqXJnm9BhFkos,0.0724
+21,Jordan Suckley Mac & Taylor,Blues,Original Mix,,,,,,,,,,,,,,,,,,

@@ -1,0 +1,19 @@
+,Artist(s),Title,Release,acousticness,analysis_url,danceability,duration_ms,energy,id,instrumentalness,key,liveness,loudness,mode,speechiness,tempo,time_signature,track_href,type,uri,valence
+0,Miro Ian Wilkie,By Your Side,Ian Wilkie Mix,0.000114,https://api.spotify.com/v1/audio-analysis/5AI6Z2rd5SJ6ijHQbFylEs,0.757,434960.0,0.875,5AI6Z2rd5SJ6ijHQbFylEs,0.723,7.0,0.0683,-8.991,1.0,0.0571,134.032,4.0,https://api.spotify.com/v1/tracks/5AI6Z2rd5SJ6ijHQbFylEs,audio_features,spotify:track:5AI6Z2rd5SJ6ijHQbFylEs,0.874
+1,Viridian Classified Project,Sunhump,Classified Project Remix,0.000529,https://api.spotify.com/v1/audio-analysis/5QbF45egAQHF4afO78kM9q,0.598,550794.0,0.866,5QbF45egAQHF4afO78kM9q,0.908,7.0,0.403,-13.616,1.0,0.0514,134.797,4.0,https://api.spotify.com/v1/tracks/5QbF45egAQHF4afO78kM9q,audio_features,spotify:track:5QbF45egAQHF4afO78kM9q,0.39
+2,Bastian & Ernesto,Lonely People,Original Mix,,,,,,,,,,,,,,,,,,
+3,Funk Einsatz,Punk,Original Mix,,,,,,,,,,,,,,,,,,
+4,Weekend Players Riva,Into The Sun,Riva Remix,0.000816,https://api.spotify.com/v1/audio-analysis/4qJF2lRypLQtyGRzmDRLz4,0.651,442733.0,0.757,4qJF2lRypLQtyGRzmDRLz4,0.428,7.0,0.0851,-9.11,1.0,0.0394,127.027,4.0,https://api.spotify.com/v1/tracks/4qJF2lRypLQtyGRzmDRLz4,audio_features,spotify:track:4qJF2lRypLQtyGRzmDRLz4,0.897
+5,Yves DeRuyter Push,Music Non-Stop,Push Remix,7.55e-05,https://api.spotify.com/v1/audio-analysis/6C2rPc1SOCvl0lLi0jicwt,0.717,498413.0,0.89,6C2rPc1SOCvl0lLi0jicwt,0.777,5.0,0.0775,-10.447,0.0,0.0549,140.013,4.0,https://api.spotify.com/v1/tracks/6C2rPc1SOCvl0lLi0jicwt,audio_features,spotify:track:6C2rPc1SOCvl0lLi0jicwt,0.454
+6,Perpetuous Dreamer Armin van Buuren,Dust.Wav,Armin Van Buuren Rising Star Remix,0.00114,https://api.spotify.com/v1/audio-analysis/6Oy57K8vd7Rk2biIY33Lb8,0.564,600147.0,0.894,6Oy57K8vd7Rk2biIY33Lb8,0.237,2.0,0.17,-8.588,1.0,0.0301,134.977,4.0,https://api.spotify.com/v1/tracks/6Oy57K8vd7Rk2biIY33Lb8,audio_features,spotify:track:6Oy57K8vd7Rk2biIY33Lb8,0.34
+7,T-factory Hiver & Hammer,Message In A Bottle,Hiver & Hammer Remix,,,,,,,,,,,,,,,,,,
+8,Jahn Hanna Mezz,Lost,Mezz Dub,,,,,,,,,,,,,,,,,,
+9,S.O.L.I.S. Umek,Dolphins,Umek Remix,,,,,,,,,,,,,,,,,,
+10,Berry van Gardingen,Resolution,Original Mix,,,,,,,,,,,,,,,,,,
+11,Etienne Overdijk Fred Numf,Illusion Of The Truth,Original Mix,,,,,,,,,,,,,,,,,,
+12,Cirillo Paul van Dyk,Cristallo,Paul Van Dyk Remix,0.0157,https://api.spotify.com/v1/audio-analysis/7sq0GWZPqzCAcAsN2Ut1su,0.61,322906.0,0.903,7sq0GWZPqzCAcAsN2Ut1su,0.688,11.0,0.587,-11.912,0.0,0.0572,136.734,4.0,https://api.spotify.com/v1/tracks/7sq0GWZPqzCAcAsN2Ut1su,audio_features,spotify:track:7sq0GWZPqzCAcAsN2Ut1su,0.576
+13,Symphony of Strings Connector,Don't Want Your Love,Connector Remix,,,,,,,,,,,,,,,,,,
+14,Adaro Vank,Aquaplanning,Original Mix,,,,,,,,,,,,,,,,,,
+15,Lost Witness DJ Tiësto,Did I Dream (Song Of The Siren),DJ Tiesto Remix,0.0202,https://api.spotify.com/v1/audio-analysis/030HyYxnjJ6xr2yWyghuPd,0.577,514827.0,0.749,030HyYxnjJ6xr2yWyghuPd,0.542,7.0,0.186,-9.197,0.0,0.0354,135.011,4.0,https://api.spotify.com/v1/tracks/030HyYxnjJ6xr2yWyghuPd,audio_features,spotify:track:030HyYxnjJ6xr2yWyghuPd,0.481
+16,Walter Solo,Fire In Your Heart,Dub Mix,0.00297,https://api.spotify.com/v1/audio-analysis/7FBD4Rx2YDlLgP3LZiqX9f,0.564,273016.0,0.773,7FBD4Rx2YDlLgP3LZiqX9f,0.893,1.0,0.0854,-13.359,1.0,0.0477,133.356,4.0,https://api.spotify.com/v1/tracks/7FBD4Rx2YDlLgP3LZiqX9f,audio_features,spotify:track:7FBD4Rx2YDlLgP3LZiqX9f,0.534
+17,Moon Project,Moments Are Forever,Original Mix,8.73e-06,https://api.spotify.com/v1/audio-analysis/2UKv5NTH39Qyfs11jAsaSM,0.71,523507.0,0.712,2UKv5NTH39Qyfs11jAsaSM,0.858,9.0,0.0655,-14.198,0.0,0.061,137.118,4.0,https://api.spotify.com/v1/tracks/2UKv5NTH39Qyfs11jAsaSM,audio_features,spotify:track:2UKv5NTH39Qyfs11jAsaSM,0.446

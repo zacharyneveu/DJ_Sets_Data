@@ -1,0 +1,20 @@
+,Artist(s),Title,Release,acousticness,analysis_url,danceability,duration_ms,energy,id,instrumentalness,key,liveness,loudness,mode,speechiness,tempo,time_signature,track_href,type,uri,valence
+0,Beat Pusher,Murto,Original Mix,,,,,,,,,,,,,,,,,,
+1,M Factor,Mother,Original Mix,0.00379,https://api.spotify.com/v1/audio-analysis/6lqs3YrIB5sFu0W3zE2ZjX,0.773,517733.0,0.63,6lqs3YrIB5sFu0W3zE2ZjX,0.474,7.0,0.0562,-8.387,1.0,0.0403,129.994,4.0,https://api.spotify.com/v1/tracks/6lqs3YrIB5sFu0W3zE2ZjX,audio_features,spotify:track:6lqs3YrIB5sFu0W3zE2ZjX,0.178
+2,Joker Jam Paul van Dyk,Innocence,Paul Van Dyk Mix,0.00658,https://api.spotify.com/v1/audio-analysis/1mnAxNZ284QtQBejLIMw3z,0.679,509627.0,0.747,1mnAxNZ284QtQBejLIMw3z,0.698,2.0,0.102,-11.368,1.0,0.0382,134.974,4.0,https://api.spotify.com/v1/tracks/1mnAxNZ284QtQBejLIMw3z,audio_features,spotify:track:1mnAxNZ284QtQBejLIMw3z,0.375
+3,Exor Project Medusa Exor,Moonshine,Exor Mix Part II,,,,,,,,,,,,,,,,,,
+4,Airwave,I Want To Believe,Original Mix,0.000382,https://api.spotify.com/v1/audio-analysis/3ZiECOZnbWwQys7qidGE7q,0.532,417680.0,0.98,3ZiECOZnbWwQys7qidGE7q,0.845,10.0,0.696,-8.619,0.0,0.0464,129.987,4.0,https://api.spotify.com/v1/tracks/3ZiECOZnbWwQys7qidGE7q,audio_features,spotify:track:3ZiECOZnbWwQys7qidGE7q,0.454
+5,Tim J,Denon,Original Mix,,,,,,,,,,,,,,,,,,
+6,Shane Armin van Buuren,Too Late To Turn,Armin Van Buuren Remix,0.0403,https://api.spotify.com/v1/audio-analysis/30ROzhquM09hc8j4Z3cbBw,0.535,217760.0,0.961,30ROzhquM09hc8j4Z3cbBw,0.721,4.0,0.0725,-8.918,1.0,0.0372,138.988,4.0,https://api.spotify.com/v1/tracks/30ROzhquM09hc8j4Z3cbBw,audio_features,spotify:track:30ROzhquM09hc8j4Z3cbBw,0.0773
+7,Slipstream,Into Other Worlds,Original Mix,,,,,,,,,,,,,,,,,,
+8,CRW Veronika Tillman Uhrmacher,Like A Cat,Tillman Uhrmacher Mix,0.0027,https://api.spotify.com/v1/audio-analysis/1WGqMnwkqvFsxeX7Quoki9,0.576,303541.0,0.919,1WGqMnwkqvFsxeX7Quoki9,0.465,10.0,0.123,-3.586,1.0,0.159,169.977,4.0,https://api.spotify.com/v1/tracks/1WGqMnwkqvFsxeX7Quoki9,audio_features,spotify:track:1WGqMnwkqvFsxeX7Quoki9,0.283
+9,Visionaire,Ease The Pressure,Original Mix,0.00285,https://api.spotify.com/v1/audio-analysis/1rCwHCyC3FGk1WPMTAim9D,0.665,444596.0,0.721,1rCwHCyC3FGk1WPMTAim9D,0.876,6.0,0.0708,-10.97,1.0,0.0573,139.008,4.0,https://api.spotify.com/v1/tracks/1rCwHCyC3FGk1WPMTAim9D,audio_features,spotify:track:1rCwHCyC3FGk1WPMTAim9D,0.526
+10,Alphabreed Freejack,Beyond The Moon,Freejack's Energy Mix,,,,,,,,,,,,,,,,,,
+11,Iio Armin van Buuren,Rapture,Armin Van Buuren Remix,0.326,https://api.spotify.com/v1/audio-analysis/4RQGig0Vhr4GXmqfklCCyK,0.541,189701.0,0.931,4RQGig0Vhr4GXmqfklCCyK,0.129,10.0,0.325,-9.687,0.0,0.0552,128.584,4.0,https://api.spotify.com/v1/tracks/4RQGig0Vhr4GXmqfklCCyK,audio_features,spotify:track:4RQGig0Vhr4GXmqfklCCyK,0.148
+12,4 Strings Shlomi Aber D'Tech,Take Me Away (Into The Night),D'tech Remix,0.00144,https://api.spotify.com/v1/audio-analysis/0Z0EciM8TABbUA5obMz0N6,0.708,433627.0,0.959,0Z0EciM8TABbUA5obMz0N6,0.872,11.0,0.0929,-8.597,1.0,0.037,138.013,4.0,https://api.spotify.com/v1/tracks/0Z0EciM8TABbUA5obMz0N6,audio_features,spotify:track:0Z0EciM8TABbUA5obMz0N6,0.629
+13,Body-Shock,Ghost In The Church,Original Mix,,,,,,,,,,,,,,,,,,
+14,Futura Legend Signum,Restless Nature,Signum Remix,,,,,,,,,,,,,,,,,,
+15,V-One,Dead Cities,Original Mix,0.00327,https://api.spotify.com/v1/audio-analysis/3j0P7ZbrEvAe4VRGGI5Pgs,0.519,475512.0,0.783,3j0P7ZbrEvAe4VRGGI5Pgs,0.894,7.0,0.105,-10.09,1.0,0.0402,138.079,4.0,https://api.spotify.com/v1/tracks/3j0P7ZbrEvAe4VRGGI5Pgs,audio_features,spotify:track:3j0P7ZbrEvAe4VRGGI5Pgs,0.162
+16,Bastian & Ernesto,Lonely People,Original Mix,,,,,,,,,,,,,,,,,,
+17,Push,He Legacy,Original Mix,,,,,,,,,,,,,,,,,,
+18,Rank 1,Awakening,Original Mix,0.000313,https://api.spotify.com/v1/audio-analysis/3d4FOqsHoJIxJepIKVFfV3,0.525,243453.0,0.927,3d4FOqsHoJIxJepIKVFfV3,0.878,1.0,0.0813,-7.032,1.0,0.0459,138.022,4.0,https://api.spotify.com/v1/tracks/3d4FOqsHoJIxJepIKVFfV3,audio_features,spotify:track:3d4FOqsHoJIxJepIKVFfV3,0.406

@@ -1,0 +1,11 @@
+,Artist(s),Title,Release,acousticness,analysis_url,danceability,duration_ms,energy,id,instrumentalness,key,liveness,loudness,mode,speechiness,tempo,time_signature,track_href,type,uri,valence
+0,Future Sound Of Egypt,Intro,Original Mix,,,,,,,,,,,,,,,,,,
+1,Missing Hours,Make You Better,Unknown Remix,,,,,,,,,,,,,,,,,,
+2,Den Rize Mark Andréz,Distance,Original Mix,,,,,,,,,,,,,,,,,,
+3,Andy Blueman Reconceal Andy Blueman,The World To Come,Andy Blueman Mix,,,,,,,,,,,,,,,,,,
+4,Sean Tyas,I Remember Now,Original Mix,6.21e-05,https://api.spotify.com/v1/audio-analysis/0DJifIHwuhGnHnh7cOWjs2,0.473,490286.0,0.989,0DJifIHwuhGnHnh7cOWjs2,0.846,10.0,0.308,-5.355,0.0,0.0638,139.993,4.0,https://api.spotify.com/v1/tracks/0DJifIHwuhGnHnh7cOWjs2,audio_features,spotify:track:0DJifIHwuhGnHnh7cOWjs2,0.569
+5,Barry Jay Aly & Fila,Infused,Aly & Fila Rework,,,,,,,,,,,,,,,,,,
+6,Neptune Project Aly & Fila,Aztec,Aly & Fila Remix,0.000107,https://api.spotify.com/v1/audio-analysis/1rv5EcKvTalvRtTvXAWFr9,0.516,567429.0,0.996,1rv5EcKvTalvRtTvXAWFr9,0.902,0.0,0.0967,-3.981,1.0,0.076,139.985,4.0,https://api.spotify.com/v1/tracks/1rv5EcKvTalvRtTvXAWFr9,audio_features,spotify:track:1rv5EcKvTalvRtTvXAWFr9,0.19
+7,Vast Vision Fast Distance,Sovereign,Fast Distance Remix,2.57e-05,https://api.spotify.com/v1/audio-analysis/12JKqBSn2LbduCXcHYp8k4,0.433,547410.0,0.962,12JKqBSn2LbduCXcHYp8k4,0.713,7.0,0.323,-7.85,1.0,0.0795,137.999,4.0,https://api.spotify.com/v1/tracks/12JKqBSn2LbduCXcHYp8k4,audio_features,spotify:track:12JKqBSn2LbduCXcHYp8k4,0.0713
+8,Philippe El Sisi Aminda Aly & Fila,You Never Know,Aly & Fila Remix,9.65e-05,https://api.spotify.com/v1/audio-analysis/3yqFHcmfn6Nyzqib2cZF2k,0.489,581143.0,0.981,3yqFHcmfn6Nyzqib2cZF2k,0.8,1.0,0.177,-3.633,0.0,0.044,139.995,4.0,https://api.spotify.com/v1/tracks/3yqFHcmfn6Nyzqib2cZF2k,audio_features,spotify:track:3yqFHcmfn6Nyzqib2cZF2k,0.523
+9,Sly One Aly & Fila,This Late Stage,Aly & Fila Remix,0.00212,https://api.spotify.com/v1/audio-analysis/506VlfwQQFZyYm3ddAbu4x,0.464,426919.0,0.996,506VlfwQQFZyYm3ddAbu4x,0.824,11.0,0.143,-4.384,1.0,0.0509,140.012,4.0,https://api.spotify.com/v1/tracks/506VlfwQQFZyYm3ddAbu4x,audio_features,spotify:track:506VlfwQQFZyYm3ddAbu4x,0.37

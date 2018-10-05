@@ -1,0 +1,19 @@
+,Artist(s),Title,Release,acousticness,analysis_url,danceability,duration_ms,energy,id,instrumentalness,key,liveness,loudness,mode,speechiness,tempo,time_signature,track_href,type,uri,valence
+0,The Roc Project DJ Tiësto,Never (Past Tense),DJ Tiësto Remix,,,,,,,,,,,,,,,,,,
+1,Slusnik Luna Skydive,Sinner,Skydive Remix,,,,,,,,,,,,,,,,,,
+2,Accadia Accadia,Blind Visions,Accadia Club Mix,0.00012,https://api.spotify.com/v1/audio-analysis/3h0BWQvrhv97dmFGYyFtIL,0.488,416287.0,0.929,3h0BWQvrhv97dmFGYyFtIL,0.648,4.0,0.35,-7.086,0.0,0.0436,137.807,4.0,https://api.spotify.com/v1/tracks/3h0BWQvrhv97dmFGYyFtIL,audio_features,spotify:track:3h0BWQvrhv97dmFGYyFtIL,0.272
+3,Solar Factor Push,No Return,Push Remix,,,,,,,,,,,,,,,,,,
+4,Nightvision,Believin',Original Mix,,,,,,,,,,,,,,,,,,
+5,Corderoy,Sweetest Dreams,Original Mix,,,,,,,,,,,,,,,,,,
+6,Kyau & Albert Hiver & Hammer,Save Me,Hiver & Hammer Remix,,,,,,,,,,,,,,,,,,
+7,Jaron Inc,Overflow,Original Mix,0.000422,https://api.spotify.com/v1/audio-analysis/7lcHHbI2BOYnCSRUB3T5uA,0.703,537613.0,0.993,7lcHHbI2BOYnCSRUB3T5uA,0.845,2.0,0.0862,-6.349,1.0,0.0517,140.0,4.0,https://api.spotify.com/v1/tracks/7lcHHbI2BOYnCSRUB3T5uA,audio_features,spotify:track:7lcHHbI2BOYnCSRUB3T5uA,0.131
+8,Airwave Rising Star DCML,Sunspot,DCML Remix,0.00116,https://api.spotify.com/v1/audio-analysis/6wt3rQsCiMAFaSecmdd7QU,0.529,355523.0,0.622,6wt3rQsCiMAFaSecmdd7QU,0.96,3.0,0.18,-15.186,0.0,0.034,140.183,4.0,https://api.spotify.com/v1/tracks/6wt3rQsCiMAFaSecmdd7QU,audio_features,spotify:track:6wt3rQsCiMAFaSecmdd7QU,0.581
+9,Soul Penetrator aka Richie Santana,Tribal Pleasures,Original Mix,,,,,,,,,,,,,,,,,,
+10,Nûgen,Deliverance,Original Mix,0.0268,https://api.spotify.com/v1/audio-analysis/7AOy62HZ15u3N16YrREV7s,0.617,593502.0,0.755,7AOy62HZ15u3N16YrREV7s,0.801,2.0,0.0677,-7.75,1.0,0.0527,127.003,4.0,https://api.spotify.com/v1/tracks/7AOy62HZ15u3N16YrREV7s,audio_features,spotify:track:7AOy62HZ15u3N16YrREV7s,0.716
+11,Mona Lisa Overdrive Solarstone,Born To Synthesize,Solar Stone Dub,0.00427,https://api.spotify.com/v1/audio-analysis/33pNgV3VMDjJ4J8TrA4JLv,0.617,577613.0,0.909,33pNgV3VMDjJ4J8TrA4JLv,0.674,2.0,0.193,-7.901,1.0,0.0532,131.996,4.0,https://api.spotify.com/v1/tracks/33pNgV3VMDjJ4J8TrA4JLv,audio_features,spotify:track:33pNgV3VMDjJ4J8TrA4JLv,0.539
+12,Yahel,You Feel,Original Mix,0.0694,https://api.spotify.com/v1/audio-analysis/4HvQu3CYtFyhCelVdc4u7K,0.759,515147.0,0.65,4HvQu3CYtFyhCelVdc4u7K,0.497,9.0,0.195,-11.422,0.0,0.0802,133.019,4.0,https://api.spotify.com/v1/tracks/4HvQu3CYtFyhCelVdc4u7K,audio_features,spotify:track:4HvQu3CYtFyhCelVdc4u7K,0.537
+13,Blue Horizons Pulser,The Journey,Pulser Remix,,,,,,,,,,,,,,,,,,
+14,Marco V,Milla,Original Mix,0.00163,https://api.spotify.com/v1/audio-analysis/0AeBZ1LLnrUgJ16OJiW0rF,0.672,234240.0,0.971,0AeBZ1LLnrUgJ16OJiW0rF,0.742,2.0,0.162,-10.089,0.0,0.0517,137.003,4.0,https://api.spotify.com/v1/tracks/0AeBZ1LLnrUgJ16OJiW0rF,audio_features,spotify:track:0AeBZ1LLnrUgJ16OJiW0rF,0.112
+15,Mirco De Govia,Things That Matter,Original Mix,2.29e-05,https://api.spotify.com/v1/audio-analysis/0K25CgFPSLGFp30dXOpz2Y,0.568,500825.0,0.907,0K25CgFPSLGFp30dXOpz2Y,0.678,2.0,0.346,-7.386,1.0,0.0426,138.018,4.0,https://api.spotify.com/v1/tracks/0K25CgFPSLGFp30dXOpz2Y,audio_features,spotify:track:0K25CgFPSLGFp30dXOpz2Y,0.492
+16,DT8 Project Roxanne Wilde B.K.,Destination,B.K. Vocal Mix,,,,,,,,,,,,,,,,,,
+17,John Askew,New Dimension,Original Mix,,,,,,,,,,,,,,,,,,

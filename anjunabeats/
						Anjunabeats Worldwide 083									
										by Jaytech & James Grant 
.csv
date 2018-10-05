@@ -1,0 +1,22 @@
+,Artist(s),Title,Release,acousticness,analysis_url,danceability,duration_ms,energy,id,instrumentalness,key,liveness,loudness,mode,speechiness,tempo,time_signature,track_href,type,uri,valence
+0,Anjunabeats Worldwide,Intro,Original Mix,,,,,,,,,,,,,,,,,,
+1,The Diogenes Club,That's A Moray,Original Mix,,,,,,,,,,,,,,,,,,
+2,Agent Matteo Da Funk,Tuesday Has Gone,Da Funk's Wish It Were Friday Mix,0.00111,https://api.spotify.com/v1/audio-analysis/4tkaDvLW10KopC26NuCABn,0.797,418143.0,0.823,4tkaDvLW10KopC26NuCABn,0.869,6.0,0.0768,-7.191,1.0,0.0701,127.992,4.0,https://api.spotify.com/v1/tracks/4tkaDvLW10KopC26NuCABn,audio_features,spotify:track:4tkaDvLW10KopC26NuCABn,0.703
+3,InfraWave,Snow Peak,Original Mix,,,,,,,,,,,,,,,,,,
+4,Komytea,Pyromania,Original Mix,4.72e-05,https://api.spotify.com/v1/audio-analysis/4d0M25Zuxe5vuM3ExM2zgw,0.803,485080.0,0.697,4d0M25Zuxe5vuM3ExM2zgw,0.868,4.0,0.632,-7.922,0.0,0.049,125.014,4.0,https://api.spotify.com/v1/tracks/4d0M25Zuxe5vuM3ExM2zgw,audio_features,spotify:track:4d0M25Zuxe5vuM3ExM2zgw,0.0921
+5,Jaytech Electrobios Interplay,Vela,Interplay & Electrobios Mix,0.000282,https://api.spotify.com/v1/audio-analysis/4AeijTt9pxf6czkusqwZWZ,0.682,300554.0,0.846,4AeijTt9pxf6czkusqwZWZ,0.898,2.0,0.0655,-7.575,1.0,0.038,128.973,4.0,https://api.spotify.com/v1/tracks/4AeijTt9pxf6czkusqwZWZ,audio_features,spotify:track:4AeijTt9pxf6czkusqwZWZ,0.291
+6,Leigh Morgan Scope,Sigma,Original Mix,,,,,,,,,,,,,,,,,,
+7,Stan Kolev,Tatul,Original Mix,0.0218,https://api.spotify.com/v1/audio-analysis/4SYGCWMe6rng8vg3REXRr3,0.708,464762.0,0.586,4SYGCWMe6rng8vg3REXRr3,0.86,10.0,0.103,-8.981,0.0,0.0556,126.006,4.0,https://api.spotify.com/v1/tracks/4SYGCWMe6rng8vg3REXRr3,audio_features,spotify:track:4SYGCWMe6rng8vg3REXRr3,0.523
+8,Joonas Hahmo Ben Macklin,Cocktail Bar,Ben Macklin Remix,0.0512,https://api.spotify.com/v1/audio-analysis/7x15L6mlplHjqOPBCBLBqS,0.795,537733.0,0.777,7x15L6mlplHjqOPBCBLBqS,0.899,5.0,0.0737,-7.583,1.0,0.0443,126.009,4.0,https://api.spotify.com/v1/tracks/7x15L6mlplHjqOPBCBLBqS,audio_features,spotify:track:7x15L6mlplHjqOPBCBLBqS,0.335
+9,Peter Jürgens,Love It,Original Mix,,,,,,,,,,,,,,,,,,
+10,Ashley Wallbridge,Spiritual Return,Original Mix,,,,,,,,,,,,,,,,,,
+11,Keisho Kikuchi,Overseas Call,Original Mix,0.000437,https://api.spotify.com/v1/audio-analysis/389LkqCfFhv2Mk6bi3kZYr,0.66,517500.0,0.782,389LkqCfFhv2Mk6bi3kZYr,0.778,1.0,0.0884,-7.42,1.0,0.0403,128.0,4.0,https://api.spotify.com/v1/tracks/389LkqCfFhv2Mk6bi3kZYr,audio_features,spotify:track:389LkqCfFhv2Mk6bi3kZYr,0.896
+12,Quivver Carvell Shifter,Chasing A Feeling,Shifter & Carvell Remix,,,,,,,,,,,,,,,,,,
+13,Le Crunch,Release,Original Mix,,,,,,,,,,,,,,,,,,
+14,Bastards of Funk Sonic Union,Sunrise,Original Mix,,,,,,,,,,,,,,,,,,
+15,David Murtagh Jerome Isma-Ae,My Only Weakness,Jerome Isma-Ae Remix,6.53e-05,https://api.spotify.com/v1/audio-analysis/4MIGJcC5HbsrPQ3865MrTl,0.8,496875.0,0.698,4MIGJcC5HbsrPQ3865MrTl,0.817,1.0,0.0435,-9.767,1.0,0.0655,128.019,4.0,https://api.spotify.com/v1/tracks/4MIGJcC5HbsrPQ3865MrTl,audio_features,spotify:track:4MIGJcC5HbsrPQ3865MrTl,0.37
+16,Bas Van Essen,So Sexy,Original Mix,,,,,,,,,,,,,,,,,,
+17,In Deep We Trust Quarrel,Room 4 Space,Quarrel Remix,0.00101,https://api.spotify.com/v1/audio-analysis/1iBg8QnBDS1tKg7ozy7KlX,0.769,530625.0,0.735,1iBg8QnBDS1tKg7ozy7KlX,0.719,7.0,0.0671,-8.361,1.0,0.0633,127.998,4.0,https://api.spotify.com/v1/tracks/1iBg8QnBDS1tKg7ozy7KlX,audio_features,spotify:track:1iBg8QnBDS1tKg7ozy7KlX,0.301
+18,Kasey Taylor Nyquist,Coconuts,Nyquist Remix,0.00391,https://api.spotify.com/v1/audio-analysis/06U2KgkIGil37ATpZZFYlp,0.777,420110.0,0.574,06U2KgkIGil37ATpZZFYlp,0.851,10.0,0.102,-11.24,1.0,0.0754,128.02,4.0,https://api.spotify.com/v1/tracks/06U2KgkIGil37ATpZZFYlp,audio_features,spotify:track:06U2KgkIGil37ATpZZFYlp,0.486
+19,Solarity,Elements,Original Mix,,,,,,,,,,,,,,,,,,
+20,Dinka,Asylum,Original Mix,0.000446,https://api.spotify.com/v1/audio-analysis/0beVPDGoNNci9ds5B2qLGR,0.625,457500.0,0.775,0beVPDGoNNci9ds5B2qLGR,0.883,5.0,0.524,-6.394,0.0,0.0525,128.01,4.0,https://api.spotify.com/v1/tracks/0beVPDGoNNci9ds5B2qLGR,audio_features,spotify:track:0beVPDGoNNci9ds5B2qLGR,0.725

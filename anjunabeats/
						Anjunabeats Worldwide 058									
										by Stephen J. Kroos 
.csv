@@ -1,0 +1,35 @@
+,Artist(s),Title,Release,acousticness,analysis_url,danceability,duration_ms,energy,id,instrumentalness,key,liveness,loudness,mode,speechiness,tempo,time_signature,track_href,type,uri,valence
+0,Anjunabeats Worldwide,Intro,Original Mix,,,,,,,,,,,,,,,,,,
+1,Monolake,White Ii,Original Mix,,,,,,,,,,,,,,,,,,
+2,Petre Inspirescu,Mostra,Original Mix,0.00519,https://api.spotify.com/v1/audio-analysis/4uy9XtcyHCDRO21pSzDgUF,0.807,701600.0,0.716,4uy9XtcyHCDRO21pSzDgUF,0.914,10.0,0.0575,-11.812,0.0,0.0799,124.997,4.0,https://api.spotify.com/v1/tracks/4uy9XtcyHCDRO21pSzDgUF,audio_features,spotify:track:4uy9XtcyHCDRO21pSzDgUF,0.747
+3,Neos Deos,Dazed,Original Mix,0.0353,https://api.spotify.com/v1/audio-analysis/0fm4DjJ4vg1SgqxPC0w1g7,0.829,455526.0,0.53,0fm4DjJ4vg1SgqxPC0w1g7,0.868,5.0,0.119,-9.838,0.0,0.0534,126.994,4.0,https://api.spotify.com/v1/tracks/0fm4DjJ4vg1SgqxPC0w1g7,audio_features,spotify:track:0fm4DjJ4vg1SgqxPC0w1g7,0.43
+4,Camea,Nearly Departed,Original Mix,,,,,,,,,,,,,,,,,,
+5,Tim J Warren Fellow,Walking,Original Mix,,,,,,,,,,,,,,,,,,
+6,Prompt,Evolve,Original Mix,3.81e-05,https://api.spotify.com/v1/audio-analysis/0lVesK5E1AZoa5jp8jpXoO,0.812,463371.0,0.324,0lVesK5E1AZoa5jp8jpXoO,0.794,1.0,0.0979,-7.204,1.0,0.0674,125.006,4.0,https://api.spotify.com/v1/tracks/0lVesK5E1AZoa5jp8jpXoO,audio_features,spotify:track:0lVesK5E1AZoa5jp8jpXoO,0.188
+7,Lissan Stills Martinez Re,Wings,Martinez Re Constructed Dub,,,,,,,,,,,,,,,,,,
+8,Stephen J. Kroos,Medeklinker,Original Mix,,,,,,,,,,,,,,,,,,
+9,Martin Landsky,Rugged,Original Mix,,,,,,,,,,,,,,,,,,
+10,Jaz Woods,Sweep,Original Mix,,,,,,,,,,,,,,,,,,
+11,Jaz Woods,Depravation,Original Mix,,,,,,,,,,,,,,,,,,
+12,Jaz Woods,Kickback,Original Mix,,,,,,,,,,,,,,,,,,
+13,Brett Mitchell Jaz Woods,Kickin',Original Mix,,,,,,,,,,,,,,,,,,
+14,Tim J Warren Fellow,Numbers,Original Mix,,,,,,,,,,,,,,,,,,
+15,Hatzler,Quarterpounder,Original Mix,0.0664,https://api.spotify.com/v1/audio-analysis/6kQMKCrNP2Cs90YJx32z6t,0.82,455390.0,0.918,6kQMKCrNP2Cs90YJx32z6t,0.811,1.0,0.109,-11.55,1.0,0.125,122.988,4.0,https://api.spotify.com/v1/tracks/6kQMKCrNP2Cs90YJx32z6t,audio_features,spotify:track:6kQMKCrNP2Cs90YJx32z6t,0.169
+16,Stefanowitz,Uberhaupt,Original Mix,,,,,,,,,,,,,,,,,,
+17,Mhiniteck,Rare,Original Mix,,,,,,,,,,,,,,,,,,
+18,Anton Pieete,New Wave Mothers,Original Mix,,,,,,,,,,,,,,,,,,
+19,Suspender Freaky Chakra,Quake,Freaky Chakra House Remix,0.000806,https://api.spotify.com/v1/audio-analysis/6yCADmTBovOSht6BzOOzsl,0.593,394251.0,0.85,6yCADmTBovOSht6BzOOzsl,0.893,1.0,0.113,-7.746,1.0,0.0416,129.994,4.0,https://api.spotify.com/v1/tracks/6yCADmTBovOSht6BzOOzsl,audio_features,spotify:track:6yCADmTBovOSht6BzOOzsl,0.687
+20,Monoblock,Mas Vale Tarde Que Nunca,Original Mix,,,,,,,,,,,,,,,,,,
+21,Donnacha Costello,Black Bag Job 526,Original Mix,,,,,,,,,,,,,,,,,,
+22,Samuel L. Session,Off The Chain,Original Mix,7.97e-05,https://api.spotify.com/v1/audio-analysis/0GRa9YqM8nOEDudqLagCD6,0.893,507906.0,0.543,0GRa9YqM8nOEDudqLagCD6,0.887,7.0,0.141,-9.874,1.0,0.104,126.002,4.0,https://api.spotify.com/v1/tracks/0GRa9YqM8nOEDudqLagCD6,audio_features,spotify:track:0GRa9YqM8nOEDudqLagCD6,0.067
+23,Andomat 3000,Impertinez,Original Mix,,,,,,,,,,,,,,,,,,
+24,Fuckpony,Lady Judy,Original Mix,2.58e-05,https://api.spotify.com/v1/audio-analysis/19PT5QyJ2ueKfP00PY313H,0.543,545371.0,0.531,19PT5QyJ2ueKfP00PY313H,0.86,1.0,0.0873,-9.232,1.0,0.0447,123.991,4.0,https://api.spotify.com/v1/tracks/19PT5QyJ2ueKfP00PY313H,audio_features,spotify:track:19PT5QyJ2ueKfP00PY313H,0.138
+25,Stefanowitz,Keetraver,Original Mix,,,,,,,,,,,,,,,,,,
+26,Nihad Thule,Locomotion,Original Mix,,,,,,,,,,,,,,,,,,
+27,Cames Timxvier,Main Course,Original Mix,,,,,,,,,,,,,,,,,,
+28,Mhiniteck,Reversed,Original Mix,,,,,,,,,,,,,,,,,,
+29,Boris Brejcha,Die Maschienen Kontrollieren Uns,Original Mix,,,,,,,,,,,,,,,,,,
+30,Coming soon,Zavirox,Original Mix,,,,,,,,,,,,,,,,,,
+31,Stefanowitz,Stoeptegel,Original Mix,,,,,,,,,,,,,,,,,,
+32,Da Milio Stefanowtiz,Tulpen Uit Rotterdam,Original Mix,,,,,,,,,,,,,,,,,,
+33,Boom Jinx Stephen J. Kroos,Unknown Track,Stephen J. Kroos Remix,,,,,,,,,,,,,,,,,,

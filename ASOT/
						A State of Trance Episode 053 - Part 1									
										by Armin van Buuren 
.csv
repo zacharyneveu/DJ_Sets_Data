@@ -1,0 +1,9 @@
+,Artist(s),Title,Release,acousticness,analysis_url,danceability,duration_ms,energy,id,instrumentalness,key,liveness,loudness,mode,speechiness,tempo,time_signature,track_href,type,uri,valence
+0,Krystal K Altitude,Let's Get It Right,Altitude Remix,,,,,,,,,,,,,,,,,,
+1,Marc Dawn Chris Source Mark O'Tool Motorcraft,Expander,Chris Source & Mark O'tool Pres Motorcraft Remix,,,,,,,,,,,,,,,,,,
+2,Driftwood,Freeloader,Original Mix,5e-05,https://api.spotify.com/v1/audio-analysis/62bKZ9fbZFHx5nQ1QXLhGL,0.656,412733.0,0.85,62bKZ9fbZFHx5nQ1QXLhGL,0.787,6.0,0.0923,-11.919,0.0,0.0553,138.028,4.0,https://api.spotify.com/v1/tracks/62bKZ9fbZFHx5nQ1QXLhGL,audio_features,spotify:track:62bKZ9fbZFHx5nQ1QXLhGL,0.509
+3,Oliver Lieb Filterheadz,Subsonik,Filterheadz Remix,,,,,,,,,,,,,,,,,,
+4,Mauro Picotto Push,Back 2 Cali,Push Remix,0.000548,https://api.spotify.com/v1/audio-analysis/1kPMDzX6S2RxWaVKJn4Zr9,0.571,513707.0,0.788,1kPMDzX6S2RxWaVKJn4Zr9,0.863,2.0,0.0922,-9.403,1.0,0.0414,137.992,4.0,https://api.spotify.com/v1/tracks/1kPMDzX6S2RxWaVKJn4Zr9,audio_features,spotify:track:1kPMDzX6S2RxWaVKJn4Zr9,0.745
+5,DJ Stigma The Scarab,The Answer,The Scarab Remix,,,,,,,,,,,,,,,,,,
+6,4 Strings D'Tech,Diving,D'Tech Remix,,,,,,,,,,,,,,,,,,
+7,Armin van Buuren Ray Wilson,Yet Another Day,Sunday 5Am Mix,0.000102,https://api.spotify.com/v1/audio-analysis/38iXuYnfFo8S314xXIPWA3,0.479,367469.0,0.989,38iXuYnfFo8S314xXIPWA3,0.743,11.0,0.199,-6.166,0.0,0.0471,135.837,4.0,https://api.spotify.com/v1/tracks/38iXuYnfFo8S314xXIPWA3,audio_features,spotify:track:38iXuYnfFo8S314xXIPWA3,0.506

@@ -1,0 +1,21 @@
+,Artist(s),Title,Release,acousticness,analysis_url,danceability,duration_ms,energy,id,instrumentalness,key,liveness,loudness,mode,speechiness,tempo,time_signature,track_href,type,uri,valence
+0,Lange Skye World Clique,Drifting Away,World Clique Remix,,,,,,,,,,,,,,,,,,
+1,Neurotic Jock,Therapy,Original Mix,,,,,,,,,,,,,,,,,,
+2,Yahel,For The People,Original Mix,0.00303,https://api.spotify.com/v1/audio-analysis/55MVNFS8mliXry8i3mNotB,0.527,520333.0,0.887,55MVNFS8mliXry8i3mNotB,0.824,9.0,0.332,-7.134,0.0,0.0431,141.996,4.0,https://api.spotify.com/v1/tracks/55MVNFS8mliXry8i3mNotB,audio_features,spotify:track:55MVNFS8mliXry8i3mNotB,0.308
+3,Rank 1,Awakening,Original Mix,0.000313,https://api.spotify.com/v1/audio-analysis/3d4FOqsHoJIxJepIKVFfV3,0.525,243453.0,0.927,3d4FOqsHoJIxJepIKVFfV3,0.878,1.0,0.0813,-7.032,1.0,0.0459,138.022,4.0,https://api.spotify.com/v1/tracks/3d4FOqsHoJIxJepIKVFfV3,audio_features,spotify:track:3d4FOqsHoJIxJepIKVFfV3,0.406
+4,Funk Einsatz,Punk,Original Mix,,,,,,,,,,,,,,,,,,
+5,DJ Precision The Freak,The Progress,Original Mix,,,,,,,,,,,,,,,,,,
+6,Golden Girls Vincent de Moor,Kinetic,Vincent De Moor Remix,2.37e-06,https://api.spotify.com/v1/audio-analysis/0lHf0xJvKRVLIZAqWeGmrf,0.576,214840.0,0.787,0lHf0xJvKRVLIZAqWeGmrf,0.807,6.0,0.102,-7.895,1.0,0.0288,127.507,4.0,https://api.spotify.com/v1/tracks/0lHf0xJvKRVLIZAqWeGmrf,audio_features,spotify:track:0lHf0xJvKRVLIZAqWeGmrf,0.459
+7,Delerium Rani Rank 1,Underwater,Rank 1 Remix,9.05e-06,https://api.spotify.com/v1/audio-analysis/1GJu9I6Wb443YSjn5gmb55,0.641,555733.0,0.895,1GJu9I6Wb443YSjn5gmb55,0.854,10.0,0.0638,-10.386,0.0,0.0462,140.023,4.0,https://api.spotify.com/v1/tracks/1GJu9I6Wb443YSjn5gmb55,audio_features,spotify:track:1GJu9I6Wb443YSjn5gmb55,0.321
+8,Sharpside,Spacecruising,Original Mix,7.86e-05,https://api.spotify.com/v1/audio-analysis/67CWsjhO3Lll46iQEtxGag,0.548,347627.0,0.936,67CWsjhO3Lll46iQEtxGag,0.885,0.0,0.831,-11.247,1.0,0.0457,138.99,4.0,https://api.spotify.com/v1/tracks/67CWsjhO3Lll46iQEtxGag,audio_features,spotify:track:67CWsjhO3Lll46iQEtxGag,0.478
+9,Speedy J,Kreck,Original Mix,,,,,,,,,,,,,,,,,,
+10,Digby Oliver,Human,Original Mix,,,,,,,,,,,,,,,,,,
+11,Arcane Dave Swayze,Somewhere,Dave Swayze Remix,,,,,,,,,,,,,,,,,,
+12,DJ Fire,Ulan Bator,Original Mix,0.0236,https://api.spotify.com/v1/audio-analysis/3QVbK884EgsRoOZKkzdyXT,0.742,609800.0,0.924,3QVbK884EgsRoOZKkzdyXT,0.75,10.0,0.57,-7.547,0.0,0.0634,131.983,4.0,https://api.spotify.com/v1/tracks/3QVbK884EgsRoOZKkzdyXT,audio_features,spotify:track:3QVbK884EgsRoOZKkzdyXT,0.183
+13,JB,Unknown Origin,Original Mix,,,,,,,,,,,,,,,,,,
+14,Vehemence,Coming,Original Mix,8.23e-06,https://api.spotify.com/v1/audio-analysis/41fFRs062tWJoGXKXv3unp,0.499,265687.0,0.893,41fFRs062tWJoGXKXv3unp,0.675,7.0,0.711,-10.199,1.0,0.0467,137.289,4.0,https://api.spotify.com/v1/tracks/41fFRs062tWJoGXKXv3unp,audio_features,spotify:track:41fFRs062tWJoGXKXv3unp,0.429
+15,Pablo Gargano,Absolution,Original Mix,0.0031,https://api.spotify.com/v1/audio-analysis/0YPuY9ASPCmndAKC0tDPRO,0.676,522573.0,0.838,0YPuY9ASPCmndAKC0tDPRO,0.606,10.0,0.177,-8.895,0.0,0.0316,132.016,4.0,https://api.spotify.com/v1/tracks/0YPuY9ASPCmndAKC0tDPRO,audio_features,spotify:track:0YPuY9ASPCmndAKC0tDPRO,0.502
+16,Junk Project Solarstone,Composure,Solar Stone Remix,0.00256,https://api.spotify.com/v1/audio-analysis/1AREqidcujVswVTmGyk3aB,0.587,517907.0,0.959,1AREqidcujVswVTmGyk3aB,0.889,4.0,0.161,-6.496,0.0,0.0369,134.977,4.0,https://api.spotify.com/v1/tracks/1AREqidcujVswVTmGyk3aB,audio_features,spotify:track:1AREqidcujVswVTmGyk3aB,0.477
+17,Loki,NYCU,Original Mix,,,,,,,,,,,,,,,,,,
+18,Ransom Ferry Corsten,My Dance,Ferry Corsten Remix,2.85e-05,https://api.spotify.com/v1/audio-analysis/2NXJHfmM6jhFLr5APFvNa0,0.62,397147.0,0.835,2NXJHfmM6jhFLr5APFvNa0,0.934,11.0,0.0715,-8.566,0.0,0.0356,135.001,4.0,https://api.spotify.com/v1/tracks/2NXJHfmM6jhFLr5APFvNa0,audio_features,spotify:track:2NXJHfmM6jhFLr5APFvNa0,0.375
+19,Pale-X,Eightball,Original Mix,,,,,,,,,,,,,,,,,,

@@ -1,0 +1,9 @@
+,Artist(s),Title,Release,acousticness,analysis_url,danceability,duration_ms,energy,id,instrumentalness,key,liveness,loudness,mode,speechiness,tempo,time_signature,track_href,type,uri,valence
+0,JB,Lazy Days,Original Mix,0.474,https://api.spotify.com/v1/audio-analysis/6p9lVZzVbvsoFGsAjEzUne,0.611,244535.0,0.584,6p9lVZzVbvsoFGsAjEzUne,0.456,11.0,0.371,-10.403,1.0,0.0301,130.015,4.0,https://api.spotify.com/v1/tracks/6p9lVZzVbvsoFGsAjEzUne,audio_features,spotify:track:6p9lVZzVbvsoFGsAjEzUne,0.103
+1,Epsilon 9 Classified Project,Lifeformation,Classified Project Remix,8.99e-05,https://api.spotify.com/v1/audio-analysis/1zwPAzaMr5hNoiYysX3Q7W,0.431,357355.0,0.982,1zwPAzaMr5hNoiYysX3Q7W,0.866,8.0,0.399,-6.326,1.0,0.0507,139.286,4.0,https://api.spotify.com/v1/tracks/1zwPAzaMr5hNoiYysX3Q7W,audio_features,spotify:track:1zwPAzaMr5hNoiYysX3Q7W,0.551
+2,Signum,Cura Me,Original Mix,0.00324,https://api.spotify.com/v1/audio-analysis/3NWC4GuRPCAOv5teTw2aGK,0.593,504520.0,0.866,3NWC4GuRPCAOv5teTw2aGK,0.839,6.0,0.13,-9.554,1.0,0.0738,140.039,4.0,https://api.spotify.com/v1/tracks/3NWC4GuRPCAOv5teTw2aGK,audio_features,spotify:track:3NWC4GuRPCAOv5teTw2aGK,0.716
+3,Blue Horizon Pulser,The Journey,Pulser Remix,,,,,,,,,,,,,,,,,,
+4,B.K.,Revolution,Original Mix,,,,,,,,,,,,,,,,,,
+5,Eon,Pocket Damage,Original Mix,,,,,,,,,,,,,,,,,,
+6,Soundcheck,Minddrive,Original Mix,4.8e-06,https://api.spotify.com/v1/audio-analysis/31xY8V6vtSFdPZaDbsfW3v,0.627,465394.0,0.895,31xY8V6vtSFdPZaDbsfW3v,0.879,1.0,0.0569,-11.097,1.0,0.054,136.989,4.0,https://api.spotify.com/v1/tracks/31xY8V6vtSFdPZaDbsfW3v,audio_features,spotify:track:31xY8V6vtSFdPZaDbsfW3v,0.0968
+7,Gouryella,Ligaya,Original Mix,6.74e-05,https://api.spotify.com/v1/audio-analysis/44vn7hjuEBXWiNIgacu7jv,0.467,425000.0,0.821,44vn7hjuEBXWiNIgacu7jv,0.0839,11.0,0.329,-8.755,0.0,0.0389,141.784,4.0,https://api.spotify.com/v1/tracks/44vn7hjuEBXWiNIgacu7jv,audio_features,spotify:track:44vn7hjuEBXWiNIgacu7jv,0.216

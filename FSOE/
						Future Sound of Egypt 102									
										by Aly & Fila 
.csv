@@ -1,0 +1,6 @@
+,Artist(s),Title,Release,acousticness,analysis_url,danceability,duration_ms,energy,id,instrumentalness,key,liveness,loudness,mode,speechiness,tempo,time_signature,track_href,type,uri,valence
+0,Aly & Fila,Intro,Original Mix,,,,,,,,,,,,,,,,,,
+1,Sean Tyas,I Remember Now,Original Mix,6.21e-05,https://api.spotify.com/v1/audio-analysis/0DJifIHwuhGnHnh7cOWjs2,0.473,490286.0,0.989,0DJifIHwuhGnHnh7cOWjs2,0.846,10.0,0.308,-5.355,0.0,0.0638,139.993,4.0,https://api.spotify.com/v1/tracks/0DJifIHwuhGnHnh7cOWjs2,audio_features,spotify:track:0DJifIHwuhGnHnh7cOWjs2,0.569
+2,Signum Manuel Le Saux,Addicted,Manuel Le Saux Remix,0.00933,https://api.spotify.com/v1/audio-analysis/2VIeTaM1YlzOTpnIE0nvrH,0.423,392167.0,0.945,2VIeTaM1YlzOTpnIE0nvrH,0.935,11.0,0.142,-10.139,0.0,0.0518,137.085,4.0,https://api.spotify.com/v1/tracks/2VIeTaM1YlzOTpnIE0nvrH,audio_features,spotify:track:2VIeTaM1YlzOTpnIE0nvrH,0.299
+3,Jason van Wyk Vast Vision Johanna Haris C,Oceanblue,Haris C Dub Mix,,,,,,,,,,,,,,,,,,
+4,Madonna Above & Beyond Paul Miller,What It Feels Like For A Girl,Above & Beyond Remix - Paul Miller Rework,,,,,,,,,,,,,,,,,,

@@ -1,0 +1,20 @@
+,Artist(s),Title,Release,acousticness,analysis_url,danceability,duration_ms,energy,id,instrumentalness,key,liveness,loudness,mode,speechiness,tempo,time_signature,track_href,type,uri,valence
+0,Anjunabeats Worldwide,Intro,Original Mix,,,,,,,,,,,,,,,,,,
+1,Peter Dubs Tranzident,Drift,Original Mix,,,,,,,,,,,,,,,,,,
+2,Alan M Sunny LAX,Eleni,Sunny Lax Remix,,,,,,,,,,,,,,,,,,
+3,Sonicvibe Vardran,Lightform,Original Mix,0.00015,https://api.spotify.com/v1/audio-analysis/5v3GWNQmOqGxYOa6u6c4gb,0.244,323760.0,0.974,5v3GWNQmOqGxYOa6u6c4gb,0.791,7.0,0.355,-10.037,1.0,0.101,139.387,4.0,https://api.spotify.com/v1/tracks/5v3GWNQmOqGxYOa6u6c4gb,audio_features,spotify:track:5v3GWNQmOqGxYOa6u6c4gb,0.0389
+4,6th Sense,Midnight Express,Original Mix,,,,,,,,,,,,,,,,,,
+5,Meridian,Missing Emotion,Original Mix,,,,,,,,,,,,,,,,,,
+6,J.Homeboy,The Angels Have No Fear,Original Mix,,,,,,,,,,,,,,,,,,
+7,Nitrous Oxide,Orient Express,Original Mix,0.000497,https://api.spotify.com/v1/audio-analysis/1NOaI0y1rdcU1eDia68b0Y,0.455,429400.0,0.932,1NOaI0y1rdcU1eDia68b0Y,0.882,1.0,0.0728,-8.295,1.0,0.0469,138.019,4.0,https://api.spotify.com/v1/tracks/1NOaI0y1rdcU1eDia68b0Y,audio_features,spotify:track:1NOaI0y1rdcU1eDia68b0Y,0.316
+8,Jox Sunny LAX,Killing Me 2007,Sunny Lax Remix,,,,,,,,,,,,,,,,,,
+9,Daniel Kandi,Child,Original Mix,0.00331,https://api.spotify.com/v1/audio-analysis/5nykOwr3qKMjkYO59bFlTC,0.507,337827.0,0.976,5nykOwr3qKMjkYO59bFlTC,0.844,7.0,0.0832,-9.068,0.0,0.0469,136.11,4.0,https://api.spotify.com/v1/tracks/5nykOwr3qKMjkYO59bFlTC,audio_features,spotify:track:5nykOwr3qKMjkYO59bFlTC,0.199
+10,Muzzik Sunny LAX Orange Project,Summer Loves Mira,Orange Project Mashup,,,,,,,,,,,,,,,,,,
+11,Above & Beyond Zoë johnston,Good For Me,Above & Beyond's Club Mix,0.0747,https://api.spotify.com/v1/audio-analysis/6Y5OSQXuIXd5kddWoqGptB,0.448,352037.0,0.863,6Y5OSQXuIXd5kddWoqGptB,0.541,8.0,0.921,-10.696,1.0,0.0382,134.956,4.0,https://api.spotify.com/v1/tracks/6Y5OSQXuIXd5kddWoqGptB,audio_features,spotify:track:6Y5OSQXuIXd5kddWoqGptB,0.1
+12,DT8 Project Sunny LAX,Falling,Sunny Lax Remix,0.111,https://api.spotify.com/v1/audio-analysis/4SeJ39bR0gXsO9zds2FYgr,0.499,366080.0,0.816,4SeJ39bR0gXsO9zds2FYgr,0.298,9.0,0.0694,-9.838,0.0,0.0423,136.349,4.0,https://api.spotify.com/v1/tracks/4SeJ39bR0gXsO9zds2FYgr,audio_features,spotify:track:4SeJ39bR0gXsO9zds2FYgr,0.0709
+13,2Devine Cara Dillon Above & Beyond,Black Is The Colour,Above & Beyond's Divine Intervention Remix,,,,,,,,,,,,,,,,,,
+14,Soliquid S.Q.D.,Harry Fountains 69,Original Mix,,,,,,,,,,,,,,,,,,
+15,Francis Blaid,Mystery,Original Mix,0.000148,https://api.spotify.com/v1/audio-analysis/0ehaA5jEJhGdKDIiUfl8zk,0.467,221587.0,0.827,0ehaA5jEJhGdKDIiUfl8zk,0.859,7.0,0.342,-10.282,1.0,0.0372,129.745,4.0,https://api.spotify.com/v1/tracks/0ehaA5jEJhGdKDIiUfl8zk,audio_features,spotify:track:0ehaA5jEJhGdKDIiUfl8zk,0.115
+16,Psyonic Event,Blade Runner,Original Mix,,,,,,,,,,,,,,,,,,
+17,Mr. Sam Orange Project,Insight,Orange Project Remix,0.0102,https://api.spotify.com/v1/audio-analysis/3LNepIHl36BQoUydfsKlZt,0.585,474640.0,0.873,3LNepIHl36BQoUydfsKlZt,0.301,11.0,0.814,-7.627,0.0,0.0386,130.036,4.0,https://api.spotify.com/v1/tracks/3LNepIHl36BQoUydfsKlZt,audio_features,spotify:track:3LNepIHl36BQoUydfsKlZt,0.464
+18,Miller The Flammakers,Only Virgin,The Flammakers Remix,0.000415,https://api.spotify.com/v1/audio-analysis/0u7vW60xLG6aNmF0s6UdAV,0.772,460013.0,0.765,0u7vW60xLG6aNmF0s6UdAV,0.271,5.0,0.222,-7.757,0.0,0.055,131.985,4.0,https://api.spotify.com/v1/tracks/0u7vW60xLG6aNmF0s6UdAV,audio_features,spotify:track:0u7vW60xLG6aNmF0s6UdAV,0.715

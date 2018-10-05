@@ -1,0 +1,4 @@
+,Artist(s),Title,Release,acousticness,analysis_url,danceability,duration_ms,energy,id,instrumentalness,key,liveness,loudness,mode,speechiness,tempo,time_signature,track_href,type,uri,valence
+0,Future Sound Of Egypt,Intro,Original Mix,,,,,,,,,,,,,,,,,,
+1,Corderoy,Kyrie,Club Mix,1.2e-05,https://api.spotify.com/v1/audio-analysis/2jxbemQvbDuZOVxOn3PCUt,0.516,492707.0,0.947,2jxbemQvbDuZOVxOn3PCUt,0.814,1.0,0.215,-6.003,0.0,0.0344,139.998,4.0,https://api.spotify.com/v1/tracks/2jxbemQvbDuZOVxOn3PCUt,audio_features,spotify:track:2jxbemQvbDuZOVxOn3PCUt,0.182
+2,Giuseppe Ottaviani John O'Callaghan,Our Dimension,Original Mix,0.000463,https://api.spotify.com/v1/audio-analysis/2ONg1Pezkd6ZZnuI29oHPg,0.0995,200500.0,0.976,2ONg1Pezkd6ZZnuI29oHPg,0.915,11.0,0.17,-11.238,0.0,0.105,181.47,5.0,https://api.spotify.com/v1/tracks/2ONg1Pezkd6ZZnuI29oHPg,audio_features,spotify:track:2ONg1Pezkd6ZZnuI29oHPg,0.0383

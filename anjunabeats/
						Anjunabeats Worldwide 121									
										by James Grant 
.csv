@@ -1,0 +1,22 @@
+,Artist(s),Title,Release,acousticness,analysis_url,danceability,duration_ms,energy,id,instrumentalness,key,liveness,loudness,mode,speechiness,tempo,time_signature,track_href,type,uri,valence
+0,Anjunabeats Worldwide,Intro,Original Mix,,,,,,,,,,,,,,,,,,
+1,Ricky Inch,Winter Love,Dub Mix,6.86e-05,https://api.spotify.com/v1/audio-analysis/4Vmf1ppIoU4xF0zG6qn8TI,0.594,484496.0,0.782,4Vmf1ppIoU4xF0zG6qn8TI,0.888,4.0,0.0696,-6.725,0.0,0.0415,127.011,4.0,https://api.spotify.com/v1/tracks/4Vmf1ppIoU4xF0zG6qn8TI,audio_features,spotify:track:4Vmf1ppIoU4xF0zG6qn8TI,0.588
+2,Situation 2wo Scope Miami,If You Cant Sleep,Scope's Miami Dub,,,,,,,,,,,,,,,,,,
+3,Liluca,Nobody Loves You Only For Love,Original Mix,,,,,,,,,,,,,,,,,,
+4,Martin Buttrich C2,Stoned Autopilot,C2 Version,0.00244,https://api.spotify.com/v1/audio-analysis/5wCssrW88SuSQMfdtm5W2Z,0.721,716478.0,0.528,5wCssrW88SuSQMfdtm5W2Z,0.911,2.0,0.0953,-10.448,1.0,0.0444,123.0,4.0,https://api.spotify.com/v1/tracks/5wCssrW88SuSQMfdtm5W2Z,audio_features,spotify:track:5wCssrW88SuSQMfdtm5W2Z,0.0658
+5,King Roc Alex Kenji,The Beginning,Alex Kenji Remix,0.000552,https://api.spotify.com/v1/audio-analysis/6NFm40R9MN5Bd32BCKW5fq,0.806,383756.0,0.883,6NFm40R9MN5Bd32BCKW5fq,0.919,6.0,0.0385,-5.675,0.0,0.0525,125.012,4.0,https://api.spotify.com/v1/tracks/6NFm40R9MN5Bd32BCKW5fq,audio_features,spotify:track:6NFm40R9MN5Bd32BCKW5fq,0.172
+6,Empire Of The Sun Cagedbaby,We Are The People,Cagedbaby Remix,0.0981,https://api.spotify.com/v1/audio-analysis/57RHMnLMQx8Qz5V6c0E8dF,0.666,267355.0,0.785,57RHMnLMQx8Qz5V6c0E8dF,0.0198,4.0,0.434,-5.37,0.0,0.0308,122.973,4.0,https://api.spotify.com/v1/tracks/57RHMnLMQx8Qz5V6c0E8dF,audio_features,spotify:track:57RHMnLMQx8Qz5V6c0E8dF,0.549
+7,PROFF Bart van Wissen,Breathe,Bart Van Wissen Remix,,,,,,,,,,,,,,,,,,
+8,Edwin Ferdy,A Day In The Park,Original Mix,0.00669,https://api.spotify.com/v1/audio-analysis/19yUqFrcpzSPbPb5aERTkn,0.797,448835.0,0.932,19yUqFrcpzSPbPb5aERTkn,0.831,9.0,0.0761,-8.071,1.0,0.179,125.015,4.0,https://api.spotify.com/v1/tracks/19yUqFrcpzSPbPb5aERTkn,audio_features,spotify:track:19yUqFrcpzSPbPb5aERTkn,0.038
+9,Daniel Portman Peter Horrevorts,Elder,Peter Horrevorts Fight Maturity Remix,0.365,https://api.spotify.com/v1/audio-analysis/0QFXpHb5PS0U7Dgp9WMPK6,0.875,322293.0,0.725,0QFXpHb5PS0U7Dgp9WMPK6,0.827,6.0,0.188,-9.95,0.0,0.12,126.6,4.0,https://api.spotify.com/v1/tracks/0QFXpHb5PS0U7Dgp9WMPK6,audio_features,spotify:track:0QFXpHb5PS0U7Dgp9WMPK6,0.62
+10,FineTaste,Front Seat,Original Mix,,,,,,,,,,,,,,,,,,
+11,Relation Tone Float,Your Tiny Mind,Tone Float Remix,0.00349,https://api.spotify.com/v1/audio-analysis/7z9dq945KBtTINCTXMgUsy,0.737,533861.0,0.44,7z9dq945KBtTINCTXMgUsy,0.645,6.0,0.0775,-12.136,0.0,0.0583,125.004,4.0,https://api.spotify.com/v1/tracks/7z9dq945KBtTINCTXMgUsy,audio_features,spotify:track:7z9dq945KBtTINCTXMgUsy,0.29
+12,Jeremy Doty James Stitchbury,Form,James Stitchbury Remix,,,,,,,,,,,,,,,,,,
+13,Something Good,1:28AM,Original Mix,,,,,,,,,,,,,,,,,,
+14,Noel Sanger,One More Time Solarity Remix,Instrumental,,,,,,,,,,,,,,,,,,
+15,16 Bit Lolita's Ohmna,Take It Or Leave It,Original Mix,,,,,,,,,,,,,,,,,,
+16,Solarity,Rubinstein's Miracle,Original Mix,,,,,,,,,,,,,,,,,,
+17,Bunny De Luxe,Unknown Track,Original Mix,,,,,,,,,,,,,,,,,,
+18,Sam Ball,Relocate,Original Mix,,,,,,,,,,,,,,,,,,
+19,PROFF,Deep Orange,Original Mix,0.00604,https://api.spotify.com/v1/audio-analysis/6TOs1lcD8enRP2gytalChP,0.66,505907.0,0.811,6TOs1lcD8enRP2gytalChP,0.838,4.0,0.679,-6.149,0.0,0.0402,127.99,4.0,https://api.spotify.com/v1/tracks/6TOs1lcD8enRP2gytalChP,audio_features,spotify:track:6TOs1lcD8enRP2gytalChP,0.296
+20,Paul Keeley,Wegel,Original Mix,0.0025,https://api.spotify.com/v1/audio-analysis/450zOQSkxyADKjFbXFGbuW,0.675,453520.0,0.803,450zOQSkxyADKjFbXFGbuW,0.891,7.0,0.636,-8.306,1.0,0.0513,127.018,4.0,https://api.spotify.com/v1/tracks/450zOQSkxyADKjFbXFGbuW,audio_features,spotify:track:450zOQSkxyADKjFbXFGbuW,0.381

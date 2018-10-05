@@ -1,0 +1,20 @@
+,Artist(s),Title,Release,acousticness,analysis_url,danceability,duration_ms,energy,id,instrumentalness,key,liveness,loudness,mode,speechiness,tempo,time_signature,track_href,type,uri,valence
+0,Iio Scumfrog,At The End,Scumfrog Remix,0.00136,https://api.spotify.com/v1/audio-analysis/3bLAgj2qajWuGrvvejFdW4,0.703,526267.0,0.709,3bLAgj2qajWuGrvvejFdW4,0.482,8.0,0.0729,-7.25,0.0,0.0428,131.994,4.0,https://api.spotify.com/v1/tracks/3bLAgj2qajWuGrvvejFdW4,audio_features,spotify:track:3bLAgj2qajWuGrvvejFdW4,0.527
+1,Sultan Tone Depth,Sagres,Original Mix,0.0147,https://api.spotify.com/v1/audio-analysis/32zEHttyYiHCcYmQO3GO66,0.768,683572.0,0.543,32zEHttyYiHCcYmQO3GO66,0.726,6.0,0.179,-12.312,0.0,0.121,125.003,4.0,https://api.spotify.com/v1/tracks/32zEHttyYiHCcYmQO3GO66,audio_features,spotify:track:32zEHttyYiHCcYmQO3GO66,0.225
+2,Mesh,Urple Haze,Original Mix,,,,,,,,,,,,,,,,,,
+3,Andain Airwave,Summer's Calling,Airwave Club Mix,0.00044,https://api.spotify.com/v1/audio-analysis/5hmGMXbJuONySTsVm7eihn,0.566,547333.0,0.795,5hmGMXbJuONySTsVm7eihn,0.637,10.0,0.0777,-9.388,0.0,0.0394,134.008,4.0,https://api.spotify.com/v1/tracks/5hmGMXbJuONySTsVm7eihn,audio_features,spotify:track:5hmGMXbJuONySTsVm7eihn,0.0925
+4,Scanners,What God Has Givin' You,Original Mix,,,,,,,,,,,,,,,,,,
+5,Jürgen Vries,The Opera Song,Original Mix,0.000134,https://api.spotify.com/v1/audio-analysis/5bdmsMmb8uYt7TKrfNYEdy,0.45,215907.0,0.929,5bdmsMmb8uYt7TKrfNYEdy,0.06,11.0,0.339,-4.757,0.0,0.0802,135.983,4.0,https://api.spotify.com/v1/tracks/5bdmsMmb8uYt7TKrfNYEdy,audio_features,spotify:track:5bdmsMmb8uYt7TKrfNYEdy,0.242
+6,Armin van Buuren Ray Wilson Hiver & Hammer,Yet Another Day,Hiver & Hammer Ground Control Remix,0.00124,https://api.spotify.com/v1/audio-analysis/6PCHWOYa4MDYmIlbWvI3wG,0.528,458750.0,0.865,6PCHWOYa4MDYmIlbWvI3wG,0.138,11.0,0.588,-11.088,0.0,0.0494,139.751,4.0,https://api.spotify.com/v1/tracks/6PCHWOYa4MDYmIlbWvI3wG,audio_features,spotify:track:6PCHWOYa4MDYmIlbWvI3wG,0.194
+7,The Disco Brothers Regeneration,First Contact,Regeneration Mix,,,,,,,,,,,,,,,,,,
+8,Cosmic Gate Flutlicht Vox,Raging (Storm),Flutlicht Vox Remix,,,,,,,,,,,,,,,,,,
+9,King Unique,Sugar High,Original Mix,,,,,,,,,,,,,,,,,,
+10,Starecase,(Sound Two) Second Time,Original Mix,,,,,,,,,,,,,,,,,,
+11,Castor Pollux JF Sebastian,Serenity,JF Sebastian's Don't Be Afraid Remix,,,,,,,,,,,,,,,,,,
+12,Nat Monday,Destiny,Original Mix,,,,,,,,,,,,,,,,,,
+13,Midway,Kung-Fu,Original Mix,0.0012,https://api.spotify.com/v1/audio-analysis/463RAD36kr9zwrNxVxSNzw,0.589,600933.0,0.782,463RAD36kr9zwrNxVxSNzw,0.853,10.0,0.295,-6.294,0.0,0.0367,136.999,4.0,https://api.spotify.com/v1/tracks/463RAD36kr9zwrNxVxSNzw,audio_features,spotify:track:463RAD36kr9zwrNxVxSNzw,0.177
+14,Syntax,Pray,Original Mix,,,,,,,,,,,,,,,,,,
+15,OceanLab,Beautiful Together,Original Mix,,,,,,,,,,,,,,,,,,
+16,Solar Factor Push,No Return,Push Remix,,,,,,,,,,,,,,,,,,
+17,Dee Dee The Green Martian,The One,Green Martian Mix,,,,,,,,,,,,,,,,,,
+18,Speedy J Umek Armin van Buuren,Kreck,Armin Van Buuren Bootleg Edit,,,,,,,,,,,,,,,,,,

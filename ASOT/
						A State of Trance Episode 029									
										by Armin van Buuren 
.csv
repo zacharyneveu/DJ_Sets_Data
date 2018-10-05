@@ -1,0 +1,19 @@
+,Artist(s),Title,Release,acousticness,analysis_url,danceability,duration_ms,energy,id,instrumentalness,key,liveness,loudness,mode,speechiness,tempo,time_signature,track_href,type,uri,valence
+0,Andrea Britton Reflektve Greed,Breathe Life,Greed Remix,,,,,,,,,,,,,,,,,,
+1,Phaedra,Forbidden Methods,Original Mix,7.15e-05,https://api.spotify.com/v1/audio-analysis/05eHFkQSxD6fgGlV0TfICP,0.489,481031.0,0.868,05eHFkQSxD6fgGlV0TfICP,0.867,7.0,0.114,-12.923,0.0,0.0525,139.75,4.0,https://api.spotify.com/v1/tracks/05eHFkQSxD6fgGlV0TfICP,audio_features,spotify:track:05eHFkQSxD6fgGlV0TfICP,0.462
+2,Robbie Rivera Grooves,Funk-A-Tron,Original Mix,,,,,,,,,,,,,,,,,,
+3,Bastian & Ernesto,Lonely People,Original Mix,,,,,,,,,,,,,,,,,,
+4,Lost Witness DJ Tiësto,Did I Dream (Song Of The Siren),DJ Tiesto Remix,0.0202,https://api.spotify.com/v1/audio-analysis/030HyYxnjJ6xr2yWyghuPd,0.577,514827.0,0.749,030HyYxnjJ6xr2yWyghuPd,0.542,7.0,0.186,-9.197,0.0,0.0354,135.011,4.0,https://api.spotify.com/v1/tracks/030HyYxnjJ6xr2yWyghuPd,audio_features,spotify:track:030HyYxnjJ6xr2yWyghuPd,0.481
+5,Funk Einsatz,Punk,Original Mix,,,,,,,,,,,,,,,,,,
+6,T-factory Hiver & Hammer,Message In A Bottle,Hiver & Hammer Remix,,,,,,,,,,,,,,,,,,
+7,Db Boulevard Lange,Point Of View,Lange Remix,0.00284,https://api.spotify.com/v1/audio-analysis/1bNl9932PbUOu7Zw1xe2fR,0.676,231167.0,0.715,1bNl9932PbUOu7Zw1xe2fR,0.0746,6.0,0.0685,-6.854,1.0,0.0287,129.006,4.0,https://api.spotify.com/v1/tracks/1bNl9932PbUOu7Zw1xe2fR,audio_features,spotify:track:1bNl9932PbUOu7Zw1xe2fR,0.275
+8,Adaro Vank,Aquaplanning,Original Mix,,,,,,,,,,,,,,,,,,
+9,Faithless Skynet UK,God Is A DJ,Skynet UK Remix,0.177,https://api.spotify.com/v1/audio-analysis/1pUFYb9peWkK8m1WCKNRjp,0.607,208507.0,0.897,1pUFYb9peWkK8m1WCKNRjp,0.885,10.0,0.17,-7.468,0.0,0.0448,130.549,4.0,https://api.spotify.com/v1/tracks/1pUFYb9peWkK8m1WCKNRjp,audio_features,spotify:track:1pUFYb9peWkK8m1WCKNRjp,0.391
+10,Huntemann,Phreaks 2.1,Original Mix,,,,,,,,,,,,,,,,,,
+11,Intervision Free your soul,Supernova,Free Your Soul Mix,,,,,,,,,,,,,,,,,,
+12,Letticia Dark Moon,Colour Of My Dreams,Dark Moon Remix,,,,,,,,,,,,,,,,,,
+13,Marl Taylor,Matic Mayhem,Original Mix,,,,,,,,,,,,,,,,,,
+14,Dito Dzenita,Shadows,Original Mix,,,,,,,,,,,,,,,,,,
+15,York Alaska Kaycee,Yesterday (Silence),Kaycee Remix,,,,,,,,,,,,,,,,,,
+16,Sharpside,Space Cruising,Original Mix,8.79e-05,https://api.spotify.com/v1/audio-analysis/5ePftPUYiDE99w6W0SuBm7,0.53,405640.0,0.979,5ePftPUYiDE99w6W0SuBm7,0.887,0.0,0.305,-8.213,1.0,0.0484,138.967,4.0,https://api.spotify.com/v1/tracks/5ePftPUYiDE99w6W0SuBm7,audio_features,spotify:track:5ePftPUYiDE99w6W0SuBm7,0.402
+17,Rank 1,Awakening,Original Mix,0.000313,https://api.spotify.com/v1/audio-analysis/3d4FOqsHoJIxJepIKVFfV3,0.525,243453.0,0.927,3d4FOqsHoJIxJepIKVFfV3,0.878,1.0,0.0813,-7.032,1.0,0.0459,138.022,4.0,https://api.spotify.com/v1/tracks/3d4FOqsHoJIxJepIKVFfV3,audio_features,spotify:track:3d4FOqsHoJIxJepIKVFfV3,0.406

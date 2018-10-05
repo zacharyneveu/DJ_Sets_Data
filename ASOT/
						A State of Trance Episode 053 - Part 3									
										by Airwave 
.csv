@@ -1,0 +1,11 @@
+,Artist(s),Title,Release,acousticness,analysis_url,danceability,duration_ms,energy,id,instrumentalness,key,liveness,loudness,mode,speechiness,tempo,time_signature,track_href,type,uri,valence
+0,Pb & J Hannah Dorsey,The Way,Original Mix,,,,,,,,,,,,,,,,,,
+1,Miro Ian Wilkie,By Your Side,Ian Wilkie Remix,,,,,,,,,,,,,,,,,,
+2,The Milano Brothers,Permanente,Original Mix,0.277,https://api.spotify.com/v1/audio-analysis/12KNu5sQGOiOQoe9N1kv16,0.671,460013.0,0.638,12KNu5sQGOiOQoe9N1kv16,0.907,11.0,0.337,-10.27,0.0,0.0371,126.017,4.0,https://api.spotify.com/v1/tracks/12KNu5sQGOiOQoe9N1kv16,audio_features,spotify:track:12KNu5sQGOiOQoe9N1kv16,0.645
+3,Urban Dwellers Blackwatch,Loverman,Blackwatch Remix,,,,,,,,,,,,,,,,,,
+4,Orion,See Me Here,Original Mix,0.000913,https://api.spotify.com/v1/audio-analysis/16q8IGmTbkMmW2wSLl8Tkq,0.543,537391.0,0.957,16q8IGmTbkMmW2wSLl8Tkq,0.605,6.0,0.592,-8.631,1.0,0.0658,138.008,4.0,https://api.spotify.com/v1/tracks/16q8IGmTbkMmW2wSLl8Tkq,audio_features,spotify:track:16q8IGmTbkMmW2wSLl8Tkq,0.131
+5,Cape Town,Pitstop,Original Mix,0.000788,https://api.spotify.com/v1/audio-analysis/6HW3vWKuB2xbZAubOwR4Dv,0.593,583427.0,0.888,6HW3vWKuB2xbZAubOwR4Dv,0.921,11.0,0.0892,-11.896,1.0,0.0537,138.005,4.0,https://api.spotify.com/v1/tracks/6HW3vWKuB2xbZAubOwR4Dv,audio_features,spotify:track:6HW3vWKuB2xbZAubOwR4Dv,0.75
+6,Edvika Fire & Ice,Sometimes,Fire & Ice Remix,0.00043,https://api.spotify.com/v1/audio-analysis/1fk1jz5rWsBh8U7lNsFKhG,0.59,455293.0,0.914,1fk1jz5rWsBh8U7lNsFKhG,0.73,6.0,0.0465,-9.675,0.0,0.052,138.014,4.0,https://api.spotify.com/v1/tracks/1fk1jz5rWsBh8U7lNsFKhG,audio_features,spotify:track:1fk1jz5rWsBh8U7lNsFKhG,0.201
+7,Bomfunk Mc Push,Live Ur Life,Push Remix,,,,,,,,,,,,,,,,,,
+8,Bridget Bones,Vibe,Original Mix,0.0177,https://api.spotify.com/v1/audio-analysis/5KBUweLCoOezmEbpuSFT8r,0.714,370467.0,0.832,5KBUweLCoOezmEbpuSFT8r,0.0704,5.0,0.0704,-6.954,0.0,0.0557,139.866,4.0,https://api.spotify.com/v1/tracks/5KBUweLCoOezmEbpuSFT8r,audio_features,spotify:track:5KBUweLCoOezmEbpuSFT8r,0.361
+9,Airwave,When Things Go Wrong,Original Mix,0.00206,https://api.spotify.com/v1/audio-analysis/0z2WR8Ki5MOlpzX1U2gFOI,0.591,421560.0,0.872,0z2WR8Ki5MOlpzX1U2gFOI,0.944,6.0,0.101,-12.573,1.0,0.0404,130.004,4.0,https://api.spotify.com/v1/tracks/0z2WR8Ki5MOlpzX1U2gFOI,audio_features,spotify:track:0z2WR8Ki5MOlpzX1U2gFOI,0.577

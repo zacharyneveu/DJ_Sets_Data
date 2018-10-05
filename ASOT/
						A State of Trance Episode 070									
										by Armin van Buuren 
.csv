@@ -1,0 +1,21 @@
+,Artist(s),Title,Release,acousticness,analysis_url,danceability,duration_ms,energy,id,instrumentalness,key,liveness,loudness,mode,speechiness,tempo,time_signature,track_href,type,uri,valence
+0,Jan Johnston Noel Sanger,Flesh 2002,Noel Sanger's 5Am Repo Mix,,,,,,,,,,,,,,,,,,
+1,Bedrock,Emerald,Original Mix,8.07e-05,https://api.spotify.com/v1/audio-analysis/1ttJvEtn4lNCdVWQY795Xa,0.57,701465.0,0.959,1ttJvEtn4lNCdVWQY795Xa,0.878,5.0,0.149,-6.579,0.0,0.059,130.001,4.0,https://api.spotify.com/v1/tracks/1ttJvEtn4lNCdVWQY795Xa,audio_features,spotify:track:1ttJvEtn4lNCdVWQY795Xa,0.54
+2,Greed Lemon8,Strange World,Lemon8 Remix,,,,,,,,,,,,,,,,,,
+3,Hiver & Hammer Javah,5 Million Miles,Original Mix,0.000375,https://api.spotify.com/v1/audio-analysis/7rWIabIRzPto6kblZsO0DO,0.426,379172.0,0.894,7rWIabIRzPto6kblZsO0DO,0.945,9.0,0.518,-10.57,1.0,0.0358,137.376,4.0,https://api.spotify.com/v1/tracks/7rWIabIRzPto6kblZsO0DO,audio_features,spotify:track:7rWIabIRzPto6kblZsO0DO,0.383
+4,Sun Decade Mirco De Govia,I'm Alone,Mirco De Govia Dub,,,,,,,,,,,,,,,,,,
+5,Mesh,Purple Haze,Original Mix,1.76e-05,https://api.spotify.com/v1/audio-analysis/5BB9yL6S6wHtbkDD8JCqK8,0.604,452667.0,0.982,5BB9yL6S6wHtbkDD8JCqK8,0.839,1.0,0.128,-8.485,1.0,0.052,137.974,4.0,https://api.spotify.com/v1/tracks/5BB9yL6S6wHtbkDD8JCqK8,audio_features,spotify:track:5BB9yL6S6wHtbkDD8JCqK8,0.384
+6,Rephlex One,Pulse,Original Mix,0.000435,https://api.spotify.com/v1/audio-analysis/3zetBSvkqeffRhtp5HUGTH,0.621,451538.0,0.913,3zetBSvkqeffRhtp5HUGTH,0.779,0.0,0.127,-12.457,1.0,0.0472,134.794,4.0,https://api.spotify.com/v1/tracks/3zetBSvkqeffRhtp5HUGTH,audio_features,spotify:track:3zetBSvkqeffRhtp5HUGTH,0.821
+7,Solar Factor,No Return,Original Mix,9.29e-06,https://api.spotify.com/v1/audio-analysis/3iRmWZ1gshPS8VkXLakiVQ,0.608,439347.0,0.699,3iRmWZ1gshPS8VkXLakiVQ,0.815,1.0,0.0979,-12.024,1.0,0.0493,137.021,4.0,https://api.spotify.com/v1/tracks/3iRmWZ1gshPS8VkXLakiVQ,audio_features,spotify:track:3iRmWZ1gshPS8VkXLakiVQ,0.346
+8,Matti Laamanen,Flakes,Original Mix,0.000669,https://api.spotify.com/v1/audio-analysis/5SAOvRJJZxJaKhyP5x0cUo,0.568,411880.0,0.877,5SAOvRJJZxJaKhyP5x0cUo,0.895,6.0,0.313,-9.596,0.0,0.0643,137.977,4.0,https://api.spotify.com/v1/tracks/5SAOvRJJZxJaKhyP5x0cUo,audio_features,spotify:track:5SAOvRJJZxJaKhyP5x0cUo,0.323
+9,Castor Pollux JF Sebastian,Serenity,JF Sebastian's Don't Be Afraid Remix,,,,,,,,,,,,,,,,,,
+10,Dj Encore Engelina Adam Dived,I See Right Through To You,Adam Dived Dub,,,,,,,,,,,,,,,,,,
+11,DJ Krazy Sandi Dioxine,West,Dioxine Mix,,,,,,,,,,,,,,,,,,
+12,Dyloot Steve Baltes,Spirit Of Love,Original Mix,0.000154,https://api.spotify.com/v1/audio-analysis/2RYSp1SRUqLsl1crrYNJdi,0.58,432000.0,0.97,2RYSp1SRUqLsl1crrYNJdi,0.876,11.0,0.104,-9.629,1.0,0.0387,140.007,4.0,https://api.spotify.com/v1/tracks/2RYSp1SRUqLsl1crrYNJdi,audio_features,spotify:track:2RYSp1SRUqLsl1crrYNJdi,0.151
+13,Li Kwan,Point Zero,Original Mix,2.09e-05,https://api.spotify.com/v1/audio-analysis/66g7HWUICyWmLkhRzx5KdS,0.401,378444.0,0.843,66g7HWUICyWmLkhRzx5KdS,0.906,4.0,0.554,-14.266,0.0,0.0529,136.996,4.0,https://api.spotify.com/v1/tracks/66g7HWUICyWmLkhRzx5KdS,audio_features,spotify:track:66g7HWUICyWmLkhRzx5KdS,0.0395
+14,Airwave Rising Star DCML,Sunspot,DCML Remix,0.00116,https://api.spotify.com/v1/audio-analysis/6wt3rQsCiMAFaSecmdd7QU,0.529,355523.0,0.622,6wt3rQsCiMAFaSecmdd7QU,0.96,3.0,0.18,-15.186,0.0,0.034,140.183,4.0,https://api.spotify.com/v1/tracks/6wt3rQsCiMAFaSecmdd7QU,audio_features,spotify:track:6wt3rQsCiMAFaSecmdd7QU,0.581
+15,Dj Danjo Rob Styles Katana,Anticipating,Katana Remix,,,,,,,,,,,,,,,,,,
+16,Nightvision,Believin',Original Mix,,,,,,,,,,,,,,,,,,
+17,Christian Rusch Alias,Missouri,Original Mix,,,,,,,,,,,,,,,,,,
+18,Firewall Plastic Angel,Touched,Plastic Angel Remix,,,,,,,,,,,,,,,,,,
+19,Speedy J Umek Armin van Buuren,Kreck,Armin Van Buuren Bootleg Edit,,,,,,,,,,,,,,,,,,

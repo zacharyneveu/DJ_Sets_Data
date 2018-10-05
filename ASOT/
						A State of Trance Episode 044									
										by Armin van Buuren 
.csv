@@ -1,0 +1,22 @@
+,Artist(s),Title,Release,acousticness,analysis_url,danceability,duration_ms,energy,id,instrumentalness,key,liveness,loudness,mode,speechiness,tempo,time_signature,track_href,type,uri,valence
+0,Brother Brown Boy George,Generations Of Love,Original Mix,,,,,,,,,,,,,,,,,,
+1,Lyric Natali,Over Emotion,Original Mix,0.00298,https://api.spotify.com/v1/audio-analysis/0oSILGEpT5Ti6NWrqcZCsT,0.574,513025.0,0.794,0oSILGEpT5Ti6NWrqcZCsT,0.865,2.0,0.109,-10.198,1.0,0.0305,131.998,4.0,https://api.spotify.com/v1/tracks/0oSILGEpT5Ti6NWrqcZCsT,audio_features,spotify:track:0oSILGEpT5Ti6NWrqcZCsT,0.213
+2,DJ Albert DJ Precision,Say Yes,Silent Remix,,,,,,,,,,,,,,,,,,
+3,The Thrillseekers,Dreaming Of You,Original Mix,0.00662,https://api.spotify.com/v1/audio-analysis/3cO4fzNUjaJwKmPPC8Zrct,0.71,492973.0,0.644,3cO4fzNUjaJwKmPPC8Zrct,0.593,7.0,0.492,-10.769,1.0,0.0514,135.008,4.0,https://api.spotify.com/v1/tracks/3cO4fzNUjaJwKmPPC8Zrct,audio_features,spotify:track:3cO4fzNUjaJwKmPPC8Zrct,0.508
+4,Marco V,I Feel You,Original Mix,0.000713,https://api.spotify.com/v1/audio-analysis/29BCJTLzS6DgPYUNLjwIkM,0.546,351094.0,0.97,29BCJTLzS6DgPYUNLjwIkM,0.0943,5.0,0.0783,-7.859,0.0,0.132,137.919,4.0,https://api.spotify.com/v1/tracks/29BCJTLzS6DgPYUNLjwIkM,audio_features,spotify:track:29BCJTLzS6DgPYUNLjwIkM,0.146
+5,D*Note Airwave,Shed My Skin,Airwave Remix,0.00583,https://api.spotify.com/v1/audio-analysis/4grKHqqXPWpUFkN1os7DFx,0.665,200240.0,0.85,4grKHqqXPWpUFkN1os7DFx,0.0627,2.0,0.119,-6.927,1.0,0.0531,128.03,4.0,https://api.spotify.com/v1/tracks/4grKHqqXPWpUFkN1os7DFx,audio_features,spotify:track:4grKHqqXPWpUFkN1os7DFx,0.641
+6,Pale-X,Beautiful Journey,Original Mix,,,,,,,,,,,,,,,,,,
+7,Bastian & Ernesto,Being Single,Original Mix,,,,,,,,,,,,,,,,,,
+8,Armin van Buuren,Sunburn,Original Mix,0.000226,https://api.spotify.com/v1/audio-analysis/2aJZYb3yxUaDCtOesGRlDs,0.604,486187.0,0.746,2aJZYb3yxUaDCtOesGRlDs,0.0279,0.0,0.405,-11.24,0.0,0.0672,138.003,4.0,https://api.spotify.com/v1/tracks/2aJZYb3yxUaDCtOesGRlDs,audio_features,spotify:track:2aJZYb3yxUaDCtOesGRlDs,0.224
+9,Solid Sessions Armin van Buuren,Janeiro,Armin Van Buuren Remix,0.000113,https://api.spotify.com/v1/audio-analysis/2avtT08MndGFDCjgbYPBaU,0.541,577413.0,0.897,2avtT08MndGFDCjgbYPBaU,0.722,1.0,0.112,-8.669,1.0,0.0403,135.468,4.0,https://api.spotify.com/v1/tracks/2avtT08MndGFDCjgbYPBaU,audio_features,spotify:track:2avtT08MndGFDCjgbYPBaU,0.318
+10,Dallas Kiss Blackwatch,Revelation,Blackwatch Remix,,,,,,,,,,,,,,,,,,
+11,Jigsaw Sia,Drink To Get Drunk,Original Mix,,,,,,,,,,,,,,,,,,
+12,Dave Swayze,Yasmine's Garden,Original Mix,,,,,,,,,,,,,,,,,,
+13,Arrakis Lemon8,Aira Forces,Lemon8 Remix,,,,,,,,,,,,,,,,,,
+14,Humate Jan Driver,Vivid,Jan Driver Remix,5.45e-06,https://api.spotify.com/v1/audio-analysis/3njKx5jZXV8YTR2nUWjvgK,0.649,477627.0,0.917,3njKx5jZXV8YTR2nUWjvgK,0.842,9.0,0.0881,-7.466,1.0,0.046,134.988,4.0,https://api.spotify.com/v1/tracks/3njKx5jZXV8YTR2nUWjvgK,audio_features,spotify:track:3njKx5jZXV8YTR2nUWjvgK,0.256
+15,Red Hot Ryders DJ Vincenzo,Machine Control,DJ Vincenzo Remix,0.016,https://api.spotify.com/v1/audio-analysis/72ayL53uURGLnASoT9qrSi,0.444,244844.0,0.79,72ayL53uURGLnASoT9qrSi,0.834,11.0,0.7,-13.41,0.0,0.0457,141.198,4.0,https://api.spotify.com/v1/tracks/72ayL53uURGLnASoT9qrSi,audio_features,spotify:track:72ayL53uURGLnASoT9qrSi,0.63
+16,Katana Mac & Mac,Fancy Fair,Mac & Mac Remix,0.0157,https://api.spotify.com/v1/audio-analysis/5j1xFtv8VqN86ocaLzJDj4,0.708,386280.0,0.876,5j1xFtv8VqN86ocaLzJDj4,0.92,6.0,0.147,-8.52,0.0,0.0478,140.001,4.0,https://api.spotify.com/v1/tracks/5j1xFtv8VqN86ocaLzJDj4,audio_features,spotify:track:5j1xFtv8VqN86ocaLzJDj4,0.355
+17,Eon,Pocket Damage,Original Mix,,,,,,,,,,,,,,,,,,
+18,Exor Project Medusa Exor,Moonshine,Exor Mix Part I,,,,,,,,,,,,,,,,,,
+19,Vac-Scene Kid Vicious,My Emotion,Kid Vicious Remix,,,,,,,,,,,,,,,,,,
+20,Dariush Pascal F.E.O.S.,Ira,Pascal F.E.O.S. Treatment,0.00275,https://api.spotify.com/v1/audio-analysis/4wvLgcXBX3jNm4fVFTPtc1,0.58,446040.0,0.59,4wvLgcXBX3jNm4fVFTPtc1,0.922,2.0,0.306,-11.858,1.0,0.0374,135.965,4.0,https://api.spotify.com/v1/tracks/4wvLgcXBX3jNm4fVFTPtc1,audio_features,spotify:track:4wvLgcXBX3jNm4fVFTPtc1,0.265

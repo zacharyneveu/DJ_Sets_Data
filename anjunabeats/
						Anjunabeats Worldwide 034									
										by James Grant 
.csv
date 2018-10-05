@@ -1,0 +1,23 @@
+,Artist(s),Title,Release,acousticness,analysis_url,danceability,duration_ms,energy,id,instrumentalness,key,liveness,loudness,mode,speechiness,tempo,time_signature,track_href,type,uri,valence
+0,Anjunabeats Worldwide,Intro,Original Mix,,,,,,,,,,,,,,,,,,
+1,Scope,Uberknocker,Original Mix,0.00709,https://api.spotify.com/v1/audio-analysis/2Q2K4Ym3qxY79mQ1FsoHiV,0.769,437605.0,0.754,2Q2K4Ym3qxY79mQ1FsoHiV,0.877,9.0,0.0855,-10.491,0.0,0.0563,125.02,4.0,https://api.spotify.com/v1/tracks/2Q2K4Ym3qxY79mQ1FsoHiV,audio_features,spotify:track:2Q2K4Ym3qxY79mQ1FsoHiV,0.844
+2,Gui Boratto Supermayer,Like You,Supermayer Mix,0.000895,https://api.spotify.com/v1/audio-analysis/73zQtDnr1FTTL8YEx7Zczw,0.798,458187.0,0.628,73zQtDnr1FTTL8YEx7Zczw,0.837,7.0,0.0962,-8.833,0.0,0.0297,126.026,4.0,https://api.spotify.com/v1/tracks/73zQtDnr1FTTL8YEx7Zczw,audio_features,spotify:track:73zQtDnr1FTTL8YEx7Zczw,0.514
+3,The Timewriter,Heartstring,Original Mix,0.00186,https://api.spotify.com/v1/audio-analysis/1rn9rC6GhqDOqTHIJgrWIX,0.802,451053.0,0.9,1rn9rC6GhqDOqTHIJgrWIX,0.906,10.0,0.0893,-8.864,0.0,0.0758,125.022,3.0,https://api.spotify.com/v1/tracks/1rn9rC6GhqDOqTHIJgrWIX,audio_features,spotify:track:1rn9rC6GhqDOqTHIJgrWIX,0.81
+4,Gus Gus Tim Deluxe,Moss,Tim Deluxe Remix,,,,,,,,,,,,,,,,,,
+5,Jorgensen Deadmau5,Untitled,Deadmau5 Remix,0.777,https://api.spotify.com/v1/audio-analysis/47G4rCfHfjWXYQb9ncWxmW,0.579,206733.0,0.274,47G4rCfHfjWXYQb9ncWxmW,0.000505,4.0,0.107,-14.619,1.0,0.0279,92.719,4.0,https://api.spotify.com/v1/tracks/47G4rCfHfjWXYQb9ncWxmW,audio_features,spotify:track:47G4rCfHfjWXYQb9ncWxmW,0.414
+6,Sebastian Ingrosso Steve Angello,Yo Yo Kidz,Original Mix,,,,,,,,,,,,,,,,,,
+7,Rozzo,Blue,Original Mix,,,,,,,,,,,,,,,,,,
+8,Audionova Electrobios,Pacific,Original Mix,,,,,,,,,,,,,,,,,,
+9,Numatic,In The Morning,Original Mix,,,,,,,,,,,,,,,,,,
+10,T.O.N Jaytech,Lost Childhood,Jaytech Remix,,,,,,,,,,,,,,,,,,
+11,Crackin' Smack,Keep On Searchin',Original Mix,,,,,,,,,,,,,,,,,,
+12,Hypno,Got Bread,Original Mix Maxxed,6.94e-05,https://api.spotify.com/v1/audio-analysis/5RnKLY9hpoggngOaYACbgp,0.811,524000.0,0.672,5RnKLY9hpoggngOaYACbgp,0.838,10.0,0.0601,-9.07,0.0,0.0576,120.001,4.0,https://api.spotify.com/v1/tracks/5RnKLY9hpoggngOaYACbgp,audio_features,spotify:track:5RnKLY9hpoggngOaYACbgp,0.471
+13,Steve Mill,Q For Quality,Original Mix,0.0271,https://api.spotify.com/v1/audio-analysis/2keCRUo8P3leaIwGshaRYv,0.75,462279.0,0.599,2keCRUo8P3leaIwGshaRYv,0.0783,4.0,0.0926,-9.176,0.0,0.106,126.482,4.0,https://api.spotify.com/v1/tracks/2keCRUo8P3leaIwGshaRYv,audio_features,spotify:track:2keCRUo8P3leaIwGshaRYv,0.108
+14,Steve Mill,Next To Me,Original Mix,,,,,,,,,,,,,,,,,,
+15,Pryda,Balaton,Original Mix,0.00406,https://api.spotify.com/v1/audio-analysis/0vtKeyOzSyM6gShGnyvldP,0.77,524855.0,0.691,0vtKeyOzSyM6gShGnyvldP,0.863,8.0,0.257,-9.071,1.0,0.0509,125.013,4.0,https://api.spotify.com/v1/tracks/0vtKeyOzSyM6gShGnyvldP,audio_features,spotify:track:0vtKeyOzSyM6gShGnyvldP,0.398
+16,Bjoern Mandry Thomas Gold Fine Taste,Suppress You,Fine Taste Remix,,,,,,,,,,,,,,,,,,
+17,Mike Polo Tiger Ben Macklin,Lily,Ben Macklin Remix,,,,,,,,,,,,,,,,,,
+18,David West Gareth Emery,Welsh Morphology,Gareth Emery Remix,0.00128,https://api.spotify.com/v1/audio-analysis/7AoppAlZ7kSLpZ2ccjZdA1,0.654,466320.0,0.866,7AoppAlZ7kSLpZ2ccjZdA1,0.868,8.0,0.203,-7.846,0.0,0.0613,128.013,4.0,https://api.spotify.com/v1/tracks/7AoppAlZ7kSLpZ2ccjZdA1,audio_features,spotify:track:7AoppAlZ7kSLpZ2ccjZdA1,0.364
+19,Alex M.O.R.P.H. Rank 1 Rank 1,Life Less Ordinary,A Less Ordinary Rank 1 Mix,0.000267,https://api.spotify.com/v1/audio-analysis/3qtaSu9FjddcHDvDhyNm8N,0.648,42656.0,0.906,3qtaSu9FjddcHDvDhyNm8N,0.884,9.0,0.128,-10.821,0.0,0.044,135.022,4.0,https://api.spotify.com/v1/tracks/3qtaSu9FjddcHDvDhyNm8N,audio_features,spotify:track:3qtaSu9FjddcHDvDhyNm8N,0.953
+20,Above & Beyond Wippenberg,Home,Wippenberg Remix,0.000944,https://api.spotify.com/v1/audio-analysis/1YQJGQUSezjqT0uByzY8s1,0.711,534653.0,0.827,1YQJGQUSezjqT0uByzY8s1,0.577,2.0,0.361,-7.48,1.0,0.0499,128.029,4.0,https://api.spotify.com/v1/tracks/1YQJGQUSezjqT0uByzY8s1,audio_features,spotify:track:1YQJGQUSezjqT0uByzY8s1,0.2
+21,Cirez D,Horizons,Original Mix,0.000646,https://api.spotify.com/v1/audio-analysis/2G2H8XYtnnFe8aYOOSGmSu,0.77,428705.0,0.684,2G2H8XYtnnFe8aYOOSGmSu,0.856,1.0,0.0484,-11.695,1.0,0.0725,126.993,4.0,https://api.spotify.com/v1/tracks/2G2H8XYtnnFe8aYOOSGmSu,audio_features,spotify:track:2G2H8XYtnnFe8aYOOSGmSu,0.0589

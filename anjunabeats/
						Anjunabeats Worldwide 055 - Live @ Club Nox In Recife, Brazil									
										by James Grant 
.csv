@@ -1,0 +1,19 @@
+,Artist(s),Title,Release,acousticness,analysis_url,danceability,duration_ms,energy,id,instrumentalness,key,liveness,loudness,mode,speechiness,tempo,time_signature,track_href,type,uri,valence
+0,Dana Burnquist Pedar G,SOS,Original Mix,,,,,,,,,,,,,,,,,,
+1,NUFrequency Plavka Cagedbaby,Love Sick,Cagedbaby Babydub,,,,,,,,,,,,,,,,,,
+2,mParadis,Hello World,Original Mix,,,,,,,,,,,,,,,,,,
+3,Brisker Magitman,Cover Edge,Original Mix,,,,,,,,,,,,,,,,,,
+4,Armin Prayd Sterefunk,Jokuvamana People,Sterefunk Remix,0.000931,https://api.spotify.com/v1/audio-analysis/318Fd8yzZxoFB5wJU9Lvwd,0.796,347875.0,0.844,318Fd8yzZxoFB5wJU9Lvwd,0.835,0.0,0.02,-4.407,1.0,0.057,128.02,4.0,https://api.spotify.com/v1/tracks/318Fd8yzZxoFB5wJU9Lvwd,audio_features,spotify:track:318Fd8yzZxoFB5wJU9Lvwd,0.751
+5,One Deadmau5,No Pressure,Deadmau5 Remix,0.412,https://api.spotify.com/v1/audio-analysis/4N9xYJwUM0jMZcXydEJJ9s,0.495,198053.0,0.807,4N9xYJwUM0jMZcXydEJJ9s,0.0,1.0,0.35,-4.257,1.0,0.42,74.662,1.0,https://api.spotify.com/v1/tracks/4N9xYJwUM0jMZcXydEJJ9s,audio_features,spotify:track:4N9xYJwUM0jMZcXydEJJ9s,0.685
+6,Electrobios Interplay,With You,Original Mix,0.0163,https://api.spotify.com/v1/audio-analysis/6DErue6no5FHfz5vKA32eF,0.633,238880.0,0.943,6DErue6no5FHfz5vKA32eF,0.918,9.0,0.0374,-5.969,0.0,0.0357,128.606,4.0,https://api.spotify.com/v1/tracks/6DErue6no5FHfz5vKA32eF,audio_features,spotify:track:6DErue6no5FHfz5vKA32eF,0.791
+7,Ben Brown 16 Bit Lolita's,Love And Solace,16 Bit Lolita's Remix,0.000963,https://api.spotify.com/v1/audio-analysis/74gMHJUSiverjSIkPNUhd7,0.641,485625.0,0.892,74gMHJUSiverjSIkPNUhd7,0.927,4.0,0.447,-8.352,0.0,0.0434,127.979,4.0,https://api.spotify.com/v1/tracks/74gMHJUSiverjSIkPNUhd7,audio_features,spotify:track:74gMHJUSiverjSIkPNUhd7,0.381
+8,Bart van Wissen,Cruiser,Original Mix,7.02e-05,https://api.spotify.com/v1/audio-analysis/2S22GODJ0cR0MzqvGUlkmX,0.804,444978.0,0.854,2S22GODJ0cR0MzqvGUlkmX,0.827,11.0,0.103,-7.41,0.0,0.0525,126.987,4.0,https://api.spotify.com/v1/tracks/2S22GODJ0cR0MzqvGUlkmX,audio_features,spotify:track:2S22GODJ0cR0MzqvGUlkmX,0.894
+9,Deadmau5,Jaded,Original Mix,,,,,,,,,,,,,,,,,,
+10,Deadmau5,Everything Before,Original Mix,0.0837,https://api.spotify.com/v1/audio-analysis/2jH7D9X8ceClU1RBABvTQj,0.808,395889.0,0.526,2jH7D9X8ceClU1RBABvTQj,0.874,11.0,0.582,-8.186,0.0,0.0693,127.99,4.0,https://api.spotify.com/v1/tracks/2jH7D9X8ceClU1RBABvTQj,audio_features,spotify:track:2jH7D9X8ceClU1RBABvTQj,0.621
+11,Michael Cassette,Shadow's Movement,Original Mix,,,,,,,,,,,,,,,,,,
+12,Squash 84,Lacross,Original Mix,,,,,,,,,,,,,,,,,,
+13,Jaytech,Headcase,Original Mix,0.000717,https://api.spotify.com/v1/audio-analysis/789g8GNWH5IcKZ62xi3wCb,0.752,446214.0,0.438,789g8GNWH5IcKZ62xi3wCb,0.876,11.0,0.0475,-9.964,1.0,0.101,125.979,4.0,https://api.spotify.com/v1/tracks/789g8GNWH5IcKZ62xi3wCb,audio_features,spotify:track:789g8GNWH5IcKZ62xi3wCb,0.61
+14,Grooveyard Michael de Hey Peter Horrevorts,Compound,Peter Horrevorts Remix,,,,,,,,,,,,,,,,,,
+15,Johan Vermeulen,Do Not Cross,Original Mix,0.000171,https://api.spotify.com/v1/audio-analysis/77I8OGiiX3ECyNn6W5TRX3,0.678,228733.0,0.979,77I8OGiiX3ECyNn6W5TRX3,0.883,5.0,0.199,-7.389,1.0,0.0654,130.093,4.0,https://api.spotify.com/v1/tracks/77I8OGiiX3ECyNn6W5TRX3,audio_features,spotify:track:77I8OGiiX3ECyNn6W5TRX3,0.303
+16,Liluca,Clear Senses,Original Mix,0.000538,https://api.spotify.com/v1/audio-analysis/3FfnbZKMCC2X2jRiGU8mhk,0.671,374429.0,0.878,3FfnbZKMCC2X2jRiGU8mhk,0.946,9.0,0.0792,-9.226,1.0,0.0632,128.16,4.0,https://api.spotify.com/v1/tracks/3FfnbZKMCC2X2jRiGU8mhk,audio_features,spotify:track:3FfnbZKMCC2X2jRiGU8mhk,0.338
+17,Dousk,Nails,Original Mix,0.032,https://api.spotify.com/v1/audio-analysis/2AsIZsrVvQV1Ott2eJhz9k,0.795,486312.0,0.767,2AsIZsrVvQV1Ott2eJhz9k,0.828,1.0,0.145,-7.393,1.0,0.0524,128.023,4.0,https://api.spotify.com/v1/tracks/2AsIZsrVvQV1Ott2eJhz9k,audio_features,spotify:track:2AsIZsrVvQV1Ott2eJhz9k,0.856

@@ -1,0 +1,12 @@
+,Artist(s),Title,Release,acousticness,analysis_url,danceability,duration_ms,energy,id,instrumentalness,key,liveness,loudness,mode,speechiness,tempo,time_signature,track_href,type,uri,valence
+0,Aly & Fila,Introduction,Original Mix,,,,,,,,,,,,,,,,,,
+1,Running Man CDR,Rock Candy,Original Mix,,,,,,,,,,,,,,,,,,
+2,Stoneface & Terminal Euphoric,St.Francis Foley,Club Mix,,,,,,,,,,,,,,,,,,
+3,Rapha Reminder Reminder Afterglow,Beyond The Clouds,Reminder Remix,,,,,,,,,,,,,,,,,,
+4,Michael Lee CDR,Final Resolve,Original Mix,,,,,,,,,,,,,,,,,,
+5,Luke Terry Paul Miller Unearthed Red,Rocket Theory,Paul Miller Remix,4.81e-05,https://api.spotify.com/v1/audio-analysis/3WzHEwfsiqo18fGlh02a1A,0.491,506200.0,0.929,3WzHEwfsiqo18fGlh02a1A,0.896,10.0,0.262,-7.229,0.0,0.0558,138.008,4.0,https://api.spotify.com/v1/tracks/3WzHEwfsiqo18fGlh02a1A,audio_features,spotify:track:3WzHEwfsiqo18fGlh02a1A,0.323
+6,Ciro Visone Vol Deeman Harmonic Breeze,Midnight,Vol Deeman Remix,0.00105,https://api.spotify.com/v1/audio-analysis/1V6nSxosxRZQARMMbSgMwa,0.479,411567.0,0.992,1V6nSxosxRZQARMMbSgMwa,0.809,3.0,0.101,-6.911,0.0,0.0672,139.998,4.0,https://api.spotify.com/v1/tracks/1V6nSxosxRZQARMMbSgMwa,audio_features,spotify:track:1V6nSxosxRZQARMMbSgMwa,0.346
+7,DST Jared Knapp Yakuza,Encompass,Original Mix,,,,,,,,,,,,,,,,,,
+8,Aerium Mysterious Movement Unearthed,Moonflower,Mysterious Movement Remix,0.00253,https://api.spotify.com/v1/audio-analysis/2QxvQi7kJlTFpDXUfIyc48,0.442,467746.0,0.881,2QxvQi7kJlTFpDXUfIyc48,0.785,5.0,0.0643,-9.007,1.0,0.0311,138.002,4.0,https://api.spotify.com/v1/tracks/2QxvQi7kJlTFpDXUfIyc48,audio_features,spotify:track:2QxvQi7kJlTFpDXUfIyc48,0.169
+9,Sean Truby Ehren Stowers Kill The Lights,Hooked,Ehren Stowers Remix,0.000191,https://api.spotify.com/v1/audio-analysis/1px6mfltf9xEPmZmlo23XJ,0.604,507429.0,0.98,1px6mfltf9xEPmZmlo23XJ,0.876,10.0,0.278,-8.332,1.0,0.0771,139.992,4.0,https://api.spotify.com/v1/tracks/1px6mfltf9xEPmZmlo23XJ,audio_features,spotify:track:1px6mfltf9xEPmZmlo23XJ,0.285
+10,Simon Patterson Reset,Always,Original Mix,0.000507,https://api.spotify.com/v1/audio-analysis/75f6JNGPHDFZeA3Fr2LNp3,0.615,514787.0,0.937,75f6JNGPHDFZeA3Fr2LNp3,0.855,0.0,0.588,-8.078,0.0,0.0599,137.999,4.0,https://api.spotify.com/v1/tracks/75f6JNGPHDFZeA3Fr2LNp3,audio_features,spotify:track:75f6JNGPHDFZeA3Fr2LNp3,0.0642

@@ -1,0 +1,21 @@
+,Artist(s),Title,Release,acousticness,analysis_url,danceability,duration_ms,energy,id,instrumentalness,key,liveness,loudness,mode,speechiness,tempo,time_signature,track_href,type,uri,valence
+0,Anjunabeats Worldwide,Intro,Original Mix,,,,,,,,,,,,,,,,,,
+1,Grooveyard Michel De Hey Peter Horrevorts,Compound,Peter Horrevorts Remix,,,,,,,,,,,,,,,,,,
+2,Patch Park,Carbage,Original Mix,,,,,,,,,,,,,,,,,,
+3,Michael Cassette,Shadow's Movement,Original Mix,,,,,,,,,,,,,,,,,,
+4,Jaytech,Headcase,Original Mix,0.000717,https://api.spotify.com/v1/audio-analysis/789g8GNWH5IcKZ62xi3wCb,0.752,446214.0,0.438,789g8GNWH5IcKZ62xi3wCb,0.876,11.0,0.0475,-9.964,1.0,0.101,125.979,4.0,https://api.spotify.com/v1/tracks/789g8GNWH5IcKZ62xi3wCb,audio_features,spotify:track:789g8GNWH5IcKZ62xi3wCb,0.61
+5,Common Ground,To Be Given,Original Mix,,,,,,,,,,,,,,,,,,
+6,Jonas Steur Sied van Riel,Level Up,Sied Van Riel Remix,0.000123,https://api.spotify.com/v1/audio-analysis/5V3Y8V9N6FHYiHvZMIXpBx,0.778,479999.0,0.307,5V3Y8V9N6FHYiHvZMIXpBx,0.854,9.0,0.0796,-9.696,0.0,0.0771,131.01,4.0,https://api.spotify.com/v1/tracks/5V3Y8V9N6FHYiHvZMIXpBx,audio_features,spotify:track:5V3Y8V9N6FHYiHvZMIXpBx,0.258
+7,Ben Brown 16 Bit Lolita's,Love And Solace,16 Bit Lolita's Remix,0.000963,https://api.spotify.com/v1/audio-analysis/74gMHJUSiverjSIkPNUhd7,0.641,485625.0,0.892,74gMHJUSiverjSIkPNUhd7,0.927,4.0,0.447,-8.352,0.0,0.0434,127.979,4.0,https://api.spotify.com/v1/tracks/74gMHJUSiverjSIkPNUhd7,audio_features,spotify:track:74gMHJUSiverjSIkPNUhd7,0.381
+8,Glenn Morrison,Circles,Original Mix,0.238,https://api.spotify.com/v1/audio-analysis/0ezpeCQVd6vUgzbfoHPxan,0.965,495801.0,0.698,0ezpeCQVd6vUgzbfoHPxan,0.892,11.0,0.127,-7.483,0.0,0.314,127.998,4.0,https://api.spotify.com/v1/tracks/0ezpeCQVd6vUgzbfoHPxan,audio_features,spotify:track:0ezpeCQVd6vUgzbfoHPxan,0.232
+9,Adymus,A Place Not Far,Original Mix,1.83e-05,https://api.spotify.com/v1/audio-analysis/3TMYvMijky8RvW9l6hUIqN,0.504,537332.0,0.806,3TMYvMijky8RvW9l6hUIqN,0.0483,5.0,0.119,-5.851,0.0,0.0368,130.009,4.0,https://api.spotify.com/v1/tracks/3TMYvMijky8RvW9l6hUIqN,audio_features,spotify:track:3TMYvMijky8RvW9l6hUIqN,0.542
+10,Interplay,Exposure,Original Mix,0.0468,https://api.spotify.com/v1/audio-analysis/1voScupcWSe312cdCo3YhD,0.827,399681.0,0.724,1voScupcWSe312cdCo3YhD,0.922,11.0,0.0491,-7.312,0.0,0.061,125.495,4.0,https://api.spotify.com/v1/tracks/1voScupcWSe312cdCo3YhD,audio_features,spotify:track:1voScupcWSe312cdCo3YhD,0.837
+11,Tim Fuller Spirit Catcher,Show Me Right,Spirit Catcher Remix,,,,,,,,,,,,,,,,,,
+12,NUFrequency Plavka,Love Sick Vs. Cagedbaby,Instrumental Mix - Mashup,,,,,,,,,,,,,,,,,,
+13,Donald Glaude The Flash Brothers,Big,Flash Brothers Remix,0.000335,https://api.spotify.com/v1/audio-analysis/0xFE2ySVGbDc7aiDzD0QE3,0.791,384378.0,0.631,0xFE2ySVGbDc7aiDzD0QE3,0.84,10.0,0.066,-5.973,0.0,0.0475,127.973,4.0,https://api.spotify.com/v1/tracks/0xFE2ySVGbDc7aiDzD0QE3,audio_features,spotify:track:0xFE2ySVGbDc7aiDzD0QE3,0.284
+14,Darren Rhys Terje Bakke Roger Martinez,Epoque Wave,Roger Martinez Remix,,,,,,,,,,,,,,,,,,
+15,Squash 84,Ski Or Die,Original Mix,0.103,https://api.spotify.com/v1/audio-analysis/4gFyEOrcu4r7uAaoKar9Vv,0.778,539635.0,0.851,4gFyEOrcu4r7uAaoKar9Vv,0.829,6.0,0.319,-10.271,1.0,0.0566,127.988,4.0,https://api.spotify.com/v1/tracks/4gFyEOrcu4r7uAaoKar9Vv,audio_features,spotify:track:4gFyEOrcu4r7uAaoKar9Vv,0.226
+16,Ossie,Unknown Track,Original Mix,,,,,,,,,,,,,,,,,,
+17,Super8 & Tab Michael Cassette,Helsinki Scorchin',Michael Cassette Remix,0.0598,https://api.spotify.com/v1/audio-analysis/0Q2tFpWVwTOIsIFyvGEsX2,0.575,441720.0,0.671,0Q2tFpWVwTOIsIFyvGEsX2,0.9,1.0,0.111,-8.876,1.0,0.0504,126.4,4.0,https://api.spotify.com/v1/tracks/0Q2tFpWVwTOIsIFyvGEsX2,audio_features,spotify:track:0Q2tFpWVwTOIsIFyvGEsX2,0.297
+18,Guy J Envotion,Been Here Before,Envotion Remix,2.49e-05,https://api.spotify.com/v1/audio-analysis/06Ub9BEWFcx8sNt0KgiZKY,0.728,425276.0,0.63,06Ub9BEWFcx8sNt0KgiZKY,0.903,6.0,0.0519,-9.495,0.0,0.0497,127.004,4.0,https://api.spotify.com/v1/tracks/06Ub9BEWFcx8sNt0KgiZKY,audio_features,spotify:track:06Ub9BEWFcx8sNt0KgiZKY,0.299
+19,Envotion,Down There,Original Mix,,,,,,,,,,,,,,,,,,

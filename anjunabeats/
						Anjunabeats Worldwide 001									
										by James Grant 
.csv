@@ -1,0 +1,22 @@
+,Artist(s),Title,Release,acousticness,analysis_url,danceability,duration_ms,energy,id,instrumentalness,key,liveness,loudness,mode,speechiness,tempo,time_signature,track_href,type,uri,valence
+0,Anjunbeats Worldwide,Intro,Original Mix,,,,,,,,,,,,,,,,,,
+1,Fine Taste,My Golden Parachute,Original Mix,,,,,,,,,,,,,,,,,,
+2,Ricky M,Funky Waves,Original Mix,,,,,,,,,,,,,,,,,,
+3,Boom Jinx,Remember September,Original Mix,0.00246,https://api.spotify.com/v1/audio-analysis/50BEhuRuC599sxAOrq315r,0.51,400200.0,0.888,50BEhuRuC599sxAOrq315r,0.899,10.0,0.668,-9.02,0.0,0.0466,131.157,4.0,https://api.spotify.com/v1/tracks/50BEhuRuC599sxAOrq315r,audio_features,spotify:track:50BEhuRuC599sxAOrq315r,0.669
+4,Club84,Can't Get Enough,Original Mix,,,,,,,,,,,,,,,,,,
+5,Junk Science,My Name Is Jaques,Original Mix,,,,,,,,,,,,,,,,,,
+6,Cosmic Gate Tiff Lacey Wippenberg,Should've Known,Wippenberg Remix,,,,,,,,,,,,,,,,,,
+7,Jaytech Jaytech,Starbright,Jaytech's Touch Your DJ Remix,0.000133,https://api.spotify.com/v1/audio-analysis/2SsGA6idCtfsYM26X6UBW1,0.633,171907.0,0.976,2SsGA6idCtfsYM26X6UBW1,0.814,6.0,0.117,-8.029,1.0,0.0463,134.022,4.0,https://api.spotify.com/v1/tracks/2SsGA6idCtfsYM26X6UBW1,audio_features,spotify:track:2SsGA6idCtfsYM26X6UBW1,0.435
+8,Gabriel & Dresden Jan Burton,Dangerous Power,Original Extended Mix,0.0114,https://api.spotify.com/v1/audio-analysis/5vyxxkltTESK8NB5Ddh7or,0.692,432227.0,0.938,5vyxxkltTESK8NB5Ddh7or,0.0176,1.0,0.288,-7.044,0.0,0.144,135.026,4.0,https://api.spotify.com/v1/tracks/5vyxxkltTESK8NB5Ddh7or,audio_features,spotify:track:5vyxxkltTESK8NB5Ddh7or,0.106
+9,The Signalrunners Syndica Bart Claessen,Aria Epica,Bart Claessen Remix,,,,,,,,,,,,,,,,,,
+10,2Devine Cara Dillon Coco & Green,Black Is The Colour,Coco & Green Remix,,,,,,,,,,,,,,,,,,
+11,Satoshi Tomiie Satoshi Tomiie,Glow,Satoshi Tomiie Original,0.0176,https://api.spotify.com/v1/audio-analysis/1GhxKiXydS8aI9hY39WgTz,0.838,485800.0,0.522,1GhxKiXydS8aI9hY39WgTz,0.861,9.0,0.0486,-10.424,0.0,0.0606,123.997,4.0,https://api.spotify.com/v1/tracks/1GhxKiXydS8aI9hY39WgTz,audio_features,spotify:track:1GhxKiXydS8aI9hY39WgTz,0.597
+12,On Spec,Knights Of Columbos,Original Mix,0.00245,https://api.spotify.com/v1/audio-analysis/2X0TtK4rgMmYsFe99YJfkY,0.698,515883.0,0.764,2X0TtK4rgMmYsFe99YJfkY,0.86,11.0,0.064,-7.335,0.0,0.0497,128.008,4.0,https://api.spotify.com/v1/tracks/2X0TtK4rgMmYsFe99YJfkY,audio_features,spotify:track:2X0TtK4rgMmYsFe99YJfkY,0.395
+13,Alex Metric,Holding,Original Mix,0.000885,https://api.spotify.com/v1/audio-analysis/22ITTK3d3iAs98LBuKQEI3,0.747,431520.0,0.602,22ITTK3d3iAs98LBuKQEI3,0.835,8.0,0.0843,-10.43,0.0,0.0615,126.019,4.0,https://api.spotify.com/v1/tracks/22ITTK3d3iAs98LBuKQEI3,audio_features,spotify:track:22ITTK3d3iAs98LBuKQEI3,0.306
+14,Absorb Project,Homeless,Original Mix,,,,,,,,,,,,,,,,,,
+15,François DuBois,Blood,Original Mix,0.000749,https://api.spotify.com/v1/audio-analysis/5oAxICuN2XiM6eGVUtMG5s,0.799,506507.0,0.431,5oAxICuN2XiM6eGVUtMG5s,0.786,9.0,0.399,-11.832,1.0,0.0607,124.987,4.0,https://api.spotify.com/v1/tracks/5oAxICuN2XiM6eGVUtMG5s,audio_features,spotify:track:5oAxICuN2XiM6eGVUtMG5s,0.184
+16,Giorgio Prezioso Libex,Xperimental Scratch,Original Mix,,,,,,,,,,,,,,,,,,
+17,Pryda,Frankfurt,Original Mix,0.0386,https://api.spotify.com/v1/audio-analysis/5kH1FDWraqNDeAJI7BVhaE,0.608,335227.0,0.969,5kH1FDWraqNDeAJI7BVhaE,0.847,10.0,0.209,-4.919,0.0,0.0414,126.011,4.0,https://api.spotify.com/v1/tracks/5kH1FDWraqNDeAJI7BVhaE,audio_features,spotify:track:5kH1FDWraqNDeAJI7BVhaE,0.482
+18,Filterheadz Filterheadz,Blue Sky Happiness,Filterheadz No Clouds Mix,,,,,,,,,,,,,,,,,,
+19,Jaytech Jimbo,Genesis,Jimbo's Afterburner Mix,9.59e-06,https://api.spotify.com/v1/audio-analysis/5Put09FlZidhncC5QUvTUT,0.729,449538.0,0.573,5Put09FlZidhncC5QUvTUT,0.894,7.0,0.0704,-10.332,1.0,0.0654,132.993,4.0,https://api.spotify.com/v1/tracks/5Put09FlZidhncC5QUvTUT,audio_features,spotify:track:5Put09FlZidhncC5QUvTUT,0.391
+20,Joonas Hahmo,Together,Original Mix,0.000354,https://api.spotify.com/v1/audio-analysis/1f2ATrxK6Vy2bAyNaVId9Q,0.656,370933.0,0.878,1f2ATrxK6Vy2bAyNaVId9Q,0.383,6.0,0.284,-9.185,1.0,0.0435,132.026,4.0,https://api.spotify.com/v1/tracks/1f2ATrxK6Vy2bAyNaVId9Q,audio_features,spotify:track:1f2ATrxK6Vy2bAyNaVId9Q,0.389

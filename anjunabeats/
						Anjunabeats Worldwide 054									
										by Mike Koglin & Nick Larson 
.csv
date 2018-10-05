@@ -1,0 +1,25 @@
+,Artist(s),Title,Release,acousticness,analysis_url,danceability,duration_ms,energy,id,instrumentalness,key,liveness,loudness,mode,speechiness,tempo,time_signature,track_href,type,uri,valence
+0,Anjunabeats Worldwide,Intro,Original Mix,,,,,,,,,,,,,,,,,,
+1,Andrew K Leoni,Next To Me,Original Mix,0.000594,https://api.spotify.com/v1/audio-analysis/5GjmpifhBsm4VFF7Zg2kBy,0.773,423933.0,0.444,5GjmpifhBsm4VFF7Zg2kBy,0.944,11.0,0.0511,-8.252,0.0,0.0531,128.018,4.0,https://api.spotify.com/v1/tracks/5GjmpifhBsm4VFF7Zg2kBy,audio_features,spotify:track:5GjmpifhBsm4VFF7Zg2kBy,0.257
+2,Olivier Giacomotto,Wasabi On Top,Original Mix,,,,,,,,,,,,,,,,,,
+3,Lange Matt Cerf Shawn Mitiska,Songless,Cerf & Mitiska Tranceless Mix,0.000123,https://api.spotify.com/v1/audio-analysis/7mE68CjaODTmWfuWKtQQVG,0.684,458334.0,0.88,7mE68CjaODTmWfuWKtQQVG,0.769,2.0,0.0713,-8.159,1.0,0.0588,128.981,4.0,https://api.spotify.com/v1/tracks/7mE68CjaODTmWfuWKtQQVG,audio_features,spotify:track:7mE68CjaODTmWfuWKtQQVG,0.358
+4,Mike Koglin Beatrice Funktronic,On My Way,Funktronic Rework,,,,,,,,,,,,,,,,,,
+5,Matys,Funk,Original Mix,7.82e-05,https://api.spotify.com/v1/audio-analysis/263wBqhKfgSGiQs4u3hqxm,0.774,392810.0,0.883,263wBqhKfgSGiQs4u3hqxm,0.924,6.0,0.0937,-7.465,0.0,0.121,136.988,4.0,https://api.spotify.com/v1/tracks/263wBqhKfgSGiQs4u3hqxm,audio_features,spotify:track:263wBqhKfgSGiQs4u3hqxm,0.208
+6,Bart Claessen Big Phunk Re,First Light,Big Phunk Redub,0.017,https://api.spotify.com/v1/audio-analysis/0iSkCKAqMtUzzWooVBkQ77,0.523,477133.0,0.785,0iSkCKAqMtUzzWooVBkQ77,0.842,2.0,0.0868,-10.637,0.0,0.0871,131.532,4.0,https://api.spotify.com/v1/tracks/0iSkCKAqMtUzzWooVBkQ77,audio_features,spotify:track:0iSkCKAqMtUzzWooVBkQ77,0.268
+7,Above & Beyond Tranquility Base,Buzz,Original Mix,0.000239,https://api.spotify.com/v1/audio-analysis/5bjOjemHJPWoeqa6VEO1i4,0.597,384173.0,0.739,5bjOjemHJPWoeqa6VEO1i4,0.884,7.0,0.228,-10.566,1.0,0.0862,135.048,4.0,https://api.spotify.com/v1/tracks/5bjOjemHJPWoeqa6VEO1i4,audio_features,spotify:track:5bjOjemHJPWoeqa6VEO1i4,0.359
+8,Coldplay Ali Wilson,Fix You,Ali Wilson Remix,0.163,https://api.spotify.com/v1/audio-analysis/7LVHVU3tWfcxj5aiPFEW4Q,0.209,295533.0,0.418,7LVHVU3tWfcxj5aiPFEW4Q,0.00195,3.0,0.113,-8.74,1.0,0.0338,138.265,4.0,https://api.spotify.com/v1/tracks/7LVHVU3tWfcxj5aiPFEW4Q,audio_features,spotify:track:7LVHVU3tWfcxj5aiPFEW4Q,0.123
+9,Chris Corrigan Velvet Skies,Lifeline,Original Mix,,,,,,,,,,,,,,,,,,
+10,Adam Sheridan,Supernova,Super Remix,0.00377,https://api.spotify.com/v1/audio-analysis/0GSEguWfPGCMgDOTJRrAb7,0.678,465733.0,0.886,0GSEguWfPGCMgDOTJRrAb7,0.894,11.0,0.295,-7.43,0.0,0.0477,134.99,4.0,https://api.spotify.com/v1/tracks/0GSEguWfPGCMgDOTJRrAb7,audio_features,spotify:track:0GSEguWfPGCMgDOTJRrAb7,0.211
+11,Frase Koto Ornate,Down To The Wire,Ornate Remix,,,,,,,,,,,,,,,,,,
+12,Sander van Doorn X-Press 2 Mike Koglin,Riff Machine,Mike Koglin Mashup,,,,,,,,,,,,,,,,,,
+13,Mac Zimms Randy Katana,Bring It On,Original Mix,,,,,,,,,,,,,,,,,,
+14,Barry Jay,Accelerate,Original Mix,,,,,,,,,,,,,,,,,,
+15,Marc Vedo Mike Koglin,Dirty Monster,Original Mix,,,,,,,,,,,,,,,,,,
+16,Mental Infusion,Mind Prison,Original Mix,,,,,,,,,,,,,,,,,,
+17,Mark Sherry Terry Ferminal Terry Ferminal,Walk Away,Terry Ferminal Mix,,,,,,,,,,,,,,,,,,
+18,Remo-Con Mac & Mac,Atavism,Mac & Mac Remix,0.0019,https://api.spotify.com/v1/audio-analysis/5WCHVvvVQN9OMH44IUaeG0,0.606,216027.0,0.992,5WCHVvvVQN9OMH44IUaeG0,0.393,6.0,0.372,-2.848,1.0,0.242,143.013,4.0,https://api.spotify.com/v1/tracks/5WCHVvvVQN9OMH44IUaeG0,audio_features,spotify:track:5WCHVvvVQN9OMH44IUaeG0,0.267
+19,Mark Pledger Mike Koglin Nick Larson,All The Way,Nick Larson Remix,,,,,,,,,,,,,,,,,,
+20,Sander van Doorn Carl Cox,Riff,Carl Cox Global Mix,0.154,https://api.spotify.com/v1/audio-analysis/5gQ4cxY2nU2QTo4kmUWXGB,0.283,195484.0,0.996,5gQ4cxY2nU2QTo4kmUWXGB,0.545,4.0,0.406,-4.093,0.0,0.0787,122.717,4.0,https://api.spotify.com/v1/tracks/5gQ4cxY2nU2QTo4kmUWXGB,audio_features,spotify:track:5gQ4cxY2nU2QTo4kmUWXGB,0.267
+21,Maarten de Jong Melvin Warning,Era,Original Mix,0.000324,https://api.spotify.com/v1/audio-analysis/48HmKkj8szF1nlb9YILRoI,0.731,464724.0,0.919,48HmKkj8szF1nlb9YILRoI,0.872,7.0,0.442,-11.342,1.0,0.116,135.003,4.0,https://api.spotify.com/v1/tracks/48HmKkj8szF1nlb9YILRoI,audio_features,spotify:track:48HmKkj8szF1nlb9YILRoI,0.0375
+22,Nick Larson Katana,FDV6,Katana Edit,,,,,,,,,,,,,,,,,,
+23,Terry Ferminal,Deep Inside,Original Mix,0.000201,https://api.spotify.com/v1/audio-analysis/6jkg8iYxNLynRydLYlQlpT,0.579,361398.0,0.959,6jkg8iYxNLynRydLYlQlpT,0.586,7.0,0.36,-10.907,1.0,0.052,134.161,4.0,https://api.spotify.com/v1/tracks/6jkg8iYxNLynRydLYlQlpT,audio_features,spotify:track:6jkg8iYxNLynRydLYlQlpT,0.24

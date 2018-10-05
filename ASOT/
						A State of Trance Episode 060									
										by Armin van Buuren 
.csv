@@ -1,0 +1,21 @@
+,Artist(s),Title,Release,acousticness,analysis_url,danceability,duration_ms,energy,id,instrumentalness,key,liveness,loudness,mode,speechiness,tempo,time_signature,track_href,type,uri,valence
+0,Lamya Sander Kleinenberg,Empires,Sander Kleinenberg Paranoid Remix,,,,,,,,,,,,,,,,,,
+1,Epsilon 9 Classified Project,Lifeformation,Classified Project Remix,8.99e-05,https://api.spotify.com/v1/audio-analysis/1zwPAzaMr5hNoiYysX3Q7W,0.431,357355.0,0.982,1zwPAzaMr5hNoiYysX3Q7W,0.866,8.0,0.399,-6.326,1.0,0.0507,139.286,4.0,https://api.spotify.com/v1/tracks/1zwPAzaMr5hNoiYysX3Q7W,audio_features,spotify:track:1zwPAzaMr5hNoiYysX3Q7W,0.551
+2,Jan Johnston Trailer Trash,Am I On Pause,Trailer Trash Remix,,,,,,,,,,,,,,,,,,
+3,Vac-Scene,Out Of Sight,Original Mix,9.42e-05,https://api.spotify.com/v1/audio-analysis/65T7ob2ebQ3h8KRqjCQBJ8,0.505,238469.0,0.962,65T7ob2ebQ3h8KRqjCQBJ8,0.933,9.0,0.217,-12.162,0.0,0.043,138.842,4.0,https://api.spotify.com/v1/tracks/65T7ob2ebQ3h8KRqjCQBJ8,audio_features,spotify:track:65T7ob2ebQ3h8KRqjCQBJ8,0.831
+4,Cosmic Gate Jan Johnston,Raging (Storm),Original Mix,0.11,https://api.spotify.com/v1/audio-analysis/22AkJncamU9ekUEl5504bJ,0.361,419000.0,0.802,22AkJncamU9ekUEl5504bJ,0.394,7.0,0.0824,-8.05,1.0,0.0405,135.972,4.0,https://api.spotify.com/v1/tracks/22AkJncamU9ekUEl5504bJ,audio_features,spotify:track:22AkJncamU9ekUEl5504bJ,0.402
+5,OceanLab,Beautiful Together,Original Mix,,,,,,,,,,,,,,,,,,
+6,Euphonic,Sahara,Original Mix,,,,,,,,,,,,,,,,,,
+7,OceanLab Justine Suissa Armin van Buuren,Sky Falls Down,Armin Van Buuren Remix,0.000572,https://api.spotify.com/v1/audio-analysis/2PbOOGN1DwzYDfGTFsQTw9,0.476,373050.0,0.969,2PbOOGN1DwzYDfGTFsQTw9,0.135,0.0,0.28,-9.045,1.0,0.0377,138.506,4.0,https://api.spotify.com/v1/tracks/2PbOOGN1DwzYDfGTFsQTw9,audio_features,spotify:track:2PbOOGN1DwzYDfGTFsQTw9,0.387
+8,Jas van Houten,Heavens Gate,Original Mix,1.51e-05,https://api.spotify.com/v1/audio-analysis/72P1HqtfawQ4hdmGt34vlV,0.146,232966.0,0.966,72P1HqtfawQ4hdmGt34vlV,0.938,8.0,0.439,-11.764,1.0,0.0691,136.03,4.0,https://api.spotify.com/v1/tracks/72P1HqtfawQ4hdmGt34vlV,audio_features,spotify:track:72P1HqtfawQ4hdmGt34vlV,0.102
+9,Di Pasquale Penton,Lluvion,Original Mix,,,,,,,,,,,,,,,,,,
+10,Namito,No Choice,Original Mix,,,,,,,,,,,,,,,,,,
+11,L.S.G.,Infectious #2,Original Mix,0.000874,https://api.spotify.com/v1/audio-analysis/1Kn1oWLK3u6L6xazx7gtEU,0.66,453653.0,0.743,1Kn1oWLK3u6L6xazx7gtEU,0.577,7.0,0.0752,-12.604,1.0,0.0733,134.984,4.0,https://api.spotify.com/v1/tracks/1Kn1oWLK3u6L6xazx7gtEU,audio_features,spotify:track:1Kn1oWLK3u6L6xazx7gtEU,0.237
+12,Forbidden Planet,Acoute La Musique,700 Dub Mix,,,,,,,,,,,,,,,,,,
+13,Francis Goya X3 Boss@Nova,Rain (The Guitar Song),Boss@Nova Remix,,,,,,,,,,,,,,,,,,
+14,Kansai,Rococco,Original Mix,0.000492,https://api.spotify.com/v1/audio-analysis/4ABkZIZRdqDfPTsG622YJo,0.442,295320.0,0.937,4ABkZIZRdqDfPTsG622YJo,0.633,5.0,0.25,-9.699,1.0,0.0501,136.534,4.0,https://api.spotify.com/v1/tracks/4ABkZIZRdqDfPTsG622YJo,audio_features,spotify:track:4ABkZIZRdqDfPTsG622YJo,0.0359
+15,Prime Mover Grinder,The Weapon,Grinder Remix,,,,,,,,,,,,,,,,,,
+16,Viframa DJ Precision Katana,Cristalle,Katana Feat. DJ Precision Remix,0.000212,https://api.spotify.com/v1/audio-analysis/6HWxSnbnGPQ9PUJg4KFIbd,0.712,481180.0,0.633,6HWxSnbnGPQ9PUJg4KFIbd,0.925,6.0,0.132,-8.59,0.0,0.0692,137.026,4.0,https://api.spotify.com/v1/tracks/6HWxSnbnGPQ9PUJg4KFIbd,audio_features,spotify:track:6HWxSnbnGPQ9PUJg4KFIbd,0.244
+17,Pulser Beat Pusher,Cloudwalking,Beat Pusher Remix,,,,,,,,,,,,,,,,,,
+18,Armin van Buuren Ray Wilson Armin van Buuren,Yet Another Day,Rising Star Remix,0.00323,https://api.spotify.com/v1/audio-analysis/68T4Nvfny4QnvzlG6p3F1L,0.407,154730.0,0.913,68T4Nvfny4QnvzlG6p3F1L,0.868,11.0,0.508,-11.52,0.0,0.0554,135.984,4.0,https://api.spotify.com/v1/tracks/68T4Nvfny4QnvzlG6p3F1L,audio_features,spotify:track:68T4Nvfny4QnvzlG6p3F1L,0.364
+19,Tour de Trance,Wan Wu,Original Mix,5.47e-05,https://api.spotify.com/v1/audio-analysis/7kuJyNIfh7C65qcNZKuPBH,0.543,650520.0,0.886,7kuJyNIfh7C65qcNZKuPBH,0.965,11.0,0.108,-8.247,0.0,0.0726,137.991,4.0,https://api.spotify.com/v1/tracks/7kuJyNIfh7C65qcNZKuPBH,audio_features,spotify:track:7kuJyNIfh7C65qcNZKuPBH,0.426

@@ -1,0 +1,16 @@
+,Artist(s),Title,Release,acousticness,analysis_url,danceability,duration_ms,energy,id,instrumentalness,key,liveness,loudness,mode,speechiness,tempo,time_signature,track_href,type,uri,valence
+0,Stephan Bodzin, Powers Of Ten  ,unknown,0.674,https://api.spotify.com/v1/audio-analysis/1hNumMXSvopwCGFvwlvx7k,0.582,479049.0,0.591,1hNumMXSvopwCGFvwlvx7k,0.903,10.0,0.079,-14.428,0.0,0.0307,125.005,4.0,https://api.spotify.com/v1/tracks/1hNumMXSvopwCGFvwlvx7k,audio_features,spotify:track:1hNumMXSvopwCGFvwlvx7k,0.0753
+1,Kiasmos, Gaunt  ,unknown,0.00724,https://api.spotify.com/v1/audio-analysis/4l089w8mBaoRMYuNZXYe77,0.716,312524.0,0.528,4l089w8mBaoRMYuNZXYe77,0.843,2.0,0.0926,-11.066,1.0,0.0353,119.987,4.0,https://api.spotify.com/v1/tracks/4l089w8mBaoRMYuNZXYe77,audio_features,spotify:track:4l089w8mBaoRMYuNZXYe77,0.0375
+2,Here Is Why, Tonight ,"Adam Port 12"" Autobahn Edit",0.000202,https://api.spotify.com/v1/audio-analysis/3jtXIuUfWXNrO6RLPLcXHF,0.712,374258.0,0.463,3jtXIuUfWXNrO6RLPLcXHF,0.448,11.0,0.0836,-8.632,0.0,0.045,122.009,4.0,https://api.spotify.com/v1/tracks/3jtXIuUfWXNrO6RLPLcXHF,audio_features,spotify:track:3jtXIuUfWXNrO6RLPLcXHF,0.434
+3,Minds Machines, Mend  ,unknown,,,,,,,,,,,,,,,,,,
+4,ID, ID  ,unknown,0.000124,https://api.spotify.com/v1/audio-analysis/1GfuUJQxZr1pOuFxpyR5yC,0.471,257496.0,0.808,1GfuUJQxZr1pOuFxpyR5yC,0.445,1.0,0.341,-8.396,1.0,0.0417,131.898,4.0,https://api.spotify.com/v1/tracks/1GfuUJQxZr1pOuFxpyR5yC,audio_features,spotify:track:1GfuUJQxZr1pOuFxpyR5yC,0.0969
+5,Aacht, Til The Light Takes Us  ,unknown,,,,,,,,,,,,,,,,,,
+6,Oliver Winters, In The Flood  ,unknown,0.983,https://api.spotify.com/v1/audio-analysis/3mlsq8XuJ933ViLAhWf7I1,0.223,230899.0,0.00434,3mlsq8XuJ933ViLAhWf7I1,0.937,3.0,0.0999,-26.817,1.0,0.0407,70.909,5.0,https://api.spotify.com/v1/tracks/3mlsq8XuJ933ViLAhWf7I1,audio_features,spotify:track:3mlsq8XuJ933ViLAhWf7I1,0.0382
+7,Maxon, December Nights  ,unknown,,,,,,,,,,,,,,,,,,
+8,Maxon, Beyond Control  ,unknown,,,,,,,,,,,,,,,,,,
+9,Maxon, Soylent  ,unknown,,,,,,,,,,,,,,,,,,
+10,Daft Punk, Technologic ,Digitalism Remix,0.0118,https://api.spotify.com/v1/audio-analysis/4juuDrLmxVQ2kitwjMMQxc,0.714,294720.0,0.893,4juuDrLmxVQ2kitwjMMQxc,0.306,9.0,0.0766,-6.551,0.0,0.0487,126.223,4.0,https://api.spotify.com/v1/tracks/4juuDrLmxVQ2kitwjMMQxc,audio_features,spotify:track:4juuDrLmxVQ2kitwjMMQxc,0.782
+11,Justice, Alakazam!  ,unknown,0.00128,https://api.spotify.com/v1/audio-analysis/62XMD2zZ0SI9pDKOBuG9we,0.572,369476.0,0.787,62XMD2zZ0SI9pDKOBuG9we,0.00215,5.0,0.871,-6.339,1.0,0.061,121.014,4.0,https://api.spotify.com/v1/tracks/62XMD2zZ0SI9pDKOBuG9we,audio_features,spotify:track:62XMD2zZ0SI9pDKOBuG9we,0.2
+12,Maxon, Need You ,Forever,0.00277,https://api.spotify.com/v1/audio-analysis/6H7rMUfSLWKY2Rx3GlWr7W,0.645,198375.0,0.915,6H7rMUfSLWKY2Rx3GlWr7W,0.626,7.0,0.281,-4.057,0.0,0.0755,119.992,4.0,https://api.spotify.com/v1/tracks/6H7rMUfSLWKY2Rx3GlWr7W,audio_features,spotify:track:6H7rMUfSLWKY2Rx3GlWr7W,0.416
+13,Maxon, Wait For You  ,unknown,,,,,,,,,,,,,,,,,,
+14,Maxon, Arrival  ,unknown,,,,,,,,,,,,,,,,,,

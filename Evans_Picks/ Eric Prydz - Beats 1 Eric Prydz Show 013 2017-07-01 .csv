@@ -1,0 +1,12 @@
+,Artist(s),Title,Release,acousticness,analysis_url,danceability,duration_ms,energy,id,instrumentalness,key,liveness,loudness,mode,speechiness,tempo,time_signature,track_href,type,uri,valence
+0,Pryda, Beats One #13 ID 01  ,unknown,,,,,,,,,,,,,,,,,,
+1,Enrico Sangiuliano, Astral Projection  ,unknown,0.0182,https://api.spotify.com/v1/audio-analysis/32nw9Qc5rYjsPWGLy14Yh5,0.798,483960.0,0.738,32nw9Qc5rYjsPWGLy14Yh5,0.941,6.0,0.11,-8.357,0.0,0.0606,124.981,4.0,https://api.spotify.com/v1/tracks/32nw9Qc5rYjsPWGLy14Yh5,audio_features,spotify:track:32nw9Qc5rYjsPWGLy14Yh5,0.325
+2,Pryda, Sonar ID 02 ,Working Title,,,,,,,,,,,,,,,,,,
+3,Pryda, Waves  ,unknown,0.00131,https://api.spotify.com/v1/audio-analysis/0HIQ9735mhdRSq3rcY4lqd,0.643,357547.0,0.884,0HIQ9735mhdRSq3rcY4lqd,0.856,3.0,0.123,-4.678,0.0,0.0311,125.996,4.0,https://api.spotify.com/v1/tracks/0HIQ9735mhdRSq3rcY4lqd,audio_features,spotify:track:0HIQ9735mhdRSq3rcY4lqd,0.314
+4,Pryda, Glasgow Intro ID  ,unknown,,,,,,,,,,,,,,,,,,
+5,Layton Giordani, Tigerlilly  ,unknown,0.00399,https://api.spotify.com/v1/audio-analysis/3ICokJKubfqOhLlqdsHKR5,0.802,440622.0,0.79,3ICokJKubfqOhLlqdsHKR5,0.878,7.0,0.0885,-6.452,1.0,0.044,124.99,4.0,https://api.spotify.com/v1/tracks/3ICokJKubfqOhLlqdsHKR5,audio_features,spotify:track:3ICokJKubfqOhLlqdsHKR5,0.133
+6,Pryda, I See Beautiful  ,unknown,,,,,,,,,,,,,,,,,,
+7,Fiol Lasse, Fiddle ID  ,unknown,,,,,,,,,,,,,,,,,,
+8,Pryda, Beats One #13 ID 02  ,unknown,,,,,,,,,,,,,,,,,,
+9,Pryda, Wakanpi  ,unknown,0.00165,https://api.spotify.com/v1/audio-analysis/7jH8uNWTX29qb1McgwOiiR,0.754,425448.0,0.784,7jH8uNWTX29qb1McgwOiiR,0.704,7.0,0.15,-9.447,1.0,0.0451,126.997,4.0,https://api.spotify.com/v1/tracks/7jH8uNWTX29qb1McgwOiiR,audio_features,spotify:track:7jH8uNWTX29qb1McgwOiiR,0.148
+10,Eric Prydz, Pjanoo  ,Wakanpi Mash Edit,0.000563,https://api.spotify.com/v1/audio-analysis/0F2BxpbxH8Yc3pLub48hrb,0.604,157432.0,0.874,0F2BxpbxH8Yc3pLub48hrb,0.812,7.0,0.112,-4.949,0.0,0.0295,125.99,4.0,https://api.spotify.com/v1/tracks/0F2BxpbxH8Yc3pLub48hrb,audio_features,spotify:track:0F2BxpbxH8Yc3pLub48hrb,0.835

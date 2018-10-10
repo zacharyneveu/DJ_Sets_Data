@@ -1,0 +1,11 @@
+,Artist(s),Title,Release,acousticness,analysis_url,danceability,duration_ms,energy,id,instrumentalness,key,liveness,loudness,mode,speechiness,tempo,time_signature,track_href,type,uri,valence
+0,Pryda, Tomorrowland 2017 Intro ID ,Working Title,,,,,,,,,,,,,,,,,,
+1,Pryda, Beats 1 #015 ID 01 ,Working Title,,,,,,,,,,,,,,,,,,
+2,Pryda, The Hoax  ,unknown,6.68e-05,https://api.spotify.com/v1/audio-analysis/7K0e2Futqdn4z4az41eUMV,0.686,447642.0,0.78,7K0e2Futqdn4z4az41eUMV,0.83,2.0,0.259,-7.597,1.0,0.0459,126.007,4.0,https://api.spotify.com/v1/tracks/7K0e2Futqdn4z4az41eUMV,audio_features,spotify:track:7K0e2Futqdn4z4az41eUMV,0.138
+3,Pryda, Sonar ID 01 ,Working Title,,,,,,,,,,,,,,,,,,
+4,Pryda, Hï Ibiza ID ,Working Title,,,,,,,,,,,,,,,,,,
+5,Cirez D, The Accuser  ,unknown,8.45e-05,https://api.spotify.com/v1/audio-analysis/2EXViaTEpUoqHeDOtdI0oK,0.807,449511.0,0.799,2EXViaTEpUoqHeDOtdI0oK,0.91,7.0,0.0771,-7.494,1.0,0.0753,126.009,4.0,https://api.spotify.com/v1/tracks/2EXViaTEpUoqHeDOtdI0oK,audio_features,spotify:track:2EXViaTEpUoqHeDOtdI0oK,0.214
+6,Cirez D, Marquee Las Vegas 2017 ID ,Working Title,,,,,,,,,,,,,,,,,,
+7,Pryda, Stay With Me  ,unknown,0.00576,https://api.spotify.com/v1/audio-analysis/7twthmMegoAskip42GJocW,0.71,441905.0,0.776,7twthmMegoAskip42GJocW,0.555,10.0,0.116,-7.315,0.0,0.0409,125.989,3.0,https://api.spotify.com/v1/tracks/7twthmMegoAskip42GJocW,audio_features,spotify:track:7twthmMegoAskip42GJocW,0.243
+8,Cristoph, Newcastle ID 05 ,Working Title,,,,,,,,,,,,,,,,,,
+9,Eric Prydz, Summerburst ID ,Working Title,,,,,,,,,,,,,,,,,,

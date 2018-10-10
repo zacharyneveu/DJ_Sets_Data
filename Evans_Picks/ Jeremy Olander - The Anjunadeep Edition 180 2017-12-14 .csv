@@ -1,0 +1,11 @@
+,Artist(s),Title,Release,acousticness,analysis_url,danceability,duration_ms,energy,id,instrumentalness,key,liveness,loudness,mode,speechiness,tempo,time_signature,track_href,type,uri,valence
+0,Jeremy Olander, ADE 17 Intro ID  ,unknown,,,,,,,,,,,,,,,,,,
+1,Jeremy Olander, Story ID  ,unknown,,,,,,,,,,,,,,,,,,
+2,Jeremy Olander, No No ID ,Working Title,,,,,,,,,,,,,,,,,,
+3,Jeremy Olander, Audio SF 2017 ID ,Working Title,,,,,,,,,,,,,,,,,,
+4,André Hommen, Abakus  ,unknown,0.0152,https://api.spotify.com/v1/audio-analysis/5pHlif00IuVxm2NgsdS4Wk,0.661,466667.0,0.755,5pHlif00IuVxm2NgsdS4Wk,0.93,7.0,0.109,-10.597,1.0,0.0518,125.997,4.0,https://api.spotify.com/v1/tracks/5pHlif00IuVxm2NgsdS4Wk,audio_features,spotify:track:5pHlif00IuVxm2NgsdS4Wk,0.234
+5,Jeremy Olander, Crossed  ,unknown,0.00155,https://api.spotify.com/v1/audio-analysis/6bJliOsJqznrtk90KrF5Mb,0.529,247742.0,0.868,6bJliOsJqznrtk90KrF5Mb,0.837,1.0,0.0935,-8.603,1.0,0.0399,123.991,4.0,https://api.spotify.com/v1/tracks/6bJliOsJqznrtk90KrF5Mb,audio_features,spotify:track:6bJliOsJqznrtk90KrF5Mb,0.101
+6,Jeremy Olander, Siroco ID 02 ,Working Title,,,,,,,,,,,,,,,,,,
+7,Jeremy Olander, Andköln  ,unknown,0.00157,https://api.spotify.com/v1/audio-analysis/1hPvTfTirHPv4xI7uADXnx,0.787,483871.0,0.68,1hPvTfTirHPv4xI7uADXnx,0.889,7.0,0.046,-9.347,1.0,0.0537,123.995,3.0,https://api.spotify.com/v1/tracks/1hPvTfTirHPv4xI7uADXnx,audio_features,spotify:track:1hPvTfTirHPv4xI7uADXnx,0.0345
+8,Jeremy Olander, Antisocial ID ,Working Title,,,,,,,,,,,,,,,,,,
+9,Jeremy Olander, Karusell  ,unknown,0.000822,https://api.spotify.com/v1/audio-analysis/1qkHTczHWJ5sBg7JuXElcB,0.806,527213.0,0.563,1qkHTczHWJ5sBg7JuXElcB,0.91,0.0,0.118,-9.385,1.0,0.0436,122.005,4.0,https://api.spotify.com/v1/tracks/1qkHTczHWJ5sBg7JuXElcB,audio_features,spotify:track:1qkHTczHWJ5sBg7JuXElcB,0.287

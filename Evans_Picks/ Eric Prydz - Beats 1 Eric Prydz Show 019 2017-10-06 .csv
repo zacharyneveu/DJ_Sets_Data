@@ -1,0 +1,11 @@
+,Artist(s),Title,Release,acousticness,analysis_url,danceability,duration_ms,energy,id,instrumentalness,key,liveness,loudness,mode,speechiness,tempo,time_signature,track_href,type,uri,valence
+0,Pryda, Liam ,Stringapella,,,,,,,,,,,,,,,,,,
+1,Pryda, Elements  ,unknown,0.00324,https://api.spotify.com/v1/audio-analysis/1cS9tuyQ9K1yQApyJkuiMT,0.703,488316.0,0.876,1cS9tuyQ9K1yQApyJkuiMT,0.887,2.0,0.099,-10.037,1.0,0.0436,126.006,4.0,https://api.spotify.com/v1/tracks/1cS9tuyQ9K1yQApyJkuiMT,audio_features,spotify:track:1cS9tuyQ9K1yQApyJkuiMT,0.0327
+2,Thomas Gold Francesco Diaz Young Rebels, Don't You Want Me ,Dave Spoon Remix,,,,,,,,,,,,,,,,,,
+3,Pryda, Stay With Me  ,unknown,0.00576,https://api.spotify.com/v1/audio-analysis/7twthmMegoAskip42GJocW,0.71,441905.0,0.776,7twthmMegoAskip42GJocW,0.555,10.0,0.116,-7.315,0.0,0.0409,125.989,3.0,https://api.spotify.com/v1/tracks/7twthmMegoAskip42GJocW,audio_features,spotify:track:7twthmMegoAskip42GJocW,0.243
+4,Cirez D, The Accuser  ,unknown,8.45e-05,https://api.spotify.com/v1/audio-analysis/2EXViaTEpUoqHeDOtdI0oK,0.807,449511.0,0.799,2EXViaTEpUoqHeDOtdI0oK,0.91,7.0,0.0771,-7.494,1.0,0.0753,126.009,4.0,https://api.spotify.com/v1/tracks/2EXViaTEpUoqHeDOtdI0oK,audio_features,spotify:track:2EXViaTEpUoqHeDOtdI0oK,0.214
+5,Filterheadz, Riders  ,unknown,,,,,,,,,,,,,,,,,,
+6,Pryda, Dawn  ,unknown,,,,,,,,,,,,,,,,,,
+7,Eric Prydz   Tom Cane, Generate ,EPIC Interlude Mix,0.00927,https://api.spotify.com/v1/audio-analysis/5LT8hO0Z9Y1nlCJ7nfuSJi,0.608,165076.0,0.815,5LT8hO0Z9Y1nlCJ7nfuSJi,2.36e-05,11.0,0.119,-5.043,1.0,0.0272,127.022,4.0,https://api.spotify.com/v1/tracks/5LT8hO0Z9Y1nlCJ7nfuSJi,audio_features,spotify:track:5LT8hO0Z9Y1nlCJ7nfuSJi,0.544
+8,Eric Prydz, Opus  ,unknown,0.000702,https://api.spotify.com/v1/audio-analysis/3v2oAQomhOcYCPPHafS3KV,0.275,543453.0,0.721,3v2oAQomhOcYCPPHafS3KV,0.821,6.0,0.0792,-6.222,0.0,0.0359,125.045,4.0,https://api.spotify.com/v1/tracks/3v2oAQomhOcYCPPHafS3KV,audio_features,spotify:track:3v2oAQomhOcYCPPHafS3KV,0.184
+9,Eric Prydz, Summerburst ID ,Working Title,,,,,,,,,,,,,,,,,,

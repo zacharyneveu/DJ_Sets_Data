@@ -1,0 +1,11 @@
+,Artist(s),Title,Release,acousticness,analysis_url,danceability,duration_ms,energy,id,instrumentalness,key,liveness,loudness,mode,speechiness,tempo,time_signature,track_href,type,uri,valence
+0,Pryda, Beats 1 #015 ID 01 ,Working Title,,,,,,,,,,,,,,,,,,
+1,Pryda, Space Miami 2017 ID  ,unknown,,,,,,,,,,,,,,,,,,
+2,Cirez D, Queen 2010 ID  ,unknown,,,,,,,,,,,,,,,,,,
+3,Pryda, Sonar ID 01 ,Working Title,,,,,,,,,,,,,,,,,,
+4,Cristoph, Newcastle ID 05 ,Working Title,,,,,,,,,,,,,,,,,,
+5,Joel Mull, Soursweet ,Petar Dundov Remix / Eric Prydz's Private Tweak,,,,,,,,,,,,,,,,,,
+6,Pryda, Tomorrowland 2017 Intro ID ,Working Title,,,,,,,,,,,,,,,,,,
+7,Sander Kleinenberg, M.A.N.I.A.C. ,Pryda Remix,6.99e-05,https://api.spotify.com/v1/audio-analysis/5bV9k1XvQ7PtqVz8grwe0B,0.663,347427.0,0.926,5bV9k1XvQ7PtqVz8grwe0B,0.799,11.0,0.112,-2.907,0.0,0.032,123.981,4.0,https://api.spotify.com/v1/tracks/5bV9k1XvQ7PtqVz8grwe0B,audio_features,spotify:track:5bV9k1XvQ7PtqVz8grwe0B,0.212
+8,Pryda, Palladium ID02  ,unknown,,,,,,,,,,,,,,,,,,
+9,Eric Prydz   Jan Burton, Niton ,The Reason,0.000651,https://api.spotify.com/v1/audio-analysis/1BYhP5Ll2zXzA5eVzKHKfZ,0.436,165453.0,0.945,1BYhP5Ll2zXzA5eVzKHKfZ,0.18,2.0,0.312,-3.72,1.0,0.0668,127.965,4.0,https://api.spotify.com/v1/tracks/1BYhP5Ll2zXzA5eVzKHKfZ,audio_features,spotify:track:1BYhP5Ll2zXzA5eVzKHKfZ,0.361

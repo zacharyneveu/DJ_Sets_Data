@@ -1,0 +1,2 @@
+,Artist(s),Title,Release,acousticness,analysis_url,camelot,danceability,duration_ms,energy,id,instrumentalness,key,liveness,loudness,mode,speechiness,tempo,time_signature,track_href,type,uri,valence
+0,Oliver Heldens, ID,unknown,0.782,https://api.spotify.com/v1/audio-analysis/4ajQNrFRqURVI7XK9T5iA5,7A,0.733,163933.0,0.158,4ajQNrFRqURVI7XK9T5iA5,0.0,2.0,0.195,-15.298,0.0,0.0643,82.502,4.0,https://api.spotify.com/v1/tracks/4ajQNrFRqURVI7XK9T5iA5,audio_features,spotify:track:4ajQNrFRqURVI7XK9T5iA5,0.803

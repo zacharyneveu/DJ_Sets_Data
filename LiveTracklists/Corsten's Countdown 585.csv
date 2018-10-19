@@ -1,0 +1,13 @@
+,Artist(s),Title,Release,acousticness,analysis_url,camelot,danceability,duration_ms,energy,id,instrumentalness,key,liveness,loudness,mode,speechiness,tempo,time_signature,track_href,type,uri,valence
+0,SHato Paul Rockseek, So Good ,00:02:05,0.135,https://api.spotify.com/v1/audio-analysis/0s1qfqmuxMnHEFwSHrf5L0,1B,0.613,234200.0,0.895,0s1qfqmuxMnHEFwSHrf5L0,0.0264,11.0,0.376,-6.201,1.0,0.0437,120.687,4.0,https://api.spotify.com/v1/tracks/0s1qfqmuxMnHEFwSHrf5L0,audio_features,spotify:track:0s1qfqmuxMnHEFwSHrf5L0,0.695
+1,, Lemmond ,00:06:08,,,,,,,,,,,,,,,,,,,
+2,, Francesco Sambero ,00:10:22,,,,,,,,,,,,,,,,,,,
+3,, Khievo ,00:16:01,,,,,,,,,,,,,,,,,,,
+4,, Daxson ,00:21:37,,,,,,,,,,,,,,,,,,,
+5,, LTN ,00:26:49,,,,,,,,,,,,,,,,,,,
+6,, CORSTEN'S COUNTDOWN EXCLUSIVE: Claus Backslash ,00:30:32,,,,,,,,,,,,,,,,,,,
+7,, SinSonic ,00:37:14,,,,,,,,,,,,,,,,,,,
+8,, LISTENER'S CHOICE: Fisherman ,00:42:33,,,,,,,,,,,,,,,,,,,
+9,, NUMBER 3: UDM & Exouler ,00:48:43,,,,,,,,,,,,,,,,,,,
+10,, NUMBER 2: Aly & Fila With Sue McLaren ,Giuseppe Ottaviani Remix,,,,,,,,,,,,,,,,,,,
+11,, NUMBER 1 ,00:52:24,,,,,,,,,,,,,,,,,,,

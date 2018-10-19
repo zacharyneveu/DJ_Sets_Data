@@ -1,0 +1,12 @@
+,Artist(s),Title,Release,acousticness,analysis_url,camelot,danceability,duration_ms,energy,id,instrumentalness,key,liveness,loudness,mode,speechiness,tempo,time_signature,track_href,type,uri,valence
+0,Deep'a Biri, Har Zion 110 ,Beatless Edit,0.00541,https://api.spotify.com/v1/audio-analysis/6yzgPU3I1lOPH8PeNuuMWW,8B,0.621,384312.0,0.489,6yzgPU3I1lOPH8PeNuuMWW,0.596,0.0,0.0749,-14.576,1.0,0.0487,119.997,4.0,https://api.spotify.com/v1/tracks/6yzgPU3I1lOPH8PeNuuMWW,audio_features,spotify:track:6yzgPU3I1lOPH8PeNuuMWW,0.329
+1,Himan Pedro Aguiar, Record Legs  ,unknown,0.0061,https://api.spotify.com/v1/audio-analysis/4Nb66OzM6ES5P7vtvu9e6q,4B,0.658,443697.0,0.564,4Nb66OzM6ES5P7vtvu9e6q,0.771,8.0,0.0893,-11.998,1.0,0.0586,119.006,4.0,https://api.spotify.com/v1/tracks/4Nb66OzM6ES5P7vtvu9e6q,audio_features,spotify:track:4Nb66OzM6ES5P7vtvu9e6q,0.242
+2,Nvelope, Tribute ,Frank Hellmond Remix,0.0752,https://api.spotify.com/v1/audio-analysis/1CxKkyffn05lO677GmHqRI,6A,0.612,376976.0,0.573,1CxKkyffn05lO677GmHqRI,0.743,7.0,0.0989,-12.025,0.0,0.0357,123.998,4.0,https://api.spotify.com/v1/tracks/1CxKkyffn05lO677GmHqRI,audio_features,spotify:track:1CxKkyffn05lO677GmHqRI,0.156
+3,Deep'a Biri Gene, Morning Dive  ,unknown,,,,,,,,,,,,,,,,,,,
+4,Lewis Boardman, How Does It Feel ,Doomwork Remix,0.13,https://api.spotify.com/v1/audio-analysis/5D1HbVzGtihK8pKhqefPvs,2B,0.53,216347.0,0.855,5D1HbVzGtihK8pKhqefPvs,0.0,6.0,0.3,-4.367,1.0,0.0386,140.962,4.0,https://api.spotify.com/v1/tracks/5D1HbVzGtihK8pKhqefPvs,audio_features,spotify:track:5D1HbVzGtihK8pKhqefPvs,0.794
+5,Radio Slave, I Don't Need A Cure For This ,Worst Case Scenario Remix,0.00225,https://api.spotify.com/v1/audio-analysis/1ldbv5nVhYQQCdcgRfceHh,3B,0.802,490139.0,0.667,1ldbv5nVhYQQCdcgRfceHh,0.86,1.0,0.154,-10.112,1.0,0.0545,124.506,4.0,https://api.spotify.com/v1/tracks/1ldbv5nVhYQQCdcgRfceHh,audio_features,spotify:track:1ldbv5nVhYQQCdcgRfceHh,0.423
+6,Chaton, Life Is Wonderes ,Donato Dozzy Reconstruction,,,,,,,,,,,,,,,,,,,
+7,iO (Mulen), Crawling ,Mulen,,,,,,,,,,,,,,,,,,,
+8,Igor Vicente, Mallowide  ,unknown,,,,,,,,,,,,,,,,,,,
+9,Quenum, Slave Of Love ,Agaric Remix,,,,,,,,,,,,,,,,,,,
+10,Tom Demac   Phil Kay, Emerge  ,unknown,0.0217,https://api.spotify.com/v1/audio-analysis/3PNYJMdDAjViFBztbrz151,11B,0.764,499460.0,0.551,3PNYJMdDAjViFBztbrz151,0.897,9.0,0.104,-9.914,1.0,0.0372,120.02,4.0,https://api.spotify.com/v1/tracks/3PNYJMdDAjViFBztbrz151,audio_features,spotify:track:3PNYJMdDAjViFBztbrz151,0.206

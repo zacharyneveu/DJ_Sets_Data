@@ -1,0 +1,21 @@
+,Artist(s),Title,Release,acousticness,analysis_url,camelot,danceability,duration_ms,energy,id,instrumentalness,key,liveness,loudness,mode,speechiness,tempo,time_signature,track_href,type,uri,valence
+0,Denis Sulta, Ryanair Boarding Theme,unknown,,,,,,,,,,,,,,,,,,,
+1,Lifelike Kris Menace, What Time Is Love ,303 SSL Mix,0.0109,https://api.spotify.com/v1/audio-analysis/0jnijxJf7sXenRwDw8ElIc,5B,0.815,179865.0,0.747,0jnijxJf7sXenRwDw8ElIc,0.756,3.0,0.0806,-8.066,1.0,0.071,119.978,4.0,https://api.spotify.com/v1/tracks/0jnijxJf7sXenRwDw8ElIc,audio_features,spotify:track:0jnijxJf7sXenRwDw8ElIc,0.158
+2,Al Zanders, Martha's Revenge,unknown,,,,,,,,,,,,,,,,,,,
+3,Wally Jump Jr The Criminal Element, Just Can't Stop ,Dancin',6.66e-06,https://api.spotify.com/v1/audio-analysis/1JjeMKMvz5trvRnYrdkvMK,10B,0.552,168571.0,0.903,1JjeMKMvz5trvRnYrdkvMK,0.0161,2.0,0.396,-4.284,1.0,0.0611,126.007,4.0,https://api.spotify.com/v1/tracks/1JjeMKMvz5trvRnYrdkvMK,audio_features,spotify:track:1JjeMKMvz5trvRnYrdkvMK,0.462
+4,Atlus, De Jam,unknown,,,,,,,,,,,,,,,,,,,
+5,No_4mat, 1992,unknown,,,,,,,,,,,,,,,,,,,
+6,Gimbrere, A Thing,unknown,0.0014,https://api.spotify.com/v1/audio-analysis/3gafH0kVjdW4APXeRKv7IM,1A,0.883,284516.0,0.734,3gafH0kVjdW4APXeRKv7IM,0.439,8.0,0.0941,-7.889,0.0,0.0826,124.003,3.0,https://api.spotify.com/v1/tracks/3gafH0kVjdW4APXeRKv7IM,audio_features,spotify:track:3gafH0kVjdW4APXeRKv7IM,0.826
+7,Denis Sulta, DC Terrified ,For All The Right Reasons,,,,,,,,,,,,,,,,,,,
+8,HAAi, Never Cared Too Much For Jungle,unknown,5.19e-05,https://api.spotify.com/v1/audio-analysis/1LFN0o0Jrksa3p9rVKGz4u,2A,0.664,463517.0,0.777,1LFN0o0Jrksa3p9rVKGz4u,0.868,3.0,0.102,-8.86,0.0,0.0667,132.005,4.0,https://api.spotify.com/v1/tracks/1LFN0o0Jrksa3p9rVKGz4u,audio_features,spotify:track:1LFN0o0Jrksa3p9rVKGz4u,0.344
+9,Skream, HWG,unknown,,,,,,,,,,,,,,,,,,,
+10,CJ Bolland, Camargue ,Lindsay Green & Stephen Kirkwood Edit,0.0448,https://api.spotify.com/v1/audio-analysis/3W6LDkmCTlAktnIt9yQrY3,4B,0.623,384475.0,0.813,3W6LDkmCTlAktnIt9yQrY3,0.916,8.0,0.203,-9.374,1.0,0.057,137.863,4.0,https://api.spotify.com/v1/tracks/3W6LDkmCTlAktnIt9yQrY3,audio_features,spotify:track:3W6LDkmCTlAktnIt9yQrY3,0.495
+11,Brame Hamo, Limewire,unknown,8.53e-05,https://api.spotify.com/v1/audio-analysis/6nbSbANhWb4PgKDK3FU3fq,9B,0.728,301545.0,0.856,6nbSbANhWb4PgKDK3FU3fq,0.909,7.0,0.0327,-6.79,1.0,0.0747,127.994,4.0,https://api.spotify.com/v1/tracks/6nbSbANhWb4PgKDK3FU3fq,audio_features,spotify:track:6nbSbANhWb4PgKDK3FU3fq,0.838
+12,Mike Dunn, Can I Turn It Up,unknown,0.000171,https://api.spotify.com/v1/audio-analysis/4Dk0gk2ukdszqDb1Tymoh2,3B,0.798,309337.0,0.92,4Dk0gk2ukdszqDb1Tymoh2,0.888,1.0,0.0603,-7.658,1.0,0.0496,119.989,4.0,https://api.spotify.com/v1/tracks/4Dk0gk2ukdszqDb1Tymoh2,audio_features,spotify:track:4Dk0gk2ukdszqDb1Tymoh2,0.36
+13,Baba Stiltz, El Baile,unknown,,,,,,,,,,,,,,,,,,,
+14,Noriko Miyamoto   Isao Suzuki, Everything I Have Is Yours ,宮本典子,,,,,,,,,,,,,,,,,,,
+15,DJ Cammy, Celebrate The Summer,unknown,0.00634,https://api.spotify.com/v1/audio-analysis/13uyw5AzECGSXp53NoEVbI,10B,0.694,286462.0,0.826,13uyw5AzECGSXp53NoEVbI,0.913,2.0,0.518,-7.935,1.0,0.0368,124.016,4.0,https://api.spotify.com/v1/tracks/13uyw5AzECGSXp53NoEVbI,audio_features,spotify:track:13uyw5AzECGSXp53NoEVbI,0.1
+16,Alpha Team, Speed Racer,unknown,,,,,,,,,,,,,,,,,,,
+17,Groundislava   Rare Times, Feel The Heat ,Indecorum Remix,0.00542,https://api.spotify.com/v1/audio-analysis/6XcCxRKPgNww7XVWz23l7r,9B,0.639,341222.0,0.778,6XcCxRKPgNww7XVWz23l7r,0.00062,7.0,0.133,-7.964,1.0,0.0343,130.029,4.0,https://api.spotify.com/v1/tracks/6XcCxRKPgNww7XVWz23l7r,audio_features,spotify:track:6XcCxRKPgNww7XVWz23l7r,0.815
+18,Rustie, Bad Science ,VIP,,,,,,,,,,,,,,,,,,,
+19,Johnny Vicious   Lula, Ecstacy ,Take Your Shirts Off,0.887,https://api.spotify.com/v1/audio-analysis/1pAKmwvDqtZ9uqKBCHfKul,4B,0.618,82077.0,0.137,1pAKmwvDqtZ9uqKBCHfKul,0.276,8.0,0.14,-16.907,1.0,0.0415,120.114,3.0,https://api.spotify.com/v1/tracks/1pAKmwvDqtZ9uqKBCHfKul,audio_features,spotify:track:1pAKmwvDqtZ9uqKBCHfKul,0.316

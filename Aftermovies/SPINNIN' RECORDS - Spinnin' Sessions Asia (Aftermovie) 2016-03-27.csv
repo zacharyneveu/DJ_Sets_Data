@@ -1,0 +1,4 @@
+,Artist(s),Title,Release,acousticness,analysis_url,camelot,danceability,duration_ms,energy,id,instrumentalness,key,liveness,loudness,mode,speechiness,tempo,time_signature,track_href,type,uri,valence
+0,PAJANE,Fire,Save Me,,,,,,,,,,,,,,,,,,,
+1,"Matt Nash,Carta",Fearless,SPINNIN',0.0116,https://api.spotify.com/v1/audio-analysis/7wzigJdQrAUcBrn9otiFSP,9B,0.552,202083.0,0.977,7wzigJdQrAUcBrn9otiFSP,0.414,7.0,0.0492,-2.737,1.0,0.0854,127.981,4.0,https://api.spotify.com/v1/tracks/7wzigJdQrAUcBrn9otiFSP,audio_features,spotify:track:7wzigJdQrAUcBrn9otiFSP,0.417
+2,"Headhunterz,Skytech",Kundalini,unknown,0.0425,https://api.spotify.com/v1/audio-analysis/4Tw0PFB1wBhW5FW8gbCW2p,5A,0.634,187920.0,0.93,4Tw0PFB1wBhW5FW8gbCW2p,1.19e-05,0.0,0.403,-3.832,0.0,0.0816,127.966,4.0,https://api.spotify.com/v1/tracks/4Tw0PFB1wBhW5FW8gbCW2p,audio_features,spotify:track:4Tw0PFB1wBhW5FW8gbCW2p,0.481

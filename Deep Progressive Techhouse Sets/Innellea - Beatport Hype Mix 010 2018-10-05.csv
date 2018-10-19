@@ -1,0 +1,11 @@
+,Artist(s),Title,Release,acousticness,analysis_url,camelot,danceability,duration_ms,energy,id,instrumentalness,key,liveness,loudness,mode,speechiness,tempo,time_signature,track_href,type,uri,valence
+0,Den Sorte Skole, What A Day  ,unknown,0.37,https://api.spotify.com/v1/audio-analysis/656FIwV5YynwCUBt31P9Gv,6A,0.147,490952.0,0.408,656FIwV5YynwCUBt31P9Gv,0.859,7.0,0.149,-15.298,0.0,0.0449,84.132,3.0,https://api.spotify.com/v1/tracks/656FIwV5YynwCUBt31P9Gv,audio_features,spotify:track:656FIwV5YynwCUBt31P9Gv,0.0591
+1,Yubik, Eprect  ,unknown,,,,,,,,,,,,,,,,,,,
+2,Roman Rai Martin Glez, 0.29 ,Ian Metty Remix,0.141,https://api.spotify.com/v1/audio-analysis/4wTlxupWXy46EcW9YH8NTc,9B,0.39,450000.0,0.844,4wTlxupWXy46EcW9YH8NTc,0.887,7.0,0.106,-8.281,1.0,0.0363,120.997,4.0,https://api.spotify.com/v1/tracks/4wTlxupWXy46EcW9YH8NTc,audio_features,spotify:track:4wTlxupWXy46EcW9YH8NTc,0.1
+3,Dahu, Dhrdh  ,unknown,,,,,,,,,,,,,,,,,,,
+4,Collé, Tulua  ,unknown,0.239,https://api.spotify.com/v1/audio-analysis/3NEDoGxXjuS6p9Ri9iRzaz,9B,0.703,401311.0,0.836,3NEDoGxXjuS6p9Ri9iRzaz,0.862,7.0,0.11,-11.789,1.0,0.0448,120.004,4.0,https://api.spotify.com/v1/tracks/3NEDoGxXjuS6p9Ri9iRzaz,audio_features,spotify:track:3NEDoGxXjuS6p9Ri9iRzaz,0.33
+5,MULYA, Cyclone  ,unknown,,,,,,,,,,,,,,,,,,,
+6,Marvin Guy, Cowboys Disco  ,unknown,0.00432,https://api.spotify.com/v1/audio-analysis/0vIt79t1yT9vdd407rQbQl,7B,0.648,680160.0,0.715,0vIt79t1yT9vdd407rQbQl,0.843,5.0,0.168,-11.751,1.0,0.0371,120.0,3.0,https://api.spotify.com/v1/tracks/0vIt79t1yT9vdd407rQbQl,audio_features,spotify:track:0vIt79t1yT9vdd407rQbQl,0.245
+7,Chromatics, Looking For Love  ,unknown,0.00558,https://api.spotify.com/v1/audio-analysis/2yCZCfUk5N0HH9RER62rOz,3B,0.628,330907.0,0.712,2yCZCfUk5N0HH9RER62rOz,0.263,1.0,0.118,-12.888,1.0,0.0296,103.463,4.0,https://api.spotify.com/v1/tracks/2yCZCfUk5N0HH9RER62rOz,audio_features,spotify:track:2yCZCfUk5N0HH9RER62rOz,0.882
+8,Autarkic, Strange Alliances ,Trikk Selva Cosmica Remix,0.0274,https://api.spotify.com/v1/audio-analysis/1KVX4lfEoNLS0g1QwZkbpB,3A,0.778,404288.0,0.869,1KVX4lfEoNLS0g1QwZkbpB,0.705,10.0,0.21,-7.195,0.0,0.0478,118.001,4.0,https://api.spotify.com/v1/tracks/1KVX4lfEoNLS0g1QwZkbpB,audio_features,spotify:track:1KVX4lfEoNLS0g1QwZkbpB,0.543
+9,Tunnelvisions, Imaja's Drum ,Innellea Cosmic Consciousness,,,,,,,,,,,,,,,,,,,

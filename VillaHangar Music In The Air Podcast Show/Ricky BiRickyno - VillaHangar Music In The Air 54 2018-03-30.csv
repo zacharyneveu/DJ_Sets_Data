@@ -1,0 +1,11 @@
+,Artist(s),Title,Release,acousticness,analysis_url,camelot,danceability,duration_ms,energy,id,instrumentalness,key,liveness,loudness,mode,speechiness,tempo,time_signature,track_href,type,uri,valence
+0,"Danny Tenaglia,Carole Sylvan",Look Ahead,Bonus Dub,,,,,,,,,,,,,,,,,,,
+1,"David Penn,Lisa Millett",Join Us,Full Intention Dub,0.00132,https://api.spotify.com/v1/audio-analysis/3RNc5zJgr7tjixGqkWuIdn,6B,0.861,334457.0,0.714,3RNc5zJgr7tjixGqkWuIdn,0.352,10.0,0.0423,-5.923,1.0,0.0905,121.993,4.0,https://api.spotify.com/v1/tracks/3RNc5zJgr7tjixGqkWuIdn,audio_features,spotify:track:3RNc5zJgr7tjixGqkWuIdn,0.819
+2,"Full Intention,Shena",I'll Be Waiting,Club Mix,,,,,,,,,,,,,,,,,,,
+3,"Airbas,Maria Angeli",Take Me Back,Ricky BiRickyno Classic Piano Dub Remix,,,,,,,,,,,,,,,,,,,
+4,"Ricky BiRickyno,Jack Wolf",I Wish That,unknown,,,,,,,,,,,,,,,,,,,
+5,Neja,The Role Of Love,Ricky BiRickyno Classic Remix,0.00288,https://api.spotify.com/v1/audio-analysis/66m7LVfDL4M83h3ENusT70,8A,0.761,375410.0,0.685,66m7LVfDL4M83h3ENusT70,0.0687,9.0,0.0432,-7.207,0.0,0.0441,114.994,4.0,https://api.spotify.com/v1/tracks/66m7LVfDL4M83h3ENusT70,audio_features,spotify:track:66m7LVfDL4M83h3ENusT70,0.482
+6,S.E.L,You Gotta Be,Jay Kutz & DJ Spen Funkee Deep House Instrumental,0.0194,https://api.spotify.com/v1/audio-analysis/4LO6izDXn0p36oJ9lUSphX,8B,0.728,456000.0,0.648,4LO6izDXn0p36oJ9lUSphX,4.38e-05,0.0,0.0245,-7.67,1.0,0.054,119.993,4.0,https://api.spotify.com/v1/tracks/4LO6izDXn0p36oJ9lUSphX,audio_features,spotify:track:4LO6izDXn0p36oJ9lUSphX,0.754
+7,"The L.O.V.E Project,Shean Williams",I'm In Love,DJ Spen & Earl Tutu & John Khan Remix,,,,,,,,,,,,,,,,,,,
+8,"Full Intention,Blaze",Be Yourself,MN2S,0.0272,https://api.spotify.com/v1/audio-analysis/3cdMrQ8VmnELDQCAZSmYIW,9A,0.699,183902.0,0.657,3cdMrQ8VmnELDQCAZSmYIW,0.000609,4.0,0.358,-17.381,0.0,0.0598,123.026,4.0,https://api.spotify.com/v1/tracks/3cdMrQ8VmnELDQCAZSmYIW,audio_features,spotify:track:3cdMrQ8VmnELDQCAZSmYIW,0.874
+9,"Livio Mode,Massimo Barri,Pete Simpson",Give Me Hope,M&B Instrumental Mix,0.045,https://api.spotify.com/v1/audio-analysis/4SInyrTOT7IRirL7UGRPXp,4A,0.734,425800.0,0.982,4SInyrTOT7IRirL7UGRPXp,0.894,5.0,0.231,-10.802,0.0,0.0528,124.015,4.0,https://api.spotify.com/v1/tracks/4SInyrTOT7IRirL7UGRPXp,audio_features,spotify:track:4SInyrTOT7IRirL7UGRPXp,0.961

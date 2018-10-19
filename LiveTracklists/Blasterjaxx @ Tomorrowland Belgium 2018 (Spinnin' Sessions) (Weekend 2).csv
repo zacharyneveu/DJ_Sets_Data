@@ -1,0 +1,6 @@
+,Artist(s),Title,Release,acousticness,analysis_url,camelot,danceability,duration_ms,energy,id,instrumentalness,key,liveness,loudness,mode,speechiness,tempo,time_signature,track_href,type,uri,valence
+0,Blasterjaxx, ID,unknown,,,,,,,,,,,,,,,,,,,
+1,Blasterjaxx   Elle Vee, Wristbands,unknown,,,,,,,,,,,,,,,,,,,
+2,Blasterjaxx Bassjackers, Switch,unknown,0.00134,https://api.spotify.com/v1/audio-analysis/5Aj9oGHtVlFveklrDMdjSv,11B,0.732,226491.0,0.869,5Aj9oGHtVlFveklrDMdjSv,0.426,9.0,0.126,-3.523,1.0,0.0737,130.006,4.0,https://api.spotify.com/v1/tracks/5Aj9oGHtVlFveklrDMdjSv,audio_features,spotify:track:5Aj9oGHtVlFveklrDMdjSv,0.288
+3,Blasterjaxx, ID,unknown,,,,,,,,,,,,,,,,,,,
+4,Wolfpack Futuristic Polar Bears, Derb,unknown,0.000481,https://api.spotify.com/v1/audio-analysis/3JiDu0fjqAFbgYrR17rgC8,3B,0.621,144000.0,0.927,3JiDu0fjqAFbgYrR17rgC8,0.655,1.0,0.0617,-5.278,1.0,0.0571,129.964,4.0,https://api.spotify.com/v1/tracks/3JiDu0fjqAFbgYrR17rgC8,audio_features,spotify:track:3JiDu0fjqAFbgYrR17rgC8,0.217

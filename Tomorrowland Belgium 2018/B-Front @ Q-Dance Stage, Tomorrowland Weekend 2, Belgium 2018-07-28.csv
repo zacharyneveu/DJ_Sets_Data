@@ -1,0 +1,20 @@
+,Artist(s),Title,Release,acousticness,analysis_url,camelot,danceability,duration_ms,energy,id,instrumentalness,key,liveness,loudness,mode,speechiness,tempo,time_signature,track_href,type,uri,valence
+0,Audiotricz,Let There Be Light,unknown,0.019,https://api.spotify.com/v1/audio-analysis/6DUXTNrILvMUEPtj8PIYyO,11B,0.518,189200.0,0.77,6DUXTNrILvMUEPtj8PIYyO,0.194,9.0,0.355,-6.15,1.0,0.0634,150.008,4.0,https://api.spotify.com/v1/tracks/6DUXTNrILvMUEPtj8PIYyO,audio_features,spotify:track:6DUXTNrILvMUEPtj8PIYyO,0.068
+1,B,Front & Phuture Noize,Qlimax Edit,,,,,,,,,,,,,,,,,,,
+2,ANDY SVGE,Gravity,unknown,0.00303,https://api.spotify.com/v1/audio-analysis/0EJahNh8HYDJes5XuBz9gL,12A,0.572,280000.0,0.909,0EJahNh8HYDJes5XuBz9gL,0.5,1.0,0.132,-3.245,0.0,0.051,149.959,4.0,https://api.spotify.com/v1/tracks/0EJahNh8HYDJes5XuBz9gL,audio_features,spotify:track:0EJahNh8HYDJes5XuBz9gL,0.304
+3,B,Front,unknown,0.14,https://api.spotify.com/v1/audio-analysis/0uv1qAL1ID4BBf1aOEriwC,9A,0.782,155794.0,0.803,0uv1qAL1ID4BBf1aOEriwC,0.22,4.0,0.163,-5.741,0.0,0.0613,126.012,4.0,https://api.spotify.com/v1/tracks/0uv1qAL1ID4BBf1aOEriwC,audio_features,spotify:track:0uv1qAL1ID4BBf1aOEriwC,0.411
+4,Phuture Noize,World Of Distortion,unknown,0.0437,https://api.spotify.com/v1/audio-analysis/4ekg4vsz6AD1Yg1zKxNlLx,12A,0.518,194510.0,0.916,4ekg4vsz6AD1Yg1zKxNlLx,0.000749,1.0,0.38,-2.169,0.0,0.0436,152.983,4.0,https://api.spotify.com/v1/tracks/4ekg4vsz6AD1Yg1zKxNlLx,audio_features,spotify:track:4ekg4vsz6AD1Yg1zKxNlLx,0.0389
+5,B,Front & Alpha²,SCANTRAXX,,,,,,,,,,,,,,,,,,,
+6,Phuture Noize,The Aftershock,unknown,0.517,https://api.spotify.com/v1/audio-analysis/0WW4f1f0JA7H7lDuLkaODp,8A,0.552,228082.0,0.985,0WW4f1f0JA7H7lDuLkaODp,0.195,9.0,0.0829,-1.341,0.0,0.0879,150.055,4.0,https://api.spotify.com/v1/tracks/0WW4f1f0JA7H7lDuLkaODp,audio_features,spotify:track:0WW4f1f0JA7H7lDuLkaODp,0.116
+7,B,Front,unknown,0.14,https://api.spotify.com/v1/audio-analysis/0uv1qAL1ID4BBf1aOEriwC,9A,0.782,155794.0,0.803,0uv1qAL1ID4BBf1aOEriwC,0.22,4.0,0.163,-5.741,0.0,0.0613,126.012,4.0,https://api.spotify.com/v1/tracks/0uv1qAL1ID4BBf1aOEriwC,audio_features,spotify:track:0uv1qAL1ID4BBf1aOEriwC,0.411
+8,"Dynoro,Gigi D'Agostino",In My Mind,Adaro & The Machine Bootleg,0.176,https://api.spotify.com/v1/audio-analysis/0E9ZjEAyAwOXZ7wJC0PD33,2B,0.694,184560.0,0.77,0E9ZjEAyAwOXZ7wJC0PD33,1.1e-05,6.0,0.118,-5.335,1.0,0.149,125.905,4.0,https://api.spotify.com/v1/tracks/0E9ZjEAyAwOXZ7wJC0PD33,audio_features,spotify:track:0E9ZjEAyAwOXZ7wJC0PD33,0.163
+9,B,Front & Phuture Noize,unknown,,,,,,,,,,,,,,,,,,,
+10,B,Front,unknown,0.14,https://api.spotify.com/v1/audio-analysis/0uv1qAL1ID4BBf1aOEriwC,9A,0.782,155794.0,0.803,0uv1qAL1ID4BBf1aOEriwC,0.22,4.0,0.163,-5.741,0.0,0.0613,126.012,4.0,https://api.spotify.com/v1/tracks/0uv1qAL1ID4BBf1aOEriwC,audio_features,spotify:track:0uv1qAL1ID4BBf1aOEriwC,0.411
+11,"Adaro,B",Front ft. Dawnfire,unknown,,,,,,,,,,,,,,,,,,,
+12,Zazafront,Dikke Vette Bassplaat,Defqon.1 2016 Edit,,,,,,,,,,,,,,,,,,,
+13,Public Enemies,Universal Nation,SCANTRAXX,,,,,,,,,,,,,,,,,,,
+14,B,Front,unknown,0.14,https://api.spotify.com/v1/audio-analysis/0uv1qAL1ID4BBf1aOEriwC,9A,0.782,155794.0,0.803,0uv1qAL1ID4BBf1aOEriwC,0.22,4.0,0.163,-5.741,0.0,0.0613,126.012,4.0,https://api.spotify.com/v1/tracks/0uv1qAL1ID4BBf1aOEriwC,audio_features,spotify:track:0uv1qAL1ID4BBf1aOEriwC,0.411
+15,Unknown Analoq,Blackout,B-Front Remix,0.188,https://api.spotify.com/v1/audio-analysis/3oG9z1t1388i8UnzlpMaoF,11A,0.499,320400.0,0.906,3oG9z1t1388i8UnzlpMaoF,4.72e-05,6.0,0.532,-2.668,0.0,0.0637,150.0,4.0,https://api.spotify.com/v1/tracks/3oG9z1t1388i8UnzlpMaoF,audio_features,spotify:track:3oG9z1t1388i8UnzlpMaoF,0.104
+16,"Think Up Anger,Malia J",Smells Like Teen Spirit,B-Front Bootleg,,,,,,,,,,,,,,,,,,,
+17,B,Front,unknown,0.14,https://api.spotify.com/v1/audio-analysis/0uv1qAL1ID4BBf1aOEriwC,9A,0.782,155794.0,0.803,0uv1qAL1ID4BBf1aOEriwC,0.22,4.0,0.163,-5.741,0.0,0.0613,126.012,4.0,https://api.spotify.com/v1/tracks/0uv1qAL1ID4BBf1aOEriwC,audio_features,spotify:track:0uv1qAL1ID4BBf1aOEriwC,0.411
+18,B,Freqz,unknown,,,,,,,,,,,,,,,,,,,

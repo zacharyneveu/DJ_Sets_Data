@@ -1,0 +1,6 @@
+,Artist(s),Title,Release,acousticness,analysis_url,camelot,danceability,duration_ms,energy,id,instrumentalness,key,liveness,loudness,mode,speechiness,tempo,time_signature,track_href,type,uri,valence
+0,ID, ID,unknown,0.000241,https://api.spotify.com/v1/audio-analysis/1aRxfiM606yUIQyKZzaslz,9B,0.269,129715.0,0.901,1aRxfiM606yUIQyKZzaslz,0.717,7.0,0.415,-7.38,1.0,0.0719,141.565,4.0,https://api.spotify.com/v1/tracks/1aRxfiM606yUIQyKZzaslz,audio_features,spotify:track:1aRxfiM606yUIQyKZzaslz,0.439
+1,Audiotricz, ID,unknown,,,,,,,,,,,,,,,,,,,
+2,The Prophet, Lights Out,unknown,0.0162,https://api.spotify.com/v1/audio-analysis/2gZzkQXC9Uj6uUeR7ulk2C,11A,0.455,174241.0,0.805,2gZzkQXC9Uj6uUeR7ulk2C,0.0,6.0,0.415,-4.111,0.0,0.0738,155.053,5.0,https://api.spotify.com/v1/tracks/2gZzkQXC9Uj6uUeR7ulk2C,audio_features,spotify:track:2gZzkQXC9Uj6uUeR7ulk2C,0.172
+3,Hard Driver, Get It Started,unknown,,,,,,,,,,,,,,,,,,,
+4,Rob Mayth, Feel My Love ,Devin Wild & Sub Zero Project Bootleg,0.0231,https://api.spotify.com/v1/audio-analysis/5Q8EPHPyr8J1JDGl3nFu5X,3A,0.592,243217.0,0.938,5Q8EPHPyr8J1JDGl3nFu5X,3.55e-05,10.0,0.184,-3.996,0.0,0.143,150.022,4.0,https://api.spotify.com/v1/tracks/5Q8EPHPyr8J1JDGl3nFu5X,audio_features,spotify:track:5Q8EPHPyr8J1JDGl3nFu5X,0.157

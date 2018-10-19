@@ -1,0 +1,16 @@
+,Artist(s),Title,Release,acousticness,analysis_url,camelot,danceability,duration_ms,energy,id,instrumentalness,key,liveness,loudness,mode,speechiness,tempo,time_signature,track_href,type,uri,valence
+0,Rebelion Malice, Confronting Hate,unknown,,,,,,,,,,,,,,,,,,,
+1,Rooler, Tormento ,Malice Remix,0.0967,https://api.spotify.com/v1/audio-analysis/7ANDi17dpLzdJCprLRQlfg,3B,0.408,68923.0,0.93,7ANDi17dpLzdJCprLRQlfg,2.14e-06,1.0,0.381,-5.126,1.0,0.246,155.016,4.0,https://api.spotify.com/v1/tracks/7ANDi17dpLzdJCprLRQlfg,audio_features,spotify:track:7ANDi17dpLzdJCprLRQlfg,0.0761
+2,Malice, Brutalized,unknown,0.399,https://api.spotify.com/v1/audio-analysis/3j5mjhxk2TOWsll4yqV5WH,10A,0.647,131714.0,0.988,3j5mjhxk2TOWsll4yqV5WH,0.0139,11.0,0.0752,-2.35,0.0,0.173,154.978,4.0,https://api.spotify.com/v1/tracks/3j5mjhxk2TOWsll4yqV5WH,audio_features,spotify:track:3j5mjhxk2TOWsll4yqV5WH,0.304
+3,O.B.I, Girls Love Techno ,Malice Bootleg,,,,,,,,,,,,,,,,,,,
+4,Luminite Malice, Death Destruction,unknown,,,,,,,,,,,,,,,,,,,
+5,Malice Killshot, Sledgehammer,unknown,,,,,,,,,,,,,,,,,,,
+6,Malice, Xtermination 2.0 ,Dominator Edit,,,,,,,,,,,,,,,,,,,
+7,Delete, Mutants ,Aggressive Act Remix,0.18,https://api.spotify.com/v1/audio-analysis/3q8a8J2Zg1lKoVExSGAvnD,3A,0.505,332800.0,0.903,3q8a8J2Zg1lKoVExSGAvnD,0.0102,10.0,0.0712,-5.193,0.0,0.241,149.995,4.0,https://api.spotify.com/v1/tracks/3q8a8J2Zg1lKoVExSGAvnD,audio_features,spotify:track:3q8a8J2Zg1lKoVExSGAvnD,0.193
+8,Warface Malice, Betrayal,unknown,,,,,,,,,,,,,,,,,,,
+9,Malice Rooler, Aggressive Acts ,Live Edit,0.622,https://api.spotify.com/v1/audio-analysis/0wyXZ6CIimHitxFDW0SCVu,12B,0.334,113058.0,0.966,0wyXZ6CIimHitxFDW0SCVu,0.00345,4.0,0.434,-4.587,1.0,0.371,155.029,4.0,https://api.spotify.com/v1/tracks/0wyXZ6CIimHitxFDW0SCVu,audio_features,spotify:track:0wyXZ6CIimHitxFDW0SCVu,0.0835
+10,Malice D,Sturb ,unknown,,,,,,,,,,,,,,,,,,,
+11,Unresolved Malice, Bring The Panic!,unknown,0.129,https://api.spotify.com/v1/audio-analysis/6mtLZyv729eKhDBFJOQ9tb,12A,0.588,111039.0,0.924,6mtLZyv729eKhDBFJOQ9tb,0.000571,1.0,0.909,-5.04,0.0,0.453,154.821,4.0,https://api.spotify.com/v1/tracks/6mtLZyv729eKhDBFJOQ9tb,audio_features,spotify:track:6mtLZyv729eKhDBFJOQ9tb,0.221
+12,Warface   Malice Rooler, Watch Your Back,unknown,0.26,https://api.spotify.com/v1/audio-analysis/6Jzr5AKznlv11jSkVOW5jx,10A,0.517,200404.0,0.977,6Jzr5AKznlv11jSkVOW5jx,1.66e-05,11.0,0.712,-2.749,0.0,0.338,157.894,4.0,https://api.spotify.com/v1/tracks/6Jzr5AKznlv11jSkVOW5jx,audio_features,spotify:track:6Jzr5AKznlv11jSkVOW5jx,0.199
+13,Malice, Can't Let You Go ,Dominator Edit,,,,,,,,,,,,,,,,,,,
+14,Malice Andy The Core, ID,unknown,0.694,https://api.spotify.com/v1/audio-analysis/54HSw1PF0ZWP9ITBBo68F1,7B,0.633,267268.0,0.238,54HSw1PF0ZWP9ITBBo68F1,1.41e-05,5.0,0.106,-12.44,1.0,0.0364,108.956,4.0,https://api.spotify.com/v1/tracks/54HSw1PF0ZWP9ITBBo68F1,audio_features,spotify:track:54HSw1PF0ZWP9ITBBo68F1,0.474

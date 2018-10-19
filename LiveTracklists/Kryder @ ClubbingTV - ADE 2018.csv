@@ -1,0 +1,10 @@
+,Artist(s),Title,Release,acousticness,analysis_url,camelot,danceability,duration_ms,energy,id,instrumentalness,key,liveness,loudness,mode,speechiness,tempo,time_signature,track_href,type,uri,valence
+0,ID, ID,unknown,0.000241,https://api.spotify.com/v1/audio-analysis/1aRxfiM606yUIQyKZzaslz,9B,0.269,129715.0,0.901,1aRxfiM606yUIQyKZzaslz,0.717,7.0,0.415,-7.38,1.0,0.0719,141.565,4.0,https://api.spotify.com/v1/tracks/1aRxfiM606yUIQyKZzaslz,audio_features,spotify:track:1aRxfiM606yUIQyKZzaslz,0.439
+1,Kryder, Get Funky,unknown,,,,,,,,,,,,,,,,,,,
+2,ID, Smash The Disco,unknown,,,,,,,,,,,,,,,,,,,
+3,ID, Party,unknown,,,,,,,,,,,,,,,,,,,
+4,ID, RYDM,unknown,,,,,,,,,,,,,,,,,,,
+5,Kryder Tom Staar The Wulf, De Puta Madre ,The Cube Guys Remix,9.53e-05,https://api.spotify.com/v1/audio-analysis/6EhAQhluXF1D0vJ94hLFSQ,11B,0.654,209032.0,0.948,6EhAQhluXF1D0vJ94hLFSQ,0.678,9.0,0.081,-4.683,1.0,0.119,123.934,4.0,https://api.spotify.com/v1/tracks/6EhAQhluXF1D0vJ94hLFSQ,audio_features,spotify:track:6EhAQhluXF1D0vJ94hLFSQ,0.37
+6,Kryder Eddie Thoneick, The Chant ,Cato Anaya Remix,0.00722,https://api.spotify.com/v1/audio-analysis/3F91JrM1flxzO4LDT6jFH4,8B,0.553,204062.0,0.965,3F91JrM1flxzO4LDT6jFH4,0.00406,0.0,0.376,-3.07,1.0,0.0536,125.961,4.0,https://api.spotify.com/v1/tracks/3F91JrM1flxzO4LDT6jFH4,audio_features,spotify:track:3F91JrM1flxzO4LDT6jFH4,0.536
+7,Tom Staar   Martina Camargo, Me Sueno ,ID Remix,0.0479,https://api.spotify.com/v1/audio-analysis/1p34E6pRLaGhc1w0IZHBnq,5A,0.697,193845.0,0.972,1p34E6pRLaGhc1w0IZHBnq,0.00104,0.0,0.391,-4.026,0.0,0.112,125.928,4.0,https://api.spotify.com/v1/tracks/1p34E6pRLaGhc1w0IZHBnq,audio_features,spotify:track:1p34E6pRLaGhc1w0IZHBnq,0.616
+8,Siwell, On The Fly,unknown,,,,,,,,,,,,,,,,,,,

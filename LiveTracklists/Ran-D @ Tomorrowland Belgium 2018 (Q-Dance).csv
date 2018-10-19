@@ -1,0 +1,18 @@
+,Artist(s),Title,Release,acousticness,analysis_url,camelot,danceability,duration_ms,energy,id,instrumentalness,key,liveness,loudness,mode,speechiness,tempo,time_signature,track_href,type,uri,valence
+0,Ran,D ,unknown,0.28,https://api.spotify.com/v1/audio-analysis/4DKgW2VzcO0aRgHbEgsWRR,11B,0.75,140867.0,0.533,4DKgW2VzcO0aRgHbEgsWRR,3.59e-05,9.0,0.174,-10.289,1.0,0.102,81.993,4.0,https://api.spotify.com/v1/tracks/4DKgW2VzcO0aRgHbEgsWRR,audio_features,spotify:track:4DKgW2VzcO0aRgHbEgsWRR,0.883
+1,Ran,D & Digital Punk ,Code Black Mashup,,,,,,,,,,,,,,,,,,,
+2,Gunz For Hire   Nikki Milou, We Will Be Immortal,unknown,0.129,https://api.spotify.com/v1/audio-analysis/7nRDaMCjsZwjE7FG44IqnY,1A,0.262,198523.0,0.854,7nRDaMCjsZwjE7FG44IqnY,0.0,8.0,0.108,-2.139,0.0,0.0544,154.893,4.0,https://api.spotify.com/v1/tracks/7nRDaMCjsZwjE7FG44IqnY,audio_features,spotify:track:7nRDaMCjsZwjE7FG44IqnY,0.0449
+3,Ran,D & Clockartz ,unknown,,,,,,,,,,,,,,,,,,,
+4,Ran,D ft. Skits Vicious ,Official Defqon.1 Anthem 2015,,,,,,,,,,,,,,,,,,,
+5,Frequencerz, The Unknown,unknown,,,,,,,,,,,,,,,,,,,
+6,Warface Frequencerz, Uber Mashup,unknown,,,,,,,,,,,,,,,,,,,
+7,Ran,D & ANDY SVGE ,unknown,,,,,,,,,,,,,,,,,,,
+8,D,Block & S,unknown,0.129,https://api.spotify.com/v1/audio-analysis/1oBFJdXZustB4XE7wIaKjF,8B,0.544,171142.0,0.973,1oBFJdXZustB4XE7wIaKjF,0.000107,0.0,0.212,-4.18,1.0,0.0842,148.002,4.0,https://api.spotify.com/v1/tracks/1oBFJdXZustB4XE7wIaKjF,audio_features,spotify:track:1oBFJdXZustB4XE7wIaKjF,0.255
+9,Ran,D & Adaro & Kronos ,unknown,,,,,,,,,,,,,,,,,,,
+10,Frequencerz Bass Chaserz, Renegades,unknown,0.0914,https://api.spotify.com/v1/audio-analysis/7iGbCV07PTIWpEBXUoIZG3,2B,0.491,292105.0,0.995,7iGbCV07PTIWpEBXUoIZG3,0.000115,6.0,0.256,-1.417,1.0,0.201,152.089,4.0,https://api.spotify.com/v1/tracks/7iGbCV07PTIWpEBXUoIZG3,audio_features,spotify:track:7iGbCV07PTIWpEBXUoIZG3,0.311
+11,Ran,D ,unknown,0.28,https://api.spotify.com/v1/audio-analysis/4DKgW2VzcO0aRgHbEgsWRR,11B,0.75,140867.0,0.533,4DKgW2VzcO0aRgHbEgsWRR,3.59e-05,9.0,0.174,-10.289,1.0,0.102,81.993,4.0,https://api.spotify.com/v1/tracks/4DKgW2VzcO0aRgHbEgsWRR,audio_features,spotify:track:4DKgW2VzcO0aRgHbEgsWRR,0.883
+12,Ran,D ,unknown,0.28,https://api.spotify.com/v1/audio-analysis/4DKgW2VzcO0aRgHbEgsWRR,11B,0.75,140867.0,0.533,4DKgW2VzcO0aRgHbEgsWRR,3.59e-05,9.0,0.174,-10.289,1.0,0.102,81.993,4.0,https://api.spotify.com/v1/tracks/4DKgW2VzcO0aRgHbEgsWRR,audio_features,spotify:track:4DKgW2VzcO0aRgHbEgsWRR,0.883
+13,Adaro B,Front ft. Dawnfire ,unknown,,,,,,,,,,,,,,,,,,,
+14,La Casa De Papel, Bella Ciao ,Gunz For Hire Remix,0.148,https://api.spotify.com/v1/audio-analysis/76xV2fh7NpRYPLACTEFM5i,9B,0.499,215347.0,0.949,76xV2fh7NpRYPLACTEFM5i,0.000398,7.0,0.383,-4.226,1.0,0.165,160.063,4.0,https://api.spotify.com/v1/tracks/76xV2fh7NpRYPLACTEFM5i,audio_features,spotify:track:76xV2fh7NpRYPLACTEFM5i,0.552
+15,Ran,D ,unknown,0.28,https://api.spotify.com/v1/audio-analysis/4DKgW2VzcO0aRgHbEgsWRR,11B,0.75,140867.0,0.533,4DKgW2VzcO0aRgHbEgsWRR,3.59e-05,9.0,0.174,-10.289,1.0,0.102,81.993,4.0,https://api.spotify.com/v1/tracks/4DKgW2VzcO0aRgHbEgsWRR,audio_features,spotify:track:4DKgW2VzcO0aRgHbEgsWRR,0.883
+16,Ran,D & E,Ran-D Inferno Kick Edit,0.581,https://api.spotify.com/v1/audio-analysis/4ZpKk1KqACalcC0lnfsMlj,5B,0.736,213880.0,0.796,4ZpKk1KqACalcC0lnfsMlj,0.0,3.0,0.0587,-6.799,1.0,0.29,94.206,4.0,https://api.spotify.com/v1/tracks/4ZpKk1KqACalcC0lnfsMlj,audio_features,spotify:track:4ZpKk1KqACalcC0lnfsMlj,0.712

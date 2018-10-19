@@ -1,0 +1,12 @@
+,Artist(s),Title,Release,acousticness,analysis_url,camelot,danceability,duration_ms,energy,id,instrumentalness,key,liveness,loudness,mode,speechiness,tempo,time_signature,track_href,type,uri,valence
+0,Jeremy Olander, Vivrant 008 Intro ID ,Working Title,,,,,,,,,,,,,,,,,,,
+1,Jeremy Olander, Forja ID ,Working Title,,,,,,,,,,,,,,,,,,,
+2,Jeremy Olander, Manteca22  ,unknown,,,,,,,,,,,,,,,,,,,
+3,Jeremy Olander, No No ID ,Working Title,,,,,,,,,,,,,,,,,,,
+4,Jeremy Olander, Relevance ID ,Working Title,,,,,,,,,,,,,,,,,,,
+5,Jeremy Olander, Araoz  ,unknown,0.000482,https://api.spotify.com/v1/audio-analysis/4Zs3LP89Urv94aMRGPpzxH,8B,0.801,296585.0,0.714,4Zs3LP89Urv94aMRGPpzxH,0.911,0.0,0.322,-7.544,1.0,0.0398,123.011,4.0,https://api.spotify.com/v1/tracks/4Zs3LP89Urv94aMRGPpzxH,audio_features,spotify:track:4Zs3LP89Urv94aMRGPpzxH,0.129
+6,Jeremy Olander   Kamaliza, Zanzibar ,Sthlm Edit,6.1e-05,https://api.spotify.com/v1/audio-analysis/0I8YEyOTzu8PrmNEa5OPXl,9B,0.695,235622.0,0.778,0I8YEyOTzu8PrmNEa5OPXl,0.761,7.0,0.342,-9.091,1.0,0.0523,122.018,4.0,https://api.spotify.com/v1/tracks/0I8YEyOTzu8PrmNEa5OPXl,audio_features,spotify:track:0I8YEyOTzu8PrmNEa5OPXl,0.324
+7,ID, ID  ,unknown,0.000241,https://api.spotify.com/v1/audio-analysis/1aRxfiM606yUIQyKZzaslz,9B,0.269,129715.0,0.901,1aRxfiM606yUIQyKZzaslz,0.717,7.0,0.415,-7.38,1.0,0.0719,141.565,4.0,https://api.spotify.com/v1/tracks/1aRxfiM606yUIQyKZzaslz,audio_features,spotify:track:1aRxfiM606yUIQyKZzaslz,0.439
+8,Jeremy Olander, Malensa  ,unknown,,,,,,,,,,,,,,,,,,,
+9,Jeremy Olander, Karusell  ,unknown,0.000822,https://api.spotify.com/v1/audio-analysis/1qkHTczHWJ5sBg7JuXElcB,8B,0.806,527213.0,0.563,1qkHTczHWJ5sBg7JuXElcB,0.91,0.0,0.118,-9.385,1.0,0.0436,122.005,4.0,https://api.spotify.com/v1/tracks/1qkHTczHWJ5sBg7JuXElcB,audio_features,spotify:track:1qkHTczHWJ5sBg7JuXElcB,0.287
+10,Jeremy Olander, Kraken ID 02 ,Working Title,,,,,,,,,,,,,,,,,,,

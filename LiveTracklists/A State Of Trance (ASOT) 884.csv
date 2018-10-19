@@ -1,0 +1,30 @@
+,Artist(s),Title,Release,acousticness,analysis_url,camelot,danceability,duration_ms,energy,id,instrumentalness,key,liveness,loudness,mode,speechiness,tempo,time_signature,track_href,type,uri,valence
+0,Chicane, Nirvana ,Danny Dove Remix,0.00272,https://api.spotify.com/v1/audio-analysis/5rQk5UllaoHpa374dGUPI0,3B,0.521,213742.0,0.636,5rQk5UllaoHpa374dGUPI0,6.83e-05,1.0,0.304,-10.897,1.0,0.0463,127.894,4.0,https://api.spotify.com/v1/tracks/5rQk5UllaoHpa374dGUPI0,audio_features,spotify:track:5rQk5UllaoHpa374dGUPI0,0.109
+1,LTN, I'll Be There For You,unknown,,,,,,,,,,,,,,,,,,,
+2,My Friend   Lauren L'aimant, January Embers ,Oliver Smith Remix,0.00112,https://api.spotify.com/v1/audio-analysis/0aYjh8TQNEfa1mhklMrMu8,4B,0.603,276094.0,0.727,0aYjh8TQNEfa1mhklMrMu8,0.0586,8.0,0.135,-9.102,1.0,0.0348,128.013,4.0,https://api.spotify.com/v1/tracks/0aYjh8TQNEfa1mhklMrMu8,audio_features,spotify:track:0aYjh8TQNEfa1mhklMrMu8,0.0927
+3,Markus Schulz   Nikki Flores, We Are The Light,unknown,0.00809,https://api.spotify.com/v1/audio-analysis/152u2rMPigtK3CdVVev9Jp,5A,0.251,204978.0,0.625,152u2rMPigtK3CdVVev9Jp,0.000775,0.0,0.214,-11.296,0.0,0.043,129.953,4.0,https://api.spotify.com/v1/tracks/152u2rMPigtK3CdVVev9Jp,audio_features,spotify:track:152u2rMPigtK3CdVVev9Jp,0.142
+4,Fatum Declan James, Weapon,unknown,0.261,https://api.spotify.com/v1/audio-analysis/3nctgdQBySX3xYoD5tzYsF,9A,0.859,244440.0,0.514,3nctgdQBySX3xYoD5tzYsF,3.34e-06,4.0,0.119,-4.924,0.0,0.0643,124.037,4.0,https://api.spotify.com/v1/tracks/3nctgdQBySX3xYoD5tzYsF,audio_features,spotify:track:3nctgdQBySX3xYoD5tzYsF,0.705
+5,Ruslan Radriges J.Puchler, When It Shines,unknown,,,,,,,,,,,,,,,,,,,
+6,Warrior, Warrior ,Luke Bond Vocal Mix,0.00135,https://api.spotify.com/v1/audio-analysis/2EfkrCLCFXTBOGPs8RU9av,11B,0.255,261980.0,0.868,2EfkrCLCFXTBOGPs8RU9av,0.0669,9.0,0.044,-10.712,1.0,0.0823,137.894,4.0,https://api.spotify.com/v1/tracks/2EfkrCLCFXTBOGPs8RU9av,audio_features,spotify:track:2EfkrCLCFXTBOGPs8RU9av,0.172
+7,Gabriel Dresden   Jan Burton, You ,Myon & Elevven Remix,0.0688,https://api.spotify.com/v1/audio-analysis/3T37jKtvQzNExmz3DuQNoz,10B,0.656,180078.0,0.792,3T37jKtvQzNExmz3DuQNoz,0.654,2.0,0.091,-7.121,1.0,0.0478,93.804,4.0,https://api.spotify.com/v1/tracks/3T37jKtvQzNExmz3DuQNoz,audio_features,spotify:track:3T37jKtvQzNExmz3DuQNoz,0.498
+8,Super8 Tab, Cosmo ,Vigel Remix,0.000214,https://api.spotify.com/v1/audio-analysis/70iKjSQgh3LnX8vQKUbE12,3B,0.494,146850.0,0.674,70iKjSQgh3LnX8vQKUbE12,0.904,1.0,0.535,-11.764,1.0,0.0431,130.703,4.0,https://api.spotify.com/v1/tracks/70iKjSQgh3LnX8vQKUbE12,audio_features,spotify:track:70iKjSQgh3LnX8vQKUbE12,0.152
+9,Richard Durand Geert Huinink, Insolidus,unknown,,,,,,,,,,,,,,,,,,,
+10,Richard Durand, The Air I Breathe ,Club Mix,,,,,,,,,,,,,,,,,,,
+11,Richard Durand, Aida,unknown,,,,,,,,,,,,,,,,,,,
+12,Richard Durand Marco V, Vortex,unknown,0.00696,https://api.spotify.com/v1/audio-analysis/3jcrpHhoJzVD7ha5S1DxDI,8A,0.566,70360.0,0.817,3jcrpHhoJzVD7ha5S1DxDI,0.854,9.0,0.543,-11.204,0.0,0.0827,137.982,4.0,https://api.spotify.com/v1/tracks/3jcrpHhoJzVD7ha5S1DxDI,audio_features,spotify:track:3jcrpHhoJzVD7ha5S1DxDI,0.344
+13,Bogdan Vic Renee Stahl, Forever,unknown,0.000957,https://api.spotify.com/v1/audio-analysis/4IoB6eG4W2LZYBWCQtKHR5,6A,0.462,191340.0,0.837,4IoB6eG4W2LZYBWCQtKHR5,0.953,7.0,0.213,-11.144,0.0,0.0471,133.998,4.0,https://api.spotify.com/v1/tracks/4IoB6eG4W2LZYBWCQtKHR5,audio_features,spotify:track:4IoB6eG4W2LZYBWCQtKHR5,0.218
+14,Above Beyond   Richard Bedford, Happiness Amplified,unknown,,,,,,,,,,,,,,,,,,,
+15,Tomas Heredia, Memory Maker,unknown,,,,,,,,,,,,,,,,,,,
+16,Gerome   Cassandra Grey, Beirut City,unknown,,,,,,,,,,,,,,,,,,,
+17,Ton TB, Almost Home,unknown,,,,,,,,,,,,,,,,,,,
+18,Ahmed Helmy, Spectaculum,unknown,,,,,,,,,,,,,,,,,,,
+19,RAM Susana, Nothern Star,unknown,,,,,,,,,,,,,,,,,,,
+20,First State Rub!k, Megalith,unknown,,,,,,,,,,,,,,,,,,,
+21,Ruddaz, Voice Of Angels,unknown,,,,,,,,,,,,,,,,,,,
+22,Andrew Rayel   Emma Hewitt, My Reflection ,Roman Messer Remix,,,,,,,,,,,,,,,,,,,
+23,Aly Fila with Ferry Tayle, Concorde ,Cold Blue Remix,,,,,,,,,,,,,,,,,,,
+24,Super8 Tab   Jonny Rose, Falling Into You ,Triode Remix,,,,,,,,,,,,,,,,,,,
+25,Davey Asprey, Alone In The Wilderness,unknown,,,,,,,,,,,,,,,,,,,
+26,Rub!k, Indefinite Ending,unknown,0.000301,https://api.spotify.com/v1/audio-analysis/3LSo0WU7Arj76j9eAYFRDX,10A,0.419,216350.0,0.765,3LSo0WU7Arj76j9eAYFRDX,0.856,11.0,0.41,-11.802,0.0,0.0627,135.614,4.0,https://api.spotify.com/v1/tracks/3LSo0WU7Arj76j9eAYFRDX,audio_features,spotify:track:3LSo0WU7Arj76j9eAYFRDX,0.246
+27,KhoMha, White Swan,unknown,,,,,,,,,,,,,,,,,,,
+28,Billy Gillies, Listen Up,unknown,,,,,,,,,,,,,,,,,,,

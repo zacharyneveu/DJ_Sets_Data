@@ -1,0 +1,7 @@
+,Artist(s),Title,Release,acousticness,analysis_url,camelot,danceability,duration_ms,energy,id,instrumentalness,key,liveness,loudness,mode,speechiness,tempo,time_signature,track_href,type,uri,valence
+0,Blasterjaxx,ID,Intro Edit,,,,,,,,,,,,,,,,,,,
+1,"Blasterjaxx,Elle Vee",Wristbands,SPINNIN',,,,,,,,,,,,,,,,,,,
+2,"Blasterjaxx,Bassjackers",Switch,SPINNIN',0.00134,https://api.spotify.com/v1/audio-analysis/5Aj9oGHtVlFveklrDMdjSv,11B,0.732,226491.0,0.869,5Aj9oGHtVlFveklrDMdjSv,0.426,9.0,0.126,-3.523,1.0,0.0737,130.006,4.0,https://api.spotify.com/v1/tracks/5Aj9oGHtVlFveklrDMdjSv,audio_features,spotify:track:5Aj9oGHtVlFveklrDMdjSv,0.288
+3,"W,W,Blasterjaxx",ID,unknown,0.000383,https://api.spotify.com/v1/audio-analysis/4AhgE3LxNm0DVoogzaqOK0,4B,0.357,91933.0,0.627,4AhgE3LxNm0DVoogzaqOK0,0.578,8.0,0.15,-11.323,1.0,0.165,91.687,4.0,https://api.spotify.com/v1/tracks/4AhgE3LxNm0DVoogzaqOK0,audio_features,spotify:track:4AhgE3LxNm0DVoogzaqOK0,0.136
+4,"Wolfpack,Futuristic Polar Bears",Derb,unknown,0.000481,https://api.spotify.com/v1/audio-analysis/3JiDu0fjqAFbgYrR17rgC8,3B,0.621,144000.0,0.927,3JiDu0fjqAFbgYrR17rgC8,0.655,1.0,0.0617,-5.278,1.0,0.0571,129.964,4.0,https://api.spotify.com/v1/tracks/3JiDu0fjqAFbgYrR17rgC8,audio_features,spotify:track:3JiDu0fjqAFbgYrR17rgC8,0.217
+5,ID,ID,unknown,0.000241,https://api.spotify.com/v1/audio-analysis/1aRxfiM606yUIQyKZzaslz,9B,0.269,129715.0,0.901,1aRxfiM606yUIQyKZzaslz,0.717,7.0,0.415,-7.38,1.0,0.0719,141.565,4.0,https://api.spotify.com/v1/tracks/1aRxfiM606yUIQyKZzaslz,audio_features,spotify:track:1aRxfiM606yUIQyKZzaslz,0.439

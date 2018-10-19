@@ -1,0 +1,27 @@
+,Artist(s),Title,Release,acousticness,analysis_url,camelot,danceability,duration_ms,energy,id,instrumentalness,key,liveness,loudness,mode,speechiness,tempo,time_signature,track_href,type,uri,valence
+0,E,Force ft. MC Tellem ,unknown,,,,,,,,,,,,,,,,,,,
+1,Deetox, One Life,unknown,0.103,https://api.spotify.com/v1/audio-analysis/7tUmTEL9rSAsQQMINkPmFk,1A,0.616,200000.0,0.968,7tUmTEL9rSAsQQMINkPmFk,0.0,8.0,0.359,-4.655,0.0,0.367,154.979,4.0,https://api.spotify.com/v1/tracks/7tUmTEL9rSAsQQMINkPmFk,audio_features,spotify:track:7tUmTEL9rSAsQQMINkPmFk,0.365
+2,Unknown Analoq, Blackout ,B-Front Remix,0.188,https://api.spotify.com/v1/audio-analysis/3oG9z1t1388i8UnzlpMaoF,11A,0.499,320400.0,0.906,3oG9z1t1388i8UnzlpMaoF,4.72e-05,6.0,0.532,-2.668,0.0,0.0637,150.0,4.0,https://api.spotify.com/v1/tracks/3oG9z1t1388i8UnzlpMaoF,audio_features,spotify:track:3oG9z1t1388i8UnzlpMaoF,0.104
+3,Deetox, Bring The Riot,unknown,0.002,https://api.spotify.com/v1/audio-analysis/5T01bZAhetFOTo2tkdFepQ,3B,0.296,160000.0,0.995,5T01bZAhetFOTo2tkdFepQ,0.000421,1.0,0.354,-3.214,1.0,0.447,149.936,4.0,https://api.spotify.com/v1/tracks/5T01bZAhetFOTo2tkdFepQ,audio_features,spotify:track:5T01bZAhetFOTo2tkdFepQ,0.0416
+4,D,Attack ft. Jonjo ,unknown,,,,,,,,,,,,,,,,,,,
+5,Stereo Chemists, Beating Hearts,unknown,,,,,,,,,,,,,,,,,,,
+6,Deetox, Lower Level,unknown,0.139,https://api.spotify.com/v1/audio-analysis/05cGhvyqUu9o01Bcg7F8mw,3B,0.542,260924.0,0.966,05cGhvyqUu9o01Bcg7F8mw,0.000958,1.0,0.159,-4.702,1.0,0.19,149.987,4.0,https://api.spotify.com/v1/tracks/05cGhvyqUu9o01Bcg7F8mw,audio_features,spotify:track:05cGhvyqUu9o01Bcg7F8mw,0.345
+7,D,Sturb ,unknown,,,,,,,,,,,,,,,,,,,
+8,Jay,Z & Linkin Park ,Crystal Mad Bootleg,,,,,,,,,,,,,,,,,,,
+9,Digital Punk Max Enforcer, Start The Revolution,unknown,0.00178,https://api.spotify.com/v1/audio-analysis/6pbDpzOdPHNz2aFVbG1Bnm,11A,0.305,269803.0,0.979,6pbDpzOdPHNz2aFVbG1Bnm,0.0226,6.0,0.397,-2.281,0.0,0.14,152.904,4.0,https://api.spotify.com/v1/tracks/6pbDpzOdPHNz2aFVbG1Bnm,audio_features,spotify:track:6pbDpzOdPHNz2aFVbG1Bnm,0.0745
+10,MYST Deetox LXCPR, Feel The Force,unknown,0.000582,https://api.spotify.com/v1/audio-analysis/4yLcebXiaPUklPkhK0Nbt5,8A,0.346,134000.0,0.957,4yLcebXiaPUklPkhK0Nbt5,2.88e-05,9.0,0.671,-2.594,0.0,0.141,153.826,4.0,https://api.spotify.com/v1/tracks/4yLcebXiaPUklPkhK0Nbt5,audio_features,spotify:track:4yLcebXiaPUklPkhK0Nbt5,0.243
+11,Clockartz, INFINITVM,unknown,,,,,,,,,,,,,,,,,,,
+12,Proto Bytez, Cyborg,unknown,0.000141,https://api.spotify.com/v1/audio-analysis/7ah6wQqzB6OiU9YHrTZvvE,12A,0.214,198400.0,0.83,7ah6wQqzB6OiU9YHrTZvvE,0.406,1.0,0.135,-7.064,0.0,0.131,76.552,4.0,https://api.spotify.com/v1/tracks/7ah6wQqzB6OiU9YHrTZvvE,audio_features,spotify:track:7ah6wQqzB6OiU9YHrTZvvE,0.325
+13,Deetox, Victory,unknown,,,,,,,,,,,,,,,,,,,
+14,Sub Sonik Deetox, My Way,unknown,0.016,https://api.spotify.com/v1/audio-analysis/3NSAHIdDELrJLg3VlJyzeQ,10A,0.461,191381.0,0.993,3NSAHIdDELrJLg3VlJyzeQ,7.53e-06,11.0,0.353,-3.756,0.0,0.255,153.027,4.0,https://api.spotify.com/v1/tracks/3NSAHIdDELrJLg3VlJyzeQ,audio_features,spotify:track:3NSAHIdDELrJLg3VlJyzeQ,0.21
+15,D,Attack & MC Diesel ,unknown,,,,,,,,,,,,,,,,,,,
+16,Deetox, Lose Control ,D-Attack Remix,0.00376,https://api.spotify.com/v1/audio-analysis/58vm4JXv8ViwUIhbRxwV9P,10A,0.275,193600.0,0.94,58vm4JXv8ViwUIhbRxwV9P,0.0161,11.0,0.367,-5.129,0.0,0.246,149.917,4.0,https://api.spotify.com/v1/tracks/58vm4JXv8ViwUIhbRxwV9P,audio_features,spotify:track:58vm4JXv8ViwUIhbRxwV9P,0.192
+17,Phrantic, Break The Silence,unknown,,,,,,,,,,,,,,,,,,,
+18,Deetox Alee, The World Is Mine,unknown,,,,,,,,,,,,,,,,,,,
+19,Royal S, GTFO,unknown,,,,,,,,,,,,,,,,,,,
+20,Phrantic Deetox, Can't Sleep,unknown,,,,,,,,,,,,,,,,,,,
+21,Delete Deetox, Unstoppable,unknown,0.248,https://api.spotify.com/v1/audio-analysis/1u8dJ2Lj6GKu1DQ9CBhM2h,11B,0.433,162581.0,0.906,1u8dJ2Lj6GKu1DQ9CBhM2h,0.000196,9.0,0.0518,-2.821,1.0,0.305,154.863,4.0,https://api.spotify.com/v1/tracks/1u8dJ2Lj6GKu1DQ9CBhM2h,audio_features,spotify:track:1u8dJ2Lj6GKu1DQ9CBhM2h,0.2
+22,Deetox Bass Chaserz, Breaking Barriers,unknown,,,,,,,,,,,,,,,,,,,
+23,Delete, Formula ,2012 Edit,0.389,https://api.spotify.com/v1/audio-analysis/4Qe60v7GiIm7Wa3rNYC3HU,4B,0.699,173806.0,0.986,4Qe60v7GiIm7Wa3rNYC3HU,0.00208,8.0,0.0821,-2.316,1.0,0.22,154.997,4.0,https://api.spotify.com/v1/tracks/4Qe60v7GiIm7Wa3rNYC3HU,audio_features,spotify:track:4Qe60v7GiIm7Wa3rNYC3HU,0.167
+24,Deetox Rebelion, Within Me ,APEXX Remix,0.0178,https://api.spotify.com/v1/audio-analysis/6PZWJdTcv8xq4Thon21YtK,3A,0.629,305044.0,0.857,6PZWJdTcv8xq4Thon21YtK,0.0,10.0,0.0793,-4.001,0.0,0.162,154.96,4.0,https://api.spotify.com/v1/tracks/6PZWJdTcv8xq4Thon21YtK,audio_features,spotify:track:6PZWJdTcv8xq4Thon21YtK,0.355
+25,Deetox AniMe, Smash,unknown,0.0427,https://api.spotify.com/v1/audio-analysis/7imuBYvrfdqUKowoZGDBYO,5A,0.361,193455.0,0.991,7imuBYvrfdqUKowoZGDBYO,0.00101,0.0,0.0912,-3.676,0.0,0.16,165.04,4.0,https://api.spotify.com/v1/tracks/7imuBYvrfdqUKowoZGDBYO,audio_features,spotify:track:7imuBYvrfdqUKowoZGDBYO,0.141

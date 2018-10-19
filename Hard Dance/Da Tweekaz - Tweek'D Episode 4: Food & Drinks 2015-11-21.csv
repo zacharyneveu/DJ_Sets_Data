@@ -1,0 +1,4 @@
+,Artist(s),Title,Release,acousticness,analysis_url,camelot,danceability,duration_ms,energy,id,instrumentalness,key,liveness,loudness,mode,speechiness,tempo,time_signature,track_href,type,uri,valence
+0,Da Tweekaz,The Hanging Tree,unknown,,,,,,,,,,,,,,,,,,,
+1,Pegboard Nerds,Swamp Thing,Da Tweekaz Edit,0.00215,https://api.spotify.com/v1/audio-analysis/5FsERguViYvDGLbOT2E9Pf,9B,0.558,263111.0,0.99,5FsERguViYvDGLbOT2E9Pf,0.651,7.0,0.645,-2.342,1.0,0.196,134.938,4.0,https://api.spotify.com/v1/tracks/5FsERguViYvDGLbOT2E9Pf,audio_features,spotify:track:5FsERguViYvDGLbOT2E9Pf,0.417
+2,"Axwell Λ Ingrosso,Vargas,Lagola",Sun Is Shining,Da Tweekaz Bootleg,0.0866,https://api.spotify.com/v1/audio-analysis/4b2tcjrG1qUkSdsqEFP2dB,10B,0.467,254653.0,0.757,4b2tcjrG1qUkSdsqEFP2dB,0.0,2.0,0.0742,-3.01,1.0,0.0517,131.993,4.0,https://api.spotify.com/v1/tracks/4b2tcjrG1qUkSdsqEFP2dB,audio_features,spotify:track:4b2tcjrG1qUkSdsqEFP2dB,0.383

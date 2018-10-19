@@ -1,0 +1,13 @@
+,Artist(s),Title,Release,acousticness,analysis_url,camelot,danceability,duration_ms,energy,id,instrumentalness,key,liveness,loudness,mode,speechiness,tempo,time_signature,track_href,type,uri,valence
+0,Grum, ID,unknown,,,,,,,,,,,,,,,,,,,
+1,Grum, U,unknown,0.000911,https://api.spotify.com/v1/audio-analysis/422o6HNMJmQkSFwevdju4U,10A,0.594,325755.0,0.757,422o6HNMJmQkSFwevdju4U,0.0541,11.0,0.213,-9.683,0.0,0.0466,125.991,4.0,https://api.spotify.com/v1/tracks/422o6HNMJmQkSFwevdju4U,audio_features,spotify:track:422o6HNMJmQkSFwevdju4U,0.309
+2,Grum, Price Of Love,unknown,0.00115,https://api.spotify.com/v1/audio-analysis/0aapfP9lssO1FjGI2fDJZy,8A,0.5,221905.0,0.742,0aapfP9lssO1FjGI2fDJZy,0.0,9.0,0.0764,-8.587,0.0,0.0525,126.035,4.0,https://api.spotify.com/v1/tracks/0aapfP9lssO1FjGI2fDJZy,audio_features,spotify:track:0aapfP9lssO1FjGI2fDJZy,0.0374
+3,Grum, Lose Control,unknown,,,,,,,,,,,,,,,,,,,
+4,Grum   Chris Sevier, We Are One,unknown,9.99e-05,https://api.spotify.com/v1/audio-analysis/1P7cN1qjAFkQQoG4M2nwCk,10A,0.551,303213.0,0.923,1P7cN1qjAFkQQoG4M2nwCk,0.856,11.0,0.137,-6.749,0.0,0.045,126.614,4.0,https://api.spotify.com/v1/tracks/1P7cN1qjAFkQQoG4M2nwCk,audio_features,spotify:track:1P7cN1qjAFkQQoG4M2nwCk,0.0712
+5,Grum, Genesis,unknown,,,,,,,,,,,,,,,,,,,
+6,Grum, Shout,unknown,0.00046,https://api.spotify.com/v1/audio-analysis/1LunC142mMFR10ZnlJGhhW,7A,0.592,245013.0,0.896,1LunC142mMFR10ZnlJGhhW,0.493,2.0,0.228,-8.213,0.0,0.0574,126.12,4.0,https://api.spotify.com/v1/tracks/1LunC142mMFR10ZnlJGhhW,audio_features,spotify:track:1LunC142mMFR10ZnlJGhhW,0.291
+7,Grum, The Ascent,unknown,,,,,,,,,,,,,,,,,,,
+8,Grum, Altered State,unknown,,,,,,,,,,,,,,,,,,,
+9,Grum, Deep State,unknown,,,,,,,,,,,,,,,,,,,
+10,Grum, Never Have To Be Alone,unknown,0.00211,https://api.spotify.com/v1/audio-analysis/4QbcKC7KGDQpugysqUsmXE,4A,0.541,337500.0,0.749,4QbcKC7KGDQpugysqUsmXE,0.000369,5.0,0.153,-8.773,0.0,0.0389,127.997,4.0,https://api.spotify.com/v1/tracks/4QbcKC7KGDQpugysqUsmXE,audio_features,spotify:track:4QbcKC7KGDQpugysqUsmXE,0.3
+11,Grum, Hiding Place,unknown,,,,,,,,,,,,,,,,,,,

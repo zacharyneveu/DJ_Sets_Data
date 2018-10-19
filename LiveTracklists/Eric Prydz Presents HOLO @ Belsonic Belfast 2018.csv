@@ -1,0 +1,18 @@
+,Artist(s),Title,Release,acousticness,analysis_url,camelot,danceability,duration_ms,energy,id,instrumentalness,key,liveness,loudness,mode,speechiness,tempo,time_signature,track_href,type,uri,valence
+0,Pryda, WOWOW ,Working Title,,,,,,,,,,,,,,,,,,,
+1,Pryda, Elements,unknown,0.00324,https://api.spotify.com/v1/audio-analysis/1cS9tuyQ9K1yQApyJkuiMT,10B,0.703,488316.0,0.876,1cS9tuyQ9K1yQApyJkuiMT,0.887,2.0,0.099,-10.037,1.0,0.0436,126.006,4.0,https://api.spotify.com/v1/tracks/1cS9tuyQ9K1yQApyJkuiMT,audio_features,spotify:track:1cS9tuyQ9K1yQApyJkuiMT,0.0327
+2,Pryda, Linked,unknown,,,,,,,,,,,,,,,,,,,
+3,Pryda, The Hoax,unknown,6.68e-05,https://api.spotify.com/v1/audio-analysis/7K0e2Futqdn4z4az41eUMV,10B,0.686,447642.0,0.78,7K0e2Futqdn4z4az41eUMV,0.83,2.0,0.259,-7.597,1.0,0.0459,126.007,4.0,https://api.spotify.com/v1/tracks/7K0e2Futqdn4z4az41eUMV,audio_features,spotify:track:7K0e2Futqdn4z4az41eUMV,0.138
+4,Pryda, Liam ,Stringapella,,,,,,,,,,,,,,,,,,,
+5,Pryda, Loving You,unknown,0.0114,https://api.spotify.com/v1/audio-analysis/3ivn6JLGUbrFbhETQ4oikh,1B,0.592,508851.0,0.697,3ivn6JLGUbrFbhETQ4oikh,0.841,11.0,0.15,-8.924,1.0,0.0301,125.997,4.0,https://api.spotify.com/v1/tracks/3ivn6JLGUbrFbhETQ4oikh,audio_features,spotify:track:3ivn6JLGUbrFbhETQ4oikh,0.125
+6,Pryda, EPIC Radio 020 ID05 ,Working Title,,,,,,,,,,,,,,,,,,,
+7,Cirez D, Century Of The Mouse,unknown,4.64e-05,https://api.spotify.com/v1/audio-analysis/0IEZFMnpbBUyl1k5T6WGDQ,10B,0.799,514515.0,0.954,0IEZFMnpbBUyl1k5T6WGDQ,0.928,2.0,0.0882,-6.764,1.0,0.0538,125.987,4.0,https://api.spotify.com/v1/tracks/0IEZFMnpbBUyl1k5T6WGDQ,audio_features,spotify:track:0IEZFMnpbBUyl1k5T6WGDQ,0.032
+8,Cirez D, Dare You,unknown,0.24,https://api.spotify.com/v1/audio-analysis/6eBUIqZLeoIxcrTxDjq3lG,8B,0.312,245000.0,0.433,6eBUIqZLeoIxcrTxDjq3lG,0.947,0.0,0.164,-12.484,1.0,0.0303,175.955,4.0,https://api.spotify.com/v1/tracks/6eBUIqZLeoIxcrTxDjq3lG,audio_features,spotify:track:6eBUIqZLeoIxcrTxDjq3lG,0.0379
+9,Cirez D, Marquee Las Vegas 2017 ID ,Working Title,,,,,,,,,,,,,,,,,,,
+10,Pryda, Rotonda,unknown,0.000199,https://api.spotify.com/v1/audio-analysis/6j0qEzGwHoMeIuOoYHQhIf,7A,0.713,458747.0,0.794,6j0qEzGwHoMeIuOoYHQhIf,0.736,2.0,0.0973,-7.172,0.0,0.0364,125.999,4.0,https://api.spotify.com/v1/tracks/6j0qEzGwHoMeIuOoYHQhIf,audio_features,spotify:track:6j0qEzGwHoMeIuOoYHQhIf,0.396
+11,Pryda, Creamfields 2017 Intro ID ,Working Title,,,,,,,,,,,,,,,,,,,
+12,Eric Prydz, Every Day,unknown,0.00298,https://api.spotify.com/v1/audio-analysis/4j1hJwuawbvpm2q2orbgj7,6A,0.477,434667.0,0.728,4j1hJwuawbvpm2q2orbgj7,0.26,7.0,0.124,-5.978,0.0,0.0378,125.988,4.0,https://api.spotify.com/v1/tracks/4j1hJwuawbvpm2q2orbgj7,audio_features,spotify:track:4j1hJwuawbvpm2q2orbgj7,0.0341
+13,Pryda, Ultra Music Festival 2018 ID,unknown,,,,,,,,,,,,,,,,,,,
+14,Eric Prydz   Tom Cane, Generate ,EPIC Interlude Mix,0.00813,https://api.spotify.com/v1/audio-analysis/4Dg0FSovv3n8IBS9QMezTp,1B,0.64,431107.0,0.873,4Dg0FSovv3n8IBS9QMezTp,0.0595,11.0,0.483,-5.142,1.0,0.0267,127.0,4.0,https://api.spotify.com/v1/tracks/4Dg0FSovv3n8IBS9QMezTp,audio_features,spotify:track:4Dg0FSovv3n8IBS9QMezTp,0.201
+15,Eric Prydz, Summerburst ID ,Working Title,,,,,,,,,,,,,,,,,,,
+16,Eric Prydz, Opus,unknown,0.000702,https://api.spotify.com/v1/audio-analysis/3v2oAQomhOcYCPPHafS3KV,11A,0.275,543453.0,0.721,3v2oAQomhOcYCPPHafS3KV,0.821,6.0,0.0792,-6.222,0.0,0.0359,125.045,4.0,https://api.spotify.com/v1/tracks/3v2oAQomhOcYCPPHafS3KV,audio_features,spotify:track:3v2oAQomhOcYCPPHafS3KV,0.184

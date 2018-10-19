@@ -1,0 +1,18 @@
+,Artist(s),Title,Release,acousticness,analysis_url,camelot,danceability,duration_ms,energy,id,instrumentalness,key,liveness,loudness,mode,speechiness,tempo,time_signature,track_href,type,uri,valence
+0,Jeremy Olander, Electric Gardens Intro ID  ,unknown,,,,,,,,,,,,,,,,,,,
+1,Jeremy Olander, Kraken ID 01 ,Working Title,,,,,,,,,,,,,,,,,,,
+2,Jeremy Olander, Suara Podcats ID 02 ,Working Title,,,,,,,,,,,,,,,,,,,
+3,Jeremy Olander, Fear Factory ID ,Working Title,,,,,,,,,,,,,,,,,,,
+4,Jeremy Olander, Audio SF 2017 ID ,Working Title,,,,,,,,,,,,,,,,,,,
+5,Jeremy Olander, Goodbar ID ,Working Title,,,,,,,,,,,,,,,,,,,
+6,Jeremy Olander, Apex  ,unknown,,,,,,,,,,,,,,,,,,,
+7,Jeremy Olander, Roots  ,unknown,0.000606,https://api.spotify.com/v1/audio-analysis/04bYotJUuZsnPgIpXwC4Om,7B,0.701,425366.0,0.778,04bYotJUuZsnPgIpXwC4Om,0.05,5.0,0.0649,-11.072,1.0,0.0434,123.002,3.0,https://api.spotify.com/v1/tracks/04bYotJUuZsnPgIpXwC4Om,audio_features,spotify:track:04bYotJUuZsnPgIpXwC4Om,0.731
+8,Jeremy Olander, Crossed  ,unknown,0.00155,https://api.spotify.com/v1/audio-analysis/6bJliOsJqznrtk90KrF5Mb,3B,0.529,247742.0,0.868,6bJliOsJqznrtk90KrF5Mb,0.837,1.0,0.0935,-8.603,1.0,0.0399,123.991,4.0,https://api.spotify.com/v1/tracks/6bJliOsJqznrtk90KrF5Mb,audio_features,spotify:track:6bJliOsJqznrtk90KrF5Mb,0.101
+9,Jeremy Olander, Lauderdale  ,unknown,0.0259,https://api.spotify.com/v1/audio-analysis/4XwfiIvt9H0t5lOARvfiNh,3B,0.713,456294.0,0.804,4XwfiIvt9H0t5lOARvfiNh,0.896,1.0,0.0887,-9.438,1.0,0.0407,124.001,4.0,https://api.spotify.com/v1/tracks/4XwfiIvt9H0t5lOARvfiNh,audio_features,spotify:track:4XwfiIvt9H0t5lOARvfiNh,0.668
+10,The Presets, Aeons ,Erik Hultsberg & Jeremy Olander Edit,0.509,https://api.spotify.com/v1/audio-analysis/2PfxuiUtacFWGuQw0lVjpk,5A,0.524,203813.0,0.461,2PfxuiUtacFWGuQw0lVjpk,0.0284,0.0,0.0826,-11.279,0.0,0.0342,140.023,4.0,https://api.spotify.com/v1/tracks/2PfxuiUtacFWGuQw0lVjpk,audio_features,spotify:track:2PfxuiUtacFWGuQw0lVjpk,0.171
+11,Jeremy Olander, Siroco ID 02 ,Working Title,,,,,,,,,,,,,,,,,,,
+12,Jeremy Olander, Andköln  ,unknown,0.00157,https://api.spotify.com/v1/audio-analysis/1hPvTfTirHPv4xI7uADXnx,9B,0.787,483871.0,0.68,1hPvTfTirHPv4xI7uADXnx,0.889,7.0,0.046,-9.347,1.0,0.0537,123.995,3.0,https://api.spotify.com/v1/tracks/1hPvTfTirHPv4xI7uADXnx,audio_features,spotify:track:1hPvTfTirHPv4xI7uADXnx,0.0345
+13,Jeremy Olander, Galheera  ,unknown,0.000517,https://api.spotify.com/v1/audio-analysis/58r196PkuQL7KVQDyeY5Tv,3A,0.693,530732.0,0.567,58r196PkuQL7KVQDyeY5Tv,0.926,10.0,0.0871,-10.606,0.0,0.0604,123.002,4.0,https://api.spotify.com/v1/tracks/58r196PkuQL7KVQDyeY5Tv,audio_features,spotify:track:58r196PkuQL7KVQDyeY5Tv,0.233
+14,Jeremy Olander, Karusell  ,unknown,0.000822,https://api.spotify.com/v1/audio-analysis/1qkHTczHWJ5sBg7JuXElcB,8B,0.806,527213.0,0.563,1qkHTczHWJ5sBg7JuXElcB,0.91,0.0,0.118,-9.385,1.0,0.0436,122.005,4.0,https://api.spotify.com/v1/tracks/1qkHTczHWJ5sBg7JuXElcB,audio_features,spotify:track:1qkHTczHWJ5sBg7JuXElcB,0.287
+15,Jeremy Olander, Kraken ID 02 ,Working Title,,,,,,,,,,,,,,,,,,,
+16,Jeremy Olander, Tangerine  ,unknown,,,,,,,,,,,,,,,,,,,

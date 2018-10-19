@@ -1,0 +1,22 @@
+,Artist(s),Title,Release,acousticness,analysis_url,camelot,danceability,duration_ms,energy,id,instrumentalness,key,liveness,loudness,mode,speechiness,tempo,time_signature,track_href,type,uri,valence
+0,Pryda, Strings Intro,unknown,,,,,,,,,,,,,,,,,,,
+1,w/ Cirez D, Echostage NYE ID ,Working Title,,,,,,,,,,,,,,,,,,,
+2,Pryda, EDC Mexico ID ,Working Title,,,,,,,,,,,,,,,,,,,
+3,Pryda, Tomorrowland 2018 ID 01,unknown,,,,,,,,,,,,,,,,,,,
+4,Pryda, Tomorrowland 2018 ID 02,unknown,,,,,,,,,,,,,,,,,,,
+5,Cirez D, Envelopes,unknown,0.675,https://api.spotify.com/v1/audio-analysis/6MBQhxfPbT3Dw1dMFbMvM9,4A,0.53,273000.0,0.764,6MBQhxfPbT3Dw1dMFbMvM9,0.000249,5.0,0.2,-7.103,0.0,0.157,150.096,4.0,https://api.spotify.com/v1/tracks/6MBQhxfPbT3Dw1dMFbMvM9,audio_features,spotify:track:6MBQhxfPbT3Dw1dMFbMvM9,0.261
+6,Cirez D, Marquee Las Vegas 2017 ID ,Working Title,,,,,,,,,,,,,,,,,,,
+7,Pryda, Origins,unknown,0.000561,https://api.spotify.com/v1/audio-analysis/4zWs7q5TXS1ouPVChTzAWj,3A,0.746,508120.0,0.969,4zWs7q5TXS1ouPVChTzAWj,0.818,10.0,0.103,-8.351,0.0,0.0673,126.0,4.0,https://api.spotify.com/v1/tracks/4zWs7q5TXS1ouPVChTzAWj,audio_features,spotify:track:4zWs7q5TXS1ouPVChTzAWj,0.158
+8,Pryda, Creamfields 2017 ID 01 ,Working Title,,,,,,,,,,,,,,,,,,,
+9,Pryda, Juletider,unknown,0.000233,https://api.spotify.com/v1/audio-analysis/7h27VcBmbpfOZuteQ4R2RB,6A,0.514,313040.0,0.911,7h27VcBmbpfOZuteQ4R2RB,0.935,7.0,0.692,-4.432,0.0,0.0305,126.016,4.0,https://api.spotify.com/v1/tracks/7h27VcBmbpfOZuteQ4R2RB,audio_features,spotify:track:7h27VcBmbpfOZuteQ4R2RB,0.125
+10,Jeremy Olander, Let Me Feel ,Eric Prydz Dub Remix,,,,,,,,,,,,,,,,,,,
+11,Pryda, Rebel XX,unknown,0.00282,https://api.spotify.com/v1/audio-analysis/5ApOwXo2LlNDH9LfxCoGJS,9B,0.603,519376.0,0.883,5ApOwXo2LlNDH9LfxCoGJS,0.864,7.0,0.0925,-9.999,1.0,0.0633,125.998,4.0,https://api.spotify.com/v1/tracks/5ApOwXo2LlNDH9LfxCoGJS,audio_features,spotify:track:5ApOwXo2LlNDH9LfxCoGJS,0.33
+12,Pryda, Tomorrowland 2018 ID 03,unknown,,,,,,,,,,,,,,,,,,,
+13,The Drill, The Drill ,Eric Prydz Edit,0.178,https://api.spotify.com/v1/audio-analysis/4NKI3PT2fTxO0MdHvRYcmu,9A,0.601,239973.0,0.567,4NKI3PT2fTxO0MdHvRYcmu,1.93e-05,4.0,0.121,-8.159,0.0,0.043,131.029,4.0,https://api.spotify.com/v1/tracks/4NKI3PT2fTxO0MdHvRYcmu,audio_features,spotify:track:4NKI3PT2fTxO0MdHvRYcmu,0.469
+14,Faithless, Not Going Home ,Eric Prydz Bootleg,0.00113,https://api.spotify.com/v1/audio-analysis/4TRDz7SZPt2fimsGx4ooMs,8B,0.621,536265.0,0.784,4TRDz7SZPt2fimsGx4ooMs,0.89,0.0,0.526,-8.755,1.0,0.0399,127.982,4.0,https://api.spotify.com/v1/tracks/4TRDz7SZPt2fimsGx4ooMs,audio_features,spotify:track:4TRDz7SZPt2fimsGx4ooMs,0.436
+15,Cirez D, The Tumble,unknown,0.000337,https://api.spotify.com/v1/audio-analysis/5qL4LZJfQjSaJFc0Xbq0aS,2B,0.73,447877.0,0.955,5qL4LZJfQjSaJFc0Xbq0aS,0.906,6.0,0.0884,-8.514,1.0,0.0764,128.01,4.0,https://api.spotify.com/v1/tracks/5qL4LZJfQjSaJFc0Xbq0aS,audio_features,spotify:track:5qL4LZJfQjSaJFc0Xbq0aS,0.183
+16,Pryda, M.S.B.O.Y.,unknown,0.000452,https://api.spotify.com/v1/audio-analysis/2tkcoZWi8M9zDrrXLDFtmU,10B,0.517,334640.0,0.954,2tkcoZWi8M9zDrrXLDFtmU,0.856,2.0,0.911,-5.357,1.0,0.0402,125.977,4.0,https://api.spotify.com/v1/tracks/2tkcoZWi8M9zDrrXLDFtmU,audio_features,spotify:track:2tkcoZWi8M9zDrrXLDFtmU,0.261
+17,w/ Candi Staton, You Got The Love ,Acapella,0.0523,https://api.spotify.com/v1/audio-analysis/4nQkNmJJWnFIRsbIMeIrlX,2B,0.591,193600.0,0.898,4nQkNmJJWnFIRsbIMeIrlX,2.66e-06,6.0,0.411,-4.779,1.0,0.0336,107.092,4.0,https://api.spotify.com/v1/tracks/4nQkNmJJWnFIRsbIMeIrlX,audio_features,spotify:track:4nQkNmJJWnFIRsbIMeIrlX,0.478
+18,Pryda, Moln,unknown,,,,,,,,,,,,,,,,,,,
+19,Eric Prydz   Jan Burton, Niton ,The Reason,0.000651,https://api.spotify.com/v1/audio-analysis/1BYhP5Ll2zXzA5eVzKHKfZ,10B,0.436,165453.0,0.945,1BYhP5Ll2zXzA5eVzKHKfZ,0.18,2.0,0.312,-3.72,1.0,0.0668,127.965,4.0,https://api.spotify.com/v1/tracks/1BYhP5Ll2zXzA5eVzKHKfZ,audio_features,spotify:track:1BYhP5Ll2zXzA5eVzKHKfZ,0.361
+20,Pryda, Mirage,unknown,0.000143,https://api.spotify.com/v1/audio-analysis/4Q4P11oWf65oDIe057Jfa3,9A,0.533,405973.0,0.884,4Q4P11oWf65oDIe057Jfa3,0.946,4.0,0.744,-4.841,0.0,0.0394,125.966,4.0,https://api.spotify.com/v1/tracks/4Q4P11oWf65oDIe057Jfa3,audio_features,spotify:track:4Q4P11oWf65oDIe057Jfa3,0.0471

@@ -1,0 +1,18 @@
+,Artist(s),Title,Release,acousticness,analysis_url,camelot,danceability,duration_ms,energy,id,instrumentalness,key,liveness,loudness,mode,speechiness,tempo,time_signature,track_href,type,uri,valence
+0,Jeremy Olander, ID,unknown,0.773,https://api.spotify.com/v1/audio-analysis/2oPN45E6bysGEmn8VXRu73,11B,0.668,194133.0,0.654,2oPN45E6bysGEmn8VXRu73,0.002,9.0,0.194,-7.384,1.0,0.0462,85.959,4.0,https://api.spotify.com/v1/tracks/2oPN45E6bysGEmn8VXRu73,audio_features,spotify:track:2oPN45E6bysGEmn8VXRu73,0.744
+1,MULYA, Cyclone,unknown,,,,,,,,,,,,,,,,,,,
+2,Jeremy Olander, Labyrinth ID,unknown,,,,,,,,,,,,,,,,,,,
+3,Jeremy Olander, Kraken ID 01 ,Working Title,,,,,,,,,,,,,,,,,,,
+4,Khen, Pecas,unknown,,,,,,,,,,,,,,,,,,,
+5,BOg, ID,unknown,,,,,,,,,,,,,,,,,,,
+6,Jeremy Olander, No No ID ,Working Title,,,,,,,,,,,,,,,,,,,
+7,Jeremy Olander, Antisocial ID ,Working Title,,,,,,,,,,,,,,,,,,,
+8,Tim Engelhardt, ID,unknown,0.883,https://api.spotify.com/v1/audio-analysis/5eGWzOq61N67jZGH1IHdup,12B,0.526,172373.0,0.215,5eGWzOq61N67jZGH1IHdup,0.209,4.0,0.208,-20.805,1.0,0.0382,140.314,4.0,https://api.spotify.com/v1/tracks/5eGWzOq61N67jZGH1IHdup,audio_features,spotify:track:5eGWzOq61N67jZGH1IHdup,0.628
+9,Angelo Ceci, Melan ,Reboot Puglia Meltdown Rework,0.000334,https://api.spotify.com/v1/audio-analysis/1NfdEZGa3lN4fqlQOG9cHI,11A,0.799,496063.0,0.736,1NfdEZGa3lN4fqlQOG9cHI,0.908,6.0,0.106,-13.05,0.0,0.0466,127.022,4.0,https://api.spotify.com/v1/tracks/1NfdEZGa3lN4fqlQOG9cHI,audio_features,spotify:track:1NfdEZGa3lN4fqlQOG9cHI,0.0688
+10,Jeremy Olander, Audio SF 2017 ID ,Working Title,,,,,,,,,,,,,,,,,,,
+11,Jeremy Olander, Goodbar ID ,Working Title,,,,,,,,,,,,,,,,,,,
+12,Jeremy Olander, ID,unknown,0.773,https://api.spotify.com/v1/audio-analysis/2oPN45E6bysGEmn8VXRu73,11B,0.668,194133.0,0.654,2oPN45E6bysGEmn8VXRu73,0.002,9.0,0.194,-7.384,1.0,0.0462,85.959,4.0,https://api.spotify.com/v1/tracks/2oPN45E6bysGEmn8VXRu73,audio_features,spotify:track:2oPN45E6bysGEmn8VXRu73,0.744
+13,Jeremy Olander, Relevance ID ,Working Title,,,,,,,,,,,,,,,,,,,
+14,Jeremy Olander, Brown Alley ID,unknown,,,,,,,,,,,,,,,,,,,
+15,Jeremy Olander, Whiskey Jar ID ,Working Title,,,,,,,,,,,,,,,,,,,
+16,Jeremy Olander, Civic ID,unknown,,,,,,,,,,,,,,,,,,,

@@ -1,0 +1,18 @@
+,Artist(s),Title,Release,acousticness,analysis_url,camelot,danceability,duration_ms,energy,id,instrumentalness,key,liveness,loudness,mode,speechiness,tempo,time_signature,track_href,type,uri,valence
+0,ID, ID,unknown,0.000241,https://api.spotify.com/v1/audio-analysis/1aRxfiM606yUIQyKZzaslz,9B,0.269,129715.0,0.901,1aRxfiM606yUIQyKZzaslz,0.717,7.0,0.415,-7.38,1.0,0.0719,141.565,4.0,https://api.spotify.com/v1/tracks/1aRxfiM606yUIQyKZzaslz,audio_features,spotify:track:1aRxfiM606yUIQyKZzaslz,0.439
+1,Showtek, The Colour Of The Harder Styles ,Defqon.1 Anthem 2006,0.0039,https://api.spotify.com/v1/audio-analysis/0hlwnrirmGXzFO5k8QsOUi,12A,0.698,417280.0,0.685,0hlwnrirmGXzFO5k8QsOUi,0.55,1.0,0.0722,-11.816,0.0,0.0868,143.014,4.0,https://api.spotify.com/v1/tracks/0hlwnrirmGXzFO5k8QsOUi,audio_features,spotify:track:0hlwnrirmGXzFO5k8QsOUi,0.269
+2,Zazafront, Everybody Dance Now,unknown,,,,,,,,,,,,,,,,,,,
+3,Zazafront   Feestmc Peerke, N.H.S.,unknown,,,,,,,,,,,,,,,,,,,
+4,Zazafront, Dominator,unknown,,,,,,,,,,,,,,,,,,,
+5,Axwell Λ Ingrosso   Vargas Lagola, Sun Is Shining ,Zany Bootleg,0.0866,https://api.spotify.com/v1/audio-analysis/4b2tcjrG1qUkSdsqEFP2dB,10B,0.467,254653.0,0.757,4b2tcjrG1qUkSdsqEFP2dB,0.0,2.0,0.0742,-3.01,1.0,0.0517,131.993,4.0,https://api.spotify.com/v1/tracks/4b2tcjrG1qUkSdsqEFP2dB,audio_features,spotify:track:4b2tcjrG1qUkSdsqEFP2dB,0.383
+6,House Of Pain, Jump Around ,Zazafront Edit,0.0113,https://api.spotify.com/v1/audio-analysis/3TZwjdclvWt7iPJUnMpgcs,9A,0.854,214947.0,0.71,3TZwjdclvWt7iPJUnMpgcs,8.72e-05,4.0,0.166,-6.32,0.0,0.0793,106.894,4.0,https://api.spotify.com/v1/tracks/3TZwjdclvWt7iPJUnMpgcs,audio_features,spotify:track:3TZwjdclvWt7iPJUnMpgcs,0.818
+7,TNT aka Technoboy 'N' Tuneboy DJ Isaac, Power Hour ,Zazafront Edit,0.00209,https://api.spotify.com/v1/audio-analysis/6Gwjj6UwCGNakkkmASam5Y,12A,0.521,219061.0,0.994,6Gwjj6UwCGNakkkmASam5Y,0.752,1.0,0.301,-3.199,0.0,0.0759,150.019,4.0,https://api.spotify.com/v1/tracks/6Gwjj6UwCGNakkkmASam5Y,audio_features,spotify:track:6Gwjj6UwCGNakkkmASam5Y,0.329
+8,w/ Faithless, Insomnia ,Zazafront Edit,0.432,https://api.spotify.com/v1/audio-analysis/5kGAAB1LcIN3AmVnsKPOHJ,12A,0.0957,428696.0,0.471,5kGAAB1LcIN3AmVnsKPOHJ,0.106,1.0,0.363,-7.029,0.0,0.0329,88.641,3.0,https://api.spotify.com/v1/tracks/5kGAAB1LcIN3AmVnsKPOHJ,audio_features,spotify:track:5kGAAB1LcIN3AmVnsKPOHJ,0.0402
+9,Gigi D'Agostino, L'Amour Toujours ,I'll Fly With You,,,,,,,,,,,,,,,,,,,
+10,Armin van Buuren, Blah Blah Blah ,Zany Remix,0.00569,https://api.spotify.com/v1/audio-analysis/2esBNipousmryjH5YRRBCT,2A,0.35,35594.0,0.984,2esBNipousmryjH5YRRBCT,0.819,3.0,0.947,-6.703,0.0,0.0875,150.102,4.0,https://api.spotify.com/v1/tracks/2esBNipousmryjH5YRRBCT,audio_features,spotify:track:2esBNipousmryjH5YRRBCT,0.0341
+11,740 Boyz, Shimmy Shake ,Zazafront Edit,0.00863,https://api.spotify.com/v1/audio-analysis/39kew6ufRcqRTCtI3y0Tq6,10B,0.777,110133.0,0.975,39kew6ufRcqRTCtI3y0Tq6,0.000346,2.0,0.32,-5.844,1.0,0.153,128.949,4.0,https://api.spotify.com/v1/tracks/39kew6ufRcqRTCtI3y0Tq6,audio_features,spotify:track:39kew6ufRcqRTCtI3y0Tq6,0.454
+12,Warface Frequencerz, Uber Mashup,unknown,,,,,,,,,,,,,,,,,,,
+13,B,Front ,unknown,0.14,https://api.spotify.com/v1/audio-analysis/0uv1qAL1ID4BBf1aOEriwC,9A,0.782,155794.0,0.803,0uv1qAL1ID4BBf1aOEriwC,0.22,4.0,0.163,-5.741,0.0,0.0613,126.012,4.0,https://api.spotify.com/v1/tracks/0uv1qAL1ID4BBf1aOEriwC,audio_features,spotify:track:0uv1qAL1ID4BBf1aOEriwC,0.411
+14,Adaro B,Front ft. Dawnfire ,unknown,,,,,,,,,,,,,,,,,,,
+15,Zazafront, Dikke Vette Bassplaat ,Defqon.1 2016 Edit,,,,,,,,,,,,,,,,,,,
+16,w/ Zazafront, Dikke Vette Bassplaat ,Defqon.1 2018 Edit,,,,,,,,,,,,,,,,,,,

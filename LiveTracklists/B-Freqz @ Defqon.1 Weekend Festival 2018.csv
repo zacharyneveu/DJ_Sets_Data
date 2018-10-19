@@ -1,0 +1,13 @@
+,Artist(s),Title,Release,acousticness,analysis_url,camelot,danceability,duration_ms,energy,id,instrumentalness,key,liveness,loudness,mode,speechiness,tempo,time_signature,track_href,type,uri,valence
+0,B,Freqz ,unknown,,,,,,,,,,,,,,,,,,,
+1,B,Freqz ,unknown,,,,,,,,,,,,,,,,,,,
+2,B,Freqz ,unknown,,,,,,,,,,,,,,,,,,,
+3,Frequencerz B,Front ,unknown,0.14,https://api.spotify.com/v1/audio-analysis/0uv1qAL1ID4BBf1aOEriwC,9A,0.782,155794.0,0.803,0uv1qAL1ID4BBf1aOEriwC,0.22,4.0,0.163,-5.741,0.0,0.0613,126.012,4.0,https://api.spotify.com/v1/tracks/0uv1qAL1ID4BBf1aOEriwC,audio_features,spotify:track:0uv1qAL1ID4BBf1aOEriwC,0.411
+4,B,Freqz ,unknown,,,,,,,,,,,,,,,,,,,
+5,B,Freqz ft. Jonjo ,unknown,,,,,,,,,,,,,,,,,,,
+6,Frequencerz B,Front ,Phuture Noize Remix,0.14,https://api.spotify.com/v1/audio-analysis/0uv1qAL1ID4BBf1aOEriwC,9A,0.782,155794.0,0.803,0uv1qAL1ID4BBf1aOEriwC,0.22,4.0,0.163,-5.741,0.0,0.0613,126.012,4.0,https://api.spotify.com/v1/tracks/0uv1qAL1ID4BBf1aOEriwC,audio_features,spotify:track:0uv1qAL1ID4BBf1aOEriwC,0.411
+7,B,Freqz ,unknown,,,,,,,,,,,,,,,,,,,
+8,B,Freqz ,unknown,,,,,,,,,,,,,,,,,,,
+9,B,Freqz ft. Jonjo ,unknown,,,,,,,,,,,,,,,,,,,
+10,B,Freqz ,unknown,,,,,,,,,,,,,,,,,,,
+11,B,Freqz ,unknown,,,,,,,,,,,,,,,,,,,

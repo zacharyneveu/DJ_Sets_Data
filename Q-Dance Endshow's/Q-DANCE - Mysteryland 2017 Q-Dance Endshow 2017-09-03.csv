@@ -1,0 +1,4 @@
+,Artist(s),Title,Release,acousticness,analysis_url,camelot,danceability,duration_ms,energy,id,instrumentalness,key,liveness,loudness,mode,speechiness,tempo,time_signature,track_href,type,uri,valence
+0,B,Front & Phuture Noize,unknown,,,,,,,,,,,,,,,,,,,
+1,Max Enforcer,Back At 'Em,Melo Drop Edit,0.00175,https://api.spotify.com/v1/audio-analysis/7Ikku1LokuScYsE1oeNTVI,12A,0.499,233600.0,0.982,7Ikku1LokuScYsE1oeNTVI,0.276,1.0,0.121,-3.354,0.0,0.269,150.0,4.0,https://api.spotify.com/v1/tracks/7Ikku1LokuScYsE1oeNTVI,audio_features,spotify:track:7Ikku1LokuScYsE1oeNTVI,0.4
+2,Linkin Park,In The End,Sogma Epic Edit,0.0103,https://api.spotify.com/v1/audio-analysis/60a0Rd6pjrkxjPbaKzXjfq,2A,0.542,216933.0,0.853,60a0Rd6pjrkxjPbaKzXjfq,0.0,3.0,0.108,-6.407,0.0,0.0498,105.256,4.0,https://api.spotify.com/v1/tracks/60a0Rd6pjrkxjPbaKzXjfq,audio_features,spotify:track:60a0Rd6pjrkxjPbaKzXjfq,0.37

@@ -1,0 +1,20 @@
+,Artist(s),Title,Release,acousticness,analysis_url,camelot,danceability,duration_ms,energy,id,instrumentalness,key,liveness,loudness,mode,speechiness,tempo,time_signature,track_href,type,uri,valence
+0,Anna Graceman,IDK,Kai0ken Remix,,,,,,,,,,,,,,,,,,,
+1,Otter Berry,The Other Side,unknown,,,,,,,,,,,,,,,,,,,
+2,"Silence,Joe",Everything Gonna Be Better,unknown,,,,,,,,,,,,,,,,,,,
+3,Gregory Porter,Liquid Spirit,Claptone Remix,0.00452,https://api.spotify.com/v1/audio-analysis/6wp5tGVNQYpKJPo1s3WUEY,12B,0.873,383552.0,0.609,6wp5tGVNQYpKJPo1s3WUEY,0.461,4.0,0.057,-9.19,1.0,0.0569,121.0,4.0,https://api.spotify.com/v1/tracks/6wp5tGVNQYpKJPo1s3WUEY,audio_features,spotify:track:6wp5tGVNQYpKJPo1s3WUEY,0.276
+4,"Kleerup,Susanne Sundfør",Let Me In,Sebastien Remix,0.0579,https://api.spotify.com/v1/audio-analysis/5AIL4FNEG3jLGInRddXS5q,9A,0.762,295352.0,0.7,5AIL4FNEG3jLGInRddXS5q,0.106,4.0,0.0883,-6.267,0.0,0.107,119.98,4.0,https://api.spotify.com/v1/tracks/5AIL4FNEG3jLGInRddXS5q,audio_features,spotify:track:5AIL4FNEG3jLGInRddXS5q,0.477
+5,The Writers Block,Without You,unknown,,,,,,,,,,,,,,,,,,,
+6,Galantis,Peanut Butter Jelly,ATLANTIC,0.00104,https://api.spotify.com/v1/audio-analysis/3aIhJDHxr1kgTSnutJxPTH,4A,0.708,203133.0,0.945,3aIhJDHxr1kgTSnutJxPTH,0.0803,5.0,0.227,-3.247,0.0,0.234,127.96,4.0,https://api.spotify.com/v1/tracks/3aIhJDHxr1kgTSnutJxPTH,audio_features,spotify:track:3aIhJDHxr1kgTSnutJxPTH,0.545
+7,Nihils,Help Our Souls,Urban Contact Remix,0.0615,https://api.spotify.com/v1/audio-analysis/1ddVy2y5yEnIA5Cv0lgM0Z,9B,0.687,242601.0,0.777,1ddVy2y5yEnIA5Cv0lgM0Z,0.0,7.0,0.167,-4.619,1.0,0.21,120.024,4.0,https://api.spotify.com/v1/tracks/1ddVy2y5yEnIA5Cv0lgM0Z,audio_features,spotify:track:1ddVy2y5yEnIA5Cv0lgM0Z,0.659
+8,"Yako,Michelle Schulz",Atlas Hands,unknown,,,,,,,,,,,,,,,,,,,
+9,Oh Wonder,Lose It,Jerry Folk Remix,0.739,https://api.spotify.com/v1/audio-analysis/2QgNcjwEn0vGmTommfszQd,7A,0.433,229935.0,0.336,2QgNcjwEn0vGmTommfszQd,4.88e-06,2.0,0.318,-9.345,0.0,0.0433,87.554,4.0,https://api.spotify.com/v1/tracks/2QgNcjwEn0vGmTommfszQd,audio_features,spotify:track:2QgNcjwEn0vGmTommfszQd,0.157
+10,"Filous,James Hersey",How Hard I Try,unknown,0.299,https://api.spotify.com/v1/audio-analysis/0OfZ9imMwFU03zc2wl8pBt,7B,0.743,198000.0,0.564,0OfZ9imMwFU03zc2wl8pBt,0.000693,5.0,0.109,-8.761,1.0,0.045,120.012,4.0,https://api.spotify.com/v1/tracks/0OfZ9imMwFU03zc2wl8pBt,audio_features,spotify:track:0OfZ9imMwFU03zc2wl8pBt,0.505
+11,Cape Cub,Swim,RAMI Remix,0.205,https://api.spotify.com/v1/audio-analysis/2vhnIXHAGLTOelfXyT0q5G,8B,0.752,160631.0,0.79,2vhnIXHAGLTOelfXyT0q5G,1.53e-06,0.0,0.185,-6.041,1.0,0.0406,115.978,4.0,https://api.spotify.com/v1/tracks/2vhnIXHAGLTOelfXyT0q5G,audio_features,spotify:track:2vhnIXHAGLTOelfXyT0q5G,0.592
+12,Hello Machines,All I Need,unknown,,,,,,,,,,,,,,,,,,,
+13,Alex Schulz,Ways,unknown,0.00856,https://api.spotify.com/v1/audio-analysis/1WFaqkDIyN0oDyf7KjWRnn,3B,0.821,264240.0,0.442,1WFaqkDIyN0oDyf7KjWRnn,0.00116,1.0,0.062,-9.466,1.0,0.0807,120.961,4.0,https://api.spotify.com/v1/tracks/1WFaqkDIyN0oDyf7KjWRnn,audio_features,spotify:track:1WFaqkDIyN0oDyf7KjWRnn,0.435
+14,"Couzare,Cozy",Just,unknown,0.0788,https://api.spotify.com/v1/audio-analysis/1FFG7xxiIpaw1kfbc402Pp,11B,0.907,228005.0,0.58,1FFG7xxiIpaw1kfbc402Pp,0.0025,9.0,0.133,-7.777,1.0,0.0653,120.001,4.0,https://api.spotify.com/v1/tracks/1FFG7xxiIpaw1kfbc402Pp,audio_features,spotify:track:1FFG7xxiIpaw1kfbc402Pp,0.59
+15,Bill Withers,Ain't No Sunshine,Herr Vogel Edit,,,,,,,,,,,,,,,,,,,
+16,Hilltop Hoods,I'm A Ghost,Niklas Ibach Remix,,,,,,,,,,,,,,,,,,,
+17,LA Fine Equipe,Make U Greedy,unknown,0.0151,https://api.spotify.com/v1/audio-analysis/56t26hPsIfjzJm7qROvgvw,4B,0.8,240392.0,0.725,56t26hPsIfjzJm7qROvgvw,0.11,8.0,0.174,-7.526,1.0,0.196,114.06,4.0,https://api.spotify.com/v1/tracks/56t26hPsIfjzJm7qROvgvw,audio_features,spotify:track:56t26hPsIfjzJm7qROvgvw,0.163
+18,"Mavro,Sara Mione",Know Yourself,Drake Cover,,,,,,,,,,,,,,,,,,,

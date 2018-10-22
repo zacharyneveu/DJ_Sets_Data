@@ -1,0 +1,16 @@
+,Artist(s),Title,Release,acousticness,analysis_url,camelot,danceability,duration_ms,energy,id,instrumentalness,key,liveness,loudness,mode,speechiness,tempo,time_signature,track_href,type,uri,valence
+0,Phil Moffa, Rolling Boil,unknown,0.757,https://api.spotify.com/v1/audio-analysis/14hPzgsJKn7pFg1l87Fo4U,2B,0.504,404339.0,0.863,14hPzgsJKn7pFg1l87Fo4U,0.889,6.0,0.106,-10.365,1.0,0.0527,126.584,4.0,https://api.spotify.com/v1/tracks/14hPzgsJKn7pFg1l87Fo4U,audio_features,spotify:track:14hPzgsJKn7pFg1l87Fo4U,0.671
+1,Russell E.l. Butler, My Cat Is An Asshole,unknown,,,,,,,,,,,,,,,,,,,
+2,Morphology, Dementia,unknown,,,,,,,,,,,,,,,,,,,
+3,Volruptus, Alien People,unknown,0.0212,https://api.spotify.com/v1/audio-analysis/391X9tVBrS8mI1JLQ30NlC,3B,0.776,302361.0,0.771,391X9tVBrS8mI1JLQ30NlC,0.941,1.0,0.0963,-13.214,1.0,0.0603,140.001,4.0,https://api.spotify.com/v1/tracks/391X9tVBrS8mI1JLQ30NlC,audio_features,spotify:track:391X9tVBrS8mI1JLQ30NlC,0.271
+4,Das Muster, Fortschritt,unknown,,,,,,,,,,,,,,,,,,,
+5,Volruptus, Alien Transmission,unknown,,,,,,,,,,,,,,,,,,,
+6,Russell E.l. Butler, I'm Dropping Out Of Life,unknown,,,,,,,,,,,,,,,,,,,
+7,Maroje T, Sleepy Hollow,unknown,0.0491,https://api.spotify.com/v1/audio-analysis/4g9PTBwNJH86qA2ahckP8l,4B,0.684,268600.0,0.527,4g9PTBwNJH86qA2ahckP8l,0.7,8.0,0.0716,-10.182,1.0,0.114,125.807,4.0,https://api.spotify.com/v1/tracks/4g9PTBwNJH86qA2ahckP8l,audio_features,spotify:track:4g9PTBwNJH86qA2ahckP8l,0.737
+8,ID, ID,unknown,0.000241,https://api.spotify.com/v1/audio-analysis/1aRxfiM606yUIQyKZzaslz,9B,0.269,129715.0,0.901,1aRxfiM606yUIQyKZzaslz,0.717,7.0,0.415,-7.38,1.0,0.0719,141.565,4.0,https://api.spotify.com/v1/tracks/1aRxfiM606yUIQyKZzaslz,audio_features,spotify:track:1aRxfiM606yUIQyKZzaslz,0.439
+9,Caustic Window, On The Romance Tip,unknown,,,,,,,,,,,,,,,,,,,
+10,PTU, Lizard,unknown,0.00844,https://api.spotify.com/v1/audio-analysis/1YXlgz8OSGPRksBsayUmQx,3A,0.777,239621.0,0.985,1YXlgz8OSGPRksBsayUmQx,0.912,10.0,0.377,-8.812,0.0,0.0648,139.974,4.0,https://api.spotify.com/v1/tracks/1YXlgz8OSGPRksBsayUmQx,audio_features,spotify:track:1YXlgz8OSGPRksBsayUmQx,0.409
+11,Mala, Lean Forward,unknown,,,,,,,,,,,,,,,,,,,
+12,6Blocc, Creal,unknown,,,,,,,,,,,,,,,,,,,
+13,Biogen, 303 Ambient,unknown,0.0067,https://api.spotify.com/v1/audio-analysis/2GxYNaIUsT6ite5cM0y5hf,3B,0.632,197821.0,0.502,2GxYNaIUsT6ite5cM0y5hf,0.916,1.0,0.11,-9.389,1.0,0.0532,165.524,4.0,https://api.spotify.com/v1/tracks/2GxYNaIUsT6ite5cM0y5hf,audio_features,spotify:track:2GxYNaIUsT6ite5cM0y5hf,0.231
+14,Biogen, Right,unknown,,,,,,,,,,,,,,,,,,,

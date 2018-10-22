@@ -1,0 +1,12 @@
+,Artist(s),Title,Release,acousticness,analysis_url,camelot,danceability,duration_ms,energy,id,instrumentalness,key,liveness,loudness,mode,speechiness,tempo,time_signature,track_href,type,uri,valence
+0,Furyan   MC Alee, Methods of Mutilation ,Dominator 2016 Anthem,0.219,https://api.spotify.com/v1/audio-analysis/5ljmfpvFwutq0HP74rWmqC,2B,0.191,226517.0,0.977,5ljmfpvFwutq0HP74rWmqC,5.21e-05,6.0,0.308,-3.182,1.0,0.221,178.084,4.0,https://api.spotify.com/v1/tracks/5ljmfpvFwutq0HP74rWmqC,audio_features,spotify:track:5ljmfpvFwutq0HP74rWmqC,0.0907
+1,Furyan, No Doubt Motherfuckers,unknown,,,,,,,,,,,,,,,,,,,
+2,Furyan, Rugged,unknown,0.0583,https://api.spotify.com/v1/audio-analysis/4NjQDjgbYxKFuGS8I7jVqG,1B,0.465,315878.0,0.82,4NjQDjgbYxKFuGS8I7jVqG,0.0,11.0,0.0485,-3.542,1.0,0.202,185.006,4.0,https://api.spotify.com/v1/tracks/4NjQDjgbYxKFuGS8I7jVqG,audio_features,spotify:track:4NjQDjgbYxKFuGS8I7jVqG,0.534
+3,D,Fence ,Furyan Dominator edit,0.459,https://api.spotify.com/v1/audio-analysis/3ldcpCOqwB48OAkLYCEx79,12B,0.78,188400.0,0.325,3ldcpCOqwB48OAkLYCEx79,0.00033,4.0,0.156,-13.097,1.0,0.0303,126.971,4.0,https://api.spotify.com/v1/tracks/3ldcpCOqwB48OAkLYCEx79,audio_features,spotify:track:3ldcpCOqwB48OAkLYCEx79,0.521
+4,Nosferatu Evil Activities, Sanctity Inside,unknown,,,,,,,,,,,,,,,,,,,
+5,Furyan, Blast That!,unknown,,,,,,,,,,,,,,,,,,,
+6,Furyan, For What?!,unknown,,,,,,,,,,,,,,,,,,,
+7,Furyan Nosferatu, Killswitch,unknown,0.235,https://api.spotify.com/v1/audio-analysis/2HbQnmnqxCxjANaHUhAtvX,9B,0.589,277910.0,0.99,2HbQnmnqxCxjANaHUhAtvX,0.00139,7.0,0.0863,-3.228,1.0,0.253,95.027,4.0,https://api.spotify.com/v1/tracks/2HbQnmnqxCxjANaHUhAtvX,audio_features,spotify:track:2HbQnmnqxCxjANaHUhAtvX,0.189
+8,D,Fence ,unknown,0.459,https://api.spotify.com/v1/audio-analysis/3ldcpCOqwB48OAkLYCEx79,12B,0.78,188400.0,0.325,3ldcpCOqwB48OAkLYCEx79,0.00033,4.0,0.156,-13.097,1.0,0.0303,126.971,4.0,https://api.spotify.com/v1/tracks/3ldcpCOqwB48OAkLYCEx79,audio_features,spotify:track:3ldcpCOqwB48OAkLYCEx79,0.521
+9,Furyan, Dynamite ,Bootleg,,,,,,,,,,,,,,,,,,,
+10,N,Vitral ,unknown,0.0151,https://api.spotify.com/v1/audio-analysis/1g3erNxtDJhEHJROi55ONv,3B,0.446,246667.0,0.997,1g3erNxtDJhEHJROi55ONv,0.00284,1.0,0.149,-0.041,1.0,0.41,180.009,4.0,https://api.spotify.com/v1/tracks/1g3erNxtDJhEHJROi55ONv,audio_features,spotify:track:1g3erNxtDJhEHJROi55ONv,0.229

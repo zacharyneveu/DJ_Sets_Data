@@ -1,0 +1,15 @@
+,Artist(s),Title,Release,acousticness,analysis_url,camelot,danceability,duration_ms,energy,id,instrumentalness,key,liveness,loudness,mode,speechiness,tempo,time_signature,track_href,type,uri,valence
+0,Key4050, ID,unknown,,,,,,,,,,,,,,,,,,,
+1,Ruben de Ronde PROFF   Deirdre Mclaughlin, Fade Away With Me ,Key4050 Remix,3.48e-05,https://api.spotify.com/v1/audio-analysis/65Zi68UEXbQr1KHzPD7cQW,8A,0.637,206702.0,0.875,65Zi68UEXbQr1KHzPD7cQW,0.215,9.0,0.337,-5.645,0.0,0.0397,126.026,4.0,https://api.spotify.com/v1/tracks/65Zi68UEXbQr1KHzPD7cQW,audio_features,spotify:track:65Zi68UEXbQr1KHzPD7cQW,0.471
+2,Key4050, ID,unknown,,,,,,,,,,,,,,,,,,,
+3,Key4050, ID,unknown,,,,,,,,,,,,,,,,,,,
+4,Key4050, ID,unknown,,,,,,,,,,,,,,,,,,,
+5,Key4050, Finkle Und Einhorn,unknown,,,,,,,,,,,,,,,,,,,
+6,Key4050, ID,unknown,,,,,,,,,,,,,,,,,,,
+7,Key4050, ID,unknown,,,,,,,,,,,,,,,,,,,
+8,Key4050, ID,unknown,,,,,,,,,,,,,,,,,,,
+9,Key4050, ID,unknown,,,,,,,,,,,,,,,,,,,
+10,Key4050, ID,unknown,,,,,,,,,,,,,,,,,,,
+11,Rachael Starr, Till There Was You ,Key4050 Rework,0.0335,https://api.spotify.com/v1/audio-analysis/6Qsa1r8ccuNHlEOgVtOuzy,10A,0.744,211040.0,0.615,6Qsa1r8ccuNHlEOgVtOuzy,0.364,11.0,0.0593,-14.862,0.0,0.0537,127.993,4.0,https://api.spotify.com/v1/tracks/6Qsa1r8ccuNHlEOgVtOuzy,audio_features,spotify:track:6Qsa1r8ccuNHlEOgVtOuzy,0.88
+12,Key4050, Beetlejuice,unknown,,,,,,,,,,,,,,,,,,,
+13,Bryan Kearney, ID,unknown,0.0632,https://api.spotify.com/v1/audio-analysis/68Qv4S2uJ0nLvdtWPrlOVt,12B,0.438,348400.0,0.735,68Qv4S2uJ0nLvdtWPrlOVt,0.0,4.0,0.0943,-8.114,1.0,0.0301,174.335,4.0,https://api.spotify.com/v1/tracks/68Qv4S2uJ0nLvdtWPrlOVt,audio_features,spotify:track:68Qv4S2uJ0nLvdtWPrlOVt,0.527

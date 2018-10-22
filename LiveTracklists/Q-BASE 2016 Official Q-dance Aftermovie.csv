@@ -1,0 +1,6 @@
+,Artist(s),Title,Release,acousticness,analysis_url,camelot,danceability,duration_ms,energy,id,instrumentalness,key,liveness,loudness,mode,speechiness,tempo,time_signature,track_href,type,uri,valence
+0,Psyko Punkz, Fuck the Fame,unknown,0.0441,https://api.spotify.com/v1/audio-analysis/1VPaT1lTVC0Morjl5x5ACW,4B,0.537,312632.0,0.817,1VPaT1lTVC0Morjl5x5ACW,0.000114,8.0,0.321,-4.913,1.0,0.0641,151.988,4.0,https://api.spotify.com/v1/tracks/1VPaT1lTVC0Morjl5x5ACW,audio_features,spotify:track:1VPaT1lTVC0Morjl5x5ACW,0.279
+1,D,Block&S,unknown,,,,,,,,,,,,,,,,,,,
+2,Digital Punk Andy SVGE, Hit me with the hard,unknown,0.223,https://api.spotify.com/v1/audio-analysis/2HJlWhSPynPl6me2OCjf3B,7B,0.53,204446.0,0.933,2HJlWhSPynPl6me2OCjf3B,0.891,5.0,0.431,-2.219,1.0,0.06,75.01,4.0,https://api.spotify.com/v1/tracks/2HJlWhSPynPl6me2OCjf3B,audio_features,spotify:track:2HJlWhSPynPl6me2OCjf3B,0.193
+3,N,Vitral ft. Angerfist ,unknown,,,,,,,,,,,,,,,,,,,
+4,Partyraiser vs Cryogenic, Middle fingers up,unknown,0.00106,https://api.spotify.com/v1/audio-analysis/2kvAjVq40X2nGmKBIMvAYX,9B,0.473,323603.0,0.915,2kvAjVq40X2nGmKBIMvAYX,0.0,7.0,0.834,-4.793,1.0,0.477,100.019,4.0,https://api.spotify.com/v1/tracks/2kvAjVq40X2nGmKBIMvAYX,audio_features,spotify:track:2kvAjVq40X2nGmKBIMvAYX,0.314

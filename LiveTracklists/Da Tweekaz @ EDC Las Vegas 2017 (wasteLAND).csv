@@ -1,0 +1,5 @@
+,Artist(s),Title,Release,acousticness,analysis_url,camelot,danceability,duration_ms,energy,id,instrumentalness,key,liveness,loudness,mode,speechiness,tempo,time_signature,track_href,type,uri,valence
+0,Darren Styles Re,Con ft. Matthew Steeper ,Da Tweekaz Remix,,,,,,,,,,,,,,,,,,,
+1,Eiffel 65, Blue ,Da Ba Dee,0.259,https://api.spotify.com/v1/audio-analysis/2yAVzRiEQooPEJ9SYx11L3,6A,0.822,283748.0,0.969,2yAVzRiEQooPEJ9SYx11L3,0.000162,7.0,0.39,-11.471,0.0,0.0582,128.007,4.0,https://api.spotify.com/v1/tracks/2yAVzRiEQooPEJ9SYx11L3,audio_features,spotify:track:2yAVzRiEQooPEJ9SYx11L3,0.765
+2,Gammer, ID,unknown,,,,,,,,,,,,,,,,,,,
+3,Paul Elstak, Luv U More ,Da Tweekaz Remix,0.0869,https://api.spotify.com/v1/audio-analysis/7DlTqW16uSDT6snOEulVqj,6B,0.524,288326.0,0.969,7DlTqW16uSDT6snOEulVqj,0.00379,10.0,0.519,-3.295,1.0,0.0334,150.0,4.0,https://api.spotify.com/v1/tracks/7DlTqW16uSDT6snOEulVqj,audio_features,spotify:track:7DlTqW16uSDT6snOEulVqj,0.48

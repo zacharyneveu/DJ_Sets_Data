@@ -1,0 +1,2 @@
+,Artist(s),Title,Release,acousticness,analysis_url,camelot,danceability,duration_ms,energy,id,instrumentalness,key,liveness,loudness,mode,speechiness,tempo,time_signature,track_href,type,uri,valence
+0,Adele, Hello ,Marshmello Remix,0.336,https://api.spotify.com/v1/audio-analysis/4sPmO7WMQUAf45kwMOtONw,4A,0.481,295493.0,0.451,4sPmO7WMQUAf45kwMOtONw,0.0,5.0,0.0872,-6.095,0.0,0.0347,157.966,4.0,https://api.spotify.com/v1/tracks/4sPmO7WMQUAf45kwMOtONw,audio_features,spotify:track:4sPmO7WMQUAf45kwMOtONw,0.289

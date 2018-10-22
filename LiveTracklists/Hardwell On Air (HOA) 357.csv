@@ -1,0 +1,19 @@
+,Artist(s),Title,Release,acousticness,analysis_url,camelot,danceability,duration_ms,energy,id,instrumentalness,key,liveness,loudness,mode,speechiness,tempo,time_signature,track_href,type,uri,valence
+0,ID   ID, TRN IT UP,unknown,,,,,,,,,,,,,,,,,,,
+1,ID, Keep It Low,unknown,,,,,,,,,,,,,,,,,,,
+2,Zedd Grey   Maren Morris, The Middle ,Marc Benjamin Remix,0.171,https://api.spotify.com/v1/audio-analysis/09IStsImFySgyp0pIQdqAc,9B,0.753,184732.0,0.657,09IStsImFySgyp0pIQdqAc,0.0,7.0,0.112,-3.061,1.0,0.0449,107.01,4.0,https://api.spotify.com/v1/tracks/09IStsImFySgyp0pIQdqAc,audio_features,spotify:track:09IStsImFySgyp0pIQdqAc,0.437
+3,ID   ID, Butterfly,unknown,,,,,,,,,,,,,,,,,,,
+4,ID, Do You Wanna ,ID Remix,,,,,,,,,,,,,,,,,,,
+5,ID   ID, Outlaw,unknown,,,,,,,,,,,,,,,,,,,
+6,ID, Darkside,unknown,,,,,,,,,,,,,,,,,,,
+7,Paris Blohm   Myah Marie, Body High,unknown,0.0196,https://api.spotify.com/v1/audio-analysis/3lJGbK6EnrCQ1MDKUSQ8Xt,9B,0.5,225000.0,0.674,3lJGbK6EnrCQ1MDKUSQ8Xt,0.0,7.0,0.151,-4.388,1.0,0.0501,128.138,4.0,https://api.spotify.com/v1/tracks/3lJGbK6EnrCQ1MDKUSQ8Xt,audio_features,spotify:track:3lJGbK6EnrCQ1MDKUSQ8Xt,0.19
+8,Winning Team, Lullaby,unknown,0.00976,https://api.spotify.com/v1/audio-analysis/05DQBenN584gjvlQOcBPCE,10A,0.713,191245.0,0.691,05DQBenN584gjvlQOcBPCE,0.312,11.0,0.57,-5.051,0.0,0.0497,128.052,4.0,https://api.spotify.com/v1/tracks/05DQBenN584gjvlQOcBPCE,audio_features,spotify:track:05DQBenN584gjvlQOcBPCE,0.131
+9,Sansixto Max Adrian Aftermarket, Stellar,unknown,0.0118,https://api.spotify.com/v1/audio-analysis/3ESs7qdcn3EesiNROLLiev,10B,0.602,150000.0,0.961,3ESs7qdcn3EesiNROLLiev,0.934,2.0,0.361,-3.519,1.0,0.0585,128.003,4.0,https://api.spotify.com/v1/tracks/3ESs7qdcn3EesiNROLLiev,audio_features,spotify:track:3ESs7qdcn3EesiNROLLiev,0.356
+10,Blasterjaxx, 1 Second,unknown,0.00172,https://api.spotify.com/v1/audio-analysis/02tWtFE40Y11M4jDpr4DQT,10A,0.604,179077.0,0.993,02tWtFE40Y11M4jDpr4DQT,0.0731,11.0,0.28,-2.934,0.0,0.0904,130.026,4.0,https://api.spotify.com/v1/tracks/02tWtFE40Y11M4jDpr4DQT,audio_features,spotify:track:02tWtFE40Y11M4jDpr4DQT,0.169
+11,Jewelz Sparks   Pearl Andersson, All I See Is You ,Afrojack Edit,0.00387,https://api.spotify.com/v1/audio-analysis/0nVMUhxriHywjLrzJguy9g,1A,0.609,225937.0,0.903,0nVMUhxriHywjLrzJguy9g,0.000296,8.0,0.22,-3.797,0.0,0.0537,128.016,4.0,https://api.spotify.com/v1/tracks/0nVMUhxriHywjLrzJguy9g,audio_features,spotify:track:0nVMUhxriHywjLrzJguy9g,0.37
+12,Steven Vegas Kevin Brand, Tequila,unknown,0.0123,https://api.spotify.com/v1/audio-analysis/5DSbbiF8MyvEXnmqwkd5JX,4B,0.602,184687.0,0.985,5DSbbiF8MyvEXnmqwkd5JX,0.162,8.0,0.314,-1.073,1.0,0.0586,128.11,4.0,https://api.spotify.com/v1/tracks/5DSbbiF8MyvEXnmqwkd5JX,audio_features,spotify:track:5DSbbiF8MyvEXnmqwkd5JX,0.0662
+13,ID, Slack,unknown,,,,,,,,,,,,,,,,,,,
+14,Supermode, Tell Me Why ,Jaxx & Vega Festival Mix,0.00874,https://api.spotify.com/v1/audio-analysis/4u62qfZoMXx1e0pc6PmVEV,11B,0.653,341480.0,0.854,4u62qfZoMXx1e0pc6PmVEV,0.0125,9.0,0.062,-5.22,1.0,0.0498,129.653,4.0,https://api.spotify.com/v1/tracks/4u62qfZoMXx1e0pc6PmVEV,audio_features,spotify:track:4u62qfZoMXx1e0pc6PmVEV,0.563
+15,ID, Soulja,unknown,,,,,,,,,,,,,,,,,,,
+16,W&W Groove Coverage, God Is A Girl,unknown,0.00128,https://api.spotify.com/v1/audio-analysis/244w7BpXC62Dc5dAtQryAv,5A,0.528,194483.0,0.884,244w7BpXC62Dc5dAtQryAv,0.000273,0.0,0.0952,-5.144,0.0,0.037,145.033,4.0,https://api.spotify.com/v1/tracks/244w7BpXC62Dc5dAtQryAv,audio_features,spotify:track:244w7BpXC62Dc5dAtQryAv,0.254
+17,KAAZE   Jonathan Mendelsohn, End Of The World ,Dr Phunk Remix,0.0378,https://api.spotify.com/v1/audio-analysis/4OPTaJwdcRCAb2u2UjWF9Y,10B,0.47,169594.0,0.902,4OPTaJwdcRCAb2u2UjWF9Y,0.0,2.0,0.396,-2.188,1.0,0.0468,149.983,4.0,https://api.spotify.com/v1/tracks/4OPTaJwdcRCAb2u2UjWF9Y,audio_features,spotify:track:4OPTaJwdcRCAb2u2UjWF9Y,0.219

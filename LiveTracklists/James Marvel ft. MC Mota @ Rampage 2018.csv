@@ -1,0 +1,2 @@
+,Artist(s),Title,Release,acousticness,analysis_url,camelot,danceability,duration_ms,energy,id,instrumentalness,key,liveness,loudness,mode,speechiness,tempo,time_signature,track_href,type,uri,valence
+0,Gydra, Hearing Damage,unknown,0.000223,https://api.spotify.com/v1/audio-analysis/2zUTNBQxEuqCaheVuwu1zF,9B,0.589,252104.0,0.953,2zUTNBQxEuqCaheVuwu1zF,0.888,7.0,0.191,-2.645,1.0,0.0724,174.052,4.0,https://api.spotify.com/v1/tracks/2zUTNBQxEuqCaheVuwu1zF,audio_features,spotify:track:2zUTNBQxEuqCaheVuwu1zF,0.0553

@@ -1,0 +1,4 @@
+,Artist(s),Title,Release,acousticness,analysis_url,camelot,danceability,duration_ms,energy,id,instrumentalness,key,liveness,loudness,mode,speechiness,tempo,time_signature,track_href,type,uri,valence
+0,Max Enforcer Frontliner, WKND,unknown,0.0169,https://api.spotify.com/v1/audio-analysis/719pz4OloEDeM0axqttdZP,9B,0.462,240000.0,0.938,719pz4OloEDeM0axqttdZP,1.31e-05,7.0,0.362,-3.799,1.0,0.055,149.932,4.0,https://api.spotify.com/v1/tracks/719pz4OloEDeM0axqttdZP,audio_features,spotify:track:719pz4OloEDeM0axqttdZP,0.239
+1,Wildstylez Coone, Burn it Down,unknown,0.003,https://api.spotify.com/v1/audio-analysis/2GHBLyx0zwpvf4llvh7mho,6B,0.54,225581.0,0.926,2GHBLyx0zwpvf4llvh7mho,2.61e-06,10.0,0.362,-4.13,1.0,0.0905,146.027,4.0,https://api.spotify.com/v1/tracks/2GHBLyx0zwpvf4llvh7mho,audio_features,spotify:track:2GHBLyx0zwpvf4llvh7mho,0.55
+2,B,Freqz ,unknown,,,,,,,,,,,,,,,,,,,

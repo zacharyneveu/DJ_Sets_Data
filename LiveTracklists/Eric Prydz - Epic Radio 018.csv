@@ -1,0 +1,13 @@
+,Artist(s),Title,Release,acousticness,analysis_url,camelot,danceability,duration_ms,energy,id,instrumentalness,key,liveness,loudness,mode,speechiness,tempo,time_signature,track_href,type,uri,valence
+0,Pryda, Decadence Intro ID,unknown,,,,,,,,,,,,,,,,,,,
+1,Cirez D, Pump Porn ID,unknown,,,,,,,,,,,,,,,,,,,
+2,Cirez D, Exchange LA ID 02 ,Working Title,,,,,,,,,,,,,,,,,,,
+3,DJ Hell, I Want U ,The Hacker Remix,0.00483,https://api.spotify.com/v1/audio-analysis/27HJbltuN3xXp9KghB958V,3B,0.73,411995.0,0.811,27HJbltuN3xXp9KghB958V,0.826,1.0,0.64,-9.472,1.0,0.0483,121.988,4.0,https://api.spotify.com/v1/tracks/27HJbltuN3xXp9KghB958V,audio_features,spotify:track:27HJbltuN3xXp9KghB958V,0.268
+4,Cirez D, Bauerpost,unknown,0.000735,https://api.spotify.com/v1/audio-analysis/62hsNnqCpj7UtOKPszKNZ1,3A,0.793,481058.0,0.662,62hsNnqCpj7UtOKPszKNZ1,0.872,10.0,0.387,-11.667,0.0,0.0566,126.02,4.0,https://api.spotify.com/v1/tracks/62hsNnqCpj7UtOKPszKNZ1,audio_features,spotify:track:62hsNnqCpj7UtOKPszKNZ1,0.117
+5,Pryda, V Festival ID,unknown,,,,,,,,,,,,,,,,,,,
+6,Pryda, Waves,unknown,0.00131,https://api.spotify.com/v1/audio-analysis/0HIQ9735mhdRSq3rcY4lqd,2A,0.643,357547.0,0.884,0HIQ9735mhdRSq3rcY4lqd,0.856,3.0,0.123,-4.678,0.0,0.0311,125.996,4.0,https://api.spotify.com/v1/tracks/0HIQ9735mhdRSq3rcY4lqd,audio_features,spotify:track:0HIQ9735mhdRSq3rcY4lqd,0.314
+7,Pryda, Mambo 2015 ID ,Working Title,,,,,,,,,,,,,,,,,,,
+8,Pryda, Villa Mercedes 2009 ID ,Working Title,,,,,,,,,,,,,,,,,,,
+9,Pryda, Loveland 09 / EPIC 005 02 ID ,Working Title,,,,,,,,,,,,,,,,,,,
+10,Jennifer Lopez, Cherry Pie ,Eric Prydz 2005 Unreleased Remix,0.184,https://api.spotify.com/v1/audio-analysis/5OO5YpmpEAsBjd7Zgtn0sN,4B,0.92,246333.0,0.646,5OO5YpmpEAsBjd7Zgtn0sN,4.06e-05,8.0,0.0224,-6.069,1.0,0.0655,124.001,4.0,https://api.spotify.com/v1/tracks/5OO5YpmpEAsBjd7Zgtn0sN,audio_features,spotify:track:5OO5YpmpEAsBjd7Zgtn0sN,0.935
+11,Cubic 22, Night In Motion,unknown,0.000402,https://api.spotify.com/v1/audio-analysis/7lWGQ0oOg9JO068fTfWse1,10B,0.669,316267.0,0.963,7lWGQ0oOg9JO068fTfWse1,0.558,2.0,0.123,-7.943,1.0,0.0417,127.311,4.0,https://api.spotify.com/v1/tracks/7lWGQ0oOg9JO068fTfWse1,audio_features,spotify:track:7lWGQ0oOg9JO068fTfWse1,0.618

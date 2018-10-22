@@ -1,0 +1,12 @@
+,Artist(s),Title,Release,acousticness,analysis_url,camelot,danceability,duration_ms,energy,id,instrumentalness,key,liveness,loudness,mode,speechiness,tempo,time_signature,track_href,type,uri,valence
+0,Yotto, Intro,unknown,,,,,,,,,,,,,,,,,,,
+1,Yotto, Cooper's Cup,unknown,,,,,,,,,,,,,,,,,,,
+2,Yotto, ID,unknown,,,,,,,,,,,,,,,,,,,
+3,Alex Kennon, Last Call ,Karmon Remix,0.0406,https://api.spotify.com/v1/audio-analysis/7tKQhWW0S8GLHxzCsoMuHr,4B,0.807,428361.0,0.75,7tKQhWW0S8GLHxzCsoMuHr,0.919,8.0,0.0693,-11.441,1.0,0.0628,122.0,4.0,https://api.spotify.com/v1/tracks/7tKQhWW0S8GLHxzCsoMuHr,audio_features,spotify:track:7tKQhWW0S8GLHxzCsoMuHr,0.0355
+4,Yotto   Lifelike Kris Menace, Aviate ,Yotto Mashup,0.000403,https://api.spotify.com/v1/audio-analysis/2dgbj29jTefckrQW7DZS8H,5A,0.62,316190.0,0.859,2dgbj29jTefckrQW7DZS8H,0.713,0.0,0.0511,-5.915,0.0,0.0427,120.034,4.0,https://api.spotify.com/v1/tracks/2dgbj29jTefckrQW7DZS8H,audio_features,spotify:track:2dgbj29jTefckrQW7DZS8H,0.234
+5,Kollektiv Turmstrasse," Sorry, I'm Late ",Pig&Dan Remix,,,,,,,,,,,,,,,,,,,
+6,Dusky   Solomon Grey, Long Wait ,Yotto Remix,0.00201,https://api.spotify.com/v1/audio-analysis/2q6fIlVFolU4QJC17JxUsh,11B,0.62,432203.0,0.61,2q6fIlVFolU4QJC17JxUsh,0.808,9.0,0.105,-11.004,1.0,0.0413,120.006,4.0,https://api.spotify.com/v1/tracks/2q6fIlVFolU4QJC17JxUsh,audio_features,spotify:track:2q6fIlVFolU4QJC17JxUsh,0.133
+7,Yotto, ID,unknown,,,,,,,,,,,,,,,,,,,
+8,Wehbba   Yotto, Stay Right ,Yotto Mashup,0.000238,https://api.spotify.com/v1/audio-analysis/1v6HtS5siu1AKf6Ls7hiH3,3A,0.819,360500.0,0.568,1v6HtS5siu1AKf6Ls7hiH3,0.702,10.0,0.0864,-9.225,0.0,0.241,123.998,4.0,https://api.spotify.com/v1/tracks/1v6HtS5siu1AKf6Ls7hiH3,audio_features,spotify:track:1v6HtS5siu1AKf6Ls7hiH3,0.189
+9,Yotto, The Owls,unknown,0.000431,https://api.spotify.com/v1/audio-analysis/6ZeaWOD1swVYqVdr0n8kPj,10B,0.64,362327.0,0.637,6ZeaWOD1swVYqVdr0n8kPj,0.927,2.0,0.347,-9.55,1.0,0.0368,122.019,4.0,https://api.spotify.com/v1/tracks/6ZeaWOD1swVYqVdr0n8kPj,audio_features,spotify:track:6ZeaWOD1swVYqVdr0n8kPj,0.0914
+10,Röyksopp   Susanne Sundfør, Never Ever ,Yotto Remix,9.75e-05,https://api.spotify.com/v1/audio-analysis/2bmRH9nW0Dj2cs61AT1qbF,3B,0.59,482987.0,0.883,2bmRH9nW0Dj2cs61AT1qbF,0.179,1.0,0.462,-6.703,1.0,0.0428,121.02,4.0,https://api.spotify.com/v1/tracks/2bmRH9nW0Dj2cs61AT1qbF,audio_features,spotify:track:2bmRH9nW0Dj2cs61AT1qbF,0.226

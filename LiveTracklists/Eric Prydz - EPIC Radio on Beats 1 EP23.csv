@@ -1,0 +1,11 @@
+,Artist(s),Title,Release,acousticness,analysis_url,camelot,danceability,duration_ms,energy,id,instrumentalness,key,liveness,loudness,mode,speechiness,tempo,time_signature,track_href,type,uri,valence
+0,Pryda, Grodan ID,unknown,,,,,,,,,,,,,,,,,,,
+1,The Junkies Carlo Lio, Last Days ,Eric Prydz Intro Edit,0.000736,https://api.spotify.com/v1/audio-analysis/6xphDvC3ctr99cgNFKErB4,5A,0.557,219600.0,0.811,6xphDvC3ctr99cgNFKErB4,0.0,0.0,0.0855,-4.708,0.0,0.0308,126.961,4.0,https://api.spotify.com/v1/tracks/6xphDvC3ctr99cgNFKErB4,audio_features,spotify:track:6xphDvC3ctr99cgNFKErB4,0.336
+2,D,Formation ,unknown,0.00888,https://api.spotify.com/v1/audio-analysis/0MknzXcYxp4X1DSs2J9aMs,11A,0.424,290087.0,0.957,0MknzXcYxp4X1DSs2J9aMs,0.894,6.0,0.107,-6.38,0.0,0.0933,160.021,4.0,https://api.spotify.com/v1/tracks/0MknzXcYxp4X1DSs2J9aMs,audio_features,spotify:track:0MknzXcYxp4X1DSs2J9aMs,0.659
+3,Cristoph, Epoch,unknown,0.000724,https://api.spotify.com/v1/audio-analysis/5aUqRB2UrPoYynW4jSFCzV,10A,0.731,463770.0,0.836,5aUqRB2UrPoYynW4jSFCzV,0.92,11.0,0.107,-8.682,0.0,0.0579,126.016,4.0,https://api.spotify.com/v1/tracks/5aUqRB2UrPoYynW4jSFCzV,audio_features,spotify:track:5aUqRB2UrPoYynW4jSFCzV,0.337
+4,Marc DePulse   Xenia Beliayeva, Kontrollverlust,unknown,0.000377,https://api.spotify.com/v1/audio-analysis/0HkgRvMtXWIYBSJYJVPMfP,10B,0.702,421419.0,0.564,0HkgRvMtXWIYBSJYJVPMfP,0.843,2.0,0.105,-13.071,1.0,0.0513,125.013,4.0,https://api.spotify.com/v1/tracks/0HkgRvMtXWIYBSJYJVPMfP,audio_features,spotify:track:0HkgRvMtXWIYBSJYJVPMfP,0.0433
+5,KiNK, Yom Thorke,unknown,0.000332,https://api.spotify.com/v1/audio-analysis/2lJNctjGK8W92Usjr3L0bp,3A,0.747,544538.0,0.67,2lJNctjGK8W92Usjr3L0bp,0.849,10.0,0.0666,-10.046,0.0,0.054,127.015,3.0,https://api.spotify.com/v1/tracks/2lJNctjGK8W92Usjr3L0bp,audio_features,spotify:track:2lJNctjGK8W92Usjr3L0bp,0.148
+6,Cirez D, Tyve,unknown,,,,,,,,,,,,,,,,,,,
+7,Loco Jam, All In,unknown,4.1e-05,https://api.spotify.com/v1/audio-analysis/7ji5CzwVZ3zoXGNJNCkB4S,10A,0.788,434808.0,0.872,7ji5CzwVZ3zoXGNJNCkB4S,0.894,11.0,0.111,-7.226,0.0,0.0901,125.003,4.0,https://api.spotify.com/v1/tracks/7ji5CzwVZ3zoXGNJNCkB4S,audio_features,spotify:track:7ji5CzwVZ3zoXGNJNCkB4S,0.314
+8,Cory Lasser, Cypher,unknown,,,,,,,,,,,,,,,,,,,
+9,Pryda, Storm,unknown,,,,,,,,,,,,,,,,,,,

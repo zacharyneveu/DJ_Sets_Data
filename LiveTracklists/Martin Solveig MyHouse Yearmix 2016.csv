@@ -1,0 +1,23 @@
+,Artist(s),Title,Release,acousticness,analysis_url,camelot,danceability,duration_ms,energy,id,instrumentalness,key,liveness,loudness,mode,speechiness,tempo,time_signature,track_href,type,uri,valence
+0,Places feat Ina Wroldsen, Martin Solveig,unknown,,,,,,,,,,,,,,,,,,,
+1,House Work feat Mike Dunn MNEK, Jax Jones,unknown,0.0144,https://api.spotify.com/v1/audio-analysis/2SsDMRqjsh6yMNa34eOrOp,8A,0.72,210913.0,0.588,2SsDMRqjsh6yMNa34eOrOp,0.568,9.0,0.0762,-9.429,0.0,0.0369,120.777,4.0,https://api.spotify.com/v1/tracks/2SsDMRqjsh6yMNa34eOrOp,audio_features,spotify:track:2SsDMRqjsh6yMNa34eOrOp,0.174
+2,You’re Sunshine, Weiss,unknown,0.125,https://api.spotify.com/v1/audio-analysis/58rCVk8M4r0WSCAmjDKL3P,10B,0.779,113027.0,0.608,58rCVk8M4r0WSCAmjDKL3P,2.28e-06,2.0,0.179,-7.18,1.0,0.0319,140.021,4.0,https://api.spotify.com/v1/tracks/58rCVk8M4r0WSCAmjDKL3P,audio_features,spotify:track:58rCVk8M4r0WSCAmjDKL3P,0.806
+3,It Takes Two, Rob Base x Tchami,unknown,,,,,,,,,,,,,,,,,,,
+4,Flamingo vs House Every Weekend, Oliver Heldens vs David Zowie,unknown,,,,,,,,,,,,,,,,,,,
+5,Big Discs, Eats Everything,unknown,,,,,,,,,,,,,,,,,,,
+6,Go Up (Butch Remix), Cassius,Butch Remix,0.000283,https://api.spotify.com/v1/audio-analysis/4RnonS3K0KxgvmkxWXOPn2,7B,0.8,145459.0,0.31,4RnonS3K0KxgvmkxWXOPn2,0.888,5.0,0.0847,-17.636,1.0,0.361,132.02,4.0,https://api.spotify.com/v1/tracks/4RnonS3K0KxgvmkxWXOPn2,audio_features,spotify:track:4RnonS3K0KxgvmkxWXOPn2,0.646
+7,Sunlight, The Magician x Moonbootica,unknown,,,,,,,,,,,,,,,,,,,
+8,Super, Andhim,unknown,0.402,https://api.spotify.com/v1/audio-analysis/6E6aciUOHCl1CgmdV4NuIv,5B,0.528,270090.0,0.581,6E6aciUOHCl1CgmdV4NuIv,0.0,3.0,0.199,-10.317,1.0,0.329,184.099,4.0,https://api.spotify.com/v1/tracks/6E6aciUOHCl1CgmdV4NuIv,audio_features,spotify:track:6E6aciUOHCl1CgmdV4NuIv,0.319
+9,In The Morning, Brohug,unknown,,,,,,,,,,,,,,,,,,,
+10,This Girl, Kungs ,unknown,,,,,,,,,,,,,,,,,,,
+11,Do It Right, Martin Solveig,unknown,,,,,,,,,,,,,,,,,,,
+12,Peanut Butter Jelly (Maxum Galantis VIP Mix), Galantis,Maxum & Galantis VIP Mix,0.0177,https://api.spotify.com/v1/audio-analysis/673bi2Sy6tc04NYbEWu1jS,6A,0.661,266675.0,0.775,673bi2Sy6tc04NYbEWu1jS,0.00381,7.0,0.124,-5.06,0.0,0.0454,126.013,4.0,https://api.spotify.com/v1/tracks/673bi2Sy6tc04NYbEWu1jS,audio_features,spotify:track:673bi2Sy6tc04NYbEWu1jS,0.502
+13,Once Is Enough (MS Edit), Amtrac x Tine Tempah x Drake,MS Edit,,,,,,,,,,,,,,,,,,,
+14,Girls Like, Tinie Tempah,unknown,0.00451,https://api.spotify.com/v1/audio-analysis/09nbdipHgsjss2S8CZp266,3B,0.905,224366.0,0.577,09nbdipHgsjss2S8CZp266,0.905,1.0,0.0885,-10.764,1.0,0.306,151.038,4.0,https://api.spotify.com/v1/tracks/09nbdipHgsjss2S8CZp266,audio_features,spotify:track:09nbdipHgsjss2S8CZp266,0.698
+15,This Is What You Came For x Gone Are The Days (MS Edit), Calvin Harris x HONNE x Riton ,MS Edit,,,,,,,,,,,,,,,,,,,
+16,Grey, Kölsch,unknown,,,,,,,,,,,,,,,,,,,
+17,Just Say, KDA,unknown,,,,,,,,,,,,,,,,,,,
+18,Freak Like Me (Riva Starr Edit), Dj Deeon,Riva Starr Edit,,,,,,,,,,,,,,,,,,,
+19,Sorry I Am Late (Richy Ahmed Remix), Kollektiv Turmstrasse,Richy Ahmed Remix,,,,,,,,,,,,,,,,,,,
+20,Right Here, Billy Kenny & Aaron Jackson,unknown,,,,,,,,,,,,,,,,,,,
+21,Your Love (Kölsch Remix), Frankie Knuckes x Pete Tong,Kölsch Remix,,,,,,,,,,,,,,,,,,,

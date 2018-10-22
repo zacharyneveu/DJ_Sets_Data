@@ -1,0 +1,7 @@
+,Artist(s),Title,Release,acousticness,analysis_url,camelot,danceability,duration_ms,energy,id,instrumentalness,key,liveness,loudness,mode,speechiness,tempo,time_signature,track_href,type,uri,valence
+0,Thomas Jack Jasmine Thompson, Rise Up,unknown,0.0652,https://api.spotify.com/v1/audio-analysis/2sTe3y5xjQvVb9tDTVaI35,9A,0.721,181748.0,0.925,2sTe3y5xjQvVb9tDTVaI35,0.000158,4.0,0.292,-3.539,0.0,0.0455,114.032,4.0,https://api.spotify.com/v1/tracks/2sTe3y5xjQvVb9tDTVaI35,audio_features,spotify:track:2sTe3y5xjQvVb9tDTVaI35,0.355
+1,Marc Spence, Nasty,unknown,0.000664,https://api.spotify.com/v1/audio-analysis/02yQ99en6BS43RMjylOcR9,3A,0.868,250605.0,0.449,02yQ99en6BS43RMjylOcR9,0.887,10.0,0.163,-8.653,0.0,0.138,124.012,4.0,https://api.spotify.com/v1/tracks/02yQ99en6BS43RMjylOcR9,audio_features,spotify:track:02yQ99en6BS43RMjylOcR9,0.388
+2,DJ Khaikhan, Neglewe,unknown,,,,,,,,,,,,,,,,,,,
+3,Rudimental, Powerless ,MK Remix,0.00064,https://api.spotify.com/v1/audio-analysis/4QyALKXmlNz0Op6ZfbwqtG,6A,0.683,386473.0,0.781,4QyALKXmlNz0Op6ZfbwqtG,0.0206,7.0,0.148,-6.138,0.0,0.0348,124.008,4.0,https://api.spotify.com/v1/tracks/4QyALKXmlNz0Op6ZfbwqtG,audio_features,spotify:track:4QyALKXmlNz0Op6ZfbwqtG,0.336
+4,Format:B, Chunky,unknown,,,,,,,,,,,,,,,,,,,
+5,w/ Format:B, Chunky ,Riva Starr Remix,0.0552,https://api.spotify.com/v1/audio-analysis/5AW0cITbpouAD0LCJZ99TG,8B,0.657,182773.0,0.499,5AW0cITbpouAD0LCJZ99TG,0.368,0.0,0.368,-10.084,1.0,0.0431,119.95,4.0,https://api.spotify.com/v1/tracks/5AW0cITbpouAD0LCJZ99TG,audio_features,spotify:track:5AW0cITbpouAD0LCJZ99TG,0.624

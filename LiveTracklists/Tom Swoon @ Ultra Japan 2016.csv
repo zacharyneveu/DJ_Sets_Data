@@ -1,0 +1,6 @@
+,Artist(s),Title,Release,acousticness,analysis_url,camelot,danceability,duration_ms,energy,id,instrumentalness,key,liveness,loudness,mode,speechiness,tempo,time_signature,track_href,type,uri,valence
+0,Kid Arkade   Tom Swoon   Steve Aoki   Sebastian Ingrosso Tommy Trash, Ladi Dadi Reloads Alone ,Tom Swoon Mashup,,,,,,,,,,,,,,,,,,,
+1,The Bloody Beetroots Greta Svabo Bech Tom Swoon   Daft Punk, Chronicles Of A One More Time ,Tom Swoon Bootleg,,,,,,,,,,,,,,,,,,,
+2,w/ Adrian Lux, Teenage Crime ,Acapella,0.0195,https://api.spotify.com/v1/audio-analysis/1E2tRwT1GIHk1a8oYQMfjC,10B,0.646,170920.0,0.833,1E2tRwT1GIHk1a8oYQMfjC,0.736,2.0,0.104,-4.882,1.0,0.0375,128.02,4.0,https://api.spotify.com/v1/tracks/1E2tRwT1GIHk1a8oYQMfjC,audio_features,spotify:track:1E2tRwT1GIHk1a8oYQMfjC,0.329
+3,w/ Tom Swoon Lush Simon   Axwell Λ Ingrosso, Sun Is Shining Ahead Of Us ,Tom Swoon Mashup,,,,,,,,,,,,,,,,,,,
+4,w/ Alesso   OneRepublic, If I Lose Myself ,Acapella,0.0156,https://api.spotify.com/v1/audio-analysis/0E3INScBKTzXUZompW5FXM,4B,0.903,116107.0,0.572,0E3INScBKTzXUZompW5FXM,0.899,8.0,0.177,-6.296,1.0,0.183,136.091,4.0,https://api.spotify.com/v1/tracks/0E3INScBKTzXUZompW5FXM,audio_features,spotify:track:0E3INScBKTzXUZompW5FXM,0.082

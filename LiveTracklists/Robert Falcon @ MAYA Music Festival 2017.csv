@@ -1,0 +1,2 @@
+,Artist(s),Title,Release,acousticness,analysis_url,camelot,danceability,duration_ms,energy,id,instrumentalness,key,liveness,loudness,mode,speechiness,tempo,time_signature,track_href,type,uri,valence
+0,Robert Falcon, ID,unknown,0.833,https://api.spotify.com/v1/audio-analysis/0WlvM02YflaVrjM1mxdTRh,9B,0.379,316534.0,0.339,0WlvM02YflaVrjM1mxdTRh,0.0,7.0,0.952,-9.693,1.0,0.0655,175.355,3.0,https://api.spotify.com/v1/tracks/0WlvM02YflaVrjM1mxdTRh,audio_features,spotify:track:0WlvM02YflaVrjM1mxdTRh,0.262

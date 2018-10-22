@@ -1,0 +1,2 @@
+,Artist(s),Title,Release,acousticness,analysis_url,camelot,danceability,duration_ms,energy,id,instrumentalness,key,liveness,loudness,mode,speechiness,tempo,time_signature,track_href,type,uri,valence
+0,Martin Garrix, Forbidden Voices,unknown,0.05,https://api.spotify.com/v1/audio-analysis/6EsH66Uto1zwZlDGQ6RokU,3A,0.534,230635.0,0.711,6EsH66Uto1zwZlDGQ6RokU,0.0031,10.0,0.135,-5.927,0.0,0.0368,128.102,4.0,https://api.spotify.com/v1/tracks/6EsH66Uto1zwZlDGQ6RokU,audio_features,spotify:track:6EsH66Uto1zwZlDGQ6RokU,0.3

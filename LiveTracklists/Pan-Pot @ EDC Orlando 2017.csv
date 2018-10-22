@@ -1,0 +1,2 @@
+,Artist(s),Title,Release,acousticness,analysis_url,camelot,danceability,duration_ms,energy,id,instrumentalness,key,liveness,loudness,mode,speechiness,tempo,time_signature,track_href,type,uri,valence
+0,Pan,Pot ,unknown,0.22,https://api.spotify.com/v1/audio-analysis/4bZG7uFijZk1q2RzRP5Jxd,3A,0.55,453721.0,0.639,4bZG7uFijZk1q2RzRP5Jxd,0.707,10.0,0.445,-9.651,0.0,0.0393,82.003,4.0,https://api.spotify.com/v1/tracks/4bZG7uFijZk1q2RzRP5Jxd,audio_features,spotify:track:4bZG7uFijZk1q2RzRP5Jxd,0.298

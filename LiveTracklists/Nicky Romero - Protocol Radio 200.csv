@@ -1,0 +1,15 @@
+,Artist(s),Title,Release,acousticness,analysis_url,camelot,danceability,duration_ms,energy,id,instrumentalness,key,liveness,loudness,mode,speechiness,tempo,time_signature,track_href,type,uri,valence
+0,Nicky Romero vs Calvin Harris, Blame the Underground ,Nicky Romero Edit,,,,,,,,,,,,,,,,,,,
+1,Kenneth G, We Are One ft. Ilang,unknown,,,,,,,,,,,,,,,,,,,
+2,Nicky Romero AVICII vs John Christian vs Galantis, I Could Be No Money Collage ,Nicky Romero Tomorrowland Edit,,,,,,,,,,,,,,,,,,,
+3,Corey James Teamworx vs Olive, Make The Crowd Go Alone ,Nicky Romero Edit,,,,,,,,,,,,,,,,,,,
+4,Nicky Romero, The Moment ,Novell,0.0625,https://api.spotify.com/v1/audio-analysis/4xVy3g7qRlZ0UPTDjDsMz5,2A,0.528,200791.0,0.563,4xVy3g7qRlZ0UPTDjDsMz5,0.0,3.0,0.305,-6.077,0.0,0.0318,125.99,4.0,https://api.spotify.com/v1/tracks/4xVy3g7qRlZ0UPTDjDsMz5,audio_features,spotify:track:4xVy3g7qRlZ0UPTDjDsMz5,0.197
+5,Coldplay vs John Christian, Future of a Lifetime ,Nicky Romero Edit,,,,,,,,,,,,,,,,,,,
+6,Sebastian Ingrosso Tommy Trash vs David Guetta, Reload Bang My Head ,Nicky Romero Edit,,,,,,,,,,,,,,,,,,,
+7,MAKJ Thomas Newson vs Tiësto KSHMR, Black Secrets ,Nicky Romero Edit,,,,,,,,,,,,,,,,,,,
+8,Dirty South ft Anima, All Of Us,unknown,0.267,https://api.spotify.com/v1/audio-analysis/3nHuuKZ0fukl5DoZ6dEs1p,10A,0.445,278149.0,0.654,3nHuuKZ0fukl5DoZ6dEs1p,0.000334,11.0,0.158,-4.799,0.0,0.0382,128.079,4.0,https://api.spotify.com/v1/tracks/3nHuuKZ0fukl5DoZ6dEs1p,audio_features,spotify:track:3nHuuKZ0fukl5DoZ6dEs1p,0.251
+9,Nicky Romero Vicetone vs Armin van Buuren, Let Me Feel Another You ,Nicky Romero Edit,,,,,,,,,,,,,,,,,,,
+10,TWIIG, We Are,unknown,0.00444,https://api.spotify.com/v1/audio-analysis/6Hx9KYTINDIqXuykRkLTbq,4A,0.482,180015.0,0.966,6Hx9KYTINDIqXuykRkLTbq,0.00739,5.0,0.894,-2.265,0.0,0.0637,128.039,4.0,https://api.spotify.com/v1/tracks/6Hx9KYTINDIqXuykRkLTbq,audio_features,spotify:track:6Hx9KYTINDIqXuykRkLTbq,0.228
+11,Arno Cost, Coming Alive ,Jimny Remix,0.569,https://api.spotify.com/v1/audio-analysis/7cSMFUbKJG9vTbLhJZxyli,5A,0.72,272788.0,0.573,7cSMFUbKJG9vTbLhJZxyli,0.000133,0.0,0.174,-4.964,0.0,0.0432,111.998,4.0,https://api.spotify.com/v1/tracks/7cSMFUbKJG9vTbLhJZxyli,audio_features,spotify:track:7cSMFUbKJG9vTbLhJZxyli,0.389
+12,Florian Picasso, FInal Call ,VIP Mix,0.0665,https://api.spotify.com/v1/audio-analysis/6z7Yyb5jjY9sswBpQ0PXVJ,9A,0.335,217617.0,0.77,6z7Yyb5jjY9sswBpQ0PXVJ,0.000667,4.0,0.0984,-6.76,0.0,0.199,75.451,4.0,https://api.spotify.com/v1/tracks/6z7Yyb5jjY9sswBpQ0PXVJ,audio_features,spotify:track:6z7Yyb5jjY9sswBpQ0PXVJ,0.488
+13,Nicky Romero ZROQ, WTF!,unknown,0.000705,https://api.spotify.com/v1/audio-analysis/0DyeiVFwnfAvfyUGdu5l9q,9B,0.662,382036.0,0.98,0DyeiVFwnfAvfyUGdu5l9q,0.623,7.0,0.0482,-4.655,1.0,0.121,127.993,4.0,https://api.spotify.com/v1/tracks/0DyeiVFwnfAvfyUGdu5l9q,audio_features,spotify:track:0DyeiVFwnfAvfyUGdu5l9q,0.0842

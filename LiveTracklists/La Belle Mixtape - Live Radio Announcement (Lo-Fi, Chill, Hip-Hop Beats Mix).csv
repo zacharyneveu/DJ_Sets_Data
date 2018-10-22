@@ -1,0 +1,36 @@
+,Artist(s),Title,Release,acousticness,analysis_url,camelot,danceability,duration_ms,energy,id,instrumentalness,key,liveness,loudness,mode,speechiness,tempo,time_signature,track_href,type,uri,valence
+0,BesideZion, Finally,unknown,,,,,,,,,,,,,,,,,,,
+1,hoogway, something new under the sun,unknown,,,,,,,,,,,,,,,,,,,
+2,knowmadic, dont get involved,unknown,0.879,https://api.spotify.com/v1/audio-analysis/0sVoX6FgnXGWmTBvi3cguG,8B,0.718,111400.0,0.312,0sVoX6FgnXGWmTBvi3cguG,0.783,0.0,0.0589,-13.122,1.0,0.331,80.032,4.0,https://api.spotify.com/v1/tracks/0sVoX6FgnXGWmTBvi3cguG,audio_features,spotify:track:0sVoX6FgnXGWmTBvi3cguG,0.47
+3,Mëi, ベビーガール,unknown,,,,,,,,,,,,,,,,,,,
+4,nohidea., falling down ,ft. shiloh,0.909,https://api.spotify.com/v1/audio-analysis/1VzCPe4btOIrAMVIkmfdrW,2B,0.783,96000.0,0.319,1VzCPe4btOIrAMVIkmfdrW,0.157,6.0,0.326,-16.088,1.0,0.285,80.102,4.0,https://api.spotify.com/v1/tracks/1VzCPe4btOIrAMVIkmfdrW,audio_features,spotify:track:1VzCPe4btOIrAMVIkmfdrW,0.525
+5,chuckee., autumn surfing,unknown,,,,,,,,,,,,,,,,,,,
+6,driver, the eye of truth,unknown,0.868,https://api.spotify.com/v1/audio-analysis/03yPqXVJIYC5qKoYTUbAp7,7B,0.589,161539.0,0.68,03yPqXVJIYC5qKoYTUbAp7,0.356,5.0,0.09,-8.887,1.0,0.379,80.23,4.0,https://api.spotify.com/v1/tracks/03yPqXVJIYC5qKoYTUbAp7,audio_features,spotify:track:03yPqXVJIYC5qKoYTUbAp7,0.502
+7,secret crates, Mine,unknown,0.27,https://api.spotify.com/v1/audio-analysis/1QWRrUXilTFFMfoXoiYqkx,10B,0.212,235232.0,0.379,1QWRrUXilTFFMfoXoiYqkx,0.000869,2.0,0.101,-10.962,1.0,0.0329,90.266,1.0,https://api.spotify.com/v1/tracks/1QWRrUXilTFFMfoXoiYqkx,audio_features,spotify:track:1QWRrUXilTFFMfoXoiYqkx,0.223
+8,fragile., too much to ask for,unknown,,,,,,,,,,,,,,,,,,,
+9,BLVK., under the trees ｡゜,unknown,,,,,,,,,,,,,,,,,,,
+10,crwsox, magic carpet,unknown,,,,,,,,,,,,,,,,,,,
+11,Eevee, seeds,unknown,,,,,,,,,,,,,,,,,,,
+12,octn, hey i know you,unknown,,,,,,,,,,,,,,,,,,,
+13,cavanaugh., the way you look,unknown,,,,,,,,,,,,,,,,,,,
+14,charlie toØ human," that ""just got home from work""",unknown,0.06,https://api.spotify.com/v1/audio-analysis/6jhLjrVZLoPB3p1xRsk1o2,3A,0.79,123189.0,0.251,6jhLjrVZLoPB3p1xRsk1o2,0.722,10.0,0.267,-10.486,0.0,0.182,145.068,4.0,https://api.spotify.com/v1/tracks/6jhLjrVZLoPB3p1xRsk1o2,audio_features,spotify:track:6jhLjrVZLoPB3p1xRsk1o2,0.609
+15,F B ♒, spring,unknown,0.938,https://api.spotify.com/v1/audio-analysis/6lST1ZnqLsB46y2A1bZowt,7B,0.57,96481.0,0.258,6lST1ZnqLsB46y2A1bZowt,0.871,5.0,0.112,-18.737,1.0,0.0579,169.831,5.0,https://api.spotify.com/v1/tracks/6lST1ZnqLsB46y2A1bZowt,audio_features,spotify:track:6lST1ZnqLsB46y2A1bZowt,0.399
+16,emune, hierba,unknown,0.682,https://api.spotify.com/v1/audio-analysis/2R6EI6ZxRmbmYLxEAJ8xXy,1B,0.591,141818.0,0.395,2R6EI6ZxRmbmYLxEAJ8xXy,0.0315,11.0,0.166,-11.05,1.0,0.128,115.09,1.0,https://api.spotify.com/v1/tracks/2R6EI6ZxRmbmYLxEAJ8xXy,audio_features,spotify:track:2R6EI6ZxRmbmYLxEAJ8xXy,0.701
+17,oofoe, on the street where you live,unknown,0.73,https://api.spotify.com/v1/audio-analysis/0reObg2RjeiJvIDSmrifdf,2B,0.792,91951.0,0.302,0reObg2RjeiJvIDSmrifdf,0.973,6.0,0.11,-14.341,1.0,0.0977,74.019,4.0,https://api.spotify.com/v1/tracks/0reObg2RjeiJvIDSmrifdf,audio_features,spotify:track:0reObg2RjeiJvIDSmrifdf,0.715
+18,VAGUE003, you light an incense as i watch the world through your window,unknown,0.378,https://api.spotify.com/v1/audio-analysis/0axTkxE1puKI4xE1wtPfsc,2B,0.566,127792.0,0.326,0axTkxE1puKI4xE1wtPfsc,0.722,6.0,0.657,-12.872,1.0,0.0449,76.977,4.0,https://api.spotify.com/v1/tracks/0axTkxE1puKI4xE1wtPfsc,audio_features,spotify:track:0axTkxE1puKI4xE1wtPfsc,0.0393
+19,michael lundy, this is crazy,unknown,0.541,https://api.spotify.com/v1/audio-analysis/53YPC204sP2jpnhoK1rfMo,11B,0.742,186240.0,0.456,53YPC204sP2jpnhoK1rfMo,0.0,9.0,0.345,-11.191,1.0,0.0337,135.313,4.0,https://api.spotify.com/v1/tracks/53YPC204sP2jpnhoK1rfMo,audio_features,spotify:track:53YPC204sP2jpnhoK1rfMo,0.777
+20,fragile., 42617,unknown,0.968,https://api.spotify.com/v1/audio-analysis/72HoTkz92o9DxR111GDiUt,3B,0.7,120317.0,0.142,72HoTkz92o9DxR111GDiUt,0.953,1.0,0.129,-21.747,1.0,0.0435,130.079,4.0,https://api.spotify.com/v1/tracks/72HoTkz92o9DxR111GDiUt,audio_features,spotify:track:72HoTkz92o9DxR111GDiUt,0.263
+21,[ peachy ], amsterdam,unknown,0.979,https://api.spotify.com/v1/audio-analysis/6HewWOJhSUEMAHpNZ5CH6e,1B,0.731,105231.0,0.283,6HewWOJhSUEMAHpNZ5CH6e,9.83e-05,11.0,0.109,-7.462,1.0,0.241,130.017,4.0,https://api.spotify.com/v1/tracks/6HewWOJhSUEMAHpNZ5CH6e,audio_features,spotify:track:6HewWOJhSUEMAHpNZ5CH6e,0.477
+22,aimless, what do you see,unknown,,,,,,,,,,,,,,,,,,,
+23,aimless, please don t go,unknown,,,,,,,,,,,,,,,,,,,
+24,olli," good morning, me",unknown,,,,,,,,,,,,,,,,,,,
+25,Joyce Wrice, Good Morning ,Swarvy Redeux,0.885,https://api.spotify.com/v1/audio-analysis/3gAwc7gUcFWLxwx1EWgR57,1A,0.452,220391.0,0.184,3gAwc7gUcFWLxwx1EWgR57,0.0,8.0,0.0723,-13.105,0.0,0.05,75.61,4.0,https://api.spotify.com/v1/tracks/3gAwc7gUcFWLxwx1EWgR57,audio_features,spotify:track:3gAwc7gUcFWLxwx1EWgR57,0.424
+26,Alicks, im tired of this,unknown,0.902,https://api.spotify.com/v1/audio-analysis/3Adu33IONcbdc3gM7umJme,9B,0.706,161750.0,0.0667,3Adu33IONcbdc3gM7umJme,0.196,7.0,0.103,-22.695,1.0,0.0515,94.993,4.0,https://api.spotify.com/v1/tracks/3Adu33IONcbdc3gM7umJme,audio_features,spotify:track:3Adu33IONcbdc3gM7umJme,0.738
+27,frumhere, never waste a s time,unknown,,,,,,,,,,,,,,,,,,,
+28,Aso, Some Cozy music made by opening soda,unknown,,,,,,,,,,,,,,,,,,,
+29,rook1e, i fell in love with you one night in september.,unknown,0.943,https://api.spotify.com/v1/audio-analysis/10hweQwWcUhBcpipYEvCYD,5B,0.532,96005.0,0.137,10hweQwWcUhBcpipYEvCYD,0.824,3.0,0.0852,-19.672,1.0,0.0648,89.346,3.0,https://api.spotify.com/v1/tracks/10hweQwWcUhBcpipYEvCYD,audio_features,spotify:track:10hweQwWcUhBcpipYEvCYD,0.0732
+30,LC Mission, chrystale,unknown,,,,,,,,,,,,,,,,,,,
+31,Guru Griff, Long Day,unknown,0.908,https://api.spotify.com/v1/audio-analysis/7aYJXA2Gf3iP4AVBrHeeqO,9B,0.247,451396.0,0.0757,7aYJXA2Gf3iP4AVBrHeeqO,0.938,7.0,0.123,-26.204,1.0,0.0342,81.116,4.0,https://api.spotify.com/v1/tracks/7aYJXA2Gf3iP4AVBrHeeqO,audio_features,spotify:track:7aYJXA2Gf3iP4AVBrHeeqO,0.0756
+32,ameba., chillllin,unknown,,,,,,,,,,,,,,,,,,,
+33,C Y G N sophie meiers, Trying 2 Avoid U,unknown,,,,,,,,,,,,,,,,,,,
+34,Be dar, Wonder From Nothing,unknown,,,,,,,,,,,,,,,,,,,

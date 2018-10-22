@@ -1,0 +1,8 @@
+,Artist(s),Title,Release,acousticness,analysis_url,camelot,danceability,duration_ms,energy,id,instrumentalness,key,liveness,loudness,mode,speechiness,tempo,time_signature,track_href,type,uri,valence
+0,B,Front & Adaro ,Official Qapital 2013 Anthem,0.0214,https://api.spotify.com/v1/audio-analysis/6nwfUf4yhsbtfnQuKfSBOI,9B,0.481,4393677.0,0.978,6nwfUf4yhsbtfnQuKfSBOI,0.000326,7.0,0.385,-3.763,1.0,0.121,149.959,4.0,https://api.spotify.com/v1/tracks/6nwfUf4yhsbtfnQuKfSBOI,audio_features,spotify:track:6nwfUf4yhsbtfnQuKfSBOI,0.121
+1,B,Front ,unknown,0.14,https://api.spotify.com/v1/audio-analysis/0uv1qAL1ID4BBf1aOEriwC,9A,0.782,155794.0,0.803,0uv1qAL1ID4BBf1aOEriwC,0.22,4.0,0.163,-5.741,0.0,0.0613,126.012,4.0,https://api.spotify.com/v1/tracks/0uv1qAL1ID4BBf1aOEriwC,audio_features,spotify:track:0uv1qAL1ID4BBf1aOEriwC,0.411
+2,B,Front & ANDY SVGE ,unknown,,,,,,,,,,,,,,,,,,,
+3,B,Front ,unknown,0.14,https://api.spotify.com/v1/audio-analysis/0uv1qAL1ID4BBf1aOEriwC,9A,0.782,155794.0,0.803,0uv1qAL1ID4BBf1aOEriwC,0.22,4.0,0.163,-5.741,0.0,0.0613,126.012,4.0,https://api.spotify.com/v1/tracks/0uv1qAL1ID4BBf1aOEriwC,audio_features,spotify:track:0uv1qAL1ID4BBf1aOEriwC,0.411
+4,Donkey Rollers, Justice 4 All ,APEXX Remix,0.193,https://api.spotify.com/v1/audio-analysis/3HYrzWB0LHPuq80WuHalT6,9B,0.514,226151.0,0.988,3HYrzWB0LHPuq80WuHalT6,0.0118,7.0,0.17,-3.459,1.0,0.169,154.952,4.0,https://api.spotify.com/v1/tracks/3HYrzWB0LHPuq80WuHalT6,audio_features,spotify:track:3HYrzWB0LHPuq80WuHalT6,0.241
+5,B,Freqz ,unknown,,,,,,,,,,,,,,,,,,,
+6,B,Front & Warface ,unknown,,,,,,,,,,,,,,,,,,,

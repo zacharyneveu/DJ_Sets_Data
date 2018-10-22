@@ -1,0 +1,22 @@
+,Artist(s),Title,Release,acousticness,analysis_url,camelot,danceability,duration_ms,energy,id,instrumentalness,key,liveness,loudness,mode,speechiness,tempo,time_signature,track_href,type,uri,valence
+0,"Sam Pace,Josh Del",This Way,ARMADA,0.00787,https://api.spotify.com/v1/audio-analysis/248BcLUl78nWMwGyHlL4pW,1A,0.616,301033.0,0.948,248BcLUl78nWMwGyHlL4pW,0.464,8.0,0.0577,-6.086,0.0,0.064,128.011,4.0,https://api.spotify.com/v1/tracks/248BcLUl78nWMwGyHlL4pW,audio_features,spotify:track:248BcLUl78nWMwGyHlL4pW,0.0788
+1,Daniel Etienne,Shake It Down,unknown,0.000313,https://api.spotify.com/v1/audio-analysis/1qo8e1d96pKFeYY4nFlBYv,9B,0.588,241946.0,0.942,1qo8e1d96pKFeYY4nFlBYv,0.873,7.0,0.0799,-6.607,1.0,0.076,128.008,4.0,https://api.spotify.com/v1/tracks/1qo8e1d96pKFeYY4nFlBYv,audio_features,spotify:track:1qo8e1d96pKFeYY4nFlBYv,0.181
+2,Danyair,Chikungunya,unknown,0.00066,https://api.spotify.com/v1/audio-analysis/5f67N3BO2ZYDLtrs7UGCmq,8B,0.678,251324.0,0.91,5f67N3BO2ZYDLtrs7UGCmq,0.81,0.0,0.0493,-8.245,1.0,0.0782,128.011,4.0,https://api.spotify.com/v1/tracks/5f67N3BO2ZYDLtrs7UGCmq,audio_features,spotify:track:5f67N3BO2ZYDLtrs7UGCmq,0.315
+3,Last 3 Digits,ID,unknown,,,,,,,,,,,,,,,,,,,
+4,"Kryder,The Cube Guys",You & Me,SPINNIN',0.000436,https://api.spotify.com/v1/audio-analysis/2bCelraftRKIZLFEecbwzd,7B,0.639,173333.0,0.991,2bCelraftRKIZLFEecbwzd,0.859,5.0,0.259,-5.18,1.0,0.0475,126.018,4.0,https://api.spotify.com/v1/tracks/2bCelraftRKIZLFEecbwzd,audio_features,spotify:track:2bCelraftRKIZLFEecbwzd,0.0396
+5,Matt Nash,Know My Love,unknown,0.00968,https://api.spotify.com/v1/audio-analysis/6XsrEVdg5Sr08cyAOckgup,12A,0.605,183423.0,0.831,6XsrEVdg5Sr08cyAOckgup,0.0612,1.0,0.163,-6.743,0.0,0.1,126.01,4.0,https://api.spotify.com/v1/tracks/6XsrEVdg5Sr08cyAOckgup,audio_features,spotify:track:6XsrEVdg5Sr08cyAOckgup,0.448
+6,"Axwell,Shapov,Alx Reuterskiöld",Belong,D.O.D Remix,0.0265,https://api.spotify.com/v1/audio-analysis/0zqW3PH8IqXu1ososgokBX,2B,0.535,217500.0,0.882,0zqW3PH8IqXu1ososgokBX,0.0,6.0,0.104,-3.104,1.0,0.0389,127.957,4.0,https://api.spotify.com/v1/tracks/0zqW3PH8IqXu1ososgokBX,audio_features,spotify:track:0zqW3PH8IqXu1ososgokBX,0.228
+7,Calvin Harris,My Way,Max Vangeli Remix,0.0935,https://api.spotify.com/v1/audio-analysis/1vvNmPOiUuyCbgWmtc6yfm,9A,0.819,219160.0,0.913,1vvNmPOiUuyCbgWmtc6yfm,3.72e-05,4.0,0.161,-3.059,0.0,0.0427,119.989,4.0,https://api.spotify.com/v1/tracks/1vvNmPOiUuyCbgWmtc6yfm,audio_features,spotify:track:1vvNmPOiUuyCbgWmtc6yfm,0.536
+8,ID,ID,unknown,0.000241,https://api.spotify.com/v1/audio-analysis/1aRxfiM606yUIQyKZzaslz,9B,0.269,129715.0,0.901,1aRxfiM606yUIQyKZzaslz,0.717,7.0,0.415,-7.38,1.0,0.0719,141.565,4.0,https://api.spotify.com/v1/tracks/1aRxfiM606yUIQyKZzaslz,audio_features,spotify:track:1aRxfiM606yUIQyKZzaslz,0.439
+9,"Kryder,HIIO,Axwell",Watch La Luna,CAIN Edit,,,,,,,,,,,,,,,,,,,
+10,Erah Ft. SHM,Caxi 2 Ibiza,CAIN Edit,,,,,,,,,,,,,,,,,,,
+11,CAIN,Kakadu,unknown,0.0157,https://api.spotify.com/v1/audio-analysis/5Uc1k2kzHfc83vpGsEFdtW,9B,0.769,348799.0,0.942,5Uc1k2kzHfc83vpGsEFdtW,0.647,7.0,0.855,-5.153,1.0,0.111,128.015,4.0,https://api.spotify.com/v1/tracks/5Uc1k2kzHfc83vpGsEFdtW,audio_features,spotify:track:5Uc1k2kzHfc83vpGsEFdtW,0.0806
+12,Jebu,Go Ahead,unknown,0.019,https://api.spotify.com/v1/audio-analysis/4t94Xn3qyHO1igbzz97HNN,11B,0.758,173770.0,0.944,4t94Xn3qyHO1igbzz97HNN,0.841,9.0,0.342,-2.499,1.0,0.104,125.011,4.0,https://api.spotify.com/v1/tracks/4t94Xn3qyHO1igbzz97HNN,audio_features,spotify:track:4t94Xn3qyHO1igbzz97HNN,0.55
+13,Rebel Army,Gatecrasher,unknown,,,,,,,,,,,,,,,,,,,
+14,Marcus Schossow,Amsterdam,unknown,0.00131,https://api.spotify.com/v1/audio-analysis/5BeDwcYq3dPIwvhx5khjPe,1A,0.606,202623.0,0.88,5BeDwcYq3dPIwvhx5khjPe,0.878,8.0,0.101,-5.174,0.0,0.0348,121.978,4.0,https://api.spotify.com/v1/tracks/5BeDwcYq3dPIwvhx5khjPe,audio_features,spotify:track:5BeDwcYq3dPIwvhx5khjPe,0.232
+15,"Pryda,Steve Angello",Rebel Xx Nation,CAIN Edit,,,,,,,,,,,,,,,,,,,
+16,ID,Monster On My Back,Marcus Santoro Deep Edit,,,,,,,,,,,,,,,,,,,
+17,"Bottai,Danny Tengalia",Semantica Is The Answer,CAIN Edit,,,,,,,,,,,,,,,,,,,
+18,Inpetto,Needin' U So,Tom Tyger Remix,0.0168,https://api.spotify.com/v1/audio-analysis/6qzRItZPXybGNQvnQ82lCP,6A,0.535,171905.0,0.775,6qzRItZPXybGNQvnQ82lCP,3.74e-06,7.0,0.819,-3.999,0.0,0.0531,125.855,4.0,https://api.spotify.com/v1/tracks/6qzRItZPXybGNQvnQ82lCP,audio_features,spotify:track:6qzRItZPXybGNQvnQ82lCP,0.486
+19,"Axwell,Arno Cost,Norman Doray",I Found Paradisco,CAIN Edit,,,,,,,,,,,,,,,,,,,
+20,VeO,A Milli,unknown,,,,,,,,,,,,,,,,,,,

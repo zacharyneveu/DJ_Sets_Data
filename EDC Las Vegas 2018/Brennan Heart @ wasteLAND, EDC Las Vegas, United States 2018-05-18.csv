@@ -1,0 +1,7 @@
+,Artist(s),Title,Release,acousticness,analysis_url,camelot,danceability,duration_ms,energy,id,instrumentalness,key,liveness,loudness,mode,speechiness,tempo,time_signature,track_href,type,uri,valence
+0,ID,ID,unknown,0.000241,https://api.spotify.com/v1/audio-analysis/1aRxfiM606yUIQyKZzaslz,9B,0.269,129715.0,0.901,1aRxfiM606yUIQyKZzaslz,0.717,7.0,0.415,-7.38,1.0,0.0719,141.565,4.0,https://api.spotify.com/v1/tracks/1aRxfiM606yUIQyKZzaslz,audio_features,spotify:track:1aRxfiM606yUIQyKZzaslz,0.439
+1,"JDX,Erna",Forever Young,Sub Sonik Bootleg,,,,,,,,,,,,,,,,,,,
+2,"Brennan Heart,Jonathan Mendelsohn",Imaginary,Brennan Heart XQ Live Edit,0.298,https://api.spotify.com/v1/audio-analysis/2TgDK4TC5KsywTYafAE4Gd,10B,0.552,192500.0,0.594,2TgDK4TC5KsywTYafAE4Gd,6.17e-05,2.0,0.262,-6.449,1.0,0.0306,149.907,4.0,https://api.spotify.com/v1/tracks/2TgDK4TC5KsywTYafAE4Gd,audio_features,spotify:track:2TgDK4TC5KsywTYafAE4Gd,0.287
+3,Ran,D & Digital Punk,Code Black Mashup,,,,,,,,,,,,,,,,,,,
+4,Bon Jovi,Livin' On A Prayer,UMG,0.0768,https://api.spotify.com/v1/audio-analysis/0J6mQxEZnlRt9ymzFntA6z,8B,0.534,249293.0,0.887,0J6mQxEZnlRt9ymzFntA6z,9.93e-05,0.0,0.325,-3.777,1.0,0.0345,122.494,4.0,https://api.spotify.com/v1/tracks/0J6mQxEZnlRt9ymzFntA6z,audio_features,spotify:track:0J6mQxEZnlRt9ymzFntA6z,0.72
+5,Ran,D & Digital Punk,unknown,,,,,,,,,,,,,,,,,,,

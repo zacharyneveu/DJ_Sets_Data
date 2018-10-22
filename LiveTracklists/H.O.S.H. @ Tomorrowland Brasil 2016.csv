@@ -1,0 +1,14 @@
+,Artist(s),Title,Release,acousticness,analysis_url,camelot,danceability,duration_ms,energy,id,instrumentalness,key,liveness,loudness,mode,speechiness,tempo,time_signature,track_href,type,uri,valence
+0,Poly (Original Mix), Neutron ,Original Mix,,,,,,,,,,,,,,,,,,,
+1,Vikings (Jankec Sop Remix), Michal Poliak  ,Jankec & Sop Remix,,,,,,,,,,,,,,,,,,,
+2,Coming Over (Gui Boratto Remix), Junior C Feat. John Evans  ,Gui Boratto Remix,,,,,,,,,,,,,,,,,,,
+3,I Am Free, Johannes Brecht Feat. Fetsum  ,unknown,,,,,,,,,,,,,,,,,,,
+4,Blanket Me (San Diego Bay Mix), DJ Cosmo Feat. Cory Friesenhan  ,San Diego Bay Mix,,,,,,,,,,,,,,,,,,,
+5,Queen (Anna Remix), DJ Tonio ,Anna Remix,,,,,,,,,,,,,,,,,,,
+6,Calf, Dense & Pika ,unknown,,,,,,,,,,,,,,,,,,,
+7,XTC, DJ Koze  ,unknown,,,,,,,,,,,,,,,,,,,
+8,Bataille (Original Mix), Noir  ,Original Mix,0.986,https://api.spotify.com/v1/audio-analysis/6i1yaqYv4sxAFVB8nsNw6X,5A,0.38,161667.0,0.0663,6i1yaqYv4sxAFVB8nsNw6X,1.21e-05,0.0,0.089,-17.853,0.0,0.0479,103.834,3.0,https://api.spotify.com/v1/tracks/6i1yaqYv4sxAFVB8nsNw6X,audio_features,spotify:track:6i1yaqYv4sxAFVB8nsNw6X,0.21
+9,Redemption, Anna ,unknown,,,,,,,,,,,,,,,,,,,
+10,Matter Of Time (Gabriel Ananda Remix), Balcazar & Sordo Feat. Gabriel Ananda ,Gabriel Ananda Remix,,,,,,,,,,,,,,,,,,,
+11,Revoloopion, DJ Lion & Tomy Wahl  ,unknown,,,,,,,,,,,,,,,,,,,
+12,Plastik, Super Flu & Viktor Talking Machine﻿,unknown,,,,,,,,,,,,,,,,,,,

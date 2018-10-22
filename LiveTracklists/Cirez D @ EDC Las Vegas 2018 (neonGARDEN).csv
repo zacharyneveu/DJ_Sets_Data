@@ -1,0 +1,16 @@
+,Artist(s),Title,Release,acousticness,analysis_url,camelot,danceability,duration_ms,energy,id,instrumentalness,key,liveness,loudness,mode,speechiness,tempo,time_signature,track_href,type,uri,valence
+0,DJ Hell, Guede ,ARTBAT Rave Mix,0.0326,https://api.spotify.com/v1/audio-analysis/6R3E1jETY2yqHTNNHsLjRH,9B,0.426,510968.0,0.497,6R3E1jETY2yqHTNNHsLjRH,0.875,7.0,0.0638,-9.892,1.0,0.0524,123.985,4.0,https://api.spotify.com/v1/tracks/6R3E1jETY2yqHTNNHsLjRH,audio_features,spotify:track:6R3E1jETY2yqHTNNHsLjRH,0.0631
+1,2pole, Atom,unknown,0.00435,https://api.spotify.com/v1/audio-analysis/5ypeNugAuzsonF4ThECOSa,9B,0.74,398304.0,0.838,5ypeNugAuzsonF4ThECOSa,0.886,7.0,0.0779,-7.213,1.0,0.0554,127.99,4.0,https://api.spotify.com/v1/tracks/5ypeNugAuzsonF4ThECOSa,audio_features,spotify:track:5ypeNugAuzsonF4ThECOSa,0.169
+2,Cirez D, Paradiso ID ,Working Title,,,,,,,,,,,,,,,,,,,
+3,Cirez D, Sound ID ,Working Title,,,,,,,,,,,,,,,,,,,
+4,ID, ID,unknown,0.000241,https://api.spotify.com/v1/audio-analysis/1aRxfiM606yUIQyKZzaslz,9B,0.269,129715.0,0.901,1aRxfiM606yUIQyKZzaslz,0.717,7.0,0.415,-7.38,1.0,0.0719,141.565,4.0,https://api.spotify.com/v1/tracks/1aRxfiM606yUIQyKZzaslz,audio_features,spotify:track:1aRxfiM606yUIQyKZzaslz,0.439
+5,Cirez D, Privilege Intro ID ,Working Title,,,,,,,,,,,,,,,,,,,
+6,Wehbba, Just,unknown,0.037,https://api.spotify.com/v1/audio-analysis/5ZcCqtviZx66S2AxbUeF2M,2B,0.776,323435.0,0.909,5ZcCqtviZx66S2AxbUeF2M,0.926,6.0,0.087,-7.641,1.0,0.117,128.027,4.0,https://api.spotify.com/v1/tracks/5ZcCqtviZx66S2AxbUeF2M,audio_features,spotify:track:5ZcCqtviZx66S2AxbUeF2M,0.0904
+7,ID, ID,unknown,0.000241,https://api.spotify.com/v1/audio-analysis/1aRxfiM606yUIQyKZzaslz,9B,0.269,129715.0,0.901,1aRxfiM606yUIQyKZzaslz,0.717,7.0,0.415,-7.38,1.0,0.0719,141.565,4.0,https://api.spotify.com/v1/tracks/1aRxfiM606yUIQyKZzaslz,audio_features,spotify:track:1aRxfiM606yUIQyKZzaslz,0.439
+8,Keith Carnal, Rijwiel,unknown,0.00121,https://api.spotify.com/v1/audio-analysis/7ES8jlhdVix1Zy7tx9DAwm,10A,0.749,420413.0,0.814,7ES8jlhdVix1Zy7tx9DAwm,0.893,11.0,0.111,-9.581,0.0,0.0655,128.999,3.0,https://api.spotify.com/v1/tracks/7ES8jlhdVix1Zy7tx9DAwm,audio_features,spotify:track:7ES8jlhdVix1Zy7tx9DAwm,0.242
+9,Cirez D, Ultra 2013 ID,unknown,,,,,,,,,,,,,,,,,,,
+10,Adam Beyer, What You Need,unknown,7.44e-05,https://api.spotify.com/v1/audio-analysis/0Bwy2Bwxqzhx8bfSBgWY5W,9A,0.666,401150.0,0.863,0Bwy2Bwxqzhx8bfSBgWY5W,0.914,4.0,0.201,-6.357,0.0,0.0412,124.991,4.0,https://api.spotify.com/v1/tracks/0Bwy2Bwxqzhx8bfSBgWY5W,audio_features,spotify:track:0Bwy2Bwxqzhx8bfSBgWY5W,0.159
+11,w/ Cirez D, On Off,unknown,0.255,https://api.spotify.com/v1/audio-analysis/2K5ZISGBrSWquGA91ir6EB,8B,0.737,265933.0,0.595,2K5ZISGBrSWquGA91ir6EB,1.97e-05,0.0,0.112,-5.581,1.0,0.0267,119.099,4.0,https://api.spotify.com/v1/tracks/2K5ZISGBrSWquGA91ir6EB,audio_features,spotify:track:2K5ZISGBrSWquGA91ir6EB,0.75
+12,Cirez D, Glow ,In The Dark Dub,0.0681,https://api.spotify.com/v1/audio-analysis/0mCcq0KYzFQqOq5SC8N7Vy,10A,0.732,607756.0,0.559,0mCcq0KYzFQqOq5SC8N7Vy,0.936,11.0,0.104,-10.0,0.0,0.0525,126.009,4.0,https://api.spotify.com/v1/tracks/0mCcq0KYzFQqOq5SC8N7Vy,audio_features,spotify:track:0mCcq0KYzFQqOq5SC8N7Vy,0.162
+13,Cirez D, Echostage NYE ID,unknown,,,,,,,,,,,,,,,,,,,
+14,Joel Mull, Soursweet ,Petar Dundov Remix / Eric Prydz's Private Tweak,,,,,,,,,,,,,,,,,,,

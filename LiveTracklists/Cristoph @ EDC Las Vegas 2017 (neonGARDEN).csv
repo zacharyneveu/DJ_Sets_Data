@@ -1,0 +1,2 @@
+,Artist(s),Title,Release,acousticness,analysis_url,camelot,danceability,duration_ms,energy,id,instrumentalness,key,liveness,loudness,mode,speechiness,tempo,time_signature,track_href,type,uri,valence
+0,Pryda, Rotonda,unknown,0.000199,https://api.spotify.com/v1/audio-analysis/6j0qEzGwHoMeIuOoYHQhIf,7A,0.713,458747.0,0.794,6j0qEzGwHoMeIuOoYHQhIf,0.736,2.0,0.0973,-7.172,0.0,0.0364,125.999,4.0,https://api.spotify.com/v1/tracks/6j0qEzGwHoMeIuOoYHQhIf,audio_features,spotify:track:6j0qEzGwHoMeIuOoYHQhIf,0.396

@@ -1,0 +1,4 @@
+,Artist(s),Title,Release,acousticness,analysis_url,camelot,danceability,duration_ms,energy,id,instrumentalness,key,liveness,loudness,mode,speechiness,tempo,time_signature,track_href,type,uri,valence
+0,Cozzy D Timmy P, Meat Feast,unknown,0.000282,https://api.spotify.com/v1/audio-analysis/4cmQLbZN62OjWi9VRtvYH9,11A,0.808,370250.0,0.642,4cmQLbZN62OjWi9VRtvYH9,0.892,6.0,0.0612,-7.471,0.0,0.0606,125.0,4.0,https://api.spotify.com/v1/tracks/4cmQLbZN62OjWi9VRtvYH9,audio_features,spotify:track:4cmQLbZN62OjWi9VRtvYH9,0.607
+1,Will Clarke BOT, Techno ,Not Techno,0.00753,https://api.spotify.com/v1/audio-analysis/6ppDgnUcK2QjIQHYy9dTq8,2B,0.835,468479.0,0.88,6ppDgnUcK2QjIQHYy9dTq8,0.877,6.0,0.659,-7.612,1.0,0.0503,124.998,4.0,https://api.spotify.com/v1/tracks/6ppDgnUcK2QjIQHYy9dTq8,audio_features,spotify:track:6ppDgnUcK2QjIQHYy9dTq8,0.582
+2,Karizma, Work It Out,unknown,,,,,,,,,,,,,,,,,,,

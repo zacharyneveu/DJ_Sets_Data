@@ -1,0 +1,30 @@
+,Artist(s),Title,Release,acousticness,analysis_url,camelot,danceability,duration_ms,energy,id,instrumentalness,key,liveness,loudness,mode,speechiness,tempo,time_signature,track_href,type,uri,valence
+0,Pryda, Escape 2017 Intro ID ,Working Title,,,,,,,,,,,,,,,,,,,
+1,ID, ID,unknown,0.000241,https://api.spotify.com/v1/audio-analysis/1aRxfiM606yUIQyKZzaslz,9B,0.269,129715.0,0.901,1aRxfiM606yUIQyKZzaslz,0.717,7.0,0.415,-7.38,1.0,0.0719,141.565,4.0,https://api.spotify.com/v1/tracks/1aRxfiM606yUIQyKZzaslz,audio_features,spotify:track:1aRxfiM606yUIQyKZzaslz,0.439
+2,Pryda, Instagram ID ,Working Title,,,,,,,,,,,,,,,,,,,
+3,Pryda, Madderferrys,unknown,0.0186,https://api.spotify.com/v1/audio-analysis/6A11Eg10wZHU2ITg1sYmc3,3B,0.63,667087.0,0.749,6A11Eg10wZHU2ITg1sYmc3,0.877,1.0,0.522,-11.033,1.0,0.0424,126.985,4.0,https://api.spotify.com/v1/tracks/6A11Eg10wZHU2ITg1sYmc3,audio_features,spotify:track:6A11Eg10wZHU2ITg1sYmc3,0.488
+4,Pryda, Europa,unknown,0.00538,https://api.spotify.com/v1/audio-analysis/1afXAFiP3ayCK9XqnWvN5m,4B,0.631,362027.0,0.872,1afXAFiP3ayCK9XqnWvN5m,0.856,8.0,0.665,-5.977,1.0,0.0332,126.008,4.0,https://api.spotify.com/v1/tracks/1afXAFiP3ayCK9XqnWvN5m,audio_features,spotify:track:1afXAFiP3ayCK9XqnWvN5m,0.272
+5,ID, ID,unknown,0.000241,https://api.spotify.com/v1/audio-analysis/1aRxfiM606yUIQyKZzaslz,9B,0.269,129715.0,0.901,1aRxfiM606yUIQyKZzaslz,0.717,7.0,0.415,-7.38,1.0,0.0719,141.565,4.0,https://api.spotify.com/v1/tracks/1aRxfiM606yUIQyKZzaslz,audio_features,spotify:track:1aRxfiM606yUIQyKZzaslz,0.439
+6,Enrico Sangiuliano, Astral Projection,unknown,0.0182,https://api.spotify.com/v1/audio-analysis/32nw9Qc5rYjsPWGLy14Yh5,11A,0.798,483960.0,0.738,32nw9Qc5rYjsPWGLy14Yh5,0.941,6.0,0.11,-8.357,0.0,0.0606,124.981,4.0,https://api.spotify.com/v1/tracks/32nw9Qc5rYjsPWGLy14Yh5,audio_features,spotify:track:32nw9Qc5rYjsPWGLy14Yh5,0.325
+7,Wippenberg, Chakalaka,unknown,0.00756,https://api.spotify.com/v1/audio-analysis/1WvOFNaKHuQwLbu7OAqBpZ,12B,0.547,204994.0,0.87,1WvOFNaKHuQwLbu7OAqBpZ,0.927,4.0,0.0959,-8.605,1.0,0.05,127.974,4.0,https://api.spotify.com/v1/tracks/1WvOFNaKHuQwLbu7OAqBpZ,audio_features,spotify:track:1WvOFNaKHuQwLbu7OAqBpZ,0.0343
+8,Super8 Tab, Helsinki Scorchin ,Michael Cassette Remix,0.0598,https://api.spotify.com/v1/audio-analysis/0Q2tFpWVwTOIsIFyvGEsX2,3B,0.575,441720.0,0.671,0Q2tFpWVwTOIsIFyvGEsX2,0.9,1.0,0.111,-8.876,1.0,0.0504,126.4,4.0,https://api.spotify.com/v1/tracks/0Q2tFpWVwTOIsIFyvGEsX2,audio_features,spotify:track:0Q2tFpWVwTOIsIFyvGEsX2,0.297
+9,Digitalism, Circles ,Eric Prydz Remix,0.00406,https://api.spotify.com/v1/audio-analysis/4ukrh2CB3lWr45EHRTHEbA,1B,0.421,228293.0,0.943,4ukrh2CB3lWr45EHRTHEbA,0.00335,11.0,0.101,-4.368,1.0,0.365,140.018,3.0,https://api.spotify.com/v1/tracks/4ukrh2CB3lWr45EHRTHEbA,audio_features,spotify:track:4ukrh2CB3lWr45EHRTHEbA,0.221
+10,ID, ID,unknown,0.000241,https://api.spotify.com/v1/audio-analysis/1aRxfiM606yUIQyKZzaslz,9B,0.269,129715.0,0.901,1aRxfiM606yUIQyKZzaslz,0.717,7.0,0.415,-7.38,1.0,0.0719,141.565,4.0,https://api.spotify.com/v1/tracks/1aRxfiM606yUIQyKZzaslz,audio_features,spotify:track:1aRxfiM606yUIQyKZzaslz,0.439
+11,John Grant, Pale Green Ghosts ,Cirez D Private Revolution Remix,0.0113,https://api.spotify.com/v1/audio-analysis/2t2w3jHsj9Yk4XjztTAOPP,10B,0.705,363787.0,0.413,2t2w3jHsj9Yk4XjztTAOPP,0.0459,2.0,0.055,-10.919,1.0,0.0895,182.01,4.0,https://api.spotify.com/v1/tracks/2t2w3jHsj9Yk4XjztTAOPP,audio_features,spotify:track:2t2w3jHsj9Yk4XjztTAOPP,0.566
+12,Pryda, Villa Mercedes 2009 ID ,Working Title,,,,,,,,,,,,,,,,,,,
+13,Pryda, Metro ID,unknown,,,,,,,,,,,,,,,,,,,
+14,Cirez D, Filipaz,unknown,,,,,,,,,,,,,,,,,,,
+15,Cirez D, The Glitch,unknown,0.00226,https://api.spotify.com/v1/audio-analysis/36R9LU70vXcPG8pmZyaKT5,3A,0.691,564017.0,0.659,36R9LU70vXcPG8pmZyaKT5,0.888,10.0,0.0524,-8.635,0.0,0.0445,126.0,3.0,https://api.spotify.com/v1/tracks/36R9LU70vXcPG8pmZyaKT5,audio_features,spotify:track:36R9LU70vXcPG8pmZyaKT5,0.127
+16,Cirez D, Glow ,In The Dark Dub,0.0681,https://api.spotify.com/v1/audio-analysis/0mCcq0KYzFQqOq5SC8N7Vy,10A,0.732,607756.0,0.559,0mCcq0KYzFQqOq5SC8N7Vy,0.936,11.0,0.104,-10.0,0.0,0.0525,126.009,4.0,https://api.spotify.com/v1/tracks/0mCcq0KYzFQqOq5SC8N7Vy,audio_features,spotify:track:0mCcq0KYzFQqOq5SC8N7Vy,0.162
+17,Pryda, Sonar ID 02 ,Working Title,,,,,,,,,,,,,,,,,,,
+18,ID, ID,unknown,0.000241,https://api.spotify.com/v1/audio-analysis/1aRxfiM606yUIQyKZzaslz,9B,0.269,129715.0,0.901,1aRxfiM606yUIQyKZzaslz,0.717,7.0,0.415,-7.38,1.0,0.0719,141.565,4.0,https://api.spotify.com/v1/tracks/1aRxfiM606yUIQyKZzaslz,audio_features,spotify:track:1aRxfiM606yUIQyKZzaslz,0.439
+19,Pryda, Hï Ibiza ID ,Working Title,,,,,,,,,,,,,,,,,,,
+20,Pryda, Origins,unknown,0.000561,https://api.spotify.com/v1/audio-analysis/4zWs7q5TXS1ouPVChTzAWj,3A,0.746,508120.0,0.969,4zWs7q5TXS1ouPVChTzAWj,0.818,10.0,0.103,-8.351,0.0,0.0673,126.0,4.0,https://api.spotify.com/v1/tracks/4zWs7q5TXS1ouPVChTzAWj,audio_features,spotify:track:4zWs7q5TXS1ouPVChTzAWj,0.158
+21,Pryda, Creamfields 2017 ID 01 ,Working Title,,,,,,,,,,,,,,,,,,,
+22,Pryda, Illusions,unknown,0.00164,https://api.spotify.com/v1/audio-analysis/2zZfag7OeUmyIdaEmfEJed,4A,0.687,449386.0,0.844,2zZfag7OeUmyIdaEmfEJed,0.876,5.0,0.641,-5.907,0.0,0.0484,126.009,4.0,https://api.spotify.com/v1/tracks/2zZfag7OeUmyIdaEmfEJed,audio_features,spotify:track:2zZfag7OeUmyIdaEmfEJed,0.164
+23,Pryda, Traveling People,unknown,,,,,,,,,,,,,,,,,,,
+24,Eric Prydz   Underworld, Two Months Off 2Night ,Eric Prydz Bootleg,,,,,,,,,,,,,,,,,,,
+25,Eric Prydz, Mija ,Re-scored,3.61e-05,https://api.spotify.com/v1/audio-analysis/71xUGtZ2UaFxxh6Zj7ETqN,7B,0.485,391427.0,0.979,71xUGtZ2UaFxxh6Zj7ETqN,0.914,5.0,0.11,-4.025,1.0,0.0451,125.011,4.0,https://api.spotify.com/v1/tracks/71xUGtZ2UaFxxh6Zj7ETqN,audio_features,spotify:track:71xUGtZ2UaFxxh6Zj7ETqN,0.0276
+26,Howard Jones, And Do You Feel Scared ,Eric Prydz Remix,,,,,,,,,,,,,,,,,,,
+27,Pryda, Lillo ID 01 ,Working Title,,,,,,,,,,,,,,,,,,,
+28,Pryda, Exchange Finale ID ,Working Title,,,,,,,,,,,,,,,,,,,

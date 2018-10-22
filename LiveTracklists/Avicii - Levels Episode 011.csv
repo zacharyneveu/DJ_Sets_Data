@@ -1,0 +1,14 @@
+,Artist(s),Title,Release,acousticness,analysis_url,camelot,danceability,duration_ms,energy,id,instrumentalness,key,liveness,loudness,mode,speechiness,tempo,time_signature,track_href,type,uri,valence
+0,Daddy's Groove, Hurricane,unknown,0.0365,https://api.spotify.com/v1/audio-analysis/2Xbe0wNfJkLtg0JTV9iuzd,9B,0.412,201000.0,0.825,2Xbe0wNfJkLtg0JTV9iuzd,0.00435,7.0,0.0619,-7.799,1.0,0.192,199.825,4.0,https://api.spotify.com/v1/tracks/2Xbe0wNfJkLtg0JTV9iuzd,audio_features,spotify:track:2Xbe0wNfJkLtg0JTV9iuzd,0.739
+1,Garmiani Salvatore Ganacci, The City Is Mine,unknown,0.215,https://api.spotify.com/v1/audio-analysis/2bZhkLPG6Hx4bIng93E6ex,1A,0.626,189588.0,0.821,2bZhkLPG6Hx4bIng93E6ex,0.0,8.0,0.264,-6.285,0.0,0.0622,128.049,4.0,https://api.spotify.com/v1/tracks/2bZhkLPG6Hx4bIng93E6ex,audio_features,spotify:track:2bZhkLPG6Hx4bIng93E6ex,0.287
+2,Syn Cole, April ,Progressive Mix,0.00012,https://api.spotify.com/v1/audio-analysis/1885lgiErwXZZ4Few8FN9L,3B,0.67,324375.0,0.858,1885lgiErwXZZ4Few8FN9L,0.88,1.0,0.904,-4.559,1.0,0.115,127.999,4.0,https://api.spotify.com/v1/tracks/1885lgiErwXZZ4Few8FN9L,audio_features,spotify:track:1885lgiErwXZZ4Few8FN9L,0.583
+3,Cazzette, Heroes ,Instrumental Mix,,,,,,,,,,,,,,,,,,,
+4,Skrillex, The Reason,unknown,,,,,,,,,,,,,,,,,,,
+5,Major Lazer   Amber Of Dirty Projectors, Get Free ,Avicii Bootie Edit,0.103,https://api.spotify.com/v1/audio-analysis/2jcYaEKejiLKuZ3RiX26Sv,10A,0.612,289973.0,0.657,2jcYaEKejiLKuZ3RiX26Sv,0.124,11.0,0.131,-6.971,0.0,0.0454,87.94,4.0,https://api.spotify.com/v1/tracks/2jcYaEKejiLKuZ3RiX26Sv,audio_features,spotify:track:2jcYaEKejiLKuZ3RiX26Sv,0.767
+6,Henrik B, Rise Of The Phoenix,unknown,,,,,,,,,,,,,,,,,,,
+7,MORTEN, Look Closer,unknown,0.00151,https://api.spotify.com/v1/audio-analysis/6eOJz1gh6PTn86U9p5uggQ,9A,0.438,217396.0,0.691,6eOJz1gh6PTn86U9p5uggQ,1.64e-06,4.0,0.0965,-5.24,0.0,0.0351,128.144,4.0,https://api.spotify.com/v1/tracks/6eOJz1gh6PTn86U9p5uggQ,audio_features,spotify:track:6eOJz1gh6PTn86U9p5uggQ,0.239
+8,New World Sound, Aye!,unknown,0.000398,https://api.spotify.com/v1/audio-analysis/5YWGGZjT09dKbauBZHN29p,9A,0.771,324383.0,0.84,5YWGGZjT09dKbauBZHN29p,0.867,4.0,0.117,-5.164,0.0,0.0492,129.001,4.0,https://api.spotify.com/v1/tracks/5YWGGZjT09dKbauBZHN29p,audio_features,spotify:track:5YWGGZjT09dKbauBZHN29p,0.168
+9,Fl!p Jason Wetherton, Skins,unknown,,,,,,,,,,,,,,,,,,,
+10,The Aston Shuffle Tommy Trash   Inpetto, 2 Hearts 1 Sunrise ,Cazzette Bootleg,,,,,,,,,,,,,,,,,,,
+11,Dimitri Vegas Like Mike   Eva Simons, We Should Be Together ,Tomorrowland 2013 Anthem,,,,,,,,,,,,,,,,,,,
+12,Cazzette, Weapon ,EDX Acapulco At Night Remix,0.00366,https://api.spotify.com/v1/audio-analysis/5Zp3zX5betge9xWlmJ0Abg,4B,0.729,474961.0,0.933,5Zp3zX5betge9xWlmJ0Abg,0.509,8.0,0.439,-5.667,1.0,0.0571,127.993,4.0,https://api.spotify.com/v1/tracks/5Zp3zX5betge9xWlmJ0Abg,audio_features,spotify:track:5Zp3zX5betge9xWlmJ0Abg,0.0459

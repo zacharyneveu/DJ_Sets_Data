@@ -1,0 +1,5 @@
+,Artist(s),Title,Release,acousticness,analysis_url,camelot,danceability,duration_ms,energy,id,instrumentalness,key,liveness,loudness,mode,speechiness,tempo,time_signature,track_href,type,uri,valence
+0,Jay Hardway, Somnia,unknown,0.000419,https://api.spotify.com/v1/audio-analysis/5pmpN7RtQBBBqxramwHcPB,5A,0.554,168000.0,0.822,5pmpN7RtQBBBqxramwHcPB,0.74,0.0,0.114,-5.922,0.0,0.0545,119.988,4.0,https://api.spotify.com/v1/tracks/5pmpN7RtQBBBqxramwHcPB,audio_features,spotify:track:5pmpN7RtQBBBqxramwHcPB,0.214
+1,Sander Van Doorn, Snake 2016﻿,unknown,,,,,,,,,,,,,,,,,,,
+2,Dastic, Take Me,unknown,,,,,,,,,,,,,,,,,,,
+3,VINAI Streex, Stand By Me ft. Micky Blue﻿,unknown,,,,,,,,,,,,,,,,,,,

@@ -1,0 +1,6 @@
+,Artist(s),Title,Release,acousticness,analysis_url,camelot,danceability,duration_ms,energy,id,instrumentalness,key,liveness,loudness,mode,speechiness,tempo,time_signature,track_href,type,uri,valence
+0,Public Enemies, Crowd's Gotta Move,unknown,,,,,,,,,,,,,,,,,,,
+1,daro Digital Punk, Circus Of Insanity ,Intents Festival 2017 Anthem,0.0141,https://api.spotify.com/v1/audio-analysis/3HNA3SGtpAyHUkkv3sPi98,10A,0.515,284626.0,0.961,3HNA3SGtpAyHUkkv3sPi98,0.000308,11.0,0.11,-3.217,0.0,0.0619,153.079,4.0,https://api.spotify.com/v1/tracks/3HNA3SGtpAyHUkkv3sPi98,audio_features,spotify:track:3HNA3SGtpAyHUkkv3sPi98,0.396
+2,Atmozfears Demi Kanon, Come Together,unknown,0.0615,https://api.spotify.com/v1/audio-analysis/7xikeMuxYAbUeNghzGCkJk,1B,0.541,237304.0,0.926,7xikeMuxYAbUeNghzGCkJk,0.482,11.0,0.423,-5.583,1.0,0.0777,150.029,4.0,https://api.spotify.com/v1/tracks/7xikeMuxYAbUeNghzGCkJk,audio_features,spotify:track:7xikeMuxYAbUeNghzGCkJk,0.623
+3,B,Freqz ,unknown,,,,,,,,,,,,,,,,,,,
+4,Nosferatu, Died Again,unknown,0.078,https://api.spotify.com/v1/audio-analysis/1Rthn0f2nMv9Bj8i5ANYus,8A,0.553,318835.0,0.987,1Rthn0f2nMv9Bj8i5ANYus,6.82e-05,9.0,0.0597,-3.606,0.0,0.122,97.477,4.0,https://api.spotify.com/v1/tracks/1Rthn0f2nMv9Bj8i5ANYus,audio_features,spotify:track:1Rthn0f2nMv9Bj8i5ANYus,0.119

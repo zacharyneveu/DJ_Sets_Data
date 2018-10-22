@@ -1,0 +1,3 @@
+,Artist(s),Title,Release,acousticness,analysis_url,camelot,danceability,duration_ms,energy,id,instrumentalness,key,liveness,loudness,mode,speechiness,tempo,time_signature,track_href,type,uri,valence
+0,Excision Dion Timmer, Final Boss,unknown,0.000424,https://api.spotify.com/v1/audio-analysis/4mcCRt9T9mW5MFldNdyF1I,4B,0.512,204000.0,0.975,4mcCRt9T9mW5MFldNdyF1I,0.685,8.0,0.0745,-3.481,1.0,0.0768,160.078,4.0,https://api.spotify.com/v1/tracks/4mcCRt9T9mW5MFldNdyF1I,audio_features,spotify:track:4mcCRt9T9mW5MFldNdyF1I,0.0391
+1,12th Planet LUMBERJVCK Protohype, Skinny Pigs﻿,unknown,,,,,,,,,,,,,,,,,,,

@@ -1,0 +1,15 @@
+,Artist(s),Title,Release,acousticness,analysis_url,camelot,danceability,duration_ms,energy,id,instrumentalness,key,liveness,loudness,mode,speechiness,tempo,time_signature,track_href,type,uri,valence
+0,Toneshifterz, ID,unknown,,,,,,,,,,,,,,,,,,,
+1,Brennan Heart, Don't Speak 2017,unknown,,,,,,,,,,,,,,,,,,,
+2,Headhunterz, Psychedelic,unknown,0.0054,https://api.spotify.com/v1/audio-analysis/27QrtM6lXKmEDqOG71DApX,4A,0.565,165204.0,0.917,27QrtM6lXKmEDqOG71DApX,0.0141,5.0,0.404,-1.541,0.0,0.159,149.915,4.0,https://api.spotify.com/v1/tracks/27QrtM6lXKmEDqOG71DApX,audio_features,spotify:track:27QrtM6lXKmEDqOG71DApX,0.143
+3,w/ Blutonium Boy, Make It Loud ,Headhunterz Remix,0.00602,https://api.spotify.com/v1/audio-analysis/6LSgZv4ksTqH6SxG844ysg,10B,0.636,325045.0,0.983,6LSgZv4ksTqH6SxG844ysg,0.852,2.0,0.075,-5.403,1.0,0.135,150.016,4.0,https://api.spotify.com/v1/tracks/6LSgZv4ksTqH6SxG844ysg,audio_features,spotify:track:6LSgZv4ksTqH6SxG844ysg,0.176
+4,Zatox Toneshifterz   MC Villain, ID,unknown,0.125,https://api.spotify.com/v1/audio-analysis/5bti0ywYyVPMCTKcvHQFYa,8A,0.707,224052.0,0.913,5bti0ywYyVPMCTKcvHQFYa,0.0,9.0,0.104,-2.353,0.0,0.339,119.875,4.0,https://api.spotify.com/v1/tracks/5bti0ywYyVPMCTKcvHQFYa,audio_features,spotify:track:5bti0ywYyVPMCTKcvHQFYa,0.457
+5,Headhunterz TNT aka Technoboy 'N' Tuneboy, Skincolors ,Wildstylez Mashup,,,,,,,,,,,,,,,,,,,
+6,4 Strings, Take Me Away ,Into The Night,0.00107,https://api.spotify.com/v1/audio-analysis/2iXSGmkft1qLUwxkRolc9U,2A,0.608,191120.0,0.745,2iXSGmkft1qLUwxkRolc9U,0.0507,3.0,0.439,-8.212,0.0,0.0352,138.021,4.0,https://api.spotify.com/v1/tracks/2iXSGmkft1qLUwxkRolc9U,audio_features,spotify:track:2iXSGmkft1qLUwxkRolc9U,0.322
+7,w/ Toneshifterz, I Want To Jaydee ,Defqon.1 2014 Edit,,,,,,,,,,,,,,,,,,,
+8,Toneshifterz, PSYSTYLE,unknown,0.00411,https://api.spotify.com/v1/audio-analysis/2cV3GfhwIjs7LN3YsZr6kf,3B,0.527,205600.0,0.994,2cV3GfhwIjs7LN3YsZr6kf,0.206,1.0,0.3,-3.132,1.0,0.0717,149.958,4.0,https://api.spotify.com/v1/tracks/2cV3GfhwIjs7LN3YsZr6kf,audio_features,spotify:track:2cV3GfhwIjs7LN3YsZr6kf,0.0444
+9,ID, ID,unknown,0.000241,https://api.spotify.com/v1/audio-analysis/1aRxfiM606yUIQyKZzaslz,9B,0.269,129715.0,0.901,1aRxfiM606yUIQyKZzaslz,0.717,7.0,0.415,-7.38,1.0,0.0719,141.565,4.0,https://api.spotify.com/v1/tracks/1aRxfiM606yUIQyKZzaslz,audio_features,spotify:track:1aRxfiM606yUIQyKZzaslz,0.439
+10,w/ David Guetta GLOWINTHEDARK   Harrison, Ain't A Party ,Acapella,,,,,,,,,,,,,,,,,,,
+11,w/ The White Stripes, Seven Nation Army,unknown,0.615,https://api.spotify.com/v1/audio-analysis/3yzSb0aNvXNqmr2h29IgYu,11B,0.528,166715.0,0.888,3yzSb0aNvXNqmr2h29IgYu,3.73e-05,9.0,0.812,-3.05,1.0,0.262,128.741,4.0,https://api.spotify.com/v1/tracks/3yzSb0aNvXNqmr2h29IgYu,audio_features,spotify:track:3yzSb0aNvXNqmr2h29IgYu,0.415
+12,Toneshifterz, ID,unknown,,,,,,,,,,,,,,,,,,,
+13,Darude, Sandstorm ,Sub Sonik Remix,0.169,https://api.spotify.com/v1/audio-analysis/24CXuh2WNpgeSYUOvz14jk,10A,0.539,225373.0,0.98,24CXuh2WNpgeSYUOvz14jk,0.982,11.0,0.084,-8.18,0.0,0.0469,136.087,4.0,https://api.spotify.com/v1/tracks/24CXuh2WNpgeSYUOvz14jk,audio_features,spotify:track:24CXuh2WNpgeSYUOvz14jk,0.522

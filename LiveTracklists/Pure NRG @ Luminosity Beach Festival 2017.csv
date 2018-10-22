@@ -1,0 +1,16 @@
+,Artist(s),Title,Release,acousticness,analysis_url,camelot,danceability,duration_ms,energy,id,instrumentalness,key,liveness,loudness,mode,speechiness,tempo,time_signature,track_href,type,uri,valence
+0,Pure NRG, Cala Blanca,unknown,,,,,,,,,,,,,,,,,,,
+1,BT   Jes, Every Other Way ,Pure NRG Remix,0.0282,https://api.spotify.com/v1/audio-analysis/24dukmos3yYukxBfjC6T56,11B,0.565,241040.0,0.688,24dukmos3yYukxBfjC6T56,0.0878,9.0,0.153,-8.197,1.0,0.0648,131.055,4.0,https://api.spotify.com/v1/tracks/24dukmos3yYukxBfjC6T56,audio_features,spotify:track:24dukmos3yYukxBfjC6T56,0.408
+2,Pure NRG, Midnight Blue,unknown,,,,,,,,,,,,,,,,,,,
+3,Pure NRG, GOTO10,unknown,,,,,,,,,,,,,,,,,,,
+4,Pure NRG, Scarlett,unknown,,,,,,,,,,,,,,,,,,,
+5,Felix, Don't You Want Me ,Pure NRG Remix,,,,,,,,,,,,,,,,,,,
+6,Pure NRG, House Of Golden Girls,unknown,,,,,,,,,,,,,,,,,,,
+7,Pure NRG, Constellations,unknown,,,,,,,,,,,,,,,,,,,
+8,Daft Punk, Around The World ,Pure NRG Remix,0.00356,https://api.spotify.com/v1/audio-analysis/1pKYYY0dkg23sQQXi0Q5zN,9B,0.956,429533.0,0.795,1pKYYY0dkg23sQQXi0Q5zN,0.889,7.0,0.0906,-5.311,1.0,0.15,121.294,4.0,https://api.spotify.com/v1/tracks/1pKYYY0dkg23sQQXi0Q5zN,audio_features,spotify:track:1pKYYY0dkg23sQQXi0Q5zN,0.841
+9,Pure NRG, ID,unknown,0.00356,https://api.spotify.com/v1/audio-analysis/7aTmjbQiAUPE4APtEXTM0w,1B,0.741,197040.0,0.438,7aTmjbQiAUPE4APtEXTM0w,0.0665,11.0,0.362,-7.453,1.0,0.0312,84.78,4.0,https://api.spotify.com/v1/tracks/7aTmjbQiAUPE4APtEXTM0w,audio_features,spotify:track:7aTmjbQiAUPE4APtEXTM0w,0.885
+10,ID, ID,unknown,0.000241,https://api.spotify.com/v1/audio-analysis/1aRxfiM606yUIQyKZzaslz,9B,0.269,129715.0,0.901,1aRxfiM606yUIQyKZzaslz,0.717,7.0,0.415,-7.38,1.0,0.0719,141.565,4.0,https://api.spotify.com/v1/tracks/1aRxfiM606yUIQyKZzaslz,audio_features,spotify:track:1aRxfiM606yUIQyKZzaslz,0.439
+11,Pure NRG, Prophecy ,Istoria Anthem 2017,,,,,,,,,,,,,,,,,,,
+12,ID, ID,unknown,0.000241,https://api.spotify.com/v1/audio-analysis/1aRxfiM606yUIQyKZzaslz,9B,0.269,129715.0,0.901,1aRxfiM606yUIQyKZzaslz,0.717,7.0,0.415,-7.38,1.0,0.0719,141.565,4.0,https://api.spotify.com/v1/tracks/1aRxfiM606yUIQyKZzaslz,audio_features,spotify:track:1aRxfiM606yUIQyKZzaslz,0.439
+13,Eric Prydz, Opus ,Pure NRG Remix,0.000702,https://api.spotify.com/v1/audio-analysis/3v2oAQomhOcYCPPHafS3KV,11A,0.275,543453.0,0.721,3v2oAQomhOcYCPPHafS3KV,0.821,6.0,0.0792,-6.222,0.0,0.0359,125.045,4.0,https://api.spotify.com/v1/tracks/3v2oAQomhOcYCPPHafS3KV,audio_features,spotify:track:3v2oAQomhOcYCPPHafS3KV,0.184
+14,Jones Stephenson, The First Rebirth ,Pure NRG Remix,0.0265,https://api.spotify.com/v1/audio-analysis/7IftKIYmYtjMjhr4dZfFok,2A,0.595,508547.0,0.832,7IftKIYmYtjMjhr4dZfFok,0.908,3.0,0.111,-8.568,0.0,0.0318,129.995,4.0,https://api.spotify.com/v1/tracks/7IftKIYmYtjMjhr4dZfFok,audio_features,spotify:track:7IftKIYmYtjMjhr4dZfFok,0.113

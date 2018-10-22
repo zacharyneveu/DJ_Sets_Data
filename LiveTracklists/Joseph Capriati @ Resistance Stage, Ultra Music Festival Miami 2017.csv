@@ -1,0 +1,6 @@
+,Artist(s),Title,Release,acousticness,analysis_url,camelot,danceability,duration_ms,energy,id,instrumentalness,key,liveness,loudness,mode,speechiness,tempo,time_signature,track_href,type,uri,valence
+0,Pan,Pot & Stephan Hinz ,unknown,,,,,,,,,,,,,,,,,,,
+1,Tony Dee, See Yeah!,unknown,9.48e-05,https://api.spotify.com/v1/audio-analysis/4V8DHCeQJccgE5O4nCOcZZ,3B,0.743,462840.0,0.79,4V8DHCeQJccgE5O4nCOcZZ,0.906,1.0,0.0922,-5.46,1.0,0.0498,125.007,4.0,https://api.spotify.com/v1/tracks/4V8DHCeQJccgE5O4nCOcZZ,audio_features,spotify:track:4V8DHCeQJccgE5O4nCOcZZ,0.201
+2,w/ Jeff Mills, Tears For Fears ,Adam Beyer Mash Up Edit,,,,,,,,,,,,,,,,,,,
+3,Black Asteroid   Cold Cave, Black Moon,unknown,0.111,https://api.spotify.com/v1/audio-analysis/1gKxsNzjMU6kXvwxoBmBqV,12B,0.644,397514.0,0.409,1gKxsNzjMU6kXvwxoBmBqV,0.904,4.0,0.0827,-11.431,1.0,0.0343,130.016,3.0,https://api.spotify.com/v1/tracks/1gKxsNzjMU6kXvwxoBmBqV,audio_features,spotify:track:1gKxsNzjMU6kXvwxoBmBqV,0.16
+4,Nitzer Ebb, I Thought ,Robag Wruhme Schikkuli Vocal Rework,0.841,https://api.spotify.com/v1/audio-analysis/6y8OC7KMlXNCrkbeohTeNx,12B,0.871,316093.0,0.332,6y8OC7KMlXNCrkbeohTeNx,3.23e-05,4.0,0.0758,-12.48,1.0,0.103,119.869,4.0,https://api.spotify.com/v1/tracks/6y8OC7KMlXNCrkbeohTeNx,audio_features,spotify:track:6y8OC7KMlXNCrkbeohTeNx,0.367

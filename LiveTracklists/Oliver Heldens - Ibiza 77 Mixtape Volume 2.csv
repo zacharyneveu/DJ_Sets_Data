@@ -1,0 +1,9 @@
+,Artist(s),Title,Release,acousticness,analysis_url,camelot,danceability,duration_ms,energy,id,instrumentalness,key,liveness,loudness,mode,speechiness,tempo,time_signature,track_href,type,uri,valence
+0,Junior J, ID,unknown,0.227,https://api.spotify.com/v1/audio-analysis/0oEYI1hKjKO8fmpUsUbTdQ,8B,0.637,187293.0,0.623,0oEYI1hKjKO8fmpUsUbTdQ,0.0,0.0,0.0774,-6.451,1.0,0.0304,117.106,4.0,https://api.spotify.com/v1/tracks/0oEYI1hKjKO8fmpUsUbTdQ,audio_features,spotify:track:0oEYI1hKjKO8fmpUsUbTdQ,0.696
+1,Marlena Shaw, Women Of The Ghetto ,Catz 'N Dogz Remix,,,,,,,,,,,,,,,,,,,
+2,Wolf Story, Do You Feel The Bass,unknown,0.000581,https://api.spotify.com/v1/audio-analysis/28ThVQ7SDg8qYkEjj0WrqW,9B,0.768,382500.0,0.858,28ThVQ7SDg8qYkEjj0WrqW,0.891,7.0,0.166,-10.011,1.0,0.0518,123.021,4.0,https://api.spotify.com/v1/tracks/28ThVQ7SDg8qYkEjj0WrqW,audio_features,spotify:track:28ThVQ7SDg8qYkEjj0WrqW,0.0347
+3,HI,LO & Dada Life ,unknown,,,,,,,,,,,,,,,,,,,
+4,UMEK, Standard Cold ,HI-LO Edit,0.00502,https://api.spotify.com/v1/audio-analysis/4UXhFBuZVizgibdjJwe6LP,7B,0.805,427974.0,0.974,4UXhFBuZVizgibdjJwe6LP,0.896,5.0,0.147,-5.142,1.0,0.0587,128.006,4.0,https://api.spotify.com/v1/tracks/4UXhFBuZVizgibdjJwe6LP,audio_features,spotify:track:4UXhFBuZVizgibdjJwe6LP,0.0545
+5,HI,LO ,unknown,0.000501,https://api.spotify.com/v1/audio-analysis/3cpGvIE4Zqnhs0ePk5neCH,10A,0.73,417000.0,0.829,3cpGvIE4Zqnhs0ePk5neCH,0.614,11.0,0.107,-10.314,0.0,0.0647,125.278,4.0,https://api.spotify.com/v1/tracks/3cpGvIE4Zqnhs0ePk5neCH,audio_features,spotify:track:3cpGvIE4Zqnhs0ePk5neCH,0.561
+6,Nato Medrado, Small Room ,Tinlicker Remix,0.0271,https://api.spotify.com/v1/audio-analysis/0qu1FOhu41knkgjeJ0hJ00,7B,0.579,223723.0,0.898,0qu1FOhu41knkgjeJ0hJ00,0.882,5.0,0.107,-6.75,1.0,0.0344,122.981,4.0,https://api.spotify.com/v1/tracks/0qu1FOhu41knkgjeJ0hJ00,audio_features,spotify:track:0qu1FOhu41knkgjeJ0hJ00,0.0758
+7,HI,LO & Zonderling ,unknown,,,,,,,,,,,,,,,,,,,

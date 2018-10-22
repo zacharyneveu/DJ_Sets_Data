@@ -1,0 +1,20 @@
+,Artist(s),Title,Release,acousticness,analysis_url,camelot,danceability,duration_ms,energy,id,instrumentalness,key,liveness,loudness,mode,speechiness,tempo,time_signature,track_href,type,uri,valence
+0,Rie Takahashi, Stay Alive ,Jun Kuroda Bootleg Remix,,,,,,,,,,,,,,,,,,,
+1,w/ Rie Takahashi, Stay Alive ,Porter Robinson Edit,,,,,,,,,,,,,,,,,,,
+2,w/ Porter Robinson Madeon, Shelter ,Acapella,0.00293,https://api.spotify.com/v1/audio-analysis/2CgOd0Lj5MuvOqzqdaAXtS,8B,0.276,218965.0,0.796,2CgOd0Lj5MuvOqzqdaAXtS,0.0,0.0,0.184,-4.499,1.0,0.0579,199.526,4.0,https://api.spotify.com/v1/tracks/2CgOd0Lj5MuvOqzqdaAXtS,audio_features,spotify:track:2CgOd0Lj5MuvOqzqdaAXtS,0.26
+3,w/ Porter Robinson   Amy Millan, Divinity,unknown,0.00899,https://api.spotify.com/v1/audio-analysis/18cCBvygH6yEFDY0cYN3wT,10B,0.496,368373.0,0.549,18cCBvygH6yEFDY0cYN3wT,0.0248,2.0,0.0802,-5.414,1.0,0.034,89.997,4.0,https://api.spotify.com/v1/tracks/18cCBvygH6yEFDY0cYN3wT,audio_features,spotify:track:18cCBvygH6yEFDY0cYN3wT,0.14
+4,Lia, Tori No Uta,unknown,,,,,,,,,,,,,,,,,,,
+5,Porter Robinson   Amy Millan, Divinity,unknown,0.00899,https://api.spotify.com/v1/audio-analysis/18cCBvygH6yEFDY0cYN3wT,10B,0.496,368373.0,0.549,18cCBvygH6yEFDY0cYN3wT,0.0248,2.0,0.0802,-5.414,1.0,0.034,89.997,4.0,https://api.spotify.com/v1/tracks/18cCBvygH6yEFDY0cYN3wT,audio_features,spotify:track:18cCBvygH6yEFDY0cYN3wT,0.14
+6,w/ Nagi Yanagi, Harumodoki ,Acapella,,,,,,,,,,,,,,,,,,,
+7,Toradora OST, Lost My Pieces ,ID Remix,,,,,,,,,,,,,,,,,,,
+8,Porter Robinson Madeon, Shelter,unknown,0.00293,https://api.spotify.com/v1/audio-analysis/2CgOd0Lj5MuvOqzqdaAXtS,8B,0.276,218965.0,0.796,2CgOd0Lj5MuvOqzqdaAXtS,0.0,0.0,0.184,-4.499,1.0,0.0579,199.526,4.0,https://api.spotify.com/v1/tracks/2CgOd0Lj5MuvOqzqdaAXtS,audio_features,spotify:track:2CgOd0Lj5MuvOqzqdaAXtS,0.26
+9,Ray, Ebb And Flow ,ID Remix,,,,,,,,,,,,,,,,,,,
+10,Donut Quintet, Platinum Jet ,Ringo Remix,,,,,,,,,,,,,,,,,,,
+11,w/ Donut Quintet, Platinum Jet ,EO Remix,,,,,,,,,,,,,,,,,,,
+12,Kana Hanazawa, Renai Circulation ,Vantage Remix,,,,,,,,,,,,,,,,,,,
+13,ClariS, Irony ,Porter Robinson Edit,0.0579,https://api.spotify.com/v1/audio-analysis/7trh320r4yoiXFA2m8yGEh,11B,0.621,258800.0,0.87,7trh320r4yoiXFA2m8yGEh,1.31e-06,9.0,0.234,-4.902,1.0,0.0481,133.988,4.0,https://api.spotify.com/v1/tracks/7trh320r4yoiXFA2m8yGEh,audio_features,spotify:track:7trh320r4yoiXFA2m8yGEh,0.618
+14,Eufonius, Megumeru ,Tracy Remix,,,,,,,,,,,,,,,,,,,
+15,Lia," My Soul, Your Beats! ",DJ Amaya Remix,,,,,,,,,,,,,,,,,,,
+16,Utada Hikaru, Simple And Clean ,Kingdom Hearts Theme,0.0514,https://api.spotify.com/v1/audio-analysis/2G8tfTExxzpRKssKzKwDYV,4A,0.599,300760.0,0.891,2G8tfTExxzpRKssKzKwDYV,6.5e-05,5.0,0.921,-4.208,0.0,0.0479,88.003,4.0,https://api.spotify.com/v1/tracks/2G8tfTExxzpRKssKzKwDYV,audio_features,spotify:track:2G8tfTExxzpRKssKzKwDYV,0.559
+17,Lia, Tori No Uta ,The Speedfreak Noise Rave Mix,,,,,,,,,,,,,,,,,,,
+18,Porter Robinson, Sad Machine ,Darren Styles & Gammer Remix,0.0344,https://api.spotify.com/v1/audio-analysis/1JY6B9ILvmRla2IKKRZvnH,5A,0.475,350690.0,0.703,1JY6B9ILvmRla2IKKRZvnH,1.96e-06,0.0,0.0723,-4.9,0.0,0.034,88.518,4.0,https://api.spotify.com/v1/tracks/1JY6B9ILvmRla2IKKRZvnH,audio_features,spotify:track:1JY6B9ILvmRla2IKKRZvnH,0.299

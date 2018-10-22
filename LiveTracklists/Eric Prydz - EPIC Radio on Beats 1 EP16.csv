@@ -1,0 +1,10 @@
+,Artist(s),Title,Release,acousticness,analysis_url,camelot,danceability,duration_ms,energy,id,instrumentalness,key,liveness,loudness,mode,speechiness,tempo,time_signature,track_href,type,uri,valence
+0,Eric Prydz, Liberate ,Eric Prydz Remix,0.0251,https://api.spotify.com/v1/audio-analysis/2us0RMthAhSWdRMGFEDITO,8B,0.718,314840.0,0.578,2us0RMthAhSWdRMGFEDITO,0.694,0.0,0.0757,-8.108,1.0,0.042,120.958,4.0,https://api.spotify.com/v1/tracks/2us0RMthAhSWdRMGFEDITO,audio_features,spotify:track:2us0RMthAhSWdRMGFEDITO,0.237
+1,Cristoph, ID,unknown,,,,,,,,,,,,,,,,,,,
+2,Pryda, Fabric Test,unknown,,,,,,,,,,,,,,,,,,,
+3,Sam Reeves Eric Prydz, ID,unknown,0.769,https://api.spotify.com/v1/audio-analysis/0jaazBya4GKJUHKoXoWtBp,9B,0.558,142560.0,0.341,0jaazBya4GKJUHKoXoWtBp,0.0,7.0,0.117,-8.914,1.0,0.0331,139.087,4.0,https://api.spotify.com/v1/tracks/0jaazBya4GKJUHKoXoWtBp,audio_features,spotify:track:0jaazBya4GKJUHKoXoWtBp,0.72
+4,Eric Prydz, Pjanoo ,Eric Prydz Private Remix,0.000563,https://api.spotify.com/v1/audio-analysis/0F2BxpbxH8Yc3pLub48hrb,6A,0.604,157432.0,0.874,0F2BxpbxH8Yc3pLub48hrb,0.812,7.0,0.112,-4.949,0.0,0.0295,125.99,4.0,https://api.spotify.com/v1/tracks/0F2BxpbxH8Yc3pLub48hrb,audio_features,spotify:track:0F2BxpbxH8Yc3pLub48hrb,0.835
+5,Eric Prydz, Layers / Reeperbahn,unknown,,,,,,,,,,,,,,,,,,,
+6,Pryda, ID,unknown,,,,,,,,,,,,,,,,,,,
+7,Cirez D, On Off ,Pryda Remix,0.00135,https://api.spotify.com/v1/audio-analysis/3bosBDQQde1B8IisYxYbuY,11B,0.8,512404.0,0.82,3bosBDQQde1B8IisYxYbuY,0.859,9.0,0.11,-7.692,1.0,0.0712,126.006,4.0,https://api.spotify.com/v1/tracks/3bosBDQQde1B8IisYxYbuY,audio_features,spotify:track:3bosBDQQde1B8IisYxYbuY,0.494
+8,Pryda, ID,unknown,,,,,,,,,,,,,,,,,,,

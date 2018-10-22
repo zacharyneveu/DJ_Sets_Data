@@ -1,0 +1,4 @@
+,Artist(s),Title,Release,acousticness,analysis_url,camelot,danceability,duration_ms,energy,id,instrumentalness,key,liveness,loudness,mode,speechiness,tempo,time_signature,track_href,type,uri,valence
+0,"Mr FijiWiji, AgNO3 Laura Brehm", Pure Sunlight,unknown,0.00581,https://api.spotify.com/v1/audio-analysis/76wvstfVxkEz9nhnYYQNga,6B,0.711,337699.0,0.851,76wvstfVxkEz9nhnYYQNga,0.153,10.0,0.347,-3.746,1.0,0.044,105.003,4.0,https://api.spotify.com/v1/tracks/76wvstfVxkEz9nhnYYQNga,audio_features,spotify:track:76wvstfVxkEz9nhnYYQNga,0.0587
+1,Unlike Pluto, Waiting for You ,feat. Joanna Jones,0.00198,https://api.spotify.com/v1/audio-analysis/3IuPHUeLhSfuzSQ4AZTAIM,9B,0.741,223279.0,0.721,3IuPHUeLhSfuzSQ4AZTAIM,0.0491,7.0,0.0821,-5.512,1.0,0.0362,122.019,4.0,https://api.spotify.com/v1/tracks/3IuPHUeLhSfuzSQ4AZTAIM,audio_features,spotify:track:3IuPHUeLhSfuzSQ4AZTAIM,0.319
+2,Anevo, Don't Shoot Me Down ,feat. Jae-Mi,,,,,,,,,,,,,,,,,,,

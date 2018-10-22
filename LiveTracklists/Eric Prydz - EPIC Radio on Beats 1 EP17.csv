@@ -1,0 +1,11 @@
+,Artist(s),Title,Release,acousticness,analysis_url,camelot,danceability,duration_ms,energy,id,instrumentalness,key,liveness,loudness,mode,speechiness,tempo,time_signature,track_href,type,uri,valence
+0,Cristoph, Tremble,unknown,0.000313,https://api.spotify.com/v1/audio-analysis/4rCJum97O4PswJkEfNrBeJ,12B,0.673,478039.0,0.89,4rCJum97O4PswJkEfNrBeJ,0.932,4.0,0.0787,-8.552,1.0,0.0416,124.99,4.0,https://api.spotify.com/v1/tracks/4rCJum97O4PswJkEfNrBeJ,audio_features,spotify:track:4rCJum97O4PswJkEfNrBeJ,0.451
+1,Cristoph, ID,unknown,,,,,,,,,,,,,,,,,,,
+2,Cristoph, Revolver,unknown,0.00661,https://api.spotify.com/v1/audio-analysis/1BrLZCz3oqfflYTrwuubnK,9B,0.65,494821.0,0.919,1BrLZCz3oqfflYTrwuubnK,0.918,7.0,0.113,-8.915,1.0,0.0374,124.988,4.0,https://api.spotify.com/v1/tracks/1BrLZCz3oqfflYTrwuubnK,audio_features,spotify:track:1BrLZCz3oqfflYTrwuubnK,0.127
+3,Cristoph, Epoch,unknown,0.000724,https://api.spotify.com/v1/audio-analysis/5aUqRB2UrPoYynW4jSFCzV,10A,0.731,463770.0,0.836,5aUqRB2UrPoYynW4jSFCzV,0.92,11.0,0.107,-8.682,0.0,0.0579,126.016,4.0,https://api.spotify.com/v1/tracks/5aUqRB2UrPoYynW4jSFCzV,audio_features,spotify:track:5aUqRB2UrPoYynW4jSFCzV,0.337
+4,Cristoph, ID,unknown,,,,,,,,,,,,,,,,,,,
+5,Cristoph ADZ, ID,unknown,,,,,,,,,,,,,,,,,,,
+6,Pryda, Axis,unknown,2.36e-05,https://api.spotify.com/v1/audio-analysis/1v3xA3QcWI6ziwSS1xS0cU,11A,0.68,483600.0,0.927,1v3xA3QcWI6ziwSS1xS0cU,0.924,6.0,0.151,-6.506,0.0,0.0425,126.005,4.0,https://api.spotify.com/v1/tracks/1v3xA3QcWI6ziwSS1xS0cU,audio_features,spotify:track:1v3xA3QcWI6ziwSS1xS0cU,0.316
+7,Pryda, Rotonda,unknown,0.000199,https://api.spotify.com/v1/audio-analysis/6j0qEzGwHoMeIuOoYHQhIf,7A,0.713,458747.0,0.794,6j0qEzGwHoMeIuOoYHQhIf,0.736,2.0,0.0973,-7.172,0.0,0.0364,125.999,4.0,https://api.spotify.com/v1/tracks/6j0qEzGwHoMeIuOoYHQhIf,audio_features,spotify:track:6j0qEzGwHoMeIuOoYHQhIf,0.396
+8,Pig&Dan Mark Reeve, The Great Crescendo,unknown,,,,,,,,,,,,,,,,,,,
+9,Tong Rogers, Where's The Music Gone ,Cristoph Private Edit,,,,,,,,,,,,,,,,,,,

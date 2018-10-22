@@ -1,0 +1,21 @@
+,Artist(s),Title,Release,acousticness,analysis_url,camelot,danceability,duration_ms,energy,id,instrumentalness,key,liveness,loudness,mode,speechiness,tempo,time_signature,track_href,type,uri,valence
+0,B,Front ,unknown,0.14,https://api.spotify.com/v1/audio-analysis/0uv1qAL1ID4BBf1aOEriwC,9A,0.782,155794.0,0.803,0uv1qAL1ID4BBf1aOEriwC,0.22,4.0,0.163,-5.741,0.0,0.0613,126.012,4.0,https://api.spotify.com/v1/tracks/0uv1qAL1ID4BBf1aOEriwC,audio_features,spotify:track:0uv1qAL1ID4BBf1aOEriwC,0.411
+1,B,Front & Alpha² ,E-Force Remix,,,,,,,,,,,,,,,,,,,
+2,Frontliner B,Front ,unknown,0.0405,https://api.spotify.com/v1/audio-analysis/3L6jGUZPNt2qUivQrLkwwt,3B,0.521,303266.0,0.896,3L6jGUZPNt2qUivQrLkwwt,0.00648,1.0,0.122,-3.968,1.0,0.0727,149.834,4.0,https://api.spotify.com/v1/tracks/3L6jGUZPNt2qUivQrLkwwt,audio_features,spotify:track:3L6jGUZPNt2qUivQrLkwwt,0.276
+3,B,Front ,unknown,0.14,https://api.spotify.com/v1/audio-analysis/0uv1qAL1ID4BBf1aOEriwC,9A,0.782,155794.0,0.803,0uv1qAL1ID4BBf1aOEriwC,0.22,4.0,0.163,-5.741,0.0,0.0613,126.012,4.0,https://api.spotify.com/v1/tracks/0uv1qAL1ID4BBf1aOEriwC,audio_features,spotify:track:0uv1qAL1ID4BBf1aOEriwC,0.411
+4,B,Front & Hard Driver ,unknown,,,,,,,,,,,,,,,,,,,
+5,B,Front ,unknown,0.14,https://api.spotify.com/v1/audio-analysis/0uv1qAL1ID4BBf1aOEriwC,9A,0.782,155794.0,0.803,0uv1qAL1ID4BBf1aOEriwC,0.22,4.0,0.163,-5.741,0.0,0.0613,126.012,4.0,https://api.spotify.com/v1/tracks/0uv1qAL1ID4BBf1aOEriwC,audio_features,spotify:track:0uv1qAL1ID4BBf1aOEriwC,0.411
+6,Alpha² Ran,D ,unknown,0.28,https://api.spotify.com/v1/audio-analysis/4DKgW2VzcO0aRgHbEgsWRR,11B,0.75,140867.0,0.533,4DKgW2VzcO0aRgHbEgsWRR,3.59e-05,9.0,0.174,-10.289,1.0,0.102,81.993,4.0,https://api.spotify.com/v1/tracks/4DKgW2VzcO0aRgHbEgsWRR,audio_features,spotify:track:4DKgW2VzcO0aRgHbEgsWRR,0.883
+7,B,Front ,unknown,0.14,https://api.spotify.com/v1/audio-analysis/0uv1qAL1ID4BBf1aOEriwC,9A,0.782,155794.0,0.803,0uv1qAL1ID4BBf1aOEriwC,0.22,4.0,0.163,-5.741,0.0,0.0613,126.012,4.0,https://api.spotify.com/v1/tracks/0uv1qAL1ID4BBf1aOEriwC,audio_features,spotify:track:0uv1qAL1ID4BBf1aOEriwC,0.411
+8,Noisecontrollers, E=NC²,unknown,0.156,https://api.spotify.com/v1/audio-analysis/013XCItDwIz7yBQM3YAytM,10B,0.405,200000.0,0.928,013XCItDwIz7yBQM3YAytM,0.0149,2.0,0.379,-6.129,1.0,0.0371,149.479,4.0,https://api.spotify.com/v1/tracks/013XCItDwIz7yBQM3YAytM,audio_features,spotify:track:013XCItDwIz7yBQM3YAytM,0.131
+9,B,Front & Alpha² ,unknown,,,,,,,,,,,,,,,,,,,
+10,B,Front & Zany ,unknown,,,,,,,,,,,,,,,,,,,
+11,B,Front & Phuture Noize ,unknown,,,,,,,,,,,,,,,,,,,
+12,B,Front ,unknown,0.14,https://api.spotify.com/v1/audio-analysis/0uv1qAL1ID4BBf1aOEriwC,9A,0.782,155794.0,0.803,0uv1qAL1ID4BBf1aOEriwC,0.22,4.0,0.163,-5.741,0.0,0.0613,126.012,4.0,https://api.spotify.com/v1/tracks/0uv1qAL1ID4BBf1aOEriwC,audio_features,spotify:track:0uv1qAL1ID4BBf1aOEriwC,0.411
+13,Zazafront, Dikke Vette Bassplaat ,Defqon.1 2016 Edit,,,,,,,,,,,,,,,,,,,
+14,B,Freqz ,unknown,,,,,,,,,,,,,,,,,,,
+15,B,Front ,unknown,0.14,https://api.spotify.com/v1/audio-analysis/0uv1qAL1ID4BBf1aOEriwC,9A,0.782,155794.0,0.803,0uv1qAL1ID4BBf1aOEriwC,0.22,4.0,0.163,-5.741,0.0,0.0613,126.012,4.0,https://api.spotify.com/v1/tracks/0uv1qAL1ID4BBf1aOEriwC,audio_features,spotify:track:0uv1qAL1ID4BBf1aOEriwC,0.411
+16,Adaro, Murder,unknown,0.0354,https://api.spotify.com/v1/audio-analysis/0IaSVhBZ9jdDLQJ3LjjtHT,4A,0.495,222968.0,0.991,0IaSVhBZ9jdDLQJ3LjjtHT,0.0,5.0,0.55,-3.465,0.0,0.164,155.028,4.0,https://api.spotify.com/v1/tracks/0IaSVhBZ9jdDLQJ3LjjtHT,audio_features,spotify:track:0IaSVhBZ9jdDLQJ3LjjtHT,0.306
+17,B,Front ,unknown,0.14,https://api.spotify.com/v1/audio-analysis/0uv1qAL1ID4BBf1aOEriwC,9A,0.782,155794.0,0.803,0uv1qAL1ID4BBf1aOEriwC,0.22,4.0,0.163,-5.741,0.0,0.0613,126.012,4.0,https://api.spotify.com/v1/tracks/0uv1qAL1ID4BBf1aOEriwC,audio_features,spotify:track:0uv1qAL1ID4BBf1aOEriwC,0.411
+18,B,Front & Warface ,unknown,,,,,,,,,,,,,,,,,,,
+19,Digital Punk B,Front ft. Alee ,unknown,,,,,,,,,,,,,,,,,,,

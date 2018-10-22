@@ -1,0 +1,12 @@
+,Artist(s),Title,Release,acousticness,analysis_url,camelot,danceability,duration_ms,energy,id,instrumentalness,key,liveness,loudness,mode,speechiness,tempo,time_signature,track_href,type,uri,valence
+0,Pryda, ID,unknown,,,,,,,,,,,,,,,,,,,
+1,w/ Eric Prydz, Every Day ,Acapella,0.000175,https://api.spotify.com/v1/audio-analysis/0ih1CEG8PPzvmejlRqKps3,11B,0.852,513827.0,0.413,0ih1CEG8PPzvmejlRqKps3,0.951,9.0,0.137,-9.747,1.0,0.0715,120.008,4.0,https://api.spotify.com/v1/tracks/0ih1CEG8PPzvmejlRqKps3,audio_features,spotify:track:0ih1CEG8PPzvmejlRqKps3,0.292
+2,Pryda, ID,unknown,,,,,,,,,,,,,,,,,,,
+3,Pryda, ID,unknown,,,,,,,,,,,,,,,,,,,
+4,Pryda, ID,unknown,,,,,,,,,,,,,,,,,,,
+5,Pryda, ID,unknown,,,,,,,,,,,,,,,,,,,
+6,Cirez D, ID,unknown,0.00186,https://api.spotify.com/v1/audio-analysis/5f16faoWznQlmj1mYyTtYi,9B,0.472,164933.0,0.974,5f16faoWznQlmj1mYyTtYi,0.00223,7.0,0.392,-4.125,1.0,0.151,107.538,4.0,https://api.spotify.com/v1/tracks/5f16faoWznQlmj1mYyTtYi,audio_features,spotify:track:5f16faoWznQlmj1mYyTtYi,0.708
+7,Eric Prydz, Liberate ,Eric Prydz 2017 Remix,0.0024,https://api.spotify.com/v1/audio-analysis/6X0WsSsMMwam5AzVxlUUzo,7B,0.515,313388.0,0.877,6X0WsSsMMwam5AzVxlUUzo,0.802,5.0,0.623,-5.413,1.0,0.0356,126.996,4.0,https://api.spotify.com/v1/tracks/6X0WsSsMMwam5AzVxlUUzo,audio_features,spotify:track:6X0WsSsMMwam5AzVxlUUzo,0.434
+8,Pryda, ID,unknown,,,,,,,,,,,,,,,,,,,
+9,Pryda, ID,unknown,,,,,,,,,,,,,,,,,,,
+10,Pryda, Liam ,Stringapella,,,,,,,,,,,,,,,,,,,

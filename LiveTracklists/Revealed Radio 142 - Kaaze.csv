@@ -1,0 +1,21 @@
+,Artist(s),Title,Release,acousticness,analysis_url,camelot,danceability,duration_ms,energy,id,instrumentalness,key,liveness,loudness,mode,speechiness,tempo,time_signature,track_href,type,uri,valence
+0,The Chemical Brothers, Galvanize ,KAAZE 2017 Remix,0.0141,https://api.spotify.com/v1/audio-analysis/4bz7uB4edifWKJXSDxwHcs,9B,0.745,393813.0,0.714,4bz7uB4edifWKJXSDxwHcs,0.0222,7.0,0.363,-3.681,1.0,0.0751,104.003,4.0,https://api.spotify.com/v1/tracks/4bz7uB4edifWKJXSDxwHcs,audio_features,spotify:track:4bz7uB4edifWKJXSDxwHcs,0.365
+1,KAAZE   Teamworx   Martin Garrix Brooks   Swedish House Mafia, We Never Byte Freedom 2 Ibiza ,KAAZE Mashup,,,,,,,,,,,,,,,,,,,
+2,Alesso   Pessto, Bamillionaire ,KAAZE Mashup,,,,,,,,,,,,,,,,,,,
+3,Holl Rush   Pink Floyd   Axwell, The Proper Together Doctor ,KAAZE Mashup,,,,,,,,,,,,,,,,,,,
+4,Hardwell Maddix   W&W   David Guetta, Smash Like A Jumper ,KAAZE Re-Touch Edit,,,,,,,,,,,,,,,,,,,
+5,Hardwell, Who's In The House ,Intro 2017,,,,,,,,,,,,,,,,,,,
+6,RavenKis   Supermode   Nadia Ali, Tell Me Rapture Stellar ,KAAZE & Ryos Mashup,,,,,,,,,,,,,,,,,,,
+7,KAAZE   Cruickshank, Soulmate,unknown,0.0113,https://api.spotify.com/v1/audio-analysis/3IcZqbzBm59KtiCsYjsLBG,10A,0.611,189844.0,0.799,3IcZqbzBm59KtiCsYjsLBG,0.0,11.0,0.552,-4.453,0.0,0.0451,127.982,4.0,https://api.spotify.com/v1/tracks/3IcZqbzBm59KtiCsYjsLBG,audio_features,spotify:track:3IcZqbzBm59KtiCsYjsLBG,0.14
+8,KAAZE x Queen, Triplet Rhapsody ,KAAZE Mashup,,,,,,,,,,,,,,,,,,,
+9,KAAZE   Axwell Λ Ingrosso, Triplet Is Shining ,Tom Swoon Tape-Up,,,,,,,,,,,,,,,,,,,
+10,KAAZE Joey Dale   Aloma Steele, Black Sahara,unknown,0.0433,https://api.spotify.com/v1/audio-analysis/4IhE0z08NICJIzRyrUthDF,3A,0.446,201797.0,0.688,4IhE0z08NICJIzRyrUthDF,0.0,10.0,0.455,-5.614,0.0,0.0394,128.128,4.0,https://api.spotify.com/v1/tracks/4IhE0z08NICJIzRyrUthDF,audio_features,spotify:track:4IhE0z08NICJIzRyrUthDF,0.175
+11,R I.O., When The Sun Comes Down ,KAAZE Remix,,,,,,,,,,,,,,,,,,,
+12,Hardwell KAAZE Jonathan Mendelsohn, We Are Legends ,Hardwell & KAAZE Final Countdown Edit,0.0639,https://api.spotify.com/v1/audio-analysis/1ljIUIAxK8frRz1HNQx80Q,11A,0.295,200625.0,0.841,1ljIUIAxK8frRz1HNQx80Q,2.35e-05,6.0,0.22,-2.287,0.0,0.0563,127.998,4.0,https://api.spotify.com/v1/tracks/1ljIUIAxK8frRz1HNQx80Q,audio_features,spotify:track:1ljIUIAxK8frRz1HNQx80Q,0.0728
+13,KAAZE x Florence The Machine, Say My Mayhem 2016 ,KAAZE Mashup,,,,,,,,,,,,,,,,,,,
+14,Dada Life, Tonight We're Kids Again ,KAAZE Remix,0.00396,https://api.spotify.com/v1/audio-analysis/47y0YWOAbaPcp1lBgrEENs,1B,0.565,328106.0,0.799,47y0YWOAbaPcp1lBgrEENs,0.266,11.0,0.0899,-6.684,1.0,0.256,125.974,4.0,https://api.spotify.com/v1/tracks/47y0YWOAbaPcp1lBgrEENs,audio_features,spotify:track:47y0YWOAbaPcp1lBgrEENs,0.427
+15,KAAZE   Jonathan Mendelsohn, End Of The World,unknown,0.0378,https://api.spotify.com/v1/audio-analysis/4OPTaJwdcRCAb2u2UjWF9Y,10B,0.47,169594.0,0.902,4OPTaJwdcRCAb2u2UjWF9Y,0.0,2.0,0.396,-2.188,1.0,0.0468,149.983,4.0,https://api.spotify.com/v1/tracks/4OPTaJwdcRCAb2u2UjWF9Y,audio_features,spotify:track:4OPTaJwdcRCAb2u2UjWF9Y,0.219
+16,Daft Punk, One More Time ,KAAZE Live Edit,0.0193,https://api.spotify.com/v1/audio-analysis/0DiWol3AO6WpXZgp0goxAV,10B,0.611,320357.0,0.697,0DiWol3AO6WpXZgp0goxAV,0.0,2.0,0.332,-8.618,1.0,0.133,122.752,4.0,https://api.spotify.com/v1/tracks/0DiWol3AO6WpXZgp0goxAV,audio_features,spotify:track:0DiWol3AO6WpXZgp0goxAV,0.476
+17,Hardwell KAAZE x Loreen, Thinking About Euphoria ,KAAZE Mashup,,,,,,,,,,,,,,,,,,,
+18,KAAZE, We Are ID Haartz ,KAAZE Smash Up,,,,,,,,,,,,,,,,,,,
+19,KAAZE   Cruickshank, Showkaaze Interlude ,KAAZE Mashup,,,,,,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+,Artist(s),Title,Release,acousticness,analysis_url,camelot,danceability,duration_ms,energy,id,instrumentalness,key,liveness,loudness,mode,speechiness,tempo,time_signature,track_href,type,uri,valence
+0,Mad Dog Evil Activities, 911,unknown,0.0134,https://api.spotify.com/v1/audio-analysis/3BOGzE0yeBesbnn9xosn79,5A,0.599,105781.0,0.72,3BOGzE0yeBesbnn9xosn79,0.0,0.0,0.377,-6.124,0.0,0.0321,92.988,4.0,https://api.spotify.com/v1/tracks/3BOGzE0yeBesbnn9xosn79,audio_features,spotify:track:3BOGzE0yeBesbnn9xosn79,0.93
+1,Audiotricz Villain, The World Is Mine,unknown,,,,,,,,,,,,,,,,,,,
+2,Ran,D & Clockartz ,unknown,,,,,,,,,,,,,,,,,,,
+3,Wildstylez, Temple of Light ,Official Qlimax anthem 2017,0.00304,https://api.spotify.com/v1/audio-analysis/0jvAnNhshJlYwQX9YhXDq1,10B,0.273,360400.0,0.793,0jvAnNhshJlYwQX9YhXDq1,0.00256,2.0,0.123,-7.342,1.0,0.139,149.844,3.0,https://api.spotify.com/v1/tracks/0jvAnNhshJlYwQX9YhXDq1,audio_features,spotify:track:0jvAnNhshJlYwQX9YhXDq1,0.0868

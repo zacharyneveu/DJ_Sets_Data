@@ -1,0 +1,15 @@
+,Artist(s),Title,Release,acousticness,analysis_url,camelot,danceability,duration_ms,energy,id,instrumentalness,key,liveness,loudness,mode,speechiness,tempo,time_signature,track_href,type,uri,valence
+0,Boris Brejcha, The Awakenings,unknown,,,,,,,,,,,,,,,,,,,
+1,Boris Brejcha, Space Diver,unknown,,,,,,,,,,,,,,,,,,,
+2,Boris Brejcha, Gravity,unknown,0.27,https://api.spotify.com/v1/audio-analysis/38XP3dxPJtIMhz9JCmJSTq,8B,0.545,485470.0,0.477,38XP3dxPJtIMhz9JCmJSTq,0.905,0.0,0.106,-15.566,1.0,0.0291,149.994,4.0,https://api.spotify.com/v1/tracks/38XP3dxPJtIMhz9JCmJSTq,audio_features,spotify:track:38XP3dxPJtIMhz9JCmJSTq,0.552
+3,Boris Brejcha, Black Unicorn,unknown,,,,,,,,,,,,,,,,,,,
+4,Boris Brejcha, LS Waterpipe,unknown,,,,,,,,,,,,,,,,,,,
+5,Boris Brejcha, The Troublemakerz,unknown,,,,,,,,,,,,,,,,,,,
+6,Boris Brejcha, Nothing Seems To Be,unknown,,,,,,,,,,,,,,,,,,,
+7,Boris Brejcha, Never Look Back,unknown,0.0578,https://api.spotify.com/v1/audio-analysis/0Mka5Heevof5OW0zC1Pu8v,8A,0.748,367500.0,0.84,0Mka5Heevof5OW0zC1Pu8v,0.00569,9.0,0.157,-7.177,0.0,0.0777,128.015,4.0,https://api.spotify.com/v1/tracks/0Mka5Heevof5OW0zC1Pu8v,audio_features,spotify:track:0Mka5Heevof5OW0zC1Pu8v,0.177
+8,Boris Brejcha, Kittys Journey,unknown,,,,,,,,,,,,,,,,,,,
+9,Boris Brejcha, Turn Over,unknown,6.1e-05,https://api.spotify.com/v1/audio-analysis/3XINijk1N63A2GpjtfuMiU,8B,0.789,531840.0,0.783,3XINijk1N63A2GpjtfuMiU,0.874,0.0,0.109,-6.953,1.0,0.0433,125.003,4.0,https://api.spotify.com/v1/tracks/3XINijk1N63A2GpjtfuMiU,audio_features,spotify:track:3XINijk1N63A2GpjtfuMiU,0.332
+10,Boris Brejcha, Night Owl,unknown,0.000297,https://api.spotify.com/v1/audio-analysis/2gkudYDDVwdmSjNVp0okOM,7B,0.807,524160.0,0.569,2gkudYDDVwdmSjNVp0okOM,0.886,5.0,0.0782,-9.509,1.0,0.102,125.004,4.0,https://api.spotify.com/v1/tracks/2gkudYDDVwdmSjNVp0okOM,audio_features,spotify:track:2gkudYDDVwdmSjNVp0okOM,0.519
+11,Boris Brejcha, Killing Me,unknown,0.00625,https://api.spotify.com/v1/audio-analysis/3GgPoaXMk8RfbWyIlDB52A,1B,0.931,441600.0,0.62,3GgPoaXMk8RfbWyIlDB52A,0.781,11.0,0.111,-6.666,1.0,0.136,125.023,4.0,https://api.spotify.com/v1/tracks/3GgPoaXMk8RfbWyIlDB52A,audio_features,spotify:track:3GgPoaXMk8RfbWyIlDB52A,0.318
+12,Boris Brejcha, Hashtag,unknown,,,,,,,,,,,,,,,,,,,
+13,Boris Brejcha, Purple Noise,unknown,0.00143,https://api.spotify.com/v1/audio-analysis/6BA2JM59JObFjHNvLK2KOg,8B,0.88,539520.0,0.477,6BA2JM59JObFjHNvLK2KOg,0.627,0.0,0.0922,-10.947,1.0,0.0732,125.017,4.0,https://api.spotify.com/v1/tracks/6BA2JM59JObFjHNvLK2KOg,audio_features,spotify:track:6BA2JM59JObFjHNvLK2KOg,0.209

@@ -1,0 +1,15 @@
+,Artist(s),Title,Release,acousticness,analysis_url,camelot,danceability,duration_ms,energy,id,instrumentalness,key,liveness,loudness,mode,speechiness,tempo,time_signature,track_href,type,uri,valence
+0,Key4050, ID,unknown,,,,,,,,,,,,,,,,,,,
+1,Key4050, Pikachu,unknown,,,,,,,,,,,,,,,,,,,
+2,Key4050, ID ,Squirrel,,,,,,,,,,,,,,,,,,,
+3,Key4050, ID,unknown,,,,,,,,,,,,,,,,,,,
+4,Key4050, ID ,You Think You Know Me,,,,,,,,,,,,,,,,,,,
+5,Key4050, ID ,Ectoplasm,,,,,,,,,,,,,,,,,,,
+6,Key4050, ID ,Tell Me What You Want,,,,,,,,,,,,,,,,,,,
+7,Key4050, ID,unknown,,,,,,,,,,,,,,,,,,,
+8,Key4050, ID,unknown,,,,,,,,,,,,,,,,,,,
+9,Key4050, ID ,Higa Tigi Tebe,,,,,,,,,,,,,,,,,,,
+10,Key4050, ID,unknown,,,,,,,,,,,,,,,,,,,
+11,Key4050, ID,unknown,,,,,,,,,,,,,,,,,,,
+12,Key4050, ID ,Key4050,,,,,,,,,,,,,,,,,,,
+13,ID, ID,unknown,0.000241,https://api.spotify.com/v1/audio-analysis/1aRxfiM606yUIQyKZzaslz,9B,0.269,129715.0,0.901,1aRxfiM606yUIQyKZzaslz,0.717,7.0,0.415,-7.38,1.0,0.0719,141.565,4.0,https://api.spotify.com/v1/tracks/1aRxfiM606yUIQyKZzaslz,audio_features,spotify:track:1aRxfiM606yUIQyKZzaslz,0.439

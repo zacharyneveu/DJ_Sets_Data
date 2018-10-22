@@ -1,0 +1,8 @@
+,Artist(s),Title,Release,acousticness,analysis_url,camelot,danceability,duration_ms,energy,id,instrumentalness,key,liveness,loudness,mode,speechiness,tempo,time_signature,track_href,type,uri,valence
+0,LVNDSCAPE, ID,unknown,,,,,,,,,,,,,,,,,,,
+1,Sam Feldt LVNDSCAPE   Tessa, Know You Better,unknown,0.126,https://api.spotify.com/v1/audio-analysis/43JyIDsNx4pUOOUDcIV2Cr,3B,0.778,228226.0,0.756,43JyIDsNx4pUOOUDcIV2Cr,2.2e-06,1.0,0.092,-4.754,1.0,0.0385,119.948,4.0,https://api.spotify.com/v1/tracks/43JyIDsNx4pUOOUDcIV2Cr,audio_features,spotify:track:43JyIDsNx4pUOOUDcIV2Cr,0.418
+2,LVNDSCAPE, Kilimanjaro,unknown,0.0127,https://api.spotify.com/v1/audio-analysis/1nYfiiwCQOX5mY7Git99Rp,1A,0.677,188370.0,0.759,1nYfiiwCQOX5mY7Git99Rp,0.00328,8.0,0.084,-5.165,0.0,0.0435,124.993,4.0,https://api.spotify.com/v1/tracks/1nYfiiwCQOX5mY7Git99Rp,audio_features,spotify:track:1nYfiiwCQOX5mY7Git99Rp,0.542
+3,Armin van Buuren   Conrad Sewell," Sex, Love & Water ",Loud Luxury Remix,0.46,https://api.spotify.com/v1/audio-analysis/7F5so0qdnedWtH1CaAOsgT,12A,0.732,189677.0,0.787,7F5so0qdnedWtH1CaAOsgT,4.19e-05,1.0,0.0964,-4.517,0.0,0.0459,124.051,4.0,https://api.spotify.com/v1/tracks/7F5so0qdnedWtH1CaAOsgT,audio_features,spotify:track:7F5so0qdnedWtH1CaAOsgT,0.377
+4,Funkin Matt, Coda,unknown,0.146,https://api.spotify.com/v1/audio-analysis/7AEcghJECgo7NKPl1g0pua,6B,0.792,163713.0,0.557,7AEcghJECgo7NKPl1g0pua,0.369,10.0,0.295,-9.633,1.0,0.248,124.004,4.0,https://api.spotify.com/v1/tracks/7AEcghJECgo7NKPl1g0pua,audio_features,spotify:track:7AEcghJECgo7NKPl1g0pua,0.374
+5,LVNDSCAPE, Matterhorn,unknown,,,,,,,,,,,,,,,,,,,
+6,LVNDSCAPE, ID,unknown,,,,,,,,,,,,,,,,,,,

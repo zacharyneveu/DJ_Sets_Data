@@ -1,0 +1,2 @@
+,Artist(s),Title,Release,acousticness,analysis_url,camelot,danceability,duration_ms,energy,id,instrumentalness,key,liveness,loudness,mode,speechiness,tempo,time_signature,track_href,type,uri,valence
+0,Trivecta, Believe ,unknown,0.0125,https://api.spotify.com/v1/audio-analysis/1OPhmPjzys30eTbSBFKnHC,3A,0.49,296112.0,0.796,1OPhmPjzys30eTbSBFKnHC,0.00303,10.0,0.107,-5.253,0.0,0.0463,139.949,4.0,https://api.spotify.com/v1/tracks/1OPhmPjzys30eTbSBFKnHC,audio_features,spotify:track:1OPhmPjzys30eTbSBFKnHC,0.278

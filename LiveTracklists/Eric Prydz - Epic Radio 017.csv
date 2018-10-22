@@ -1,0 +1,9 @@
+,Artist(s),Title,Release,acousticness,analysis_url,camelot,danceability,duration_ms,energy,id,instrumentalness,key,liveness,loudness,mode,speechiness,tempo,time_signature,track_href,type,uri,valence
+0,Pryda, RYMD ,2010 Edit,0.0061,https://api.spotify.com/v1/audio-analysis/6i1jKqX8MDtaHlJ8fADGRU,11A,0.745,484013.0,0.801,6i1jKqX8MDtaHlJ8fADGRU,0.645,6.0,0.115,-5.903,0.0,0.0496,126.012,4.0,https://api.spotify.com/v1/tracks/6i1jKqX8MDtaHlJ8fADGRU,audio_features,spotify:track:6i1jKqX8MDtaHlJ8fADGRU,0.334
+1,Pryda, Instagram ID,unknown,,,,,,,,,,,,,,,,,,,
+2,Pryda   Everything But The Girl, Missing Europa ,Eric Prydz Mashup,0.968,https://api.spotify.com/v1/audio-analysis/1prvjGPXosGjp9kkN3B0rB,7B,0.171,136281.0,0.0615,1prvjGPXosGjp9kkN3B0rB,0.967,5.0,0.1,-17.502,1.0,0.0428,114.439,1.0,https://api.spotify.com/v1/tracks/1prvjGPXosGjp9kkN3B0rB,audio_features,spotify:track:1prvjGPXosGjp9kkN3B0rB,0.0381
+3,Pryda, Lillo ID 02,unknown,,,,,,,,,,,,,,,,,,,
+4,Pryda, Montreux Jazz ID,unknown,,,,,,,,,,,,,,,,,,,
+5,Pryda, Illusions,unknown,0.00164,https://api.spotify.com/v1/audio-analysis/2zZfag7OeUmyIdaEmfEJed,4A,0.687,449386.0,0.844,2zZfag7OeUmyIdaEmfEJed,0.876,5.0,0.641,-5.907,0.0,0.0484,126.009,4.0,https://api.spotify.com/v1/tracks/2zZfag7OeUmyIdaEmfEJed,audio_features,spotify:track:2zZfag7OeUmyIdaEmfEJed,0.164
+6,Pryda, Lillo ID 01,unknown,,,,,,,,,,,,,,,,,,,
+7,Pryda, Lillo,unknown,0.00111,https://api.spotify.com/v1/audio-analysis/0wIblt271U2oH60h7w8ECA,5B,0.589,518294.0,0.636,0wIblt271U2oH60h7w8ECA,0.924,3.0,0.148,-7.888,1.0,0.0361,125.998,4.0,https://api.spotify.com/v1/tracks/0wIblt271U2oH60h7w8ECA,audio_features,spotify:track:0wIblt271U2oH60h7w8ECA,0.0361

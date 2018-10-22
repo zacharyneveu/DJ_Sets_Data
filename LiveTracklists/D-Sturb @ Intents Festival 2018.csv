@@ -1,0 +1,19 @@
+,Artist(s),Title,Release,acousticness,analysis_url,camelot,danceability,duration_ms,energy,id,instrumentalness,key,liveness,loudness,mode,speechiness,tempo,time_signature,track_href,type,uri,valence
+0,D,Sturb ,unknown,,,,,,,,,,,,,,,,,,,
+1,D,Sturb ft. Emese ,unknown,,,,,,,,,,,,,,,,,,,
+2,Warface D,Sturb ,unknown,0.00794,https://api.spotify.com/v1/audio-analysis/2lUYVqdqfaiRkFzLcwLLMm,2A,0.446,181049.0,0.91,2lUYVqdqfaiRkFzLcwLLMm,1.74e-05,3.0,0.345,-2.799,0.0,0.185,155.04,4.0,https://api.spotify.com/v1/tracks/2lUYVqdqfaiRkFzLcwLLMm,audio_features,spotify:track:2lUYVqdqfaiRkFzLcwLLMm,0.0907
+3,Act Of Rage D,Sturb ,unknown,,,,,,,,,,,,,,,,,,,
+4,D,Sturb ,unknown,,,,,,,,,,,,,,,,,,,
+5,D,Sturb ,unknown,,,,,,,,,,,,,,,,,,,
+6,D,Sturb & MC Nolz ,unknown,,,,,,,,,,,,,,,,,,,
+7,Malice D,Sturb ,unknown,,,,,,,,,,,,,,,,,,,
+8,Radical Redemption D,Sturb ,unknown,,,,,,,,,,,,,,,,,,,
+9,D,Sturb & MC Nolz ,Official Shockerz 2017 Anthem,,,,,,,,,,,,,,,,,,,
+10,D,Sturb ,unknown,,,,,,,,,,,,,,,,,,,
+11,E,Force & D,unknown,0.258,https://api.spotify.com/v1/audio-analysis/4NZtqzl2W9PiQLGC4VL2zT,9B,0.587,198400.0,0.978,4NZtqzl2W9PiQLGC4VL2zT,0.0,7.0,0.357,-3.534,1.0,0.188,149.997,4.0,https://api.spotify.com/v1/tracks/4NZtqzl2W9PiQLGC4VL2zT,audio_features,spotify:track:4NZtqzl2W9PiQLGC4VL2zT,0.295
+12,High Voltage D,Sturb ,unknown,,,,,,,,,,,,,,,,,,,
+13,Radical Redemption D,Sturb ,unknown,,,,,,,,,,,,,,,,,,,
+14,w/ ID, ID,unknown,0.948,https://api.spotify.com/v1/audio-analysis/2CHVX2nzAYl5omgRfAtkjC,5B,0.575,156373.0,0.125,2CHVX2nzAYl5omgRfAtkjC,0.0,3.0,0.438,-18.952,1.0,0.145,126.925,4.0,https://api.spotify.com/v1/tracks/2CHVX2nzAYl5omgRfAtkjC,audio_features,spotify:track:2CHVX2nzAYl5omgRfAtkjC,0.35
+15,D,Sturb ,unknown,,,,,,,,,,,,,,,,,,,
+16,D,Sturb ,unknown,,,,,,,,,,,,,,,,,,,
+17,D,Sturb & Sefa ,unknown,,,,,,,,,,,,,,,,,,,

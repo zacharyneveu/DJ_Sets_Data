@@ -1,0 +1,11 @@
+,Artist(s),Title,Release,acousticness,analysis_url,camelot,danceability,duration_ms,energy,id,instrumentalness,key,liveness,loudness,mode,speechiness,tempo,time_signature,track_href,type,uri,valence
+0,Eric Prydz, Collider,unknown,0.000239,https://api.spotify.com/v1/audio-analysis/2PYLdQVv5nML4xjV5IPmmX,7B,0.608,323880.0,0.83,2PYLdQVv5nML4xjV5IPmmX,0.962,5.0,0.274,-5.856,1.0,0.0329,125.999,4.0,https://api.spotify.com/v1/tracks/2PYLdQVv5nML4xjV5IPmmX,audio_features,spotify:track:2PYLdQVv5nML4xjV5IPmmX,0.167
+1,Pryda, LYCKA,unknown,0.000621,https://api.spotify.com/v1/audio-analysis/6p7HEo3bWpbvTAKYYIKDxZ,9B,0.588,456626.0,0.83,6p7HEo3bWpbvTAKYYIKDxZ,0.774,7.0,0.618,-7.789,1.0,0.037,126.011,4.0,https://api.spotify.com/v1/tracks/6p7HEo3bWpbvTAKYYIKDxZ,audio_features,spotify:track:6p7HEo3bWpbvTAKYYIKDxZ,0.367
+2,Pryda, F.A.T.,unknown,0.00107,https://api.spotify.com/v1/audio-analysis/5UE7tdiz4CS2APpnXfYBFF,10B,0.518,377793.0,0.923,5UE7tdiz4CS2APpnXfYBFF,0.864,2.0,0.683,-6.449,1.0,0.039,126.036,4.0,https://api.spotify.com/v1/tracks/5UE7tdiz4CS2APpnXfYBFF,audio_features,spotify:track:5UE7tdiz4CS2APpnXfYBFF,0.226
+3,Eric Prydz, We Are,unknown,0.000564,https://api.spotify.com/v1/audio-analysis/6mTnH6xSYwKohtsO9RFzcc,9A,0.555,379500.0,0.793,6mTnH6xSYwKohtsO9RFzcc,0.696,4.0,0.497,-6.707,0.0,0.035,127.952,4.0,https://api.spotify.com/v1/tracks/6mTnH6xSYwKohtsO9RFzcc,audio_features,spotify:track:6mTnH6xSYwKohtsO9RFzcc,0.0835
+4,Paolo Mojo   Michael Jackson, Thriller 1983 ,Eric Prydz Halloween Bootleg,,,,,,,,,,,,,,,,,,,
+5,Fehrplay, Indigo,unknown,,,,,,,,,,,,,,,,,,,
+6,Cirez D, Gobber,unknown,,,,,,,,,,,,,,,,,,,
+7,Jeremy Olander Fehrplay, Balboa,unknown,,,,,,,,,,,,,,,,,,,
+8,Jeremy Olander, Bandersnatch,unknown,0.00103,https://api.spotify.com/v1/audio-analysis/6DVChMRuTcFK5Xj4lUE9Ue,3B,0.767,413463.0,0.853,6DVChMRuTcFK5Xj4lUE9Ue,0.867,1.0,0.0773,-6.849,1.0,0.0657,126.008,4.0,https://api.spotify.com/v1/tracks/6DVChMRuTcFK5Xj4lUE9Ue,audio_features,spotify:track:6DVChMRuTcFK5Xj4lUE9Ue,0.659
+9,Kraftwerk, Tour De France,unknown,0.0866,https://api.spotify.com/v1/audio-analysis/5uNlgK7FEg6r9BGy12P9Sx,5A,0.664,312760.0,0.913,5uNlgK7FEg6r9BGy12P9Sx,0.892,0.0,0.305,-8.424,0.0,0.0469,133.971,4.0,https://api.spotify.com/v1/tracks/5uNlgK7FEg6r9BGy12P9Sx,audio_features,spotify:track:5uNlgK7FEg6r9BGy12P9Sx,0.647

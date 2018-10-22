@@ -1,0 +1,11 @@
+,Artist(s),Title,Release,acousticness,analysis_url,camelot,danceability,duration_ms,energy,id,instrumentalness,key,liveness,loudness,mode,speechiness,tempo,time_signature,track_href,type,uri,valence
+0,Pryda, ID,unknown,,,,,,,,,,,,,,,,,,,
+1,Pryda, ID,unknown,,,,,,,,,,,,,,,,,,,
+2,Pryda, Star Bugs,unknown,,,,,,,,,,,,,,,,,,,
+3,Pryda, ID,unknown,,,,,,,,,,,,,,,,,,,
+4,Pryda, ID,unknown,,,,,,,,,,,,,,,,,,,
+5,Steve Angello, Voices ,Eric Prydz Remix,0.000279,https://api.spotify.com/v1/audio-analysis/0VLTLD2ja6tvmdhATY99Qx,10A,0.735,452120.0,0.86,0VLTLD2ja6tvmdhATY99Qx,0.475,11.0,0.711,-9.558,0.0,0.0728,128.98,4.0,https://api.spotify.com/v1/tracks/0VLTLD2ja6tvmdhATY99Qx,audio_features,spotify:track:0VLTLD2ja6tvmdhATY99Qx,0.773
+6,Cirez D, The Glitch,unknown,0.00226,https://api.spotify.com/v1/audio-analysis/36R9LU70vXcPG8pmZyaKT5,3A,0.691,564017.0,0.659,36R9LU70vXcPG8pmZyaKT5,0.888,10.0,0.0524,-8.635,0.0,0.0445,126.0,3.0,https://api.spotify.com/v1/tracks/36R9LU70vXcPG8pmZyaKT5,audio_features,spotify:track:36R9LU70vXcPG8pmZyaKT5,0.127
+7,CIREZ D, ID,unknown,0.00186,https://api.spotify.com/v1/audio-analysis/5f16faoWznQlmj1mYyTtYi,9B,0.472,164933.0,0.974,5f16faoWznQlmj1mYyTtYi,0.00223,7.0,0.392,-4.125,1.0,0.151,107.538,4.0,https://api.spotify.com/v1/tracks/5f16faoWznQlmj1mYyTtYi,audio_features,spotify:track:5f16faoWznQlmj1mYyTtYi,0.708
+8,Eric Prydz, Galileo,unknown,0.964,https://api.spotify.com/v1/audio-analysis/5xPNHyRRCEY0Ds6rz2Lbgx,9A,0.487,349293.0,0.268,5xPNHyRRCEY0Ds6rz2Lbgx,0.901,4.0,0.0718,-14.36,0.0,0.0301,132.705,3.0,https://api.spotify.com/v1/tracks/5xPNHyRRCEY0Ds6rz2Lbgx,audio_features,spotify:track:5xPNHyRRCEY0Ds6rz2Lbgx,0.135
+9,Alphaville, Fallen Angel,unknown,0.0109,https://api.spotify.com/v1/audio-analysis/0NtjyCrkeAs49gKiOsIUNw,3B,0.665,238000.0,0.394,0NtjyCrkeAs49gKiOsIUNw,0.371,1.0,0.208,-16.731,1.0,0.0313,136.929,4.0,https://api.spotify.com/v1/tracks/0NtjyCrkeAs49gKiOsIUNw,audio_features,spotify:track:0NtjyCrkeAs49gKiOsIUNw,0.672

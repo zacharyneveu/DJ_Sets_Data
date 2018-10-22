@@ -1,0 +1,12 @@
+,Artist(s),Title,Release,acousticness,analysis_url,camelot,danceability,duration_ms,energy,id,instrumentalness,key,liveness,loudness,mode,speechiness,tempo,time_signature,track_href,type,uri,valence
+0,Eric Prydz, Liberate ,Radio Edit,0.0024,https://api.spotify.com/v1/audio-analysis/6X0WsSsMMwam5AzVxlUUzo,7B,0.515,313388.0,0.877,6X0WsSsMMwam5AzVxlUUzo,0.802,5.0,0.623,-5.413,1.0,0.0356,126.996,4.0,https://api.spotify.com/v1/tracks/6X0WsSsMMwam5AzVxlUUzo,audio_features,spotify:track:6X0WsSsMMwam5AzVxlUUzo,0.434
+1,Pryda, ID,unknown,,,,,,,,,,,,,,,,,,,
+2,Jeremy Olander, Love Flight 2014,unknown,,,,,,,,,,,,,,,,,,,
+3,Heartik pres. First Date, Orphan Planet,unknown,,,,,,,,,,,,,,,,,,,
+4,Fasttrack Maulen, Raveheart,unknown,0.00556,https://api.spotify.com/v1/audio-analysis/1jYX8ZgHRSUYSSrcGC7FE3,11B,0.599,391680.0,0.91,1jYX8ZgHRSUYSSrcGC7FE3,0.956,9.0,0.0661,-7.793,1.0,0.0592,124.997,4.0,https://api.spotify.com/v1/tracks/1jYX8ZgHRSUYSSrcGC7FE3,audio_features,spotify:track:1jYX8ZgHRSUYSSrcGC7FE3,0.819
+5,Cirez D, Voide,unknown,,,,,,,,,,,,,,,,,,,
+6,Pryda, ID,unknown,,,,,,,,,,,,,,,,,,,
+7,Pryda, ID,unknown,,,,,,,,,,,,,,,,,,,
+8,Eric Prydz, Generate,unknown,0.00927,https://api.spotify.com/v1/audio-analysis/5LT8hO0Z9Y1nlCJ7nfuSJi,1B,0.608,165076.0,0.815,5LT8hO0Z9Y1nlCJ7nfuSJi,2.36e-05,11.0,0.119,-5.043,1.0,0.0272,127.022,4.0,https://api.spotify.com/v1/tracks/5LT8hO0Z9Y1nlCJ7nfuSJi,audio_features,spotify:track:5LT8hO0Z9Y1nlCJ7nfuSJi,0.544
+9,Slam   Tyrone, Lifetimes,unknown,0.000107,https://api.spotify.com/v1/audio-analysis/4WqJhqNaoP7Kwv4c1GBGuy,9B,0.596,498360.0,0.873,4WqJhqNaoP7Kwv4c1GBGuy,0.814,7.0,0.163,-7.08,1.0,0.0376,127.99,4.0,https://api.spotify.com/v1/tracks/4WqJhqNaoP7Kwv4c1GBGuy,audio_features,spotify:track:4WqJhqNaoP7Kwv4c1GBGuy,0.799
+10,Pryda, In My Head,unknown,,,,,,,,,,,,,,,,,,,

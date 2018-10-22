@@ -1,0 +1,11 @@
+,Artist(s),Title,Release,acousticness,analysis_url,camelot,danceability,duration_ms,energy,id,instrumentalness,key,liveness,loudness,mode,speechiness,tempo,time_signature,track_href,type,uri,valence
+0,Traffic Signs, The Big Fake ,Moksi Switch Up,0.000198,https://api.spotify.com/v1/audio-analysis/1o6xUqNNTV2bsWcNoV7zTQ,11B,0.811,384984.0,0.658,1o6xUqNNTV2bsWcNoV7zTQ,0.927,9.0,0.133,-12.738,1.0,0.0641,124.957,4.0,https://api.spotify.com/v1/tracks/1o6xUqNNTV2bsWcNoV7zTQ,audio_features,spotify:track:1o6xUqNNTV2bsWcNoV7zTQ,0.397
+1,ID, ID,unknown,0.000241,https://api.spotify.com/v1/audio-analysis/1aRxfiM606yUIQyKZzaslz,9B,0.269,129715.0,0.901,1aRxfiM606yUIQyKZzaslz,0.717,7.0,0.415,-7.38,1.0,0.0719,141.565,4.0,https://api.spotify.com/v1/tracks/1aRxfiM606yUIQyKZzaslz,audio_features,spotify:track:1aRxfiM606yUIQyKZzaslz,0.439
+2,Nora En Pure   Cosmo Skoro twoloud, U Got My Body Bing ,Fedde Le Grand Mashup,,,,,,,,,,,,,,,,,,,
+3,Fedde Le Grand   Sebastian Ingrosso, So Much Dark River ,Fedde Le Grand Mashup,,,,,,,,,,,,,,,,,,,
+4,Fedde Le Grand D.O.D, Love's Gonna Get You,unknown,,,,,,,,,,,,,,,,,,,
+5,Jewelz Sparks HWL   G,Eazy & Bebe Rexha ,Fedde Le Grand Mashup,,,,,,,,,,,,,,,,,,,
+6,Calvin Harris Disciples   Cirez D Jewelz Sparks, How Deep Is Your On Off ,Fedde Le Grand Mashup,,,,,,,,,,,,,,,,,,,
+7,Macklemore Ryan Lewis   HOOX, Can't Hold The Words Off ,Fedde Le Grand Mashup,,,,,,,,,,,,,,,,,,,
+8,Fedde Le Grand, Rhythm Of The Night,unknown,0.034,https://api.spotify.com/v1/audio-analysis/63ZZ0S3nsEq3fmTCRXhBAp,5A,0.678,218407.0,0.924,63ZZ0S3nsEq3fmTCRXhBAp,0.124,0.0,0.103,-5.093,0.0,0.0382,124.928,4.0,https://api.spotify.com/v1/tracks/63ZZ0S3nsEq3fmTCRXhBAp,audio_features,spotify:track:63ZZ0S3nsEq3fmTCRXhBAp,0.413
+9,ID, ID,unknown,0.000241,https://api.spotify.com/v1/audio-analysis/1aRxfiM606yUIQyKZzaslz,9B,0.269,129715.0,0.901,1aRxfiM606yUIQyKZzaslz,0.717,7.0,0.415,-7.38,1.0,0.0719,141.565,4.0,https://api.spotify.com/v1/tracks/1aRxfiM606yUIQyKZzaslz,audio_features,spotify:track:1aRxfiM606yUIQyKZzaslz,0.439

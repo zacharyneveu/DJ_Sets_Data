@@ -1,0 +1,21 @@
+,Artist(s),Title,Release,acousticness,analysis_url,camelot,danceability,duration_ms,energy,id,instrumentalness,key,liveness,loudness,mode,speechiness,tempo,time_signature,track_href,type,uri,valence
+0,KAAZE, Haartz ,VIP Intro Version,0.0159,https://api.spotify.com/v1/audio-analysis/3fJR4lbYS1J8NRD2dC8un6,10B,0.474,213066.0,0.882,3fJR4lbYS1J8NRD2dC8un6,0.0138,2.0,0.609,-4.249,1.0,0.095,129.99,3.0,https://api.spotify.com/v1/tracks/3fJR4lbYS1J8NRD2dC8un6,audio_features,spotify:track:3fJR4lbYS1J8NRD2dC8un6,0.19
+1,KAAZE Hardwell   Austin Mahone, Creatures Of The Haartz ,KAAZE Mashup,,,,,,,,,,,,,,,,,,,
+2,Hardwell KAAZE   Jay Sean   Tom Swoon Teamworx, Thinking About Atom ,KAAZE Mashup,,,,,,,,,,,,,,,,,,,
+3,KAAZE   KURA, Got Tora Milk? ,KAAZE Mashup,,,,,,,,,,,,,,,,,,,
+4,Corey James WILL K   Dada Life   Eurythmics, Sweet RIU Motherfucker ,KAAZE Mashup,,,,,,,,,,,,,,,,,,,
+5,Victor Porfidio Mark Martins   The Chemical Brothers, Hey Block Rockin Zuma ,KAAZE Mashup,,,,,,,,,,,,,,,,,,,
+6,Knife Party   Tommy Trash, The End Of Rage Valley ,KAAZE Mashup,,,,,,,,,,,,,,,,,,,
+7,Throttle   Sexroom, Money Totem Maker ,KAAZE Mashup,,,,,,,,,,,,,,,,,,,
+8,KAAZE, Triplet ,Hardwell & KAAZE UMF Mashup,0.00451,https://api.spotify.com/v1/audio-analysis/5jE8bwpklpLIGsnPDXpRoL,5B,0.345,182727.0,0.702,5jE8bwpklpLIGsnPDXpRoL,3.23e-05,3.0,0.373,-4.883,1.0,0.0347,132.162,4.0,https://api.spotify.com/v1/tracks/5jE8bwpklpLIGsnPDXpRoL,audio_features,spotify:track:5jE8bwpklpLIGsnPDXpRoL,0.139
+9,ID   Hardwell   Amba Shepherd, ID ,KAAZE Mashup,0.000241,https://api.spotify.com/v1/audio-analysis/1aRxfiM606yUIQyKZzaslz,9B,0.269,129715.0,0.901,1aRxfiM606yUIQyKZzaslz,0.717,7.0,0.415,-7.38,1.0,0.0719,141.565,4.0,https://api.spotify.com/v1/tracks/1aRxfiM606yUIQyKZzaslz,audio_features,spotify:track:1aRxfiM606yUIQyKZzaslz,0.439
+10,ID, Black Sahara,unknown,,,,,,,,,,,,,,,,,,,
+11,ID, Less Is More,unknown,,,,,,,,,,,,,,,,,,,
+12,RavenKis   Supermode   Daft Punk   Adrian Lux, Tell Stellar Aerodynamic Crime ,KAAZE Mashup,,,,,,,,,,,,,,,,,,,
+13,Shaft, ,Mucho Mambo,,,,,,,,,,,,,,,,,,,
+14,Nari Milani   Hiisak   Michael Jackson, Say Say Camino Del Sol ,KAAZE Mashup,,,,,,,,,,,,,,,,,,,
+15,Kryder Tom Staar   Heisak Tom Swoon, Jericho Around La Fanfarra ,KAAZE Mashup,,,,,,,,,,,,,,,,,,,
+16,Badd Dimes   MARNIK Lush Simon   Faithless, Low Insomnia Orion ,KAAZE Mashup,,,,,,,,,,,,,,,,,,,
+17,Olly James R3SPAWN   TWOLOUD KAAZE   Swedish House Mafia, Alarm The Color Antidote ,KAAZE Mashup,,,,,,,,,,,,,,,,,,,
+18,Metallica   Maddix Jayden Jaxx, Enter Voltage ,KAAZE Mashup,,,,,,,,,,,,,,,,,,,
+19,KAAZE   Linkin Park, Sin City ,KAAZE Mashup,0.00187,https://api.spotify.com/v1/audio-analysis/50FBmZejjPkE8siCSglfjZ,4A,0.505,187500.0,0.787,50FBmZejjPkE8siCSglfjZ,0.00065,5.0,0.556,-5.341,0.0,0.0754,127.961,4.0,https://api.spotify.com/v1/tracks/50FBmZejjPkE8siCSglfjZ,audio_features,spotify:track:50FBmZejjPkE8siCSglfjZ,0.182

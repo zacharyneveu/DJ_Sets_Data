@@ -1,0 +1,18 @@
+,Artist(s),Title,Release,acousticness,analysis_url,camelot,danceability,duration_ms,energy,id,instrumentalness,key,liveness,loudness,mode,speechiness,tempo,time_signature,track_href,type,uri,valence
+0,RY X, Only ,Kaskade X Lipless Remix,0.0805,https://api.spotify.com/v1/audio-analysis/3Zr4ARt0R9K8kQ8EqfUmZt,6A,0.353,252296.0,0.588,3Zr4ARt0R9K8kQ8EqfUmZt,0.167,7.0,0.146,-5.597,0.0,0.0537,173.878,3.0,https://api.spotify.com/v1/tracks/3Zr4ARt0R9K8kQ8EqfUmZt,audio_features,spotify:track:3Zr4ARt0R9K8kQ8EqfUmZt,0.104
+1,Kaskade, Nobody Like You ,Sun Soaked Mix,0.492,https://api.spotify.com/v1/audio-analysis/61b7m8jNskWINV4yZCaflc,6A,0.62,240796.0,0.569,61b7m8jNskWINV4yZCaflc,0.592,7.0,0.15,-10.041,0.0,0.0642,120.968,4.0,https://api.spotify.com/v1/tracks/61b7m8jNskWINV4yZCaflc,audio_features,spotify:track:61b7m8jNskWINV4yZCaflc,0.0574
+2,Kaskade, Play With Me ,Extended Mix,0.0731,https://api.spotify.com/v1/audio-analysis/5svzxXCY1OarOcJvDyVLcT,5B,0.772,195398.0,0.653,5svzxXCY1OarOcJvDyVLcT,0.000108,3.0,0.113,-7.552,1.0,0.0596,119.965,4.0,https://api.spotify.com/v1/tracks/5svzxXCY1OarOcJvDyVLcT,audio_features,spotify:track:5svzxXCY1OarOcJvDyVLcT,0.179
+3,Kaskade Galantis   Anderholm, Nocturne Mercy ,Kaskade Redux Sunrise Mashup,,,,,,,,,,,,,,,,,,,
+4,Kaskade   Jonas Rathsman Josef Salvat, Never Sleep Complex ,Kaskade Redux Mashup,,,,,,,,,,,,,,,,,,,
+5,Kaskade   BLR, Atmosphere Boda ,Kaskade Redux Mashup,,,,,,,,,,,,,,,,,,,
+6,Kaskade EDX, Angel On My Shoulder Roadkill ,Kaskade Redux Mashup,,,,,,,,,,,,,,,,,,,
+7,Kaskade   Felon, Isla's Room For Happiness ,Kaskade Redux Mashup,,,,,,,,,,,,,,,,,,,
+8,Kaskade   Cookie Crumbles, Where Are Disarm You ,Kaskade Redux Mashup,,,,,,,,,,,,,,,,,,,
+9,Kaskade L'Tric   Fleetwood Mac, Dreams,unknown,0.0644,https://api.spotify.com/v1/audio-analysis/0ofHAoxe9vBkTCp2UQIavz,8B,0.828,257800.0,0.492,0ofHAoxe9vBkTCp2UQIavz,0.00428,0.0,0.128,-9.744,1.0,0.0276,120.151,4.0,https://api.spotify.com/v1/tracks/0ofHAoxe9vBkTCp2UQIavz,audio_features,spotify:track:0ofHAoxe9vBkTCp2UQIavz,0.789
+10,Kaskade Felix Cartal   Ofelia K, Fakin It ,Hook N Sling Remix,0.00564,https://api.spotify.com/v1/audio-analysis/6eRumgSHoTpIth3y7hjQ6Z,10A,0.836,267620.0,0.846,6eRumgSHoTpIth3y7hjQ6Z,0.0564,11.0,0.0538,-2.31,0.0,0.0444,126.026,4.0,https://api.spotify.com/v1/tracks/6eRumgSHoTpIth3y7hjQ6Z,audio_features,spotify:track:6eRumgSHoTpIth3y7hjQ6Z,0.816
+11,Kaskade BROHUG Mr. Tape, Fun Fun Fun,unknown,0.0215,https://api.spotify.com/v1/audio-analysis/6quwZWSOygVjpaTG84whzq,8B,0.839,174705.0,0.922,6quwZWSOygVjpaTG84whzq,0.00936,0.0,0.0548,-3.166,1.0,0.0568,122.986,4.0,https://api.spotify.com/v1/tracks/6quwZWSOygVjpaTG84whzq,audio_features,spotify:track:6quwZWSOygVjpaTG84whzq,0.328
+12,Kaskade LöKii, Last Chance ID ,Kaskade Mashup,,,,,,,,,,,,,,,,,,,
+13,Kaskade   Luke Chable pres. LOKII Mr. Tape, Show Of Hands,unknown,0.0817,https://api.spotify.com/v1/audio-analysis/6c54HhGqvxlLavDsDzyLiw,9A,0.893,202448.0,0.699,6c54HhGqvxlLavDsDzyLiw,0.0566,4.0,0.393,-4.657,0.0,0.201,125.031,4.0,https://api.spotify.com/v1/tracks/6c54HhGqvxlLavDsDzyLiw,audio_features,spotify:track:6c54HhGqvxlLavDsDzyLiw,0.475
+14,CID Kaskade, Sweet Memories,unknown,0.0268,https://api.spotify.com/v1/audio-analysis/6F3rgQfSns1slUnMfHXjOA,8A,0.624,157452.0,0.923,6F3rgQfSns1slUnMfHXjOA,0.000228,9.0,0.0509,-5.449,0.0,0.0335,124.994,4.0,https://api.spotify.com/v1/tracks/6F3rgQfSns1slUnMfHXjOA,audio_features,spotify:track:6F3rgQfSns1slUnMfHXjOA,0.402
+15,Kaskade Deadmau5   Luca Debonaire Croatia Squad, Beneath With Me Walking On Air V.5 ,Kaskade Mashup,,,,,,,,,,,,,,,,,,,
+16,Kaskade   ODESZA, Start Again Late Night ,Kaskade 2017 Redux Mashup,,,,,,,,,,,,,,,,,,,

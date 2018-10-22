@@ -1,0 +1,37 @@
+,Artist(s),Title,Release,acousticness,analysis_url,camelot,danceability,duration_ms,energy,id,instrumentalness,key,liveness,loudness,mode,speechiness,tempo,time_signature,track_href,type,uri,valence
+0,Filippo Naughty Moscatello, The bar with the sharks,unknown,,,,,,,,,,,,,,,,,,,
+1,Syntax Error, Marionette like Fucker,unknown,0.000538,https://api.spotify.com/v1/audio-analysis/2Lfr5e9t35hafts2BUNHb3,10A,0.799,399168.0,0.631,2Lfr5e9t35hafts2BUNHb3,0.911,11.0,0.105,-12.17,0.0,0.0727,129.985,4.0,https://api.spotify.com/v1/tracks/2Lfr5e9t35hafts2BUNHb3,audio_features,spotify:track:2Lfr5e9t35hafts2BUNHb3,0.164
+2,Shaf Huse, Get em up,unknown,0.000513,https://api.spotify.com/v1/audio-analysis/4tmzdpg9Dd2gpw90fqnOsO,3B,0.856,455986.0,0.842,4tmzdpg9Dd2gpw90fqnOsO,0.916,1.0,0.717,-8.818,1.0,0.112,123.995,4.0,https://api.spotify.com/v1/tracks/4tmzdpg9Dd2gpw90fqnOsO,audio_features,spotify:track:4tmzdpg9Dd2gpw90fqnOsO,0.285
+3,Bad Boy Bill Hatiras, Hydrophonic Music,unknown,0.000891,https://api.spotify.com/v1/audio-analysis/2Rt1XjnLym9eRnGTBysYJg,11A,0.664,247267.0,0.976,2Rt1XjnLym9eRnGTBysYJg,0.124,6.0,0.27,-6.273,0.0,0.224,131.988,4.0,https://api.spotify.com/v1/tracks/2Rt1XjnLym9eRnGTBysYJg,audio_features,spotify:track:2Rt1XjnLym9eRnGTBysYJg,0.459
+4,Kenny Dope, Makin' A Living,unknown,,,,,,,,,,,,,,,,,,,
+5,Sagat, Luvstuff ,Ghetto house mix,0.306,https://api.spotify.com/v1/audio-analysis/5bTTvmc9IUtAx0HdDp0S6w,10A,0.7,176440.0,0.481,5bTTvmc9IUtAx0HdDp0S6w,0.0231,11.0,0.0783,-16.734,0.0,0.244,192.103,4.0,https://api.spotify.com/v1/tracks/5bTTvmc9IUtAx0HdDp0S6w,audio_features,spotify:track:5bTTvmc9IUtAx0HdDp0S6w,0.509
+6,Soulsearcher, Can't get enough ,vocal club mix,,,,,,,,,,,,,,,,,,,
+7,Emery Warman, Alright,unknown,0.000385,https://api.spotify.com/v1/audio-analysis/5FTsTFd6kYG0mrPvMrCf7J,10A,0.834,394776.0,0.81,5FTsTFd6kYG0mrPvMrCf7J,0.841,11.0,0.0553,-9.797,0.0,0.0661,124.016,4.0,https://api.spotify.com/v1/tracks/5FTsTFd6kYG0mrPvMrCf7J,audio_features,spotify:track:5FTsTFd6kYG0mrPvMrCf7J,0.899
+8,Dangerous, Kid Enigma,unknown,,,,,,,,,,,,,,,,,,,
+9,Black, Dj vivona ,Joeski remix,,,,,,,,,,,,,,,,,,,
+10,Catch the beat (instrumental)," Honey, Dijon, Cakes da killa",instrumental,,,,,,,,,,,,,,,,,,,
+11,Cabin Fever, Snapped,unknown,,,,,,,,,,,,,,,,,,,
+12,Outlander, The vamp ,frank de wulf remix,0.00377,https://api.spotify.com/v1/audio-analysis/2UfRVEAOdJN1o1AVGyGYp3,12A,0.634,400413.0,0.915,2UfRVEAOdJN1o1AVGyGYp3,0.626,1.0,0.377,-8.072,0.0,0.0412,128.025,4.0,https://api.spotify.com/v1/tracks/2UfRVEAOdJN1o1AVGyGYp3,audio_features,spotify:track:2UfRVEAOdJN1o1AVGyGYp3,0.389
+13,you're so just just, Rework,unknown,0.153,https://api.spotify.com/v1/audio-analysis/2iR5vTHshvZsMxrhSFlY4u,8B,0.59,262497.0,0.294,2iR5vTHshvZsMxrhSFlY4u,0.0948,0.0,0.121,-15.17,1.0,0.315,98.007,4.0,https://api.spotify.com/v1/tracks/2iR5vTHshvZsMxrhSFlY4u,audio_features,spotify:track:2iR5vTHshvZsMxrhSFlY4u,0.338
+14,Penrose Steps, Tom Middleton,unknown,,,,,,,,,,,,,,,,,,,
+15,ID, ID,unknown,0.000241,https://api.spotify.com/v1/audio-analysis/1aRxfiM606yUIQyKZzaslz,9B,0.269,129715.0,0.901,1aRxfiM606yUIQyKZzaslz,0.717,7.0,0.415,-7.38,1.0,0.0719,141.565,4.0,https://api.spotify.com/v1/tracks/1aRxfiM606yUIQyKZzaslz,audio_features,spotify:track:1aRxfiM606yUIQyKZzaslz,0.439
+16,The Amazing, Qu'est,unknown,,,,,,,,,,,,,,,,,,,
+17,Percomaniac, Sabb,unknown,,,,,,,,,,,,,,,,,,,
+18,Carrrrrrramba (monkey mix), Paul Ritch,monkey mix,,,,,,,,,,,,,,,,,,,
+19,ID, ID,unknown,0.000241,https://api.spotify.com/v1/audio-analysis/1aRxfiM606yUIQyKZzaslz,9B,0.269,129715.0,0.901,1aRxfiM606yUIQyKZzaslz,0.717,7.0,0.415,-7.38,1.0,0.0719,141.565,4.0,https://api.spotify.com/v1/tracks/1aRxfiM606yUIQyKZzaslz,audio_features,spotify:track:1aRxfiM606yUIQyKZzaslz,0.439
+20,ID, ID,unknown,0.000241,https://api.spotify.com/v1/audio-analysis/1aRxfiM606yUIQyKZzaslz,9B,0.269,129715.0,0.901,1aRxfiM606yUIQyKZzaslz,0.717,7.0,0.415,-7.38,1.0,0.0719,141.565,4.0,https://api.spotify.com/v1/tracks/1aRxfiM606yUIQyKZzaslz,audio_features,spotify:track:1aRxfiM606yUIQyKZzaslz,0.439
+21,Starfucker (the martinez brothers remix), Audion,the martinez brothers remix,6.77e-05,https://api.spotify.com/v1/audio-analysis/6vUN2nxpV6s1gB4OZwrnIG,3B,0.806,390419.0,0.843,6vUN2nxpV6s1gB4OZwrnIG,0.895,1.0,0.0863,-11.768,1.0,0.0871,123.021,4.0,https://api.spotify.com/v1/tracks/6vUN2nxpV6s1gB4OZwrnIG,audio_features,spotify:track:6vUN2nxpV6s1gB4OZwrnIG,0.116
+22,Never Wanted One, Heartthrob,unknown,,,,,,,,,,,,,,,,,,,
+23,ID, ID,unknown,0.000241,https://api.spotify.com/v1/audio-analysis/1aRxfiM606yUIQyKZzaslz,9B,0.269,129715.0,0.901,1aRxfiM606yUIQyKZzaslz,0.717,7.0,0.415,-7.38,1.0,0.0719,141.565,4.0,https://api.spotify.com/v1/tracks/1aRxfiM606yUIQyKZzaslz,audio_features,spotify:track:1aRxfiM606yUIQyKZzaslz,0.439
+24,Kurokin (Dj Deeon mix 2), D Kawa,Dj Deeon mix 2,,,,,,,,,,,,,,,,,,,
+25,Dominator, Altered Natives,unknown,,,,,,,,,,,,,,,,,,,
+26,ID, ID,unknown,0.000241,https://api.spotify.com/v1/audio-analysis/1aRxfiM606yUIQyKZzaslz,9B,0.269,129715.0,0.901,1aRxfiM606yUIQyKZzaslz,0.717,7.0,0.415,-7.38,1.0,0.0719,141.565,4.0,https://api.spotify.com/v1/tracks/1aRxfiM606yUIQyKZzaslz,audio_features,spotify:track:1aRxfiM606yUIQyKZzaslz,0.439
+27,Slow Mo, Woody Mcbride,unknown,,,,,,,,,,,,,,,,,,,
+28,Chris Carrier, Cat's Eye Nebula,unknown,,,,,,,,,,,,,,,,,,,
+29,Renegade 2017, shaf huse y leon,unknown,,,,,,,,,,,,,,,,,,,
+30,Crystal Waters, Gypsy Woman ,DieMantle RaveYard Mix,0.000137,https://api.spotify.com/v1/audio-analysis/4QAKfScH8kLJTbJqhb2jp2,8A,0.652,229573.0,0.774,4QAKfScH8kLJTbJqhb2jp2,0.325,9.0,0.0939,-10.524,0.0,0.0328,119.984,4.0,https://api.spotify.com/v1/tracks/4QAKfScH8kLJTbJqhb2jp2,audio_features,spotify:track:4QAKfScH8kLJTbJqhb2jp2,0.464
+31,DJ Buck, Highlights,unknown,0.000271,https://api.spotify.com/v1/audio-analysis/6ARDv59iwwCldIKfrgFmO7,11A,0.267,334080.0,0.745,6ARDv59iwwCldIKfrgFmO7,0.855,6.0,0.774,-6.4,0.0,0.049,175.22,4.0,https://api.spotify.com/v1/tracks/6ARDv59iwwCldIKfrgFmO7,audio_features,spotify:track:6ARDv59iwwCldIKfrgFmO7,0.237
+32,ID, ID,unknown,0.000241,https://api.spotify.com/v1/audio-analysis/1aRxfiM606yUIQyKZzaslz,9B,0.269,129715.0,0.901,1aRxfiM606yUIQyKZzaslz,0.717,7.0,0.415,-7.38,1.0,0.0719,141.565,4.0,https://api.spotify.com/v1/tracks/1aRxfiM606yUIQyKZzaslz,audio_features,spotify:track:1aRxfiM606yUIQyKZzaslz,0.439
+33,The Martinez Brothers Martin Buttrich, 9 Pound Hammer,unknown,0.92,https://api.spotify.com/v1/audio-analysis/6OD8RSQWx9nZLz54ZLUI1I,1B,0.357,165960.0,0.352,6OD8RSQWx9nZLz54ZLUI1I,5.12e-06,11.0,0.131,-15.391,1.0,0.032,90.485,4.0,https://api.spotify.com/v1/tracks/6OD8RSQWx9nZLz54ZLUI1I,audio_features,spotify:track:6OD8RSQWx9nZLz54ZLUI1I,0.673
+34,Women beat their men (Cevin's peak hour dub),Submission,Cevin's peak hour dub,0.143,https://api.spotify.com/v1/audio-analysis/3QrFQzivytVDPjRCi48skd,7B,0.794,469920.0,0.4,3QrFQzivytVDPjRCi48skd,0.737,5.0,0.112,-14.398,1.0,0.044,121.01,4.0,https://api.spotify.com/v1/tracks/3QrFQzivytVDPjRCi48skd,audio_features,spotify:track:3QrFQzivytVDPjRCi48skd,0.192
+35,KDA, Hate ,Unreleased,0.403,https://api.spotify.com/v1/audio-analysis/3Mza9Gaja1uS1f3FgRqgon,11B,0.867,218710.0,0.66,3Mza9Gaja1uS1f3FgRqgon,0.000364,9.0,0.102,-9.419,1.0,0.239,124.007,4.0,https://api.spotify.com/v1/tracks/3Mza9Gaja1uS1f3FgRqgon,audio_features,spotify:track:3Mza9Gaja1uS1f3FgRqgon,0.533

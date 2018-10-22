@@ -1,0 +1,22 @@
+,Artist(s),Title,Release,acousticness,analysis_url,camelot,danceability,duration_ms,energy,id,instrumentalness,key,liveness,loudness,mode,speechiness,tempo,time_signature,track_href,type,uri,valence
+0,Eric Prydz, EP/IC 2 Intro,unknown,,,,,,,,,,,,,,,,,,,
+1,Pryda, Power Drive ,EP/IC Rework,0.00204,https://api.spotify.com/v1/audio-analysis/4zMjjAXT94uRKRVZH07w6g,7B,0.604,533428.0,0.714,4zMjjAXT94uRKRVZH07w6g,0.901,5.0,0.089,-6.997,1.0,0.04,125.995,4.0,https://api.spotify.com/v1/tracks/4zMjjAXT94uRKRVZH07w6g,audio_features,spotify:track:4zMjjAXT94uRKRVZH07w6g,0.16
+2,Cirez D, Mokba,unknown,0.000496,https://api.spotify.com/v1/audio-analysis/5wlRqzcQDEIy4n4JjHpJay,4B,0.733,376499.0,0.953,5wlRqzcQDEIy4n4JjHpJay,0.819,8.0,0.0557,-8.663,1.0,0.0715,126.01,4.0,https://api.spotify.com/v1/tracks/5wlRqzcQDEIy4n4JjHpJay,audio_features,spotify:track:5wlRqzcQDEIy4n4JjHpJay,0.931
+3,Eric Prydz, ID,unknown,0.018,https://api.spotify.com/v1/audio-analysis/2EbfOAhsCaH6p04UTDwTZv,8B,0.347,212959.0,0.971,2EbfOAhsCaH6p04UTDwTZv,0.022,0.0,0.552,-5.72,1.0,0.0928,159.067,4.0,https://api.spotify.com/v1/tracks/2EbfOAhsCaH6p04UTDwTZv,audio_features,spotify:track:2EbfOAhsCaH6p04UTDwTZv,0.422
+4,w/ Dajae, Everyday My Life ,Acapella,0.0059,https://api.spotify.com/v1/audio-analysis/1VvHkDZYUA0X8Xcffwr0ZR,4B,0.641,222187.0,0.714,1VvHkDZYUA0X8Xcffwr0ZR,0.246,8.0,0.34,-7.205,1.0,0.0284,128.991,4.0,https://api.spotify.com/v1/tracks/1VvHkDZYUA0X8Xcffwr0ZR,audio_features,spotify:track:1VvHkDZYUA0X8Xcffwr0ZR,0.85
+5,Pryda, Spectrum,unknown,,,,,,,,,,,,,,,,,,,
+6,Matisse, Melodicca,unknown,,,,,,,,,,,,,,,,,,,
+7,Gimbal Sinan, Is It Love ,Eric Prydz Edit,,,,,,,,,,,,,,,,,,,
+8,Pryda, In My Head,unknown,,,,,,,,,,,,,,,,,,,
+9,Pryda, Tornado,unknown,,,,,,,,,,,,,,,,,,,
+10,w/ Danny Tenaglia   Celeda, Music Is The Answer ,Dancin' And Prancin',0.00329,https://api.spotify.com/v1/audio-analysis/0d5Sgzv1yntDEGWiVXWXpD,11A,0.868,176926.0,0.691,0d5Sgzv1yntDEGWiVXWXpD,0.0899,6.0,0.28,-9.765,0.0,0.138,121.982,4.0,https://api.spotify.com/v1/tracks/0d5Sgzv1yntDEGWiVXWXpD,audio_features,spotify:track:0d5Sgzv1yntDEGWiVXWXpD,0.798
+11,Pryda   Everything But The Girl, Missing Europa ,Eric Prydz Mashup,0.968,https://api.spotify.com/v1/audio-analysis/1prvjGPXosGjp9kkN3B0rB,7B,0.171,136281.0,0.0615,1prvjGPXosGjp9kkN3B0rB,0.967,5.0,0.1,-17.502,1.0,0.0428,114.439,1.0,https://api.spotify.com/v1/tracks/1prvjGPXosGjp9kkN3B0rB,audio_features,spotify:track:1prvjGPXosGjp9kkN3B0rB,0.0381
+12,Pryda, Dawn,unknown,,,,,,,,,,,,,,,,,,,
+13,Digitalism, Circles ,Eric Prydz Remix,0.00406,https://api.spotify.com/v1/audio-analysis/4ukrh2CB3lWr45EHRTHEbA,1B,0.421,228293.0,0.943,4ukrh2CB3lWr45EHRTHEbA,0.00335,11.0,0.101,-4.368,1.0,0.365,140.018,3.0,https://api.spotify.com/v1/tracks/4ukrh2CB3lWr45EHRTHEbA,audio_features,spotify:track:4ukrh2CB3lWr45EHRTHEbA,0.221
+14,Pryda, Madderferrys,unknown,0.0186,https://api.spotify.com/v1/audio-analysis/6A11Eg10wZHU2ITg1sYmc3,3B,0.63,667087.0,0.749,6A11Eg10wZHU2ITg1sYmc3,0.877,1.0,0.522,-11.033,1.0,0.0424,126.985,4.0,https://api.spotify.com/v1/tracks/6A11Eg10wZHU2ITg1sYmc3,audio_features,spotify:track:6A11Eg10wZHU2ITg1sYmc3,0.488
+15,John Grant, Pale Green Ghosts ,Cirez D Private Revolution Remix,0.0113,https://api.spotify.com/v1/audio-analysis/2t2w3jHsj9Yk4XjztTAOPP,10B,0.705,363787.0,0.413,2t2w3jHsj9Yk4XjztTAOPP,0.0459,2.0,0.055,-10.919,1.0,0.0895,182.01,4.0,https://api.spotify.com/v1/tracks/2t2w3jHsj9Yk4XjztTAOPP,audio_features,spotify:track:2t2w3jHsj9Yk4XjztTAOPP,0.566
+16,Cirez D, New City Gas NCG ID ,Working Title,,,,,,,,,,,,,,,,,,,
+17,Cirez D, Metropolitan ID ,Working Title,,,,,,,,,,,,,,,,,,,
+18,Cirez D, Glow,unknown,0.0488,https://api.spotify.com/v1/audio-analysis/41IIvKRt65lVRZ0zzLsjaw,5B,0.793,558860.0,0.843,41IIvKRt65lVRZ0zzLsjaw,0.889,3.0,0.642,-9.537,1.0,0.0517,127.993,4.0,https://api.spotify.com/v1/tracks/41IIvKRt65lVRZ0zzLsjaw,audio_features,spotify:track:41IIvKRt65lVRZ0zzLsjaw,0.117
+19,Pryda, Villa Mercedes 2009 ID ,Working Title,,,,,,,,,,,,,,,,,,,
+20,Legowelt, Disco Rout,unknown,0.000883,https://api.spotify.com/v1/audio-analysis/6VNjVxXkPQcngfuNDYjIPk,9B,0.607,343707.0,0.946,6VNjVxXkPQcngfuNDYjIPk,0.62,7.0,0.0771,-5.52,1.0,0.189,135.855,4.0,https://api.spotify.com/v1/tracks/6VNjVxXkPQcngfuNDYjIPk,audio_features,spotify:track:6VNjVxXkPQcngfuNDYjIPk,0.362

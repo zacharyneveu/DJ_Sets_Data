@@ -1,0 +1,2 @@
+,Artist(s),Title,Release,acousticness,analysis_url,camelot,danceability,duration_ms,energy,id,instrumentalness,key,liveness,loudness,mode,speechiness,tempo,time_signature,track_href,type,uri,valence
+0,Oliver Heldens X Becky Hill, Gecko ,Overdrive,0.00521,https://api.spotify.com/v1/audio-analysis/483XiZ5o13Cc1zoWV7jGml,8B,0.609,165441.0,0.885,483XiZ5o13Cc1zoWV7jGml,1.15e-05,0.0,0.336,-5.469,1.0,0.0642,124.959,4.0,https://api.spotify.com/v1/tracks/483XiZ5o13Cc1zoWV7jGml,audio_features,spotify:track:483XiZ5o13Cc1zoWV7jGml,0.76

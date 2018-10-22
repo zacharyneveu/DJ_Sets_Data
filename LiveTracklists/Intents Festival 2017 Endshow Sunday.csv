@@ -1,0 +1,4 @@
+,Artist(s),Title,Release,acousticness,analysis_url,camelot,danceability,duration_ms,energy,id,instrumentalness,key,liveness,loudness,mode,speechiness,tempo,time_signature,track_href,type,uri,valence
+0,Bass Modulators, Mantra,unknown,0.00111,https://api.spotify.com/v1/audio-analysis/3P0uKnNjU90Rrl0Ygg3QfH,4A,0.448,232000.0,0.949,3P0uKnNjU90Rrl0Ygg3QfH,0.00461,5.0,0.308,-2.124,0.0,0.0772,150.086,4.0,https://api.spotify.com/v1/tracks/3P0uKnNjU90Rrl0Ygg3QfH,audio_features,spotify:track:3P0uKnNjU90Rrl0Ygg3QfH,0.114
+1,Adaro Digital Punk, Circus Of Insanity ,Intents Festival 2017 Anthem,0.0141,https://api.spotify.com/v1/audio-analysis/3HNA3SGtpAyHUkkv3sPi98,10A,0.515,284626.0,0.961,3HNA3SGtpAyHUkkv3sPi98,0.000308,11.0,0.11,-3.217,0.0,0.0619,153.079,4.0,https://api.spotify.com/v1/tracks/3HNA3SGtpAyHUkkv3sPi98,audio_features,spotify:track:3HNA3SGtpAyHUkkv3sPi98,0.396
+2,Public Enemies, Crowd's Gotta Move,unknown,,,,,,,,,,,,,,,,,,,

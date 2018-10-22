@@ -1,0 +1,23 @@
+,Artist(s),Title,Release,acousticness,analysis_url,camelot,danceability,duration_ms,energy,id,instrumentalness,key,liveness,loudness,mode,speechiness,tempo,time_signature,track_href,type,uri,valence
+0,Pulsatorz,EDC Intro 2018,unknown,,,,,,,,,,,,,,,,,,,
+1,Pulsatorz,Equation,unknown,0.00136,https://api.spotify.com/v1/audio-analysis/0tjMR7gpluBi98V1ehbDPY,10A,0.578,172800.0,0.92,0tjMR7gpluBi98V1ehbDPY,0.819,11.0,0.29,-4.684,0.0,0.0502,149.965,4.0,https://api.spotify.com/v1/tracks/0tjMR7gpluBi98V1ehbDPY,audio_features,spotify:track:0tjMR7gpluBi98V1ehbDPY,0.105
+2,Reactor,Energy,unknown,0.000113,https://api.spotify.com/v1/audio-analysis/7z1CmyGPUjKnYQqw7amVJP,3B,0.437,392507.0,0.821,7z1CmyGPUjKnYQqw7amVJP,0.342,1.0,0.222,-10.339,1.0,0.0392,131.157,4.0,https://api.spotify.com/v1/tracks/7z1CmyGPUjKnYQqw7amVJP,audio_features,spotify:track:7z1CmyGPUjKnYQqw7amVJP,0.075
+3,Pulsatorz,Blondie,unknown,,,,,,,,,,,,,,,,,,,
+4,Talon,Primal Source,MEDIA RECORDS,0.00297,https://api.spotify.com/v1/audio-analysis/5LT46GBTQhRwOXkUnS3rbB,12A,0.67,203238.0,0.947,5LT46GBTQhRwOXkUnS3rbB,0.388,1.0,0.0869,-5.315,0.0,0.121,149.993,4.0,https://api.spotify.com/v1/tracks/5LT46GBTQhRwOXkUnS3rbB,audio_features,spotify:track:5LT46GBTQhRwOXkUnS3rbB,0.529
+5,Mekanikal,Bass Kick,unknown,,,,,,,,,,,,,,,,,,,
+6,New Yorks Most Wanted,BoBByYY,unknown,,,,,,,,,,,,,,,,,,,
+7,Pulsatorz,Chords,unknown,0.0048,https://api.spotify.com/v1/audio-analysis/0iz4DG7fqYSbidhF5xJfZR,4A,0.516,217600.0,0.952,0iz4DG7fqYSbidhF5xJfZR,0.00216,5.0,0.363,-2.77,0.0,0.0384,149.912,4.0,https://api.spotify.com/v1/tracks/0iz4DG7fqYSbidhF5xJfZR,audio_features,spotify:track:0iz4DG7fqYSbidhF5xJfZR,0.32
+8,Pulsatorz,Satellite,2015 Str8 to Melo,,,,,,,,,,,,,,,,,,,
+9,Breaking Benjamin,Failure,New Yorks Most Wanted Bootleg,2.99e-05,https://api.spotify.com/v1/audio-analysis/4wh0E9OwMCxcaIKTg0Mts9,3B,0.462,214853.0,0.89,4wh0E9OwMCxcaIKTg0Mts9,0.00909,1.0,0.0685,-4.853,1.0,0.0382,155.008,4.0,https://api.spotify.com/v1/tracks/4wh0E9OwMCxcaIKTg0Mts9,audio_features,spotify:track:4wh0E9OwMCxcaIKTg0Mts9,0.383
+10,Arterial,Pretentious,unknown,0.0038,https://api.spotify.com/v1/audio-analysis/1vqxvhIwxtCXy6k8h8R2Bl,5A,0.641,258000.0,0.966,1vqxvhIwxtCXy6k8h8R2Bl,0.0,0.0,0.179,-4.771,0.0,0.135,150.01,4.0,https://api.spotify.com/v1/tracks/1vqxvhIwxtCXy6k8h8R2Bl,audio_features,spotify:track:1vqxvhIwxtCXy6k8h8R2Bl,0.703
+11,Pulsatorz,Surge,unknown,0.00234,https://api.spotify.com/v1/audio-analysis/32Mc2IY4MxvUtA6QltwdhA,10A,0.439,254400.0,0.907,32Mc2IY4MxvUtA6QltwdhA,3.27e-05,11.0,0.374,-4.068,0.0,0.15,149.951,4.0,https://api.spotify.com/v1/tracks/32Mc2IY4MxvUtA6QltwdhA,audio_features,spotify:track:32Mc2IY4MxvUtA6QltwdhA,0.317
+12,"Sylence,Cyber",Each Other,unknown,0.00805,https://api.spotify.com/v1/audio-analysis/5cSM7hgfMNLQ0YuLsg4gkM,10A,0.463,190400.0,0.978,5cSM7hgfMNLQ0YuLsg4gkM,0.0983,11.0,0.267,-2.959,0.0,0.0758,149.958,4.0,https://api.spotify.com/v1/tracks/5cSM7hgfMNLQ0YuLsg4gkM,audio_features,spotify:track:5cSM7hgfMNLQ0YuLsg4gkM,0.309
+13,Pulsatorz,Triad,unknown,0.0271,https://api.spotify.com/v1/audio-analysis/2bxd2GwU5KNNn0CIsGn3pO,11A,0.482,217600.0,0.946,2bxd2GwU5KNNn0CIsGn3pO,0.000501,6.0,0.699,-4.07,0.0,0.0534,150.0,4.0,https://api.spotify.com/v1/tracks/2bxd2GwU5KNNn0CIsGn3pO,audio_features,spotify:track:2bxd2GwU5KNNn0CIsGn3pO,0.124
+14,Pulsatorz,Triad,Trap Version,0.0271,https://api.spotify.com/v1/audio-analysis/2bxd2GwU5KNNn0CIsGn3pO,11A,0.482,217600.0,0.946,2bxd2GwU5KNNn0CIsGn3pO,0.000501,6.0,0.699,-4.07,0.0,0.0534,150.0,4.0,https://api.spotify.com/v1/tracks/2bxd2GwU5KNNn0CIsGn3pO,audio_features,spotify:track:2bxd2GwU5KNNn0CIsGn3pO,0.124
+15,Pulsatorz,Oblivion,unknown,0.00161,https://api.spotify.com/v1/audio-analysis/2KCU9mUyBEhKb81eIAzOKG,11A,0.552,153600.0,0.957,2KCU9mUyBEhKb81eIAzOKG,0.000515,6.0,0.3,-4.409,0.0,0.0853,150.076,4.0,https://api.spotify.com/v1/tracks/2KCU9mUyBEhKb81eIAzOKG,audio_features,spotify:track:2KCU9mUyBEhKb81eIAzOKG,0.337
+16,CiM,Ravers Night,unknown,,,,,,,,,,,,,,,,,,,
+17,CiM,Rogue,unknown,,,,,,,,,,,,,,,,,,,
+18,Pulsatorz,JDGAF,unknown,,,,,,,,,,,,,,,,,,,
+19,CiM,Noize From The Block,unknown,,,,,,,,,,,,,,,,,,,
+20,CiM,Payback Time,unknown,,,,,,,,,,,,,,,,,,,
+21,CiM,I Get Raw,unknown,0.0047,https://api.spotify.com/v1/audio-analysis/1kMQmHxm98dXQyM45yVvQe,7B,0.508,299000.0,0.874,1kMQmHxm98dXQyM45yVvQe,0.000873,5.0,0.0685,-4.787,1.0,0.0573,150.05,4.0,https://api.spotify.com/v1/tracks/1kMQmHxm98dXQyM45yVvQe,audio_features,spotify:track:1kMQmHxm98dXQyM45yVvQe,0.0857

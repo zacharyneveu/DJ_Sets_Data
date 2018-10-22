@@ -1,0 +1,11 @@
+,Artist(s),Title,Release,acousticness,analysis_url,camelot,danceability,duration_ms,energy,id,instrumentalness,key,liveness,loudness,mode,speechiness,tempo,time_signature,track_href,type,uri,valence
+0,Caine   John Harris, No Mercy,unknown,0.0351,https://api.spotify.com/v1/audio-analysis/5sm4jltPf2uENt3zu2Z8YI,9B,0.448,238452.0,0.711,5sm4jltPf2uENt3zu2Z8YI,0.000678,7.0,0.225,-6.099,1.0,0.0558,154.746,4.0,https://api.spotify.com/v1/tracks/5sm4jltPf2uENt3zu2Z8YI,audio_features,spotify:track:5sm4jltPf2uENt3zu2Z8YI,0.0923
+1,Caine, There Will Be Blood,unknown,0.0224,https://api.spotify.com/v1/audio-analysis/0nBiXLd2wZ1SSrhap4rg8Y,3B,0.702,285879.0,0.835,0nBiXLd2wZ1SSrhap4rg8Y,0.081,1.0,0.127,-5.969,1.0,0.454,154.922,4.0,https://api.spotify.com/v1/tracks/0nBiXLd2wZ1SSrhap4rg8Y,audio_features,spotify:track:0nBiXLd2wZ1SSrhap4rg8Y,0.162
+2,Caine, Saviour,unknown,0.378,https://api.spotify.com/v1/audio-analysis/4hsNRr4YEvkxA569V5jeNs,9A,0.58,251200.0,0.563,4hsNRr4YEvkxA569V5jeNs,0.00235,4.0,0.117,-6.522,0.0,0.0877,149.956,4.0,https://api.spotify.com/v1/tracks/4hsNRr4YEvkxA569V5jeNs,audio_features,spotify:track:4hsNRr4YEvkxA569V5jeNs,0.155
+3,Caine, ID,unknown,,,,,,,,,,,,,,,,,,,
+4,Caine, ID,unknown,,,,,,,,,,,,,,,,,,,
+5,Caine, Extinction,unknown,0.173,https://api.spotify.com/v1/audio-analysis/4icBhepzT44gh69Ij8SRnN,1B,0.597,294375.0,0.884,4icBhepzT44gh69Ij8SRnN,0.000143,11.0,0.247,-5.916,1.0,0.11,154.967,4.0,https://api.spotify.com/v1/tracks/4icBhepzT44gh69Ij8SRnN,audio_features,spotify:track:4icBhepzT44gh69Ij8SRnN,0.224
+6,Caine, Underground Movement,unknown,0.0205,https://api.spotify.com/v1/audio-analysis/51YuNe8Y4ehTZkeZkplsG3,11A,0.557,195496.0,0.925,51YuNe8Y4ehTZkeZkplsG3,0.000142,6.0,0.232,-4.809,0.0,0.11,158.027,4.0,https://api.spotify.com/v1/tracks/51YuNe8Y4ehTZkeZkplsG3,audio_features,spotify:track:51YuNe8Y4ehTZkeZkplsG3,0.115
+7,Caine, ID,unknown,,,,,,,,,,,,,,,,,,,
+8,Caine, Abomination ,Live Edit,0.345,https://api.spotify.com/v1/audio-analysis/1Yv5XMWnl0xUFtrn8vUIo1,12B,0.571,211875.0,0.877,1Yv5XMWnl0xUFtrn8vUIo1,0.000166,4.0,0.248,-5.153,1.0,0.197,159.992,4.0,https://api.spotify.com/v1/tracks/1Yv5XMWnl0xUFtrn8vUIo1,audio_features,spotify:track:1Yv5XMWnl0xUFtrn8vUIo1,0.0901
+9,Angernoizer Caine, Bring Down The Machine,unknown,,,,,,,,,,,,,,,,,,,

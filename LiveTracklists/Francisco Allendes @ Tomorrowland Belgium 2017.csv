@@ -1,0 +1,11 @@
+,Artist(s),Title,Release,acousticness,analysis_url,camelot,danceability,duration_ms,energy,id,instrumentalness,key,liveness,loudness,mode,speechiness,tempo,time_signature,track_href,type,uri,valence
+0,Lexlay, Every Soul,unknown,0.00612,https://api.spotify.com/v1/audio-analysis/5KlQzSDtAFmG1Lk1aLQLM9,3A,0.789,438744.0,0.898,5KlQzSDtAFmG1Lk1aLQLM9,0.803,10.0,0.587,-6.688,0.0,0.0917,125.0,4.0,https://api.spotify.com/v1/tracks/5KlQzSDtAFmG1Lk1aLQLM9,audio_features,spotify:track:5KlQzSDtAFmG1Lk1aLQLM9,0.588
+1,Kreature, This Way,unknown,0.000327,https://api.spotify.com/v1/audio-analysis/16KJpU9bGCoywdcMLYgVGz,11A,0.803,439672.0,0.888,16KJpU9bGCoywdcMLYgVGz,0.819,6.0,0.0789,-9.047,0.0,0.0971,123.023,4.0,https://api.spotify.com/v1/tracks/16KJpU9bGCoywdcMLYgVGz,audio_features,spotify:track:16KJpU9bGCoywdcMLYgVGz,0.555
+2,De La Swing, Lockout,unknown,0.000203,https://api.spotify.com/v1/audio-analysis/5ysh2HoO4Y4m1M1wYbJxAS,1B,0.805,373466.0,0.903,5ysh2HoO4Y4m1M1wYbJxAS,0.926,11.0,0.0841,-10.654,1.0,0.0553,125.003,4.0,https://api.spotify.com/v1/tracks/5ysh2HoO4Y4m1M1wYbJxAS,audio_features,spotify:track:5ysh2HoO4Y4m1M1wYbJxAS,0.363
+3,George Privatti, Monkey Island,unknown,,,,,,,,,,,,,,,,,,,
+4,Waze Odyssey, Down With Tha,unknown,0.0168,https://api.spotify.com/v1/audio-analysis/3DuXZVTXaoMVzqvuE0N1nM,9B,0.738,210000.0,0.872,3DuXZVTXaoMVzqvuE0N1nM,0.8,7.0,0.862,-8.218,1.0,0.129,128.048,4.0,https://api.spotify.com/v1/tracks/3DuXZVTXaoMVzqvuE0N1nM,audio_features,spotify:track:3DuXZVTXaoMVzqvuE0N1nM,0.292
+5,Butch, No Warriors,unknown,,,,,,,,,,,,,,,,,,,
+6,Analog People In A Digital World (APDW), Rose Rouge,APDW,0.127,https://api.spotify.com/v1/audio-analysis/0nnrTddWy01JhxIDkYqo4i,10A,0.62,210527.0,0.774,0nnrTddWy01JhxIDkYqo4i,0.168,11.0,0.103,-9.376,0.0,0.0324,122.002,4.0,https://api.spotify.com/v1/tracks/0nnrTddWy01JhxIDkYqo4i,audio_features,spotify:track:0nnrTddWy01JhxIDkYqo4i,0.356
+7,Paul C Paolo Martini, Waxs,unknown,,,,,,,,,,,,,,,,,,,
+8,Paolo Martini, Please Don't Stop,unknown,,,,,,,,,,,,,,,,,,,
+9,Francisco Allendes, Tirana,unknown,9.91e-05,https://api.spotify.com/v1/audio-analysis/7dMVh2LWl4UXoP8fwLZWh2,10A,0.807,375185.0,0.901,7dMVh2LWl4UXoP8fwLZWh2,0.951,11.0,0.0704,-6.997,0.0,0.0602,128.005,4.0,https://api.spotify.com/v1/tracks/7dMVh2LWl4UXoP8fwLZWh2,audio_features,spotify:track:7dMVh2LWl4UXoP8fwLZWh2,0.48

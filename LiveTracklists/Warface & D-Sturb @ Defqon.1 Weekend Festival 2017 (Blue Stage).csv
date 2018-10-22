@@ -1,0 +1,16 @@
+,Artist(s),Title,Release,acousticness,analysis_url,camelot,danceability,duration_ms,energy,id,instrumentalness,key,liveness,loudness,mode,speechiness,tempo,time_signature,track_href,type,uri,valence
+0,D,Sturb ,unknown,,,,,,,,,,,,,,,,,,,
+1,Warface Devin Wild, ID,unknown,0.397,https://api.spotify.com/v1/audio-analysis/11CVk0k216ivE9UVdx4CSD,6A,0.693,201567.0,0.738,11CVk0k216ivE9UVdx4CSD,0.00147,7.0,0.786,-9.336,0.0,0.0717,129.951,3.0,https://api.spotify.com/v1/tracks/11CVk0k216ivE9UVdx4CSD,audio_features,spotify:track:11CVk0k216ivE9UVdx4CSD,0.474
+2,D,Sturb ,unknown,,,,,,,,,,,,,,,,,,,
+3,Warface, Mashup 6.0,unknown,,,,,,,,,,,,,,,,,,,
+4,D,Sturb & MC Nolz ,Official Free Festival 2017 Anthem,,,,,,,,,,,,,,,,,,,
+5,Warface, Welcome To The Jungle,unknown,0.00184,https://api.spotify.com/v1/audio-analysis/5AQRB8Io23Bw9VZ6qMfzp1,3B,0.509,191615.0,0.994,5AQRB8Io23Bw9VZ6qMfzp1,0.0461,1.0,0.206,-2.141,1.0,0.166,154.928,4.0,https://api.spotify.com/v1/tracks/5AQRB8Io23Bw9VZ6qMfzp1,audio_features,spotify:track:5AQRB8Io23Bw9VZ6qMfzp1,0.0637
+6,Warface D,Sturb ,unknown,0.00794,https://api.spotify.com/v1/audio-analysis/2lUYVqdqfaiRkFzLcwLLMm,2A,0.446,181049.0,0.91,2lUYVqdqfaiRkFzLcwLLMm,1.74e-05,3.0,0.345,-2.799,0.0,0.185,155.04,4.0,https://api.spotify.com/v1/tracks/2lUYVqdqfaiRkFzLcwLLMm,audio_features,spotify:track:2lUYVqdqfaiRkFzLcwLLMm,0.0907
+7,Warface Ruthless, ID,unknown,,,,,,,,,,,,,,,,,,,
+8,D,Sturb ,unknown,,,,,,,,,,,,,,,,,,,
+9,Warface, FTP ,E-Force Remix,0.0308,https://api.spotify.com/v1/audio-analysis/1PYuBdFlDdCUCd8SMfeSOy,10A,0.657,182720.0,0.926,1PYuBdFlDdCUCd8SMfeSOy,0.00501,11.0,0.359,-5.142,0.0,0.322,154.977,4.0,https://api.spotify.com/v1/tracks/1PYuBdFlDdCUCd8SMfeSOy,audio_features,spotify:track:1PYuBdFlDdCUCd8SMfeSOy,0.362
+10,ID, ID,unknown,0.000241,https://api.spotify.com/v1/audio-analysis/1aRxfiM606yUIQyKZzaslz,9B,0.269,129715.0,0.901,1aRxfiM606yUIQyKZzaslz,0.717,7.0,0.415,-7.38,1.0,0.0719,141.565,4.0,https://api.spotify.com/v1/tracks/1aRxfiM606yUIQyKZzaslz,audio_features,spotify:track:1aRxfiM606yUIQyKZzaslz,0.439
+11,Crypsis, For Your Mind ,D-Sturb Remix,0.00998,https://api.spotify.com/v1/audio-analysis/0I3NlsIF7pU0tOfJerZQgn,4A,0.444,227613.0,0.895,0I3NlsIF7pU0tOfJerZQgn,2.78e-06,5.0,0.391,-3.828,0.0,0.342,154.993,4.0,https://api.spotify.com/v1/tracks/0I3NlsIF7pU0tOfJerZQgn,audio_features,spotify:track:0I3NlsIF7pU0tOfJerZQgn,0.406
+12,Travis Scott   Kendrick Lamar, Goosebumps ,Warface Heavy Artillery Bootleg,0.0847,https://api.spotify.com/v1/audio-analysis/6gBFPUFcJLzWGx4lenP6h2,9B,0.841,243837.0,0.728,6gBFPUFcJLzWGx4lenP6h2,0.0,7.0,0.149,-3.37,1.0,0.0484,130.049,4.0,https://api.spotify.com/v1/tracks/6gBFPUFcJLzWGx4lenP6h2,audio_features,spotify:track:6gBFPUFcJLzWGx4lenP6h2,0.43
+13,Radical Redemption D,Sturb ,unknown,,,,,,,,,,,,,,,,,,,
+14,Killshot, Beastmode,unknown,0.013,https://api.spotify.com/v1/audio-analysis/0Z2FJ0OKokYQgcCSj2cXGJ,3B,0.62,211023.0,0.991,0Z2FJ0OKokYQgcCSj2cXGJ,3.42e-05,1.0,0.951,-1.692,1.0,0.354,154.912,4.0,https://api.spotify.com/v1/tracks/0Z2FJ0OKokYQgcCSj2cXGJ,audio_features,spotify:track:0Z2FJ0OKokYQgcCSj2cXGJ,0.217

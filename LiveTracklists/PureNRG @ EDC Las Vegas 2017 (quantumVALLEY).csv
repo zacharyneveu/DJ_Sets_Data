@@ -1,0 +1,13 @@
+,Artist(s),Title,Release,acousticness,analysis_url,camelot,danceability,duration_ms,energy,id,instrumentalness,key,liveness,loudness,mode,speechiness,tempo,time_signature,track_href,type,uri,valence
+0,Pure NRG, Cala Blanca,unknown,,,,,,,,,,,,,,,,,,,
+1,Pure NRG, Constellations,unknown,,,,,,,,,,,,,,,,,,,
+2,Pure NRG, Midnight Blue,unknown,,,,,,,,,,,,,,,,,,,
+3,Pure NRG, ID,unknown,0.00356,https://api.spotify.com/v1/audio-analysis/7aTmjbQiAUPE4APtEXTM0w,1B,0.741,197040.0,0.438,7aTmjbQiAUPE4APtEXTM0w,0.0665,11.0,0.362,-7.453,1.0,0.0312,84.78,4.0,https://api.spotify.com/v1/tracks/7aTmjbQiAUPE4APtEXTM0w,audio_features,spotify:track:7aTmjbQiAUPE4APtEXTM0w,0.885
+4,Pure NRG, ID,unknown,0.00356,https://api.spotify.com/v1/audio-analysis/7aTmjbQiAUPE4APtEXTM0w,1B,0.741,197040.0,0.438,7aTmjbQiAUPE4APtEXTM0w,0.0665,11.0,0.362,-7.453,1.0,0.0312,84.78,4.0,https://api.spotify.com/v1/tracks/7aTmjbQiAUPE4APtEXTM0w,audio_features,spotify:track:7aTmjbQiAUPE4APtEXTM0w,0.885
+5,Pure NRG, GOTO10,unknown,,,,,,,,,,,,,,,,,,,
+6,Pure NRG, Scarlett,unknown,,,,,,,,,,,,,,,,,,,
+7,Red Hot Chili Peppers, Otherside ,Pure NRG Remix,0.00316,https://api.spotify.com/v1/audio-analysis/64BbK9SFKH2jk86U3dGj2P,8B,0.458,255373.0,0.795,64BbK9SFKH2jk86U3dGj2P,0.000202,0.0,0.0756,-3.265,1.0,0.0574,123.229,4.0,https://api.spotify.com/v1/tracks/64BbK9SFKH2jk86U3dGj2P,audio_features,spotify:track:64BbK9SFKH2jk86U3dGj2P,0.513
+8,Pure NRG, House Of Golden Girls,unknown,,,,,,,,,,,,,,,,,,,
+9,Pure NRG, ID,unknown,0.00356,https://api.spotify.com/v1/audio-analysis/7aTmjbQiAUPE4APtEXTM0w,1B,0.741,197040.0,0.438,7aTmjbQiAUPE4APtEXTM0w,0.0665,11.0,0.362,-7.453,1.0,0.0312,84.78,4.0,https://api.spotify.com/v1/tracks/7aTmjbQiAUPE4APtEXTM0w,audio_features,spotify:track:7aTmjbQiAUPE4APtEXTM0w,0.885
+10,Pure NRG, Prophecy ,Istoria Anthem 2017,,,,,,,,,,,,,,,,,,,
+11,Jones Stephenson, The First Rebirth ,ID Remix,0.0265,https://api.spotify.com/v1/audio-analysis/7IftKIYmYtjMjhr4dZfFok,2A,0.595,508547.0,0.832,7IftKIYmYtjMjhr4dZfFok,0.908,3.0,0.111,-8.568,0.0,0.0318,129.995,4.0,https://api.spotify.com/v1/tracks/7IftKIYmYtjMjhr4dZfFok,audio_features,spotify:track:7IftKIYmYtjMjhr4dZfFok,0.113

@@ -1,0 +1,17 @@
+,Artist(s),Title,Release,acousticness,analysis_url,camelot,danceability,duration_ms,energy,id,instrumentalness,key,liveness,loudness,mode,speechiness,tempo,time_signature,track_href,type,uri,valence
+0,ID, ID,unknown,0.000241,https://api.spotify.com/v1/audio-analysis/1aRxfiM606yUIQyKZzaslz,9B,0.269,129715.0,0.901,1aRxfiM606yUIQyKZzaslz,0.717,7.0,0.415,-7.38,1.0,0.0719,141.565,4.0,https://api.spotify.com/v1/tracks/1aRxfiM606yUIQyKZzaslz,audio_features,spotify:track:1aRxfiM606yUIQyKZzaslz,0.439
+1,Jean,Michel Jarre ,unknown,,,,,,,,,,,,,,,,,,,
+2,Jean,Michel Jarre ,Part II,,,,,,,,,,,,,,,,,,,
+3,ID, ID,unknown,0.000241,https://api.spotify.com/v1/audio-analysis/1aRxfiM606yUIQyKZzaslz,9B,0.269,129715.0,0.901,1aRxfiM606yUIQyKZzaslz,0.717,7.0,0.415,-7.38,1.0,0.0719,141.565,4.0,https://api.spotify.com/v1/tracks/1aRxfiM606yUIQyKZzaslz,audio_features,spotify:track:1aRxfiM606yUIQyKZzaslz,0.439
+4,Jean,Michel Jarre & Edward Snowden ,unknown,,,,,,,,,,,,,,,,,,,
+5,ID, ID,unknown,0.000241,https://api.spotify.com/v1/audio-analysis/1aRxfiM606yUIQyKZzaslz,9B,0.269,129715.0,0.901,1aRxfiM606yUIQyKZzaslz,0.717,7.0,0.415,-7.38,1.0,0.0719,141.565,4.0,https://api.spotify.com/v1/tracks/1aRxfiM606yUIQyKZzaslz,audio_features,spotify:track:1aRxfiM606yUIQyKZzaslz,0.439
+6,Jean,Michel Jarre & Gesaffelstein ,JMJ Remix,,,,,,,,,,,,,,,,,,,
+7,Jean,Michel Jarre ,unknown,,,,,,,,,,,,,,,,,,,
+8,Jean,Michel Jarre & Tangerine Dream ,Above & Beyond Remix,,,,,,,,,,,,,,,,,,,
+9,Jean,Michel Jarre ,unknown,,,,,,,,,,,,,,,,,,,
+10,Jean,Michel Jarre ,Part IV,,,,,,,,,,,,,,,,,,,
+11,Jean,Michel Jarre & Jeff Mills ,unknown,,,,,,,,,,,,,,,,,,,
+12,Jean,Michel Jarre ,unknown,,,,,,,,,,,,,,,,,,,
+13,M83 Jean,Michel Jarre ,unknown,,,,,,,,,,,,,,,,,,,
+14,Jean,Michel Jarre & Boys Noize ,unknown,,,,,,,,,,,,,,,,,,,
+15,Jean,Michel Jarre & Armin van Buuren ,unknown,,,,,,,,,,,,,,,,,,,

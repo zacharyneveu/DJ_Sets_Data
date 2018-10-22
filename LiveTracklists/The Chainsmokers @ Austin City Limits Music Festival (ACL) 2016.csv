@@ -1,0 +1,2 @@
+,Artist(s),Title,Release,acousticness,analysis_url,camelot,danceability,duration_ms,energy,id,instrumentalness,key,liveness,loudness,mode,speechiness,tempo,time_signature,track_href,type,uri,valence
+0,The Chainsmokers, Closer ft. Halsey,unknown,0.408,https://api.spotify.com/v1/audio-analysis/3xoih3Q61nTMQqEi8nJr1h,4A,0.84,245368.0,0.277,3xoih3Q61nTMQqEi8nJr1h,0.17,5.0,0.106,-10.549,0.0,0.0567,95.03,4.0,https://api.spotify.com/v1/tracks/3xoih3Q61nTMQqEi8nJr1h,audio_features,spotify:track:3xoih3Q61nTMQqEi8nJr1h,0.434

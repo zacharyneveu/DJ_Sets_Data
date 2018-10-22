@@ -1,0 +1,4 @@
+,Artist(s),Title,Release,acousticness,analysis_url,camelot,danceability,duration_ms,energy,id,instrumentalness,key,liveness,loudness,mode,speechiness,tempo,time_signature,track_href,type,uri,valence
+0,Snavs Fabian Mazur, Exhale,unknown,0.00275,https://api.spotify.com/v1/audio-analysis/5l5MuCuSLGTDTOFlmnlo7u,1A,0.545,197647.0,0.944,5l5MuCuSLGTDTOFlmnlo7u,0.0162,8.0,0.261,-4.016,0.0,0.125,169.909,4.0,https://api.spotify.com/v1/tracks/5l5MuCuSLGTDTOFlmnlo7u,audio_features,spotify:track:5l5MuCuSLGTDTOFlmnlo7u,0.309
+1,Madison Mars, Future is Now,unknown,0.0938,https://api.spotify.com/v1/audio-analysis/3pokv738OPIKP9lvuhLdf7,8A,0.664,177000.0,0.971,3pokv738OPIKP9lvuhLdf7,0.21,9.0,0.248,-2.016,0.0,0.11,126.049,4.0,https://api.spotify.com/v1/tracks/3pokv738OPIKP9lvuhLdf7,audio_features,spotify:track:3pokv738OPIKP9lvuhLdf7,0.282
+2,Ravitez Joey Dale, Everest,unknown,,,,,,,,,,,,,,,,,,,

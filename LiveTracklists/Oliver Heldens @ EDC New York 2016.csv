@@ -1,0 +1,23 @@
+,Artist(s),Title,Release,acousticness,analysis_url,camelot,danceability,duration_ms,energy,id,instrumentalness,key,liveness,loudness,mode,speechiness,tempo,time_signature,track_href,type,uri,valence
+0,Oliver Heldens Tïesto, Wombass ,Extended Intro Edit,0.33,https://api.spotify.com/v1/audio-analysis/6etVFDSbFabj0tPY10MAXR,4B,0.641,240010.0,0.895,6etVFDSbFabj0tPY10MAXR,0.694,8.0,0.931,-5.4,1.0,0.0456,125.043,4.0,https://api.spotify.com/v1/tracks/6etVFDSbFabj0tPY10MAXR,audio_features,spotify:track:6etVFDSbFabj0tPY10MAXR,0.329
+1,Robin Schulz vs Martin Solveig, Prayer vs Intoxicated ,Oliver Heldens Mashup,,,,,,,,,,,,,,,,,,,
+2,Oliver Heldens Gregor Salto, Can't Stop Playing vs Tag Team ,There It Is,,,,,,,,,,,,,,,,,,,
+3,R3hab Quintino, Freak ,Joe Stone Remix,0.0905,https://api.spotify.com/v1/audio-analysis/6HbDuMSThmMIcjAVEURJBh,10A,0.636,175938.0,0.977,6HbDuMSThmMIcjAVEURJBh,1.33e-05,11.0,0.209,-3.645,0.0,0.138,123.939,4.0,https://api.spotify.com/v1/tracks/6HbDuMSThmMIcjAVEURJBh,audio_features,spotify:track:6HbDuMSThmMIcjAVEURJBh,0.752
+4,Oliver Heldens Shaun Frank, Shade Of Grey ft. Delaney Jane ,Original Mix,,,,,,,,,,,,,,,,,,,
+5,Expedition, Sexyback ,Original Mix,,,,,,,,,,,,,,,,,,,
+6,Brohug, Lucky Lick ,Original Mix,,,,,,,,,,,,,,,,,,,
+7,HI,LO ,Original Mix,0.000501,https://api.spotify.com/v1/audio-analysis/3cpGvIE4Zqnhs0ePk5neCH,10A,0.73,417000.0,0.829,3cpGvIE4Zqnhs0ePk5neCH,0.614,11.0,0.107,-10.314,0.0,0.0647,125.278,4.0,https://api.spotify.com/v1/tracks/3cpGvIE4Zqnhs0ePk5neCH,audio_features,spotify:track:3cpGvIE4Zqnhs0ePk5neCH,0.561
+8,Martin Garrix Oliver Heldens, Animals vs Bingo Players ,Oliver Heldens Mashup,,,,,,,,,,,,,,,,,,,
+9,Oliver Heldens, Ghost feat. The Rumors ,Extended Mix,,,,,,,,,,,,,,,,,,,
+10,HI,LO ,Original Mix,0.000501,https://api.spotify.com/v1/audio-analysis/3cpGvIE4Zqnhs0ePk5neCH,10A,0.73,417000.0,0.829,3cpGvIE4Zqnhs0ePk5neCH,0.614,11.0,0.107,-10.314,0.0,0.0647,125.278,4.0,https://api.spotify.com/v1/tracks/3cpGvIE4Zqnhs0ePk5neCH,audio_features,spotify:track:3cpGvIE4Zqnhs0ePk5neCH,0.561
+11,Moby, GO ,HI-LO Remix,0.0409,https://api.spotify.com/v1/audio-analysis/64Fzi6QIclG2p0GfdkZsdW,10A,0.695,274035.0,0.895,64Fzi6QIclG2p0GfdkZsdW,0.871,11.0,0.229,-5.822,0.0,0.0862,126.969,4.0,https://api.spotify.com/v1/tracks/64Fzi6QIclG2p0GfdkZsdW,audio_features,spotify:track:64Fzi6QIclG2p0GfdkZsdW,0.0671
+12,Junior Jack, E Samba 2016 ,Joey Suki Remix,,,,,,,,,,,,,,,,,,,
+13,Throttle, Money Maker ,Club Mix,0.0184,https://api.spotify.com/v1/audio-analysis/4BIjBZudVnIj8m5RqKSt21,3B,0.471,199089.0,0.945,4BIjBZudVnIj8m5RqKSt21,0.0933,1.0,0.302,-3.429,1.0,0.0781,122.83,4.0,https://api.spotify.com/v1/tracks/4BIjBZudVnIj8m5RqKSt21,audio_features,spotify:track:4BIjBZudVnIj8m5RqKSt21,0.746
+14,Oliver Heldens ID (Throttle?), ID ,Throttle?,0.782,https://api.spotify.com/v1/audio-analysis/4ajQNrFRqURVI7XK9T5iA5,7A,0.733,163933.0,0.158,4ajQNrFRqURVI7XK9T5iA5,0.0,2.0,0.195,-15.298,0.0,0.0643,82.502,4.0,https://api.spotify.com/v1/tracks/4ajQNrFRqURVI7XK9T5iA5,audio_features,spotify:track:4ajQNrFRqURVI7XK9T5iA5,0.803
+15,Oliver Heldens Throttle, Waiting ,Extended Mix,0.00069,https://api.spotify.com/v1/audio-analysis/2vZSFWsc6bvHFhheWTYSub,1A,0.682,287335.0,0.797,2vZSFWsc6bvHFhheWTYSub,0.248,8.0,0.032,-4.91,0.0,0.0539,125.006,4.0,https://api.spotify.com/v1/tracks/2vZSFWsc6bvHFhheWTYSub,audio_features,spotify:track:2vZSFWsc6bvHFhheWTYSub,0.658
+16,Oliver Heldens, Gecko vs Rob Base & DJ EZ Rock ,Oliver Heldens Mashup,,,,,,,,,,,,,,,,,,,
+17,G,Eazy x Bebe Rexha ,Oliver Heldens Remix,,,,,,,,,,,,,,,,,,,
+18,Oliver Heldens, Melody vs Galantis ,U&I,,,,,,,,,,,,,,,,,,,
+19,Oliver Heldens, Koala vs Alex Gaudino ,Oliver Heldens Mashup,,,,,,,,,,,,,,,,,,,
+20,Curbi Fox Stevenson, Hoohah vs Mastiksoul ,Oliver Heldens Mashup,,,,,,,,,,,,,,,,,,,
+21,Oliver Heldens Chocolate Puma, Space Sheep ,Extended Mix,0.00108,https://api.spotify.com/v1/audio-analysis/3EpcXv37FtMkrw0h54MtYL,11B,0.697,262533.0,0.681,3EpcXv37FtMkrw0h54MtYL,0.915,9.0,0.0421,-5.397,1.0,0.047,126.006,4.0,https://api.spotify.com/v1/tracks/3EpcXv37FtMkrw0h54MtYL,audio_features,spotify:track:3EpcXv37FtMkrw0h54MtYL,0.507

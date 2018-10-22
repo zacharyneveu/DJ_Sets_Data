@@ -1,0 +1,19 @@
+,Artist(s),Title,Release,acousticness,analysis_url,camelot,danceability,duration_ms,energy,id,instrumentalness,key,liveness,loudness,mode,speechiness,tempo,time_signature,track_href,type,uri,valence
+0,Steve Aoki, Neon Future ft. Empire Of The Sun,unknown,,,,,,,,,,,,,,,,,,,
+1,Steve Aoki vs Garmiani vs Kanye West, Bring You To Power,unknown,,,,,,,,,,,,,,,,,,,
+2,Borgore, Last Year ,Steve Aoki Mainstage Remix,0.00131,https://api.spotify.com/v1/audio-analysis/6ocrb1f1rUFTByUUx61eSD,4A,0.532,247500.0,0.959,6ocrb1f1rUFTByUUx61eSD,0.0304,5.0,0.181,-1.025,0.0,0.0342,127.986,4.0,https://api.spotify.com/v1/tracks/6ocrb1f1rUFTByUUx61eSD,audio_features,spotify:track:6ocrb1f1rUFTByUUx61eSD,0.338
+3,Linkin Park Steve Aoki, A Light That Never Comes ,Vicetone Remix,0.027,https://api.spotify.com/v1/audio-analysis/755ijY05ZAQ26iESnvHX6D,7B,0.453,233245.0,0.894,755ijY05ZAQ26iESnvHX6D,0.0,5.0,0.378,-2.759,1.0,0.096,124.996,4.0,https://api.spotify.com/v1/tracks/755ijY05ZAQ26iESnvHX6D,audio_features,spotify:track:755ijY05ZAQ26iESnvHX6D,0.212
+4,Linkin Park Steve Aoki, A Light That Never Comes ,twoloud Remix,0.00452,https://api.spotify.com/v1/audio-analysis/1XRZFODJJ05GmVMMsD3gZ0,7B,0.671,340080.0,0.82,1XRZFODJJ05GmVMMsD3gZ0,0.000582,5.0,0.507,-5.093,1.0,0.162,128.021,4.0,https://api.spotify.com/v1/tracks/1XRZFODJJ05GmVMMsD3gZ0,audio_features,spotify:track:1XRZFODJJ05GmVMMsD3gZ0,0.536
+5,Steve Aoki Afrojack, Afroki ft. Bonnie McKee,unknown,,,,,,,,,,,,,,,,,,,
+6,"Steve Aoki, Chris Lake Tujamo", Boneless ,Simon Says Edit,0.00445,https://api.spotify.com/v1/audio-analysis/4qPnE8jBZN3wmgGxspsOcP,10A,0.743,270000.0,0.962,4qPnE8jBZN3wmgGxspsOcP,0.613,11.0,0.352,-3.205,0.0,0.0629,127.99,4.0,https://api.spotify.com/v1/tracks/4qPnE8jBZN3wmgGxspsOcP,audio_features,spotify:track:4qPnE8jBZN3wmgGxspsOcP,0.643
+7,Steve Aoki vs Showtek, Back To Earth ft. Fall Out Boy/Raise Your Hands/Slow Down ,Aoki Edit,,,,,,,,,,,,,,,,,,,
+8,Felix Cartal Autoerotique, HEAT,unknown,7.6e-05,https://api.spotify.com/v1/audio-analysis/0ovyPH7Aa016sZQmMrKD1q,8B,0.593,249258.0,0.979,0ovyPH7Aa016sZQmMrKD1q,0.71,0.0,0.0874,-0.184,1.0,0.0584,127.977,4.0,https://api.spotify.com/v1/tracks/0ovyPH7Aa016sZQmMrKD1q,audio_features,spotify:track:0ovyPH7Aa016sZQmMrKD1q,0.0823
+9,Steve Aoki, Rage The Night Away ft. Waka Flocka Flame ,Steve Aoki Extended Edit,,,,,,,,,,,,,,,,,,,
+10,"Steve Aoki, Diplo Deorro", Freak ft. Steve Bays,unknown,,,,,,,,,,,,,,,,,,,
+11,The Chainsmokers, #SELFIE ,Botnek Remix,0.00556,https://api.spotify.com/v1/audio-analysis/0Xo4GBfnoUrBozjpOF2l3D,3B,0.744,216307.0,0.938,0Xo4GBfnoUrBozjpOF2l3D,0.861,1.0,0.352,-2.313,1.0,0.164,128.009,4.0,https://api.spotify.com/v1/tracks/0Xo4GBfnoUrBozjpOF2l3D,audio_features,spotify:track:0Xo4GBfnoUrBozjpOF2l3D,0.149
+12,Steve Aoki, Free The Madness ft. Machine Gun Kelly,unknown,,,,,,,,,,,,,,,,,,,
+13,Steve Aoki Tony Junior, Lightning Strikes ft. Nervo,unknown,,,,,,,,,,,,,,,,,,,
+14,Afrojack Steve Aoki, No Beef ft. Miss Palmer,unknown,,,,,,,,,,,,,,,,,,,
+15,Steve Aoki R3hab, Flight,unknown,0.000245,https://api.spotify.com/v1/audio-analysis/7oyGg0ufUJoNFBxmKNHn0r,9A,0.631,262160.0,0.906,7oyGg0ufUJoNFBxmKNHn0r,0.0235,4.0,0.335,-4.334,0.0,0.0624,130.023,4.0,https://api.spotify.com/v1/tracks/7oyGg0ufUJoNFBxmKNHn0r,audio_features,spotify:track:7oyGg0ufUJoNFBxmKNHn0r,0.154
+16,Moxie, I Love It When You Cry ,Steve Aoki Remix,0.000508,https://api.spotify.com/v1/audio-analysis/6r3v7nkYQGiHfgNTrpRAwx,10B,0.485,181230.0,0.595,6r3v7nkYQGiHfgNTrpRAwx,0.0,2.0,0.0697,-6.809,1.0,0.038,146.983,4.0,https://api.spotify.com/v1/tracks/6r3v7nkYQGiHfgNTrpRAwx,audio_features,spotify:track:6r3v7nkYQGiHfgNTrpRAwx,0.505
+17,Kid Cudi, Pursuit of Happiness ,Steve Aoki Remix,0.0103,https://api.spotify.com/v1/audio-analysis/5PX4uS1LqlWEPL69phPVQQ,8B,0.725,373627.0,0.688,5PX4uS1LqlWEPL69phPVQQ,0.00386,0.0,0.0494,-5.233,1.0,0.0546,128.004,4.0,https://api.spotify.com/v1/tracks/5PX4uS1LqlWEPL69phPVQQ,audio_features,spotify:track:5PX4uS1LqlWEPL69phPVQQ,0.609

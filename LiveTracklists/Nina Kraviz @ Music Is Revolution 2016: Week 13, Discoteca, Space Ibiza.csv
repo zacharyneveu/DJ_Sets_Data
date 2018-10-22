@@ -1,0 +1,9 @@
+,Artist(s),Title,Release,acousticness,analysis_url,camelot,danceability,duration_ms,energy,id,instrumentalness,key,liveness,loudness,mode,speechiness,tempo,time_signature,track_href,type,uri,valence
+0,Thor, T1,unknown,,,,,,,,,,,,,,,,,,,
+1,Dj Slip, Everytime It Takes Awhile ,Falko Brocksieper Remix,,,,,,,,,,,,,,,,,,,
+2,Melody Boy 2000, Sound Stealer,unknown,0.000156,https://api.spotify.com/v1/audio-analysis/5NWs81Q9eoa37nrdjAffce,9B,0.692,392437.0,0.684,5NWs81Q9eoa37nrdjAffce,0.872,7.0,0.11,-9.873,1.0,0.0508,129.999,4.0,https://api.spotify.com/v1/tracks/5NWs81Q9eoa37nrdjAffce,audio_features,spotify:track:5NWs81Q9eoa37nrdjAffce,0.038
+3,Bjarki, Genat 8,unknown,0.00811,https://api.spotify.com/v1/audio-analysis/2p7HbvV6DNUux4YdauOt6F,11B,0.776,312680.0,0.763,2p7HbvV6DNUux4YdauOt6F,0.9,9.0,0.0887,-13.182,1.0,0.0507,135.014,4.0,https://api.spotify.com/v1/tracks/2p7HbvV6DNUux4YdauOt6F,audio_features,spotify:track:2p7HbvV6DNUux4YdauOt6F,0.112
+4,The Prodigy, Skylined,unknown,0.0335,https://api.spotify.com/v1/audio-analysis/3PDWmETM9Q4RytUKhkVMsU,3A,0.615,358067.0,0.987,3PDWmETM9Q4RytUKhkVMsU,0.806,10.0,0.44,-8.919,0.0,0.0908,140.012,4.0,https://api.spotify.com/v1/tracks/3PDWmETM9Q4RytUKhkVMsU,audio_features,spotify:track:3PDWmETM9Q4RytUKhkVMsU,0.105
+5,DJ Funk, Run,unknown,0.00018,https://api.spotify.com/v1/audio-analysis/2fZnxuSAT5PC4wLRRwviXG,8B,0.62,382515.0,0.932,2fZnxuSAT5PC4wLRRwviXG,0.858,0.0,0.0921,-4.687,1.0,0.0393,132.074,4.0,https://api.spotify.com/v1/tracks/2fZnxuSAT5PC4wLRRwviXG,audio_features,spotify:track:2fZnxuSAT5PC4wLRRwviXG,0.561
+6,Goyfax, Birk Brainwash﻿,unknown,,,,,,,,,,,,,,,,,,,
+7,Drax Ltd. II, Amphetamine,unknown,3.44e-06,https://api.spotify.com/v1/audio-analysis/6ZOFohthqwDmA5E9IYB3kU,3B,0.549,403039.0,0.993,6ZOFohthqwDmA5E9IYB3kU,0.939,1.0,0.105,-6.521,1.0,0.0623,142.189,4.0,https://api.spotify.com/v1/tracks/6ZOFohthqwDmA5E9IYB3kU,audio_features,spotify:track:6ZOFohthqwDmA5E9IYB3kU,0.575

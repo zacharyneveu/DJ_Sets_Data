@@ -1,0 +1,2 @@
+,Artist(s),Title,Release,acousticness,analysis_url,camelot,danceability,duration_ms,energy,id,instrumentalness,key,liveness,loudness,mode,speechiness,tempo,time_signature,track_href,type,uri,valence
+0,Kendrick Lamar, DNA.,unknown,0.00454,https://api.spotify.com/v1/audio-analysis/6HZILIRieu8S0iqY8kIKhj,3B,0.638,185947.0,0.523,6HZILIRieu8S0iqY8kIKhj,0.0,1.0,0.0842,-6.664,1.0,0.357,139.913,4.0,https://api.spotify.com/v1/tracks/6HZILIRieu8S0iqY8kIKhj,audio_features,spotify:track:6HZILIRieu8S0iqY8kIKhj,0.422

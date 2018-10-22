@@ -1,0 +1,11 @@
+,Artist(s),Title,Release,acousticness,analysis_url,camelot,danceability,duration_ms,energy,id,instrumentalness,key,liveness,loudness,mode,speechiness,tempo,time_signature,track_href,type,uri,valence
+0,Pryda, Muranyi,unknown,0.0108,https://api.spotify.com/v1/audio-analysis/7mwt8kgmfAVqufy4PqP6xu,2B,0.672,354160.0,0.88,7mwt8kgmfAVqufy4PqP6xu,0.905,6.0,0.0823,-7.884,1.0,0.0439,126.018,3.0,https://api.spotify.com/v1/tracks/7mwt8kgmfAVqufy4PqP6xu,audio_features,spotify:track:7mwt8kgmfAVqufy4PqP6xu,0.194
+1,Cirez D, The Accuser,unknown,8.45e-05,https://api.spotify.com/v1/audio-analysis/2EXViaTEpUoqHeDOtdI0oK,9B,0.807,449511.0,0.799,2EXViaTEpUoqHeDOtdI0oK,0.91,7.0,0.0771,-7.494,1.0,0.0753,126.009,4.0,https://api.spotify.com/v1/tracks/2EXViaTEpUoqHeDOtdI0oK,audio_features,spotify:track:2EXViaTEpUoqHeDOtdI0oK,0.214
+2,Pryda, ID,unknown,,,,,,,,,,,,,,,,,,,
+3,Cirez D, Glow ,Pryda Remix,0.0488,https://api.spotify.com/v1/audio-analysis/41IIvKRt65lVRZ0zzLsjaw,5B,0.793,558860.0,0.843,41IIvKRt65lVRZ0zzLsjaw,0.889,3.0,0.642,-9.537,1.0,0.0517,127.993,4.0,https://api.spotify.com/v1/tracks/41IIvKRt65lVRZ0zzLsjaw,audio_features,spotify:track:41IIvKRt65lVRZ0zzLsjaw,0.117
+4,Pryda, Agag,unknown,0.0156,https://api.spotify.com/v1/audio-analysis/3t0IO6oY4setTakPCpf6qB,7B,0.654,351027.0,0.741,3t0IO6oY4setTakPCpf6qB,0.853,5.0,0.106,-6.79,1.0,0.0457,126.003,3.0,https://api.spotify.com/v1/tracks/3t0IO6oY4setTakPCpf6qB,audio_features,spotify:track:3t0IO6oY4setTakPCpf6qB,0.782
+5,Eric Prydz, ID,unknown,0.018,https://api.spotify.com/v1/audio-analysis/2EbfOAhsCaH6p04UTDwTZv,8B,0.347,212959.0,0.971,2EbfOAhsCaH6p04UTDwTZv,0.022,0.0,0.552,-5.72,1.0,0.0928,159.067,4.0,https://api.spotify.com/v1/tracks/2EbfOAhsCaH6p04UTDwTZv,audio_features,spotify:track:2EbfOAhsCaH6p04UTDwTZv,0.422
+6,Pryda, ID,unknown,,,,,,,,,,,,,,,,,,,
+7,Pryda, Ocean Drive,unknown,,,,,,,,,,,,,,,,,,,
+8,Eric Prydz, Moody Tuesdays,unknown,,,,,,,,,,,,,,,,,,,
+9,Felix Da Housecat, Thee Anthem ,Eric Prydz Remix,,,,,,,,,,,,,,,,,,,

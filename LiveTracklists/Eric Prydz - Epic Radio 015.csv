@@ -1,0 +1,12 @@
+,Artist(s),Title,Release,acousticness,analysis_url,camelot,danceability,duration_ms,energy,id,instrumentalness,key,liveness,loudness,mode,speechiness,tempo,time_signature,track_href,type,uri,valence
+0,Pryda, Escape ID 01,unknown,,,,,,,,,,,,,,,,,,,
+1,Eric Prydz, Epic Radio 015 ID,unknown,,,,,,,,,,,,,,,,,,,
+2,Pryda, Escape ID 02 ,Working Title,,,,,,,,,,,,,,,,,,,
+3,Cirez D, Bootshaus 2012 ID,unknown,,,,,,,,,,,,,,,,,,,
+4,Cirez D, Privilege 2013 ID ,Working Title,,,,,,,,,,,,,,,,,,,
+5,Pryda, Exit ID 2013 ,Working Title,,,,,,,,,,,,,,,,,,,
+6,Pryda, Choo,unknown,0.00393,https://api.spotify.com/v1/audio-analysis/2jrAh33W3IsE4YoxavC7mD,3A,0.796,537661.0,0.731,2jrAh33W3IsE4YoxavC7mD,0.816,10.0,0.12,-7.512,0.0,0.0435,126.008,4.0,https://api.spotify.com/v1/tracks/2jrAh33W3IsE4YoxavC7mD,audio_features,spotify:track:2jrAh33W3IsE4YoxavC7mD,0.0755
+7,Pryda, Gemo,unknown,,,,,,,,,,,,,,,,,,,
+8,Pryda, Mejnmejl Madrid,unknown,,,,,,,,,,,,,,,,,,,
+9,Pryda, Trance 82,unknown,,,,,,,,,,,,,,,,,,,
+10,Kraftwerk, Numbers,unknown,0.299,https://api.spotify.com/v1/audio-analysis/7l6zV8bdJs6LtYMdjAn2BJ,9B,0.799,200333.0,0.553,7l6zV8bdJs6LtYMdjAn2BJ,0.184,7.0,0.369,-14.286,1.0,0.065,129.247,4.0,https://api.spotify.com/v1/tracks/7l6zV8bdJs6LtYMdjAn2BJ,audio_features,spotify:track:7l6zV8bdJs6LtYMdjAn2BJ,0.354

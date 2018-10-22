@@ -1,0 +1,4 @@
+,Artist(s),Title,Release,acousticness,analysis_url,camelot,danceability,duration_ms,energy,id,instrumentalness,key,liveness,loudness,mode,speechiness,tempo,time_signature,track_href,type,uri,valence
+0,Blawan, Slow Mick,unknown,0.412,https://api.spotify.com/v1/audio-analysis/1LHH9Yh4W9U4jL0c9GG7PX,2A,0.574,352279.0,0.885,1LHH9Yh4W9U4jL0c9GG7PX,0.886,3.0,0.325,-8.448,0.0,0.0489,135.038,4.0,https://api.spotify.com/v1/tracks/1LHH9Yh4W9U4jL0c9GG7PX,audio_features,spotify:track:1LHH9Yh4W9U4jL0c9GG7PX,0.136
+1,DJ Rush, Feel My Drums﻿,unknown,,,,,,,,,,,,,,,,,,,
+2,Christian Bloch, Refuse,unknown,0.0966,https://api.spotify.com/v1/audio-analysis/0ageRYkgJFbSI5QgAGDPtT,10B,0.641,217900.0,0.759,0ageRYkgJFbSI5QgAGDPtT,0.0,2.0,0.117,-6.597,1.0,0.0299,128.037,4.0,https://api.spotify.com/v1/tracks/0ageRYkgJFbSI5QgAGDPtT,audio_features,spotify:track:0ageRYkgJFbSI5QgAGDPtT,0.619

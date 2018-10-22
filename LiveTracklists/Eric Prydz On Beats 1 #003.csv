@@ -1,0 +1,21 @@
+,Artist(s),Title,Release,acousticness,analysis_url,camelot,danceability,duration_ms,energy,id,instrumentalness,key,liveness,loudness,mode,speechiness,tempo,time_signature,track_href,type,uri,valence
+0,Eric Prydz, Collider,unknown,0.000239,https://api.spotify.com/v1/audio-analysis/2PYLdQVv5nML4xjV5IPmmX,7B,0.608,323880.0,0.83,2PYLdQVv5nML4xjV5IPmmX,0.962,5.0,0.274,-5.856,1.0,0.0329,125.999,4.0,https://api.spotify.com/v1/tracks/2PYLdQVv5nML4xjV5IPmmX,audio_features,spotify:track:2PYLdQVv5nML4xjV5IPmmX,0.167
+1,Pryda, WOWOW ,Working Title,,,,,,,,,,,,,,,,,,,
+2,Pryda, Belgrade Expo ID2 ,Working Title,,,,,,,,,,,,,,,,,,,
+3,Pryda, Juletider,unknown,0.000233,https://api.spotify.com/v1/audio-analysis/7h27VcBmbpfOZuteQ4R2RB,6A,0.514,313040.0,0.911,7h27VcBmbpfOZuteQ4R2RB,0.935,7.0,0.692,-4.432,0.0,0.0305,126.016,4.0,https://api.spotify.com/v1/tracks/7h27VcBmbpfOZuteQ4R2RB,audio_features,spotify:track:7h27VcBmbpfOZuteQ4R2RB,0.125
+4,Cirez D, New City Gas NCG ID ,Working Title,,,,,,,,,,,,,,,,,,,
+5,Cirez D, Metropolitan ID ,Working Title,,,,,,,,,,,,,,,,,,,
+6,Cirez D, Bootshaus 2012 ID ,Working Title,,,,,,,,,,,,,,,,,,,
+7,Pryda, Montreux Jazz ID ,Working Title,,,,,,,,,,,,,,,,,,,
+8,Pryda, Illusions,unknown,0.00164,https://api.spotify.com/v1/audio-analysis/2zZfag7OeUmyIdaEmfEJed,4A,0.687,449386.0,0.844,2zZfag7OeUmyIdaEmfEJed,0.876,5.0,0.641,-5.907,0.0,0.0484,126.009,4.0,https://api.spotify.com/v1/tracks/2zZfag7OeUmyIdaEmfEJed,audio_features,spotify:track:2zZfag7OeUmyIdaEmfEJed,0.164
+9,Eric Prydz, Mija ,Re-scored,3.61e-05,https://api.spotify.com/v1/audio-analysis/71xUGtZ2UaFxxh6Zj7ETqN,7B,0.485,391427.0,0.979,71xUGtZ2UaFxxh6Zj7ETqN,0.914,5.0,0.11,-4.025,1.0,0.0451,125.011,4.0,https://api.spotify.com/v1/tracks/71xUGtZ2UaFxxh6Zj7ETqN,audio_features,spotify:track:71xUGtZ2UaFxxh6Zj7ETqN,0.0276
+10,The Alan Parsons Project, Old And Wise,unknown,0.727,https://api.spotify.com/v1/audio-analysis/5Jt2AQv1c3RUF5ENtAYF1i,5A,0.375,295253.0,0.317,5Jt2AQv1c3RUF5ENtAYF1i,2.92e-05,0.0,0.123,-11.741,0.0,0.0315,112.003,4.0,https://api.spotify.com/v1/tracks/5Jt2AQv1c3RUF5ENtAYF1i,audio_features,spotify:track:5Jt2AQv1c3RUF5ENtAYF1i,0.12
+11,Pryda, Liam ,Stringapella,,,,,,,,,,,,,,,,,,,
+12,Eric Prydz, Liam,unknown,0.0646,https://api.spotify.com/v1/audio-analysis/2RGHU2lgWThz1BUBoCHv5k,9B,0.623,344120.0,0.927,2RGHU2lgWThz1BUBoCHv5k,0.917,7.0,0.272,-6.845,1.0,0.0367,125.995,4.0,https://api.spotify.com/v1/tracks/2RGHU2lgWThz1BUBoCHv5k,audio_features,spotify:track:2RGHU2lgWThz1BUBoCHv5k,0.232
+13,Pryda, Global Gathering 2007 ID ,Working Title,,,,,,,,,,,,,,,,,,,
+14,Pryda, Annexet,unknown,0.0112,https://api.spotify.com/v1/audio-analysis/65jBcp2PGy94uRwMv7BQET,10B,0.798,500196.0,0.723,65jBcp2PGy94uRwMv7BQET,0.85,2.0,0.117,-10.197,1.0,0.0677,124.997,4.0,https://api.spotify.com/v1/tracks/65jBcp2PGy94uRwMv7BQET,audio_features,spotify:track:65jBcp2PGy94uRwMv7BQET,0.158
+15,Cirez D, Tyve ,Mainroom Edit,,,,,,,,,,,,,,,,,,,
+16,Eric Prydz, Klepht,unknown,0.0359,https://api.spotify.com/v1/audio-analysis/1kY8uFq3k0VFbgE6qBxedU,9A,0.749,368520.0,0.644,1kY8uFq3k0VFbgE6qBxedU,0.759,4.0,0.188,-8.522,0.0,0.0426,126.011,4.0,https://api.spotify.com/v1/tracks/1kY8uFq3k0VFbgE6qBxedU,audio_features,spotify:track:1kY8uFq3k0VFbgE6qBxedU,0.2
+17,Pryda, Verboten ID 02 ,Working Title,,,,,,,,,,,,,,,,,,,
+18,Pryda, EPIC Radio 005 ID 01 ,Working Title,,,,,,,,,,,,,,,,,,,
+19,Felix, Don't You Want Me,unknown,,,,,,,,,,,,,,,,,,,

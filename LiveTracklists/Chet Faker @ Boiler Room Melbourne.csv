@@ -1,0 +1,9 @@
+,Artist(s),Title,Release,acousticness,analysis_url,camelot,danceability,duration_ms,energy,id,instrumentalness,key,liveness,loudness,mode,speechiness,tempo,time_signature,track_href,type,uri,valence
+0,Chet Faker, I'm Into You,unknown,,,,,,,,,,,,,,,,,,,
+1,Chet Faker, Blush,unknown,0.559,https://api.spotify.com/v1/audio-analysis/6ukKKnOKdktCdyxJLzt8hG,5B,0.38,287213.0,0.341,6ukKKnOKdktCdyxJLzt8hG,0.00606,3.0,0.111,-16.01,1.0,0.0571,180.893,4.0,https://api.spotify.com/v1/tracks/6ukKKnOKdktCdyxJLzt8hG,audio_features,spotify:track:6ukKKnOKdktCdyxJLzt8hG,0.153
+2,Chet Faker, Rev,unknown,,,,,,,,,,,,,,,,,,,
+3,Chet Faker, 1998,unknown,0.121,https://api.spotify.com/v1/audio-analysis/0DdNKXYhsBBrHsUyMOdRaa,2B,0.764,224026.0,0.473,0DdNKXYhsBBrHsUyMOdRaa,0.474,6.0,0.144,-12.227,1.0,0.0868,100.004,4.0,https://api.spotify.com/v1/tracks/0DdNKXYhsBBrHsUyMOdRaa,audio_features,spotify:track:0DdNKXYhsBBrHsUyMOdRaa,0.76
+4,Chet Faker, Cigarettes & Chocolate,unknown,0.802,https://api.spotify.com/v1/audio-analysis/5oqGckxkpGDMAn3tcQxQuw,12A,0.56,316187.0,0.641,5oqGckxkpGDMAn3tcQxQuw,0.369,1.0,0.106,-7.503,0.0,0.139,124.869,4.0,https://api.spotify.com/v1/tracks/5oqGckxkpGDMAn3tcQxQuw,audio_features,spotify:track:5oqGckxkpGDMAn3tcQxQuw,0.426
+5,Chet Faker, Archangel ,Burial Cover,,,,,,,,,,,,,,,,,,,
+6,Chet Faker, I Want Someone Badly ,Jeff Buckley Cover,,,,,,,,,,,,,,,,,,,
+7,Chet Faker, No Diggity ,Blackstreet Cover,0.675,https://api.spotify.com/v1/audio-analysis/2xD7RvKFJl52xyds3wQFXQ,7A,0.578,221533.0,0.77,2xD7RvKFJl52xyds3wQFXQ,0.000178,2.0,0.101,-4.858,0.0,0.258,160.862,4.0,https://api.spotify.com/v1/tracks/2xD7RvKFJl52xyds3wQFXQ,audio_features,spotify:track:2xD7RvKFJl52xyds3wQFXQ,0.488

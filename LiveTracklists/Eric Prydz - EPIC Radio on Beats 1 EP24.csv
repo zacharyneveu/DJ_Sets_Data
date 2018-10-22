@@ -1,0 +1,11 @@
+,Artist(s),Title,Release,acousticness,analysis_url,camelot,danceability,duration_ms,energy,id,instrumentalness,key,liveness,loudness,mode,speechiness,tempo,time_signature,track_href,type,uri,valence
+0,Pryda, ID,unknown,,,,,,,,,,,,,,,,,,,
+1,Pryda, ID,unknown,,,,,,,,,,,,,,,,,,,
+2,Dukes Of Sluca, Always Searching,unknown,,,,,,,,,,,,,,,,,,,
+3,Pryda, The Gift ,Mix 26,0.000421,https://api.spotify.com/v1/audio-analysis/78S5DThVul5vXKp6I23pus,8A,0.612,382733.0,0.93,78S5DThVul5vXKp6I23pus,0.604,9.0,0.111,-6.689,0.0,0.0349,126.053,4.0,https://api.spotify.com/v1/tracks/78S5DThVul5vXKp6I23pus,audio_features,spotify:track:78S5DThVul5vXKp6I23pus,0.0944
+4,Kent, Romeo Återvänder Ensam ,Eric Prydz Private Remix,0.00446,https://api.spotify.com/v1/audio-analysis/1QflF8PmqQYcLHO6Lsv5hW,7A,0.475,243267.0,0.77,1QflF8PmqQYcLHO6Lsv5hW,0.554,2.0,0.145,-5.929,0.0,0.0408,128.006,4.0,https://api.spotify.com/v1/tracks/1QflF8PmqQYcLHO6Lsv5hW,audio_features,spotify:track:1QflF8PmqQYcLHO6Lsv5hW,0.188
+5,Pryda, ID,unknown,,,,,,,,,,,,,,,,,,,
+6,Pryda, ID,unknown,,,,,,,,,,,,,,,,,,,
+7,Pryda, Muranyi,unknown,0.0108,https://api.spotify.com/v1/audio-analysis/7mwt8kgmfAVqufy4PqP6xu,2B,0.672,354160.0,0.88,7mwt8kgmfAVqufy4PqP6xu,0.905,6.0,0.0823,-7.884,1.0,0.0439,126.018,3.0,https://api.spotify.com/v1/tracks/7mwt8kgmfAVqufy4PqP6xu,audio_features,spotify:track:7mwt8kgmfAVqufy4PqP6xu,0.194
+8,Eric Prydz, Tribute to Stockholm,unknown,,,,,,,,,,,,,,,,,,,
+9,Eric Prydz, Deeper Still,unknown,,,,,,,,,,,,,,,,,,,

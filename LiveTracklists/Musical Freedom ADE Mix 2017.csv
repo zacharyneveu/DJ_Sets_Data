@@ -1,0 +1,21 @@
+,Artist(s),Title,Release,acousticness,analysis_url,camelot,danceability,duration_ms,energy,id,instrumentalness,key,liveness,loudness,mode,speechiness,tempo,time_signature,track_href,type,uri,valence
+0,CID, Do You Want To Be Bad,unknown,,,,,,,,,,,,,,,,,,,
+1,Antoine Delvig, Hangover,unknown,0.00839,https://api.spotify.com/v1/audio-analysis/662lWOiUhYNvhA5LL6hE9O,9B,0.795,161798.0,0.989,662lWOiUhYNvhA5LL6hE9O,0.748,7.0,0.681,-3.102,1.0,0.361,125.03,4.0,https://api.spotify.com/v1/tracks/662lWOiUhYNvhA5LL6hE9O,audio_features,spotify:track:662lWOiUhYNvhA5LL6hE9O,0.251
+2,Sevenn, This Is House,unknown,,,,,,,,,,,,,,,,,,,
+3,Lil' Louis, French Kiss ,ID Remix,0.0133,https://api.spotify.com/v1/audio-analysis/7hnqJYCKZFW7vMoykaraZG,2B,0.689,591733.0,0.505,7hnqJYCKZFW7vMoykaraZG,0.818,6.0,0.345,-13.846,1.0,0.0867,123.948,4.0,https://api.spotify.com/v1/tracks/7hnqJYCKZFW7vMoykaraZG,audio_features,spotify:track:7hnqJYCKZFW7vMoykaraZG,0.564
+4,Mike Williams, Melody ,Tip Of My Tongue,0.00875,https://api.spotify.com/v1/audio-analysis/2VYJbJpcMciVAE6FcfZnOp,10A,0.588,191250.0,0.935,2VYJbJpcMciVAE6FcfZnOp,0.00117,11.0,0.337,-4.13,0.0,0.0481,126.013,4.0,https://api.spotify.com/v1/tracks/2VYJbJpcMciVAE6FcfZnOp,audio_features,spotify:track:2VYJbJpcMciVAE6FcfZnOp,0.27
+5,Florian Picasso, ID,unknown,,,,,,,,,,,,,,,,,,,
+6,Madison Mars, Ion,unknown,,,,,,,,,,,,,,,,,,,
+7,Tiësto KSHMR   Talay Riley, Harder ,Maurice West Remix,0.0194,https://api.spotify.com/v1/audio-analysis/26vrqSt36xQrRb92QoNlbk,4A,0.373,209328.0,0.843,26vrqSt36xQrRb92QoNlbk,0.0,5.0,0.0423,-4.766,0.0,0.106,128.134,4.0,https://api.spotify.com/v1/tracks/26vrqSt36xQrRb92QoNlbk,audio_features,spotify:track:26vrqSt36xQrRb92QoNlbk,0.172
+8,John Christian, Back To The Oldskool,unknown,0.00417,https://api.spotify.com/v1/audio-analysis/4iGUu7oGJCrheaxB2CaD5O,3B,0.713,213750.0,0.954,4iGUu7oGJCrheaxB2CaD5O,0.0205,1.0,0.0908,-3.384,1.0,0.125,128.199,4.0,https://api.spotify.com/v1/tracks/4iGUu7oGJCrheaxB2CaD5O,audio_features,spotify:track:4iGUu7oGJCrheaxB2CaD5O,0.157
+9,MERCER, Encore ,SayMyName Remix / Afrojack Edit,0.00303,https://api.spotify.com/v1/audio-analysis/69NaPTcBYBLhQojPoCUsij,12A,0.577,186270.0,0.997,69NaPTcBYBLhQojPoCUsij,0.578,1.0,0.0679,-3.084,0.0,0.0912,127.997,4.0,https://api.spotify.com/v1/tracks/69NaPTcBYBLhQojPoCUsij,audio_features,spotify:track:69NaPTcBYBLhQojPoCUsij,0.597
+10,BROHUG, ID,unknown,,,,,,,,,,,,,,,,,,,
+11,Bassjackers Bali Bandits, ID,unknown,,,,,,,,,,,,,,,,,,,
+12,Tiësto SWACQ, Sumos,unknown,0.00206,https://api.spotify.com/v1/audio-analysis/00HCskDuwt2fjgBRvpfjMo,12A,0.648,196875.0,0.967,00HCskDuwt2fjgBRvpfjMo,0.521,1.0,0.0535,-2.783,0.0,0.0602,128.006,4.0,https://api.spotify.com/v1/tracks/00HCskDuwt2fjgBRvpfjMo,audio_features,spotify:track:00HCskDuwt2fjgBRvpfjMo,0.242
+13,ID, ID,unknown,0.000241,https://api.spotify.com/v1/audio-analysis/1aRxfiM606yUIQyKZzaslz,9B,0.269,129715.0,0.901,1aRxfiM606yUIQyKZzaslz,0.717,7.0,0.415,-7.38,1.0,0.0719,141.565,4.0,https://api.spotify.com/v1/tracks/1aRxfiM606yUIQyKZzaslz,audio_features,spotify:track:1aRxfiM606yUIQyKZzaslz,0.439
+14,TJR, ID,unknown,,,,,,,,,,,,,,,,,,,
+15,Tiësto Sevenn, BOOM ,Snavs Remix,0.0174,https://api.spotify.com/v1/audio-analysis/6Jj9qYLbHdwzMFqQEDc8dD,10B,0.379,164800.0,0.946,6Jj9qYLbHdwzMFqQEDc8dD,0.243,2.0,0.181,-4.71,1.0,0.113,149.929,4.0,https://api.spotify.com/v1/tracks/6Jj9qYLbHdwzMFqQEDc8dD,audio_features,spotify:track:6Jj9qYLbHdwzMFqQEDc8dD,0.506
+16,Snavs, ID,unknown,,,,,,,,,,,,,,,,,,,
+17,Quintino, ID,unknown,,,,,,,,,,,,,,,,,,,
+18,ID, ID,unknown,0.000241,https://api.spotify.com/v1/audio-analysis/1aRxfiM606yUIQyKZzaslz,9B,0.269,129715.0,0.901,1aRxfiM606yUIQyKZzaslz,0.717,7.0,0.415,-7.38,1.0,0.0719,141.565,4.0,https://api.spotify.com/v1/tracks/1aRxfiM606yUIQyKZzaslz,audio_features,spotify:track:1aRxfiM606yUIQyKZzaslz,0.439
+19,ID, ID,unknown,0.000241,https://api.spotify.com/v1/audio-analysis/1aRxfiM606yUIQyKZzaslz,9B,0.269,129715.0,0.901,1aRxfiM606yUIQyKZzaslz,0.717,7.0,0.415,-7.38,1.0,0.0719,141.565,4.0,https://api.spotify.com/v1/tracks/1aRxfiM606yUIQyKZzaslz,audio_features,spotify:track:1aRxfiM606yUIQyKZzaslz,0.439

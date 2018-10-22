@@ -1,0 +1,16 @@
+,Artist(s),Title,Release,acousticness,analysis_url,camelot,danceability,duration_ms,energy,id,instrumentalness,key,liveness,loudness,mode,speechiness,tempo,time_signature,track_href,type,uri,valence
+0,OMN, Renew,unknown,,,,,,,,,,,,,,,,,,,
+1,OMN, From Nowhere ,unknown,,,,,,,,,,,,,,,,,,,
+2,Friendly Fires, Paris ,Aeroplane Remix ft. Au Revoir Simone,0.00889,https://api.spotify.com/v1/audio-analysis/4OSEE9iEHADmTSCpxl87GJ,12A,0.703,465333.0,0.719,4OSEE9iEHADmTSCpxl87GJ,0.0962,1.0,0.0695,-6.625,0.0,0.0461,112.009,4.0,https://api.spotify.com/v1/tracks/4OSEE9iEHADmTSCpxl87GJ,audio_features,spotify:track:4OSEE9iEHADmTSCpxl87GJ,0.462
+3,Chelsea Cutler, The Middle ,DJ Snake Cover,0.522,https://api.spotify.com/v1/audio-analysis/3WFdU8e5GpNXTnW4Q6FuI7,8A,0.18,28504.0,0.999,3WFdU8e5GpNXTnW4Q6FuI7,0.994,9.0,0.932,-10.306,0.0,0.127,166.752,4.0,https://api.spotify.com/v1/tracks/3WFdU8e5GpNXTnW4Q6FuI7,audio_features,spotify:track:3WFdU8e5GpNXTnW4Q6FuI7,0.0292
+4,Weird Inside, Wishing Well,unknown,0.794,https://api.spotify.com/v1/audio-analysis/6bwCLBbmmnuxjzCMOt3zfX,7B,0.542,213960.0,0.355,6bwCLBbmmnuxjzCMOt3zfX,0.567,5.0,0.112,-10.27,1.0,0.058,82.977,4.0,https://api.spotify.com/v1/tracks/6bwCLBbmmnuxjzCMOt3zfX,audio_features,spotify:track:6bwCLBbmmnuxjzCMOt3zfX,0.148
+5,HOME, Resonance,unknown,0.0356,https://api.spotify.com/v1/audio-analysis/1TuopWDIuDi1553081zvuU,4B,0.567,212881.0,0.743,1TuopWDIuDi1553081zvuU,0.847,8.0,0.221,-8.614,1.0,0.0626,170.083,5.0,https://api.spotify.com/v1/tracks/1TuopWDIuDi1553081zvuU,audio_features,spotify:track:1TuopWDIuDi1553081zvuU,0.423
+6,OMN, Tonight ,unknown,0.677,https://api.spotify.com/v1/audio-analysis/53urzCF0lpxcAtNRJjJuT7,6B,0.439,268000.0,0.551,53urzCF0lpxcAtNRJjJuT7,0.899,10.0,0.102,-9.463,1.0,0.0461,119.882,4.0,https://api.spotify.com/v1/tracks/53urzCF0lpxcAtNRJjJuT7,audio_features,spotify:track:53urzCF0lpxcAtNRJjJuT7,0.22
+7,Mura Masa   Shura, Love For That,unknown,0.617,https://api.spotify.com/v1/audio-analysis/76I1mEj3vKHgwwO43MdNpI,4A,0.631,191595.0,0.506,76I1mEj3vKHgwwO43MdNpI,0.0197,5.0,0.124,-7.282,0.0,0.144,112.97,4.0,https://api.spotify.com/v1/tracks/76I1mEj3vKHgwwO43MdNpI,audio_features,spotify:track:76I1mEj3vKHgwwO43MdNpI,0.335
+8,Oliver~, Bae21,unknown,,,,,,,,,,,,,,,,,,,
+9,Eric Prydz, Liberate ,Lane 8 Remix,0.0251,https://api.spotify.com/v1/audio-analysis/2us0RMthAhSWdRMGFEDITO,8B,0.718,314840.0,0.578,2us0RMthAhSWdRMGFEDITO,0.694,0.0,0.0757,-8.108,1.0,0.042,120.958,4.0,https://api.spotify.com/v1/tracks/2us0RMthAhSWdRMGFEDITO,audio_features,spotify:track:2us0RMthAhSWdRMGFEDITO,0.237
+10,Chris Malinchak, So Good To Me,unknown,0.148,https://api.spotify.com/v1/audio-analysis/3fDrZa4ksxA5lgi0utGu6k,1B,0.72,226120.0,0.469,3fDrZa4ksxA5lgi0utGu6k,0.0807,11.0,0.0765,-12.633,1.0,0.0394,121.028,4.0,https://api.spotify.com/v1/tracks/3fDrZa4ksxA5lgi0utGu6k,audio_features,spotify:track:3fDrZa4ksxA5lgi0utGu6k,0.369
+11,Oxia, Domino,unknown,0.00291,https://api.spotify.com/v1/audio-analysis/6VGNzYErt08Rai78mLkIzI,2A,0.785,435267.0,0.69,6VGNzYErt08Rai78mLkIzI,0.907,3.0,0.203,-10.225,0.0,0.0698,128.879,4.0,https://api.spotify.com/v1/tracks/6VGNzYErt08Rai78mLkIzI,audio_features,spotify:track:6VGNzYErt08Rai78mLkIzI,0.215
+12,Kuso Kurae, See U Again,unknown,,,,,,,,,,,,,,,,,,,
+13,Triads, Pink Sheets,unknown,,,,,,,,,,,,,,,,,,,
+14,Clams Casino, I'm God,unknown,,,,,,,,,,,,,,,,,,,

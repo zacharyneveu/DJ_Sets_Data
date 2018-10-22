@@ -1,0 +1,12 @@
+,Artist(s),Title,Release,acousticness,analysis_url,camelot,danceability,duration_ms,energy,id,instrumentalness,key,liveness,loudness,mode,speechiness,tempo,time_signature,track_href,type,uri,valence
+0,Kaskade   Charlotte Lawrence, Cold As Stone ,Kaskade Sunsoaked Mix,0.288,https://api.spotify.com/v1/audio-analysis/67rvuV6oRGppOyXZk9OUrs,9A,0.466,203613.0,0.585,67rvuV6oRGppOyXZk9OUrs,0.0,4.0,0.212,-5.347,0.0,0.0432,126.054,4.0,https://api.spotify.com/v1/tracks/67rvuV6oRGppOyXZk9OUrs,audio_features,spotify:track:67rvuV6oRGppOyXZk9OUrs,0.289
+1,deadmau5 Kaskade   Sunny Lax, Beneath With Obsydian ,Kaskade Mashup,,,,,,,,,,,,,,,,,,,
+2,Kaskade BROHUG Mr. Tape, Fun,unknown,0.0215,https://api.spotify.com/v1/audio-analysis/6quwZWSOygVjpaTG84whzq,8B,0.839,174705.0,0.922,6quwZWSOygVjpaTG84whzq,0.00936,0.0,0.0548,-3.166,1.0,0.0568,122.986,4.0,https://api.spotify.com/v1/tracks/6quwZWSOygVjpaTG84whzq,audio_features,spotify:track:6quwZWSOygVjpaTG84whzq,0.328
+3,NVDES   Sagan, Need You To Do You're Thing ,Mr. Tape Edit,,,,,,,,,,,,,,,,,,,
+4,Janelle Monae, Make Me Feel ,Kaskade Sunsoaked Mix,0.0993,https://api.spotify.com/v1/audio-analysis/0Y0TBLc1w2Mb8qZJ4oBoNO,3B,0.856,184885.0,0.757,0Y0TBLc1w2Mb8qZJ4oBoNO,4.35e-05,1.0,0.0917,-4.247,1.0,0.0947,123.995,4.0,https://api.spotify.com/v1/tracks/0Y0TBLc1w2Mb8qZJ4oBoNO,audio_features,spotify:track:0Y0TBLc1w2Mb8qZJ4oBoNO,0.618
+5,Kaskade LOKII Mr. Tape   TV Noise, Show Of Hands Cell Phone ,Kaskade Edit,,,,,,,,,,,,,,,,,,,
+6,Oliver Heldens   Empire Of The Sun, Walking On A Rhino ,Kaskade Mashup,,,,,,,,,,,,,,,,,,,
+7,CID, Werk,unknown,0.0457,https://api.spotify.com/v1/audio-analysis/1ro5Ed57wMiQKtMTpCII1P,8B,0.789,172800.0,0.876,1ro5Ed57wMiQKtMTpCII1P,0.0339,0.0,0.168,-4.008,1.0,0.176,124.956,4.0,https://api.spotify.com/v1/tracks/1ro5Ed57wMiQKtMTpCII1P,audio_features,spotify:track:1ro5Ed57wMiQKtMTpCII1P,0.518
+8,Damien N,Drix ,unknown,,,,,,,,,,,,,,,,,,,
+9,Bingo Players Goshfather, Everybody,unknown,0.0921,https://api.spotify.com/v1/audio-analysis/5csMMYOOmSeNRQQEolmraJ,7B,0.573,163770.0,0.782,5csMMYOOmSeNRQQEolmraJ,0.000109,5.0,0.257,-3.141,1.0,0.0553,126.988,4.0,https://api.spotify.com/v1/tracks/5csMMYOOmSeNRQQEolmraJ,audio_features,spotify:track:5csMMYOOmSeNRQQEolmraJ,0.616
+10,Axwell Λ Ingrosso   Dankann   Trevor Guthrie, How Deep Dreamer ,Kaskade Mashup,,,,,,,,,,,,,,,,,,,

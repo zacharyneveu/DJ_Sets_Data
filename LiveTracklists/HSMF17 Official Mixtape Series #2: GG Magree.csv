@@ -1,0 +1,25 @@
+,Artist(s),Title,Release,acousticness,analysis_url,camelot,danceability,duration_ms,energy,id,instrumentalness,key,liveness,loudness,mode,speechiness,tempo,time_signature,track_href,type,uri,valence
+0,Law and Order edit," GG Magree, 3 Deep ",unknown,,,,,,,,,,,,,,,,,,,
+1,RL Reims," RL Grime, Enshway and Luude remix ",unknown,,,,,,,,,,,,,,,,,,,
+2,DNA, Kendrick ,unknown,,,,,,,,,,,,,,,,,,,
+3,Wine Woman, Zeds Dead ,unknown,,,,,,,,,,,,,,,,,,,
+4,Hold on to me, Yellow claw ,unknown,0.00655,https://api.spotify.com/v1/audio-analysis/4364jgP655oU33CaltgtWr,4A,0.536,208022.0,0.875,4364jgP655oU33CaltgtWr,0.455,5.0,0.13,-9.355,0.0,0.0366,150.035,4.0,https://api.spotify.com/v1/tracks/4364jgP655oU33CaltgtWr,audio_features,spotify:track:4364jgP655oU33CaltgtWr,0.511
+5,"Zeds Dead, NGHTMRE featuring GG MAGREE", Frontlines remix ,unknown,0.0341,https://api.spotify.com/v1/audio-analysis/6cROT2uvwPIAWavLZ3p6Yx,9B,0.587,203600.0,0.935,6cROT2uvwPIAWavLZ3p6Yx,2.28e-06,7.0,0.281,-3.118,1.0,0.0421,140.033,4.0,https://api.spotify.com/v1/tracks/6cROT2uvwPIAWavLZ3p6Yx,audio_features,spotify:track:6cROT2uvwPIAWavLZ3p6Yx,0.178
+6,Goose Bumps, Nghtmare remix ,unknown,,,,,,,,,,,,,,,,,,,
+7,The excist, Cool Project,unknown,0.0226,https://api.spotify.com/v1/audio-analysis/7cfFpd58vb5If68QJc4K5l,6B,0.857,205600.0,0.554,7cfFpd58vb5If68QJc4K5l,1.25e-05,10.0,0.073,-7.126,1.0,0.066,87.988,4.0,https://api.spotify.com/v1/tracks/7cfFpd58vb5If68QJc4K5l,audio_features,spotify:track:7cfFpd58vb5If68QJc4K5l,0.859
+8,Pony, Rihanna ,unknown,,,,,,,,,,,,,,,,,,,
+9,Divide and Conquer, What So not ,unknown,0.000837,https://api.spotify.com/v1/audio-analysis/2AxulYN6b5i04ioYpjUE0g,3A,0.899,255000.0,0.715,2AxulYN6b5i04ioYpjUE0g,0.596,10.0,0.0396,-5.688,0.0,0.145,128.022,4.0,https://api.spotify.com/v1/tracks/2AxulYN6b5i04ioYpjUE0g,audio_features,spotify:track:2AxulYN6b5i04ioYpjUE0g,0.569
+10,Throwin elbows, Excsion ,unknown,,,,,,,,,,,,,,,,,,,
+11,Otherside edit, Ngtmare Edit ,unknown,,,,,,,,,,,,,,,,,,,
+12,Grove St Party Benzi Edit, Waka FLaka Flame ,unknown,,,,,,,,,,,,,,,,,,,
+13,Pretty Lord Flacko, ASAP Rocky ,unknown,,,,,,,,,,,,,,,,,,,
+14,Unfortgetable, French Montana ,unknown,,,,,,,,,,,,,,,,,,,
+15,Gaslonia, Daddy Yankee ,unknown,,,,,,,,,,,,,,,,,,,
+16,Macorina, Chavela Vargas,unknown,,,,,,,,,,,,,,,,,,,
+17,Bad and boujee, Migos,unknown,0.0979,https://api.spotify.com/v1/audio-analysis/03MgUeZ9RihX6U3n15dQ3c,3B,0.79,204827.0,0.509,03MgUeZ9RihX6U3n15dQ3c,0.0,1.0,0.121,-8.09,1.0,0.193,99.003,4.0,https://api.spotify.com/v1/tracks/03MgUeZ9RihX6U3n15dQ3c,audio_features,spotify:track:03MgUeZ9RihX6U3n15dQ3c,0.395
+18,End of the night, Nghtmre and Ghastly ,unknown,,,,,,,,,,,,,,,,,,,
+19,Justice Randy, Boyz Noise,unknown,,,,,,,,,,,,,,,,,,,
+20,Hey x Deep Down low, Valentio Kann,unknown,,,,,,,,,,,,,,,,,,,
+21,Humble, Benzi Edit ,unknown,,,,,,,,,,,,,,,,,,,
+22,Purple Lambo, SKrillex Rick Ross ,unknown,,,,,,,,,,,,,,,,,,,
+23,The Cure, Just like Heaven,unknown,0.0271,https://api.spotify.com/v1/audio-analysis/76GlO5H5RT6g7y0gev86Nk,11B,0.43,212000.0,0.971,76GlO5H5RT6g7y0gev86Nk,2.16e-05,9.0,0.185,-3.845,1.0,0.0524,151.219,4.0,https://api.spotify.com/v1/tracks/76GlO5H5RT6g7y0gev86Nk,audio_features,spotify:track:76GlO5H5RT6g7y0gev86Nk,0.764

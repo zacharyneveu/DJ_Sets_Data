@@ -1,0 +1,13 @@
+,Artist(s),Title,Release,acousticness,analysis_url,camelot,danceability,duration_ms,energy,id,instrumentalness,key,liveness,loudness,mode,speechiness,tempo,time_signature,track_href,type,uri,valence
+0,Pryda, Escape ID 02,unknown,,,,,,,,,,,,,,,,,,,
+1,Pryda, The End Is Just The Beginning,unknown,0.0143,https://api.spotify.com/v1/audio-analysis/1OOzrk1v828xKy1i1p5NRk,7B,0.721,591617.0,0.938,1OOzrk1v828xKy1i1p5NRk,0.844,5.0,0.299,-7.262,1.0,0.0407,126.001,4.0,https://api.spotify.com/v1/tracks/1OOzrk1v828xKy1i1p5NRk,audio_features,spotify:track:1OOzrk1v828xKy1i1p5NRk,0.0608
+2,Pryda, Ocean Terminal ID,unknown,,,,,,,,,,,,,,,,,,,
+3,16th Element, Warp ,Eric Prydz Tweak,0.00412,https://api.spotify.com/v1/audio-analysis/5WSBcSDpfUovcuvD7cbBiK,3A,0.678,356400.0,0.884,5WSBcSDpfUovcuvD7cbBiK,0.898,10.0,0.108,-7.085,0.0,0.105,123.027,3.0,https://api.spotify.com/v1/tracks/5WSBcSDpfUovcuvD7cbBiK,audio_features,spotify:track:5WSBcSDpfUovcuvD7cbBiK,0.407
+4,Pryda, The Future,unknown,7.47e-05,https://api.spotify.com/v1/audio-analysis/3B4Ry0OGZJpGE9qsYjm2DM,9A,0.666,432207.0,0.855,3B4Ry0OGZJpGE9qsYjm2DM,0.89,4.0,0.366,-7.282,0.0,0.0414,125.996,4.0,https://api.spotify.com/v1/tracks/3B4Ry0OGZJpGE9qsYjm2DM,audio_features,spotify:track:3B4Ry0OGZJpGE9qsYjm2DM,0.352
+5,Cirez D, Ushuaia ID,unknown,,,,,,,,,,,,,,,,,,,
+6,Dosem, Chase The Link,unknown,0.000574,https://api.spotify.com/v1/audio-analysis/3Zf8sn3752ZXLL8DHJzCp8,12A,0.782,403414.0,0.678,3Zf8sn3752ZXLL8DHJzCp8,0.91,1.0,0.108,-11.172,0.0,0.0658,124.015,4.0,https://api.spotify.com/v1/tracks/3Zf8sn3752ZXLL8DHJzCp8,audio_features,spotify:track:3Zf8sn3752ZXLL8DHJzCp8,0.189
+7,Pryda, Warehouse ID 02,unknown,,,,,,,,,,,,,,,,,,,
+8,Transcode, Simulation,unknown,0.0238,https://api.spotify.com/v1/audio-analysis/1glYSY9Mq12Sa172BuWlVr,10B,0.726,369745.0,0.791,1glYSY9Mq12Sa172BuWlVr,0.843,2.0,0.206,-10.212,1.0,0.0451,126.008,4.0,https://api.spotify.com/v1/tracks/1glYSY9Mq12Sa172BuWlVr,audio_features,spotify:track:1glYSY9Mq12Sa172BuWlVr,0.076
+9,Empire Of The Sun   The Police, Voices On The Shore ,Eric Prydz Mashup,,,,,,,,,,,,,,,,,,,
+10,Pryda, T5 ID 01 ,Working Title,,,,,,,,,,,,,,,,,,,
+11,Funk D'Void, Diabla ,Heavenly Mix,0.00966,https://api.spotify.com/v1/audio-analysis/2KActLHRr3F2BeukrP4WWa,8A,0.635,532453.0,0.666,2KActLHRr3F2BeukrP4WWa,0.852,9.0,0.575,-6.726,0.0,0.0366,131.854,4.0,https://api.spotify.com/v1/tracks/2KActLHRr3F2BeukrP4WWa,audio_features,spotify:track:2KActLHRr3F2BeukrP4WWa,0.71

@@ -1,0 +1,15 @@
+,Artist(s),Title,Release,acousticness,analysis_url,camelot,danceability,duration_ms,energy,id,instrumentalness,key,liveness,loudness,mode,speechiness,tempo,time_signature,track_href,type,uri,valence
+0,Speedy J, Pull Over ,DJ Francois edit,0.0912,https://api.spotify.com/v1/audio-analysis/58kMAm8gcGOfBnHqNQI6KA,4A,0.882,288052.0,0.83,58kMAm8gcGOfBnHqNQI6KA,0.0,5.0,0.0647,-3.799,0.0,0.0726,126.409,4.0,https://api.spotify.com/v1/tracks/58kMAm8gcGOfBnHqNQI6KA,audio_features,spotify:track:58kMAm8gcGOfBnHqNQI6KA,0.977
+1,Razzle Dazzle Trax, Rattlebrain ,DJ Isaac's Overdrive Remix,0.00209,https://api.spotify.com/v1/audio-analysis/1otQAjHwcMXv5eL5ZVzxX7,3A,0.642,419000.0,0.983,1otQAjHwcMXv5eL5ZVzxX7,0.0504,10.0,0.112,-5.673,0.0,0.103,144.997,4.0,https://api.spotify.com/v1/tracks/1otQAjHwcMXv5eL5ZVzxX7,audio_features,spotify:track:1otQAjHwcMXv5eL5ZVzxX7,0.157
+2,The Pitcher, Serenity,unknown,0.00527,https://api.spotify.com/v1/audio-analysis/4pfTXtN0aDJnSvbe1cPUsZ,10A,0.598,187958.0,0.895,4pfTXtN0aDJnSvbe1cPUsZ,0.0543,11.0,0.286,-7.425,0.0,0.0669,149.911,4.0,https://api.spotify.com/v1/tracks/4pfTXtN0aDJnSvbe1cPUsZ,audio_features,spotify:track:4pfTXtN0aDJnSvbe1cPUsZ,0.352
+3,O.B.I., Girls Love Techno,unknown,,,,,,,,,,,,,,,,,,,
+4,Noisia The Upbeats, Dead Limit,unknown,0.004,https://api.spotify.com/v1/audio-analysis/2RjWCcfCOMzKeRJzeoe4h6,3B,0.608,361395.0,0.975,2RjWCcfCOMzKeRJzeoe4h6,0.787,1.0,0.125,-2.008,1.0,0.287,172.106,4.0,https://api.spotify.com/v1/tracks/2RjWCcfCOMzKeRJzeoe4h6,audio_features,spotify:track:2RjWCcfCOMzKeRJzeoe4h6,0.0691
+5,The Viper, Xplode Your Mind,unknown,,,,,,,,,,,,,,,,,,,
+6,Critical Mass, Burning Love ,The Viper Remix,0.195,https://api.spotify.com/v1/audio-analysis/456U803nCh2GHkLXsbA2W9,11A,0.513,293991.0,0.96,456U803nCh2GHkLXsbA2W9,0.0844,6.0,0.0934,-4.953,0.0,0.121,172.993,4.0,https://api.spotify.com/v1/tracks/456U803nCh2GHkLXsbA2W9,audio_features,spotify:track:456U803nCh2GHkLXsbA2W9,0.198
+7,NCBM, Holdin' On,unknown,,,,,,,,,,,,,,,,,,,
+8,B,Freqz ,unknown,,,,,,,,,,,,,,,,,,,
+9,Delete Deetox, Do Or Die ,Rebelion Remix,0.0468,https://api.spotify.com/v1/audio-analysis/2xSE8cMdCwxOGniap9EFXt,10B,0.613,281779.0,0.957,2xSE8cMdCwxOGniap9EFXt,0.0,2.0,0.101,-3.415,1.0,0.155,155.008,4.0,https://api.spotify.com/v1/tracks/2xSE8cMdCwxOGniap9EFXt,audio_features,spotify:track:2xSE8cMdCwxOGniap9EFXt,0.175
+10,Dither, Drumming Song,unknown,0.0133,https://api.spotify.com/v1/audio-analysis/6QP3g5gTFOQl2bvPuRIHJo,10B,0.656,293333.0,0.991,6QP3g5gTFOQl2bvPuRIHJo,0.000132,2.0,0.126,-2.052,1.0,0.247,171.026,4.0,https://api.spotify.com/v1/tracks/6QP3g5gTFOQl2bvPuRIHJo,audio_features,spotify:track:6QP3g5gTFOQl2bvPuRIHJo,0.142
+11,Furyan Nosferatu, Killswitch,unknown,0.235,https://api.spotify.com/v1/audio-analysis/2HbQnmnqxCxjANaHUhAtvX,9B,0.589,277910.0,0.99,2HbQnmnqxCxjANaHUhAtvX,0.00139,7.0,0.0863,-3.228,1.0,0.253,95.027,4.0,https://api.spotify.com/v1/tracks/2HbQnmnqxCxjANaHUhAtvX,audio_features,spotify:track:2HbQnmnqxCxjANaHUhAtvX,0.189
+12,N,Vitral feat. Aux Raus ,unknown,,,,,,,,,,,,,,,,,,,
+13,Ran,D ft. LXCPR ,Official Decibel 2016 anthem,,,,,,,,,,,,,,,,,,,
